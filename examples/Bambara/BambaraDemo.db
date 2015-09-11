@@ -1,0 +1,892 @@
+\_sh v3.0  400  Bambara MDF
+\_DateStampHasFourDigitYear
+
+\lx ayi
+\ps inter
+\ge no
+\gn non
+\gg nein
+
+\xv Ayi, fɔlɔ.
+\xe No, not yet.
+\xn Non, pas encore.
+
+\cf ɔwɔ
+\ce yes
+\cn oui
+
+\dt 21/Oct/2003
+
+\lx biriki
+\ps n
+\ge brick
+\gn brique
+
+\bw français
+
+\sy tufa
+
+\pc images\brickmaking.jpg
+
+\xv biriki gɔsi
+\xe make bricks
+\xn fabriquer des briques
+
+\dt 15/Apr/2005
+
+\lx bunte
+\ps vt
+\ge pound
+\de pound into flour
+\gn piler
+\dn piler pour réduire en farine
+
+\sd Cooking-Verb
+
+\dt 27/Feb/2004
+
+\lx dàn
+\ps vt
+\ge sow
+\gn semer
+
+\sd Agriculture-Verb
+
+\dt 15/Apr/2005
+
+\lx folon
+\ps vt
+\ge pound
+\de pound to remove the chaff
+\gn piler 
+\dn piler pour enlever le son
+
+\sd Cooking-Verb
+
+\dt 10/Jun/2004
+
+\lx fyɛ
+\ps vt
+\sn 1
+\ge blow
+\gn souffler
+
+\xv file fyɛ
+\xe whistle
+\xn siffler
+
+\sn 2
+\ge winnow
+\gn vanner
+
+\xv ɲɔ fyɛ
+\xe winnow the millet
+\xn vanner le mil
+
+\sd Agriculture-Verb
+
+\dt 19/Feb/2004
+
+\lx gan
+\ps n
+\ge okra ; gumbo
+\gn gombo
+
+\sd Ncrop
+\sd Nfood-sauce-item
+
+\ee Used for preparing sauce for "to".
+\en On l'utilise dans la préparation d'une sauce pour le « to ».
+
+\xv gan jalan
+\xe dried okra (sold in the market)
+\xn gombo seché (vendu au marché)
+
+\lf VAssoc
+\lv dan
+\le sow
+\ln semer
+
+\lf VAssoc
+\lv kari
+\le pick
+\ln cueillir
+
+\lf VAssoc
+\lv tigɛ
+\le cut up
+\ln couper
+
+\lf VAssoc
+\lv ja
+\le dry
+\ln sécher
+
+\dt 04/Dec/2010
+
+\lx gɛlɛn
+\ps adj.pred
+\sn 1
+\ge hard ; firm
+\gn dur
+
+\sn 2
+\ge difficult
+\gn difficile
+
+\xv Angilɛkan ka gɛlɛn n ma.
+\xe English is difficult for me.
+\xn L'anglais est difficile pour moi.
+
+\cf nɔgɔn
+\ce easy
+\cn facile
+
+\sn 3
+\ge expensive
+\gn cher
+
+\xv A da ka gɛlɛn.
+\xe It's expensive.
+\xn C'est cher.
+
+\dt 19/Feb/2004
+
+\lx gɛlɛya
+\ps n
+\ge difficulty
+\gn difficulté
+
+\xv gɛlɛya la / ni gɛlɛya ye
+\xe with difficulty
+\xn difficilement, avec difficulté
+
+\xv ni gɛlɛya tɛ
+\xe without difficulty
+\xn sans difficulté
+
+\xv Gɛlɛya ye ne minɛ.
+\xe I have come into difficulties.
+\xn Je suis dans la difficulté.
+
+\cf nɔgɔya1
+\ce ease
+\cn facilité
+
+\dt 15/Apr/2005
+
+\lx gɔ̀si
+\ps vt
+\ge beat ; thresh
+\gn battre
+
+\xv ɲɔ gɔsi
+\xe thresh the millet
+\xn battre le mil
+
+\xv biriki gɔsi
+\xe make bricks
+\xn fabriquer des briques
+
+\xv nbuuru gɔsi
+\xe make bread
+\xn faire du pain
+
+\va gosi
+
+\dt 30/May/2004
+
+\lx jà
+\ps vt
+\sn 1
+\ge dry
+\gn sécher ; dessécher
+
+\xv X ja tile la
+\xe to dry X in the sun
+\xn faire sécher X au soleil
+
+\xv Kini bɛ kɔnɔ ja.
+\xe Rice dries up the stomach.
+\xn Le riz sèche le ventre.
+
+\sn 2
+\ge paralyse
+\gn paralyser
+
+\dt 16/Apr/2004
+
+\lx jɛgɛ
+\ps n
+\ge fish
+\gn poisson
+
+\xv jɛgɛ kɛnɛ
+\xe fresh fish
+\xn poisson frais
+
+\xv jɛgɛ jalan
+\xe dried fish
+\xn poisson sec
+
+\xv jɛgɛ wusu
+\xe smoked fish
+\xn poisson fumé
+
+\xv jɛgɛ jirannen
+\xe fried fish
+\xn poisson frit
+
+\sd Nfood-sauce-item
+
+\lf VAssoc
+\lv minɛ
+\le to catch
+\ln attraper
+
+\lf VAssoc
+\lv jiran
+\le to fry
+\ln frire
+
+\dt 28/Apr/2004
+
+\lx jiran
+\ps vt
+\ge fry
+\gn faire frire
+
+\dt 14/Oct/2003
+
+\lx kari
+\ps vt
+\sn 1
+\ge break
+\gn casser ; briser
+
+\xv N'i binna ka bɔ jiri sanfɛ, i bolo bɛ se ka kari.
+\xe If you fall from a tree, you can break your arm.
+\xn Si tu tombais d'un arbre, tu pourrais se casser le bras.
+
+\xv A bɛ ɲini ka kari.
+\xe It's about to break.
+\xn Il est sur le point de se casser.
+
+\sn 2
+\ge pick
+\gn cueillir
+
+\sd Agriculture-Verb
+
+\dt 15/Apr/2005
+
+\lx keninge
+\ps n
+\ge variety of sorghum
+\gn varieté de sorgho
+\re *
+\rn *
+
+\sd Ncrop
+
+\pc images\millet1.jpg
+\pc images\millet2.jpg
+
+\xv Keninge danni n'a tigɛli cɛ bɛ taa kalo saba ɲɔgɔn na.
+\xe There are three months between sowing and reaping of 'keninge'.
+\xn Il y a trois mois entre les semailles et le récolte de 'keninge'.
+
+\cf ɲɔ
+
+\dt 05/Apr/2004
+
+\lx kɔ̀gɔ
+\ps n
+\ge salt
+\gn sel
+\gg Salz
+
+\sd Nfood-sauce-item
+
+\xv Kɔgɔ m'a bɔ.
+\xe There isn't enough salt in it.
+\xn Il n'y a pas assez de sel.
+
+\dt 18/May/2004
+
+\lx minɛ
+\ps vt
+\sn 1
+\ge catch ; capture ; arrest ; seize ; grab ; take
+\gn attrapper ; saisir ; prendre
+
+\xv U bɛ jɛgɛ minɛ.
+\xe They catch fish.
+\xn Ils attrappent des poissons.
+
+\xv Wari minɛ !
+\xe Take the money!
+\xn Prends l'argent !
+
+\sn 2
+\ge accept
+\gn accepter ; exaucer
+
+\xv X kan minɛ
+\xe obey X
+\xn obéir à X
+
+\sn 3
+\ge treat
+\gn traiter
+
+\xv minɛ koɲuman
+\xe treat well, receive well, welcome
+\xn traiter bien, recevoir bien, accueillir
+
+\xv Nin cɛ bɛ jurumutɔw minɛ koɲuman !
+\xe This man treats sinners well!
+\xn Cet homme traite bien les pécheurs !
+\rf Bible: Luka 15.2
+
+\xv N'i tɛ seli, u b'i minɛ kafiri ye.
+\xe If you don't pray, they will take you as a pagan.
+\xn Si tu ne pries pas, ils penseront que tu es un païen.
+
+\sn 4
+\ge suit
+\de suit, go well with
+\gn aller bien
+\rn *
+
+\xv Nin dulɔki bɛ i minɛ kosɛbɛ.
+\xe This shirt suits you well.
+\xn Cette chemise te va bien.
+
+\dt 18/May/2004
+
+\lx nisɔn
+\ps n
+\ge mood
+\gn humeur
+
+\xv A nisɔn ka di.
+\xe He is happy, cheerful, in a good mood.
+\xn Il est content, gai, de bonne humeur.
+
+\xv I nisɔn man di bi. Mun b'i la ?
+\xe You're not in a good mood today. What's wrong?
+\xn Tu es de mauvaise humeur aujourd'hui. Qu'est-ce qu'il y a ?
+
+\dt 24/Nov/2003
+
+\lx nisɔndiya
+\ps n
+\ge joy ; happiness
+\gn joie ; allégresse
+
+\ps vt
+\ge make joyful
+\gn réjouir
+
+\mr nisɔn-diya
+
+\xv Ne nisɔndiyalen don.
+\xe I'm happy.
+\xn Je suis content. Je suis dans la joie.
+
+\dt 19/Feb/2004
+
+\lx nkɔyɔ
+\ps n
+\ge bitter tomato
+\gn tomate amère
+
+\sd Nfood-sauce-item
+\sd Nveg
+
+\pc images\bitter-tomato.jpg
+
+\dt 17/Apr/2004
+
+\lx nɔgɔn
+\ps adj.pred
+\ge easy
+\gn facile
+
+\xv O ka nɔgɔn !
+\xe That's easy!
+\xn Ça c'est facile !
+
+\xv A tun man nɔgɔn.
+\xe It was not easy.
+\xn Ce n'était pas facile.
+
+\xv Ɲɔsɛnɛ ka nɔgɔn ni malo ye.
+\xe Cultivating millet is easier than rice.
+\xn Cultiver le mil est plus facile que de cultiver le riz.
+
+\cf gɛlɛn
+\ce difficult
+\cn difficile
+
+\dt 19/Feb/2004
+
+\lx nɔgɔya
+\ps n
+\sn 1
+\ge ease
+\gn facilité
+
+\xv nɔgɔya la / ni nɔgɔya ye
+\xe easily
+\xn facilement
+
+\xv Ala k'i se nɔgɔya la !
+\xe May God enable you to arrive easily/safely!
+\xn Que Dieu fasse que tu arrives facilement !
+
+\sn 2
+\ge good price
+\gn bon marché
+
+\xv Awa bɛ namasa feere nɔgɔya la.
+\xe Awa sells banana cheaply.
+\xn Awa vend des bananes à bon prix.
+
+\cf gɛlɛya1
+\ce difficulty
+\cn difficulté
+
+\dt 15/Apr/2005
+
+\lx ɲinan
+\ps n
+\ge this year
+\gn cette année
+
+\xv a san naani ye ɲinan ye
+\xe four years ago
+\xn il y a quatre ans
+
+\cf san
+\ce year
+\cn an, année
+
+\cf salon
+\ce last year
+\cn l'année passée
+
+\dt 17/Apr/2004
+
+\lx ɲininka
+\ps vt
+\ge ask ; question
+\gn demander ; interroger
+
+\xv X ɲininka Y la
+\xe ask X for Y
+\xn demander Y à X
+
+\xv Polisikɛ y'a wele k'a ɲininka a ka sɛbɛnw na.
+\xe The policeman called him and asked for his papers.
+\xn L'agent de police l'a appelé et lui a demandé ses papiers.
+
+\xv A y'u ɲininka ko: Aw bɛ taa min ?
+\xe He asked them, "Where are you going?"
+\xn Il leur a demandé : "Vous allez où ?"
+
+\xv A ɲininka !
+\xe Ask him!
+\xn Demande-lui !
+
+\xv A ɲininka yala ni a bɛ taa sugu la bi.
+\xe Ask him if he's going to the market today.
+\xn Demande-lui s'il va au marché aujourd'hui.
+
+\dt 30/Apr/2004
+
+\lx ɲɔ
+\ps n
+\ge millet ; sorghum
+\gn mil ; sorgho
+
+\sd Ncrop
+
+\pc images\millet1.jpg
+\pc images\millet2.jpg
+
+\lf VAssoc
+\lv dan
+\le to sow
+\ln semer
+
+\lf VAssoc
+\lv tigɛ
+\le to harvest, cut
+\ln récolter, couper
+
+\lf VAssoc
+\lv gɔsi
+\le to thresh
+\ln battre
+
+\lf VAssoc
+\lv fyɛ
+\le to winnow
+\ln vanner
+
+\lf VAssoc
+\lv susu
+\le to pound
+\ln piler
+
+\lf VAssoc
+\lv folon
+\le to pound to remove the chaff
+\ln piler pour enlever le son
+
+\lf VAssoc
+\lv bunte
+\le to pound into flour
+\ln piler pour réduire en farine
+
+\lf VAssoc
+\lv si6
+\le to grind
+\ln moudre
+
+\cf saɲɔ
+\cf keninge
+
+\dt 15/Apr/2005
+
+\lx ɔ̀wɔ
+\ps inter
+\ge yes
+\gn oui
+\gg ja
+
+\cf ayi
+\ce no
+\cn non
+
+\dt 21/Oct/2003
+
+\lx san
+\lc sǎn
+\ps n
+\ge year
+\gn an
+\dn an, année
+\rn an ; année
+\gg Jahr
+
+\xv I si ye san joli ye ?
+\xe How old are you?
+\xn Quel âge as-tu ? 
+
+\xv Ne si ye san bisaba ni fila ye.
+\xe I am 32 years old.
+\xn J'ai 32 ans.
+
+\xv san nata / san wɛrɛ
+\xe next year
+\xn l'année prochaine
+
+\xv san o san
+\xe each year, every year
+\xn chaque année
+
+\xv a san saba ye ɲinan ye
+\xe three years ago
+\xn il y a trois ans
+
+\xv Ne b'a fɛ ka san saba kɛ yan.
+\xe I'd like to spend three years here.
+\xn Je voudrais passer trois ans ici.
+
+\xv san kuuru bɛɛ
+\xe during the whole year
+\xn pendant toute l'année
+
+\xv san 200 sani Yesu ka bange
+\xe 200 BC
+\xn 200 av. J.-C
+
+\xv Ala ka san wɛrɛ jira an na !
+\xe May God show us another year!
+\xn Que Dieu nous montre encore une année !
+
+\cf salon
+\ce last year
+\cn l'année passée
+
+\cf ɲinan
+\ce this year
+\cn cette année
+
+\dt 17/Apr/2004
+
+\lx salon
+\ps n
+\ge last year
+\gn l'an dernier
+\rn an dernier
+
+\cf san
+\ce year
+\cn an, année
+
+\cf ɲinan
+\ce this year
+\cn cette année
+
+\dt 24/Oct/2003
+
+\lx saɲɔ
+\ps n
+\ge variety of millet
+\gn petit mil
+\re *
+\rn *
+
+\sd Ncrop
+
+\cf ɲɔ
+
+\dt 05/Apr/2004
+
+\lx sɔn
+\ps vt
+\sn 1
+\ge offer ; give
+\gn offrir ; gratifier
+
+\sn 2
+\ge offer a sacrifice to
+\gn offrir un sacrifice à
+\re *
+\rn *
+
+\xv boli sɔn
+\xe make a sacrifice to a fetish/idol
+\xn offrir un sacrifice à un fétiche
+
+\xv jiri sɔn
+\xe make a sacrifice at a tree
+\xn offrir un sacrifice à un arbre
+
+\xv suw sɔn
+\xe make a sacrifice to the dead
+\xn offrir un sacrifice aux morts
+
+\sn 3
+\ge water
+\gn arroser
+
+\sd Agriculture-Verb
+
+\dt 15/Apr/2005
+
+\lx sùsu
+\ps vt
+\ge pound
+\gn piler
+
+\xv Ne bɛ ɲɔ susu.
+\xe I am pounding millet.
+\xn Je pile le mil.
+
+\xv X da susu
+\xe to kiss X
+\xn donner un baiser à X
+
+\sd Cooking-Verb
+
+\cf folon
+\ce to pound to remove the chaff
+\cn piler pour enlever le son
+
+\cf bunte
+\ce to pound into flour
+\cn piler pour réduire en farine
+
+\dt 30/May/2004
+
+\lx tamati
+\ps n
+\ge tomato
+\gn tomate
+\gg Tomate
+
+\bw français
+
+\lf VAssoc
+\lv turu
+\le to transplant
+\ln transplanter
+
+\lf VAssoc
+\lv sɔn
+\le to water
+\ln arroser
+
+\lf VAssoc
+\lv kari
+\le to pick
+\ln cueillir
+
+\sd Nfood-sauce-item
+\sd Nveg
+
+\dt 20/Apr/2004
+
+\lx tigɛ
+\ps vt
+\sn 1
+\ge break ; cut
+\gn rompre ; couper
+
+\xv kiri tigɛ
+\xe judge
+\xn juger
+
+\xv nkalon tigɛ
+\xe tell a lie
+\xn mentir
+
+\xv sun tigɛ
+\xe break the fast
+\xn rompre le jeûne
+
+\sd Cooking-Verb
+
+\sn 2
+\ge harvest
+\gn récolter
+
+\xv Ɲɔ, gan ni bɛnɛ bɛ tigɛ.
+\xe Millet, gombo and sesame are harvested by cutting.
+\xn On coupe le mil, le gombo et le sésame (quand on les récolte).
+
+\sd Agriculture-Verb
+
+\sn 3
+\ge cross
+\gn traverser
+
+\xv sira tigɛ
+\xe cross the road
+\xn traverser la route
+
+\xv ba tigɛ
+\xe cross the river
+\xn traverser le fleuve
+
+\dt 27/Feb/2004
+
+\lx tùfa
+\ps n
+\ge brick
+\gn brique
+
+\sy biriki
+
+\pc images\brickmaking.jpg
+
+\xv tufa gɔsi/bɔ
+\xe make bricks
+\xn fabriquer des briques
+
+\dt 20/Feb/2004
+
+\lx turu
+\ps vt
+\sn 1
+\ge plant
+\gn planter
+
+\xv jiri turu
+\xe plant a tree
+\xn planter un arbre
+
+\sn 2
+\ge transplant
+\gn replanter ; transplanter
+
+\pc images\planting.jpg
+
+\sd Agriculture-Verb
+
+\dt 27/Feb/2004
+
+\lx waati
+\ps n
+\ge time
+\gn moment ; temps
+
+\xv waati ni waati
+\xe from time to time
+\xn de temps en temps
+
+\xv waati dɔ la
+\xe sometimes
+\xn quelquefois, parfois
+
+\xv waati caman
+\xe often
+\xn souvent
+
+\xv waati jumɛn ?
+\xe when? at what time?
+\xn quand ? à quelle heure ?
+
+\xv Waati sera.
+\xe The time has arrived (e.g. to leave).
+\xn L'heure est arrivée (ex. pour partir).
+
+\xv Waati jumɛn b'i bolo ?
+\xe What time is it?
+\xn Quelle heure est-il ?
+
+\xv waati tɛmɛnnen, sisan, waati nata
+\xe the past, the present, the future
+\xn le passé, le présent, l'avenir
+
+\xv Waati tɛ n bolo.
+\xe I don't have the time.
+\xn Je n'ai pas le temps.
+
+\xv A tora Segu ka waati jan kɛ.
+\xe He stayed in Segou a long time.
+\xn Il a duré longtemps à Ségou.
+
+\xv o waati kɔnɔ
+\xe during that time
+\xn pendant ce temps-là
+
+\va wagati
+
+\dt 30/May/2004
+
+\lx wagati
+\ps n
+\ge time
+\gn moment ; temps
+
+\mn waati
+
+\xv wagati ni wagati
+\xe from time to time
+\xn de temps en temps
+
+\xv wagati dɔ la
+\xe sometimes
+\xn quelquefois, parfois
+
+\xv nin wagati la
+\xe now, at this time
+\xn maintenant, en ce moment
+
+\dt 30/May/2004

@@ -1,0 +1,45 @@
+\documentclass[twoside,11pt]{article}
+\title{Bambara dictionary}
+
+\usepackage{pifont}
+\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{xltxtra} 
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+\usepackage{float}
+\usepackage{textcomp}
+\usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
+\hypersetup{bookmarks=false,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage[all]{hypcap}
+\usepackage{memhfixc}
+\usepackage{amssymb}
+\usepackage{lscape}
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{Charis SIL} 
+\newcommand{\ipa}[1]{{\phon #1}} % API toujours en italique
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{MingLiU} % (ou SimSun) pour le chinois
+\newcommand{\zh}[1]{{\cn #1}}
+\newfontfamily\mx[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{ArialUnicodeMS} % pour les questions
+\newcommand{\nq}[1]{{\mx #1}}
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}}
+\newcommand{\bleute}[1]{\cellcolor{green}\textbf{#1}}
+\newcommand{\rouge}[1]{\cellcolor{red}\textbf{#1}}
+\newcommand{\topic}{\textsc{dem}}
+\newcommand{\tete}{\textsuperscript{\textsc{head}}}
+\newcommand{\rc}{\textsubscript{\textsc{rc}}}
+\XeTeXlinebreaklocale 'zh' % 使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt % CIRCG
+ \usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\usepackage[dvipdfmx,xetex,bigfiles,final,activate=onclick,deactivate=onclick,transparent,passcontext]{media9}
+\usepackage{graphicx}
+\usepackage{gb4e}
+\usepackage{vmargin}
+% {left margin}{top margin}{right margin}{bottom margin}{header height}{distance between header and text}{footer height}{distance between text and footer}
+\setmarginsrb{2cm}{1cm}{1.5cm}{1cm}{0.5cm}{1cm}{0.5cm}{1cm}

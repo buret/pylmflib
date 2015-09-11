@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Bambara -->
+<SortOrder>
+	<rules level="1">
+		<rule str="" rank="0"/>
+		<rule str="a" rank="1"/> <rule str="à" rank="1"/>
+		<rule str="b" rank="2"/>
+		<rule str="c" rank="3"/>
+		<rule str="d" rank="4"/>
+		<rule str="e" rank="5"/>
+		<rule str="ɛ" rank="6"/>
+		<rule str="f" rank="7"/>
+		<rule str="g" rank="8"/>
+		<rule str="h" rank="9"/>
+		<rule str="i" rank="10"/>
+		<rule str="j" rank="11"/>
+		<rule str="k" rank="12"/>
+		<rule str="l" rank="13"/>
+		<rule str="m" rank="14"/>
+		<rule str="n" rank="15"/>
+		<rule str="ɲ" rank="16"/>
+		<rule str="o" rank="17"/>
+		<rule str="ɔ" rank="18"/> <rule str="ɔ" rank="18"/>̀
+		<rule str="p" rank="19"/>
+		<rule str="r" rank="20"/>
+		<rule str="s" rank="21"/>
+		<rule str="t" rank="22"/>
+		<rule str="u" rank="23"/> <rule str="ù" rank="23"/>
+		<rule str="w" rank="24"/>
+		<rule str="y" rank="25"/>
+		<rule str="z" rank="26"/>
+	</rules>
+</SortOrder>
