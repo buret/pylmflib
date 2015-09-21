@@ -1,0 +1,126 @@
+\lx test
+\hm 1
+\ps n
+\st This is a test.
+\np LMH
+\np or LM
+\ue usage
+\or restriction
+\un use
+\ee encyclopedic
+\er encyclo
+
+\lx Hello!
+\st Draft.
+\va variante
+\ve commentaire avec fn:nationale et |fn{police nationale} ainsi que fv:vernaculaire et |fv{police vernaculaire}
+\va autre variante
+\ps INTJ
+\cf test2
+
+\lx test
+\hm 2
+\st This is another test.
+\dt today
+\an Hello!
+\bb some reference
+\va taste
+\ve This is an English comment about variant form.
+\va teste
+\ve idem
+\vr pas mieux
+\vn Commentaire en francais
+
+\lx test representation
+\ph representachione
+\lc representatione
+\lc autre forme
+\sn 2
+\dv qqch
+
+\lx toto
+\dv to
+\gv TO
+\de tt
+\ge TT
+\ge TETE
+\dn too
+\gn TOO
+\dr 
+\de oo
+
+\lx avec beaucoup de notes
+\nt Note generale
+\np Note phonologique
+\ng Note grammaticale
+\nd Note discursive
+\na Note anthropologique
+\ns Note sociolinguistique
+\nq Question ?
+\nt Autre note generale
+\ue usage
+\ee encyclopedic
+\ec commentaire etymologique
+
+\lx statement
+\bw French state
+\et Etymologie
+\ec Commentaire
+\eg COMMENT
+\es Source
+
+\lx lots of paradigms
+\pd paradigm
+\sg singular form
+\pl plural form
+\1s 1st singular form
+\2s 2nd singular form
+\3s 3rd singular form
+\4s non-human or non-animate singular
+\1d 1st dual
+\2d 2nd dual
+\3d 3rd dual
+\4d non-human or non-animate dual
+\1p 1st plural
+\1i 1st plural inclusive
+\1e 1st plural exclusive
+\2p 2nd plural
+\3p 3rd plural
+\4p non-human or non-animate plural
+\1i another paradigm
+\pdl la
+\pdv PDV
+\pde PDE
+\pdr PDR
+\pde PDE2
+\pdn PDN
+\pdl cc
+\mr MR
+\pdr PDR
+
+\lx lots of examples…
+\xv XV
+\xe XE
+\xn XN
+\xr XR
+\xg XG
+\xv vernacular example with @pinyin here
+\xe English example
+\sd first semantic domain
+\is second semantic domain
+\th third semantic domain
+\sd semantic domain
+\sd domaine semantique
+\re English translation
+\rn national translation
+\rr regional translation
+\rn national again
+
+\lx entrée principale
+\ps v
+\st on teste les sous-entrées
+\se sous-entrée
+\ps n
+\se une autre sous-entrée
+\mn entrée principale
+\se encore une sous-entrée

@@ -23,11 +23,11 @@
                 <feat att="languageCode" val="ISO-639-3"/>
                 <feat att="author" val="Céline Buret"/>
                 <feat att="version" val="0.1"/>
-                <feat att="lastUpdate" val="2015-03-02"/>
+                <feat att="lastUpdate" val="2015-09-30"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
                 <feat att="dateCoding" val="ISO-8601"/>
-                <feat att="creationDate" val="2015-03-02"/>
+                <feat att="creationDate" val="2015-09-30"/>
                 <feat att="projectName" val="ANR HimalCo"/>
                 <feat att="description" val="This is a lexicon of the HimalCo project."/>
             </GlobalInformation>
@@ -36,9 +36,9 @@
                 <feat att="languageScript" val=""/>
                 <feat att="label" val="Online dictionary"/>
                 <feat att="lexiconType" val="Trilingual dictionary ver-eng-fra"/>
-                <feat att="entrySource" val="../../../dict/xxx/toolbox/Dictionary.txt"/>
+                <feat att="entrySource" val="./examples/test/input.txt"/>
                 <!-- Relative path to audio files -->
-                <feat att="localPath" val="../../../dict/xxx/data/audio/"/>
+                <feat att="localPath" val=""/>
             </Lexicon>
         </LexicalResource>
     </LMF>

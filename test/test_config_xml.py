@@ -47,7 +47,7 @@ class TestSortOrderFunctions(unittest.TestCase):
         self.assertEqual(lexical_resource.get_license(), "GPL")
         self.assertEqual(lexical_resource.get_character_encoding(), "UTF-8")
         self.assertEqual(lexical_resource.get_date_coding(), "ISO-8601")
-        self.assertEqual(lexical_resource.get_creation_date(), "2015-03-02")
+        self.assertEqual(lexical_resource.get_creation_date(), "2015-09-30")
         self.assertEqual(lexical_resource.get_project_name(), "ANR HimalCo")
         self.assertEqual(lexical_resource.get_description(), "This is a lexicon of the HimalCo project.")
 

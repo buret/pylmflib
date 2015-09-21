@@ -37,7 +37,7 @@ def factory(object_name, attributes):
     else:
         # Windows-style path
         separator = '\\'
-    full_path = glob.glob(running_path + separator + ".." + separator + "pylmflib" + separator + "*" + separator + module_name + ".py")
+    full_path = glob.glob(running_path + separator + ".." + separator + ".." + separator + "pylmflib" + separator + "*" + separator + module_name + ".py")
     if len(full_path) < 1:
         # No file with this name exists
         raise InputError(module_name + ".py", "No file named '%s' exists in the library. It is not allowed, so please solve this issue by renaming files correctly." % (module_name + ".py"))
