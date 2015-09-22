@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration for Japhug -->
+<Config>
+    <Language>
+        <lang att="vernacular" val="jya"/>
+        <lang att="English" val="eng"/>
+        <lang att="national" val="cmn"/>
+        <lang att="regional" val="nep"/>
+        <lang att="French" val="fra"/>
+    </Language>
+    <Font>
+        <!-- Output -->
+        <!-- Fonts to use in LaTeX format -->
+        <font att="vernacular" var="text">"\\textbf{\ipa{" + text + "}}"</font>
+        <font att="English" var="text">text</font>
+        <font att="national" var="text">"\\textit{\zh{" + text + "}}"</font>
+        <font att="regional" var="text">"\ipa{" + text + "}"</font>
+        <font att="French" var="text">text</font>
+    </Font>
+    <LMF>
+        <LexicalResource dtdVersion="16">
+            <GlobalInformation>
+                <feat att="languageCode" val="ISO-639-3"/>
+                <feat att="author" val="Guillaume Jacques"/>
+                <feat att="version" val="1.0"/>
+                <feat att="lastUpdate" val="2015-09-23"/>
+                <feat att="license" val="GPL"/>
+                <feat att="characterEncoding" val="UTF-8"/>
+                <feat att="dateCoding" val="ISO-8601"/>
+                <feat att="creationDate" val="2014-11-27"/>
+                <feat att="projectName" val="ANR HimalCo"/>
+                <feat att="description" val="This is the japhug lexicon of the HimalCo project."/>
+            </GlobalInformation>
+            <Lexicon id="japhug">
+                <feat att="language" val="jya"/>
+                <feat att="languageScript" val=""/>
+                <feat att="label" val="Japhug online dictionary"/>
+                <feat att="lexiconType" val="bilingual dictionary jya-fra"/>
+                <feat att="entrySource" val="./examples/japhug/Dictionary.txt"/>
+                <!-- Relative path to audio files -->
+                <feat att="localPath" val="../HimalCo/dict/japhug/data/audio/"/>
+            </Lexicon>
+        </LexicalResource>
+    </LMF>
+    <MDF>
+        <!-- Input -->
+        <!-- Mapping from 'ps' MDF marker value to LMF part of speech LexicalEntry attribute value -->
+        <!-- HimalCo -->
+        <!-- adjective -->
+        <ps_partOfSpeech ps="adj" partOfSpeech="adjective"/>
+        <!-- adverb(ial) -->
+        <ps_partOfSpeech ps="adv" partOfSpeech="adverb"/>
+        <!-- classifier (MDF) -->
+        <ps_partOfSpeech ps="class" partOfSpeech="classifier"/>
+        <!-- classifier (Leipzig) -->
+        <ps_partOfSpeech ps="clf" partOfSpeech="classifier"/>
+        <!-- conjunction -->
+        <ps_partOfSpeech ps="cnj" partOfSpeech="conjunction"/>
+        <!-- discourse particle -->
+        <ps_partOfSpeech ps="disc.PTCL" partOfSpeech="particle"/>
+        <!-- ideophone -->
+        <ps_partOfSpeech ps="ideo" partOfSpeech="ideophone"/>
+        <!-- interjection -->
+        <ps_partOfSpeech ps="intj" partOfSpeech="interjection"/>
+        <!-- linker -->
+        <ps_partOfSpeech ps="lnk" partOfSpeech="coordinating conjunction"/>
+        <!-- noun -->
+        <ps_partOfSpeech ps="n" partOfSpeech="noun"/>
+        <!-- possessed noun -->
+        <ps_partOfSpeech ps="Np" partOfSpeech="possessed noun"/>
+        <!-- negative -->
+        <ps_partOfSpeech ps="neg" partOfSpeech="negation"/>
+        <!-- number -->
+        <ps_partOfSpeech ps="num" partOfSpeech="numeral"/>
+        <!-- preposition -->
+        <ps_partOfSpeech ps="prep" partOfSpeech="preposition"/>
+        <!-- pronoun/pronominal -->
+        <ps_partOfSpeech ps="pro" partOfSpeech="pronoun"/>
+        <!-- stative intransitive verb -->
+        <ps_partOfSpeech ps="vi.s" partOfSpeech="stative intransitive verb"/>
+        <!-- Japhug -->
+        <!-- stative verb -->
+        <ps_partOfSpeech ps="vs" partOfSpeech="stative verb"/>
+        <!-- possessed noun -->
+        <ps_partOfSpeech ps="np" partOfSpeech="possessed noun"/>
+        <!-- discourse particle -->
+        <ps_partOfSpeech ps="part" partOfSpeech="particle"/>
+        <!-- expression -->
+        <ps_partOfSpeech ps="expression" partOfSpeech="expression"/>
+        <!-- demonstrative determiner -->
+        <ps_partOfSpeech ps="dem" partOfSpeech="demonstrative determiner"/>
+        <!-- ideophones -->
+        <ps_partOfSpeech ps="idph" partOfSpeech="ideophone"/>
+        <ps_partOfSpeech ps="idph.1" partOfSpeech="ideophone.1"/>
+        <ps_partOfSpeech ps="idph.2" partOfSpeech="ideophone.2"/>
+        <ps_partOfSpeech ps="idph.3" partOfSpeech="ideophone.3"/>
+        <ps_partOfSpeech ps="idph.4" partOfSpeech="ideophone.4"/>
+        <ps_partOfSpeech ps="idph.5" partOfSpeech="ideophone.5"/>
+        <ps_partOfSpeech ps="idph.6" partOfSpeech="ideophone.6"/>
+        <ps_partOfSpeech ps="idph.7" partOfSpeech="ideophone.7"/>
+        <ps_partOfSpeech ps="idph.8" partOfSpeech="ideophone.8"/>
+        <!-- postposition -->
+        <ps_partOfSpeech ps="postp" partOfSpeech="postposition"/>
+        <!-- quantifier -->
+        <ps_partOfSpeech ps="quant" partOfSpeech="quantifier"/>
+        <!-- intransitive verb with object -->
+        <ps_partOfSpeech ps="vi-t" partOfSpeech="intransitive verb with object"/>
+        <!-- non human intransitive verb -->
+        <ps_partOfSpeech ps="vi.nh" partOfSpeech="non human intransitive verb"/>
+        <!-- labial verb -->
+        <ps_partOfSpeech ps="vl" partOfSpeech="bitransitive verb"/>
+        <!-- Mapping from 'pdl' MDF marker value to LMF paradigmLabel Paradigm attribute value -->
+        <!--pdl_paradigmLabel pdl="" paradigmLabel=""/-->
+        <!-- Mapping from MDF markers to LMF attributes -->
+        <mdf_lmf marker="hbf" var="hbf, lexical_entry">lexical_entry.set_bibliography(hbf)</mdf_lmf>
+        <mdf_lmf marker="wav" var="wav, lexical_entry">lexical_entry.set_audio(file_name=wav +
+            ".wav", quality="very good", audio_file_format="wav")</mdf_lmf>
+        <mdf_lmf marker="wav8" var="wav8, lexical_entry">lexical_entry.set_audio(file_name="8_" +
+            wav8 + ".wav", quality="low", audio_file_format="wav")</mdf_lmf>
+        <mdf_lmf marker="ge" var="ge, lexical_entry">lexical_entry.set_gloss(ge,
+            language="fra")</mdf_lmf>
+        <!-- Output -->
+        <!-- Order in which MDF markers must be written -->
+        <mdf_order>
+            <!-- lexeme -->
+            <lx/>
+            <!-- Audio -->
+            <sf/>
+            <!-- homonym number -->
+            <hm/>
+            <!-- lexical citation -->
+            <lc/>
+            <!-- phonetic -->
+            <ph/>
+            <!-- subentry -->
+            <se/>
+            <!-- part of speech -->
+            <ps/>
+            <!-- part of speech-national language -->
+            <pn>
+                <!-- sense number -->
+                <sn/>
+                <!-- gloss-vernacular -->
+                <gv/>
+                <!-- definition-vernacular -->
+                <dv/>
+                <!-- gloss-English -->
+                <ge/>
+                <!-- reverse-English -->
+                <re/>
+                <!-- word level gloss-English -->
+                <we/>
+                <!-- definition-English -->
+                <de/>
+                <!-- gloss-national language -->
+                <gn/>
+                <!-- reverse-national language -->
+                <rn/>
+                <!-- word level gloss-national language -->
+                <wn/>
+                <!-- definition-national language -->
+                <dn/>
+                <!-- gloss-regional lang. (with \gn) -->
+                <gr/>
+                <!-- reverse-regional lang. (with \rn) -->
+                <rr/>
+                <!-- word-level gloss-regional (with \wn) -->
+                <wr/>
+                <!-- definition-regional lang. (with \dn) -->
+                <dr/>
+                <!-- gloss-French -->
+                <gf/>
+                <!-- literal meaning -->
+                <lt/>
+                <!-- scientific name -->
+                <sc>
+                    <!-- reference for example -->
+                    <rf/>
+                    <!-- example sentence-vernacular -->
+                    <xv/>
+                    <!-- example sentence-English -->
+                    <xe/>
+                    <!-- example sentence-national language -->
+                    <xn/>
+                    <!-- example sent.-regional (with \xn) -->
+                    <xr/>
+                    <!-- example sentence-interlinear gloss -->
+                    <xg/>
+                    <!-- example comment -->
+                    <xc/>
+                </sc>
+                <!-- usage-vernacular -->
+                <uv/>
+                <!-- usage-English -->
+                <ue/>
+                <!-- usage-national language -->
+                <un/>
+                <!-- usage-regional (combines with \un) -->
+                <ur/>
+                <!-- encyclopedic-vernacular -->
+                <ev/>
+                <!-- encyclopedic-English -->
+                <ee/>
+                <!-- encyclopedic-national language -->
+                <en/>
+                <!-- encyclopedic-regional language -->
+                <er/>
+                <!-- only (restrictions)-vernacular -->
+                <ov/>
+                <!-- only (restrictions)-English -->
+                <oe/>
+                <!-- only (restrictions)-national language -->
+                <on/>
+                <!-- only (restrictions)-regional (with \on) -->
+                <or/>
+            </pn>
+            <!-- lexical function label-English -->
+            <lf/>
+            <!-- lexical function value-vernacular language -->
+            <lv/>
+            <!-- lexical function value-English -->
+            <le/>
+            <!-- lexical function value-national language -->
+            <ln/>
+            <!-- lexical function value-regional language -->
+            <lr/>
+            <!-- synonym -->
+            <sy/>
+            <!-- antonym -->
+            <an/>
+            <!-- morphemic representation -->
+            <mr/>
+            <!-- cross-reference -->
+            <cf/>
+            <!-- cross-reference-English gloss -->
+            <ce/>
+            <!-- cross-reference-national gloss -->
+            <cn/>
+            <!-- cross-reference-regional gloss -->
+            <cr/>
+            <!-- main entry form -->
+            <mn>
+                <!-- variant form -->
+                <va/>
+                <!-- variant comment-English -->
+                <ve/>
+                <!-- variant comment-national language -->
+                <vn/>
+                <!-- variant comment-regional language -->
+                <vr/>
+            </mn>
+            <!-- borrowed word -->
+            <bw/>
+            <!-- etymology -->
+            <et/>
+            <!-- etymology-gloss -->
+            <eg/>
+            <!-- etymology-source -->
+            <es/>
+            <!-- etymology-comment -->
+            <ec/>
+            <!-- paradigm -->
+            <pd>
+                <!-- paradigm label-English -->
+                <pdl/>
+                <!-- paradigm form-vernacular language -->
+                <pdv/>
+                <!-- paradigm form-English gloss -->
+                <pde/>
+                <!-- paradigm form-national gloss -->
+                <pdn/>
+                <!-- paradigm form-regional gloss -->
+                <pdr/>
+            </pd>
+            <!-- singular form -->
+            <sg/>
+            <!-- plural form -->
+            <pl/>
+            <!-- reduplication -->
+            <rd/>
+            <!-- 1st person singular -->
+            <_1s/>
+            <!-- 2nd person singular -->
+            <_2s/>
+            <!-- 3rd person singular -->
+            <_3s/>
+            <!-- singular non-human/non-animate -->
+            <_4s/>
+            <!-- 1st person dual -->
+            <_1d/>
+            <!-- 2nd person dual -->
+            <_2d/>
+            <!-- 3rd person dual -->
+            <_3d/>
+            <!-- dual non-human/non-animate -->
+            <_4d/>
+            <!-- 1st person plural-general -->
+            <_1p/>
+            <!-- 1st person plural-exclusive -->
+            <_1e/>
+            <!-- 1st person plural-inclusive -->
+            <_1i/>
+            <!-- 2nd person plural -->
+            <_2p/>
+            <!-- 3rd person plural -->
+            <_3p/>
+            <!-- plural non-human/non-animate -->
+            <_4p/>
+            <!-- table -->
+            <tb/>
+            <!-- semantic domain -->
+            <sd/>
+            <!-- index of semantics -->
+            <is/>
+            <!-- thesaurus -->
+            <th/>
+            <!-- bibliographic reference -->
+            <bb/>
+            <!-- picture -->
+            <pc/>
+            <!-- notes-general -->
+            <nt/>
+            <!-- notes-phonology -->
+            <np/>
+            <!-- notes-grammar -->
+            <ng/>
+            <!-- notes-discourse -->
+            <nd/>
+            <!-- notes-anthropology -->
+            <na/>
+            <!-- notes-sociolinguistics -->
+            <ns/>
+            <!-- notes-questions -->
+            <nq/>
+            <!-- source -->
+            <so/>
+            <!-- status -->
+            <st/>
+            <!-- datestamp -->
+            <dt/>
+        </mdf_order>
+        <!-- Mapping from LMF attributes to MDF markers -->
+        <lmf_mdf marker="gf" var="sense">sense.find_glosses("fra")</lmf_mdf>
+    </MDF>
+    <LaTeX>
+        <!-- Path to xelatex binary -->
+        <xelatex/>
+        <!-- Mapping between LMF part of speech LexicalEntry attribute value and LaTeX layout (output) -->
+        <partOfSpeech_tex partOfSpeech="expression" tex="expr"/>
+        <!-- Mapping between LMF paradigmLabel Paradigm attribute value and LaTeX layout (output) -->
+        <paradigmLabel_tex paradigmLabel="directional" tex="dir"/>
+        <!-- LaTeX commands -->
+        <header cmd="documentclass" att="oldfontcommands,oneside,a4paper,11pt" val="article"/>
+        <header cmd="title" val="Japhug dictionary"/>
+        <header cmd="author" var="lexical_resource">lexical_resource.get_author()</header>
+        <header cmd="usepackage" val="fontspec"/>
+        <header cmd="usepackage" val="booktabs"/>
+        <header cmd="usepackage" val="xltxtra"/>
+        <header cmd="usepackage" val="polyglossia"/>
+        <header cmd="usepackage" att="table" val="xcolor"/>
+        <header cmd="usepackage" val="float"/>
+        <header cmd="usepackage" val="memhfixc"/>
+        <header cmd="usepackage" val="amssymb"/>
+        <header cmd="usepackage" val="multicol"/>
+        <header cmd="setlength">
+            <header cmd="columnseprule" val="1pt"/>
+        </header>
+        <header cmd="setlength">
+            <header cmd="columnsep" val="1.5cm"/>
+        </header>
+        <header cmd="setmainfont" att="Mapping=tex-text,Numbers=OldStyle,Ligatures=Common"
+            val="DoulosSIL"/>
+        <!-- API -->
+        <header cmd="newfontfamily">
+            <header cmd="phon" att="Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase"
+                val="DoulosSIL"/>
+        </header>
+        <header cmd="newcommand" att="1">
+            <header cmd="ipa"/> {{\phon #1}} </header>
+        <!-- Chinese -->
+        <header cmd="newfontfamily">
+            <header cmd="cn" att="Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase"
+                val="SimSun"/>
+        </header>
+        <header cmd="newcommand" att="1">
+            <header cmd="zh"/> {{\cn #1}} </header>
+        <header cmd="XeTeXlinebreaklocale"/>"zh" <header cmd="XeTeXlinebreakskip"/>0pt plus 1pt
+            <header cmd="usepackage" val="fancyhdr"/>
+        <header cmd="pagestyle" val="fancy"/>
+        <header cmd="fancyheadoffset" val="3.4em"/>
+        <header cmd="usepackage" att="bookmarks=true,colorlinks,linkcolor=blue" val="xcolor"/>
+        <header cmd="usepackage" att="b" val="hyperref"/>
+        <header cmd="usepackage" val="gb4e"/>
+        <header cmd="usepackage" val="vmargin"/>
+        <!-- {marge gauche}{marge en haut}{marge droite}{marge en bas}{hauteur de l'entête}{distance entre l'entête et le texte}{hauteur du pied de page}{distance entre le texte et le pied de page} -->
+        <header cmd="setmarginsrb"/>{2cm}{1cm}{1.5cm}{1cm}{0.5cm}{0cm}{0.5cm}{1cm}
+        \def\mytextsc{\bgroup\obeyspaces\mytextscaux} \def\mytextscaux#1{\mytextscauxii
+        #1\relax\relax\egroup} \def\mytextscauxii#1{% \ifx\relax#1\else \ifcat#1\@sptoken{}
+        \expandafter\expandafter\expandafter\mytextscauxii\else \ifnum`#1=\uccode`#1 {\normalsize
+        #1}\else {\footnotesize \uppercase{#1}}\fi
+        \expandafter\expandafter\expandafter\mytextscauxii\expandafter\fi\fi} </LaTeX>
+</Config>
