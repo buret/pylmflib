@@ -10,10 +10,13 @@
 
 from __future__ import print_function,unicode_literals
 import unicodedata
-import codecs
+import codecs, os
 
 # load sampa and ipa csv file
-data = codecs.open('./pylmflib/utils/ipa2sampa/sampa.csv', 'r', 'utf-8')
+try:
+    data = codecs.open('./pylmflib/utils/ipa2sampa/sampa.csv', 'r', 'utf-8')
+except:
+    data = codecs.open(os.path.split(os.path.abspath(__file__))[0] + '/sampa.csv', 'r', 'utf-8')
 
 # load source and target items
 sota = []

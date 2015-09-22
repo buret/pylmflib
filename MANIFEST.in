@@ -1,0 +1,16 @@
+include *.txt *.md
+include test/startup.py
+include LICENSE
+include doc/Doxygen/*
+include doc/Doxygen/html/*
+include doc/xml/*
+recursive-include examples *.*
+recursive-include pylmflib *.csv *.test *.pl *.xsl *.xml
+prune examples/*/result
+prune examples/*/obj
+
+# recursive-exclude
+# exclude
+# global-include
+# global-exclude
+# graft
