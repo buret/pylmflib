@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Default sort order -->
+<SortOrder>
+	<rules level="1">
+		<rule str="-" rank="0"/>
+		<rule str="a" rank="1"/> <rule str="ã" rank="1"/>
+		<rule str="b" rank="2"/>
+		<rule str="c" rank="3"/> <rule str="ç" rank="3"/>
+		<rule str="d" rank="4"/>
+		<rule str="e" rank="5"/> <rule str="é" rank="5"/> <rule str="è" rank="5"/> <rule str="ê" rank="5"/> <rule str="É" rank="5"/>
+		<rule str="f" rank="6"/>
+		<rule str="g" rank="7"/>
+		<rule str="h" rank="8"/>
+		<rule str="i" rank="9"/> <rule str="î" rank="9"/>
+		<rule str="j" rank="10"/>
+		<rule str="k" rank="11"/>
+		<rule str="l" rank="12"/>
+		<rule str="m" rank="13"/>
+		<rule str="n" rank="14"/> <rule str="ń" rank="14"/>
+		<rule str="o" rank="15"/> <rule str="ò" rank="15"/> <rule str="ô" rank="15"/> <rule str="ö" rank="15"/> <rule str="õ" rank="15"/> <rule str="Ô" rank="15"/>
+		<rule str="p" rank="16"/>
+		<rule str="q" rank="17"/>
+		<rule str="r" rank="18"/>
+		<rule str="s" rank="19"/>
+		<rule str="t" rank="20"/> <rule str="T" rank="20"/>
+		<rule str="u" rank="21"/> <rule str="û" rank="21"/>
+		<rule str="v" rank="22"/>
+		<rule str="w" rank="23"/>
+		<rule str="x" rank="24"/>
+		<rule str="y" rank="25"/>
+		<rule str="z" rank="26"/>
+	</rules>
+</SortOrder>

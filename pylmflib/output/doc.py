@@ -371,7 +371,28 @@ def doc_write(object, filename, items=lambda lexical_entry: lexical_entry.get_le
                             if not is_gloss:
                                 # Paragraph
                                 p = document.add_paragraph()
-                                p.add_run(gloss).bold = True
+                                # Write gloss in bold, except characters that are between brackets or square brackets
+                                brackets = 0
+                                bold = True
+                                for c in gloss:
+                                    if c == '(' or c == '[':
+                                        # Write following characters in non-bold
+                                        brackets += 1
+                                        if brackets > 0:
+                                            bold = False
+                                        else:
+                                            bold = True
+                                        p.add_run(c).bold = bold
+                                    elif c == ')' or c == ']':
+                                        # Write following characters in bold
+                                        p.add_run(c).bold = bold
+                                        brackets -= 1
+                                        if brackets > 0:
+                                            bold = False
+                                        else:
+                                            bold = True
+                                    else:
+                                        p.add_run(c).bold = bold
                                 if gloss[-1] != '?' and gloss[-1] != '!' and gloss[-1] != '.':
                                     p.add_run(".")
                                 p.add_run(" ")

@@ -1,0 +1,44 @@
+\documentclass[oldfontcommands,oneside,a4paper,11pt]{article}
+\title{Yuanga dictionary}
+\author{Isabelle Bril}
+\usepackage{fontspec}
+\usepackage{booktabs}
+\usepackage{xltxtra}
+\usepackage{polyglossia}
+\usepackage[table]{xcolor}
+\usepackage{float}
+\usepackage{memhfixc}
+\usepackage{amssymb}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+\setlength\parindent{0cm}
+\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{CharisSIL}
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{CharisSIL}
+\newcommand{\ipa}[1]{{\phon #1}} % API en italique
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun} % pour le chinois
+\newcommand{\zh}[1]{{\cn #1}}
+\newfontfamily\mx[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{ArialUnicodeMS} % pour les questions
+\newcommand{\nq}[1]{{\mx #1}}
+\XeTeXlinebreaklocale "zh" % 使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\usepackage[dvipdfmx,xetex,bigfiles,final,activate=onclick,deactivate=onclick,transparent,passcontext]{media9}
+\usepackage{graphicx}
+\usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
+\usepackage{gb4e}
+\usepackage{vmargin}
+% {marge gauche}{marge en haut}{marge droite}{marge en bas}{hauteur de l'entête}{distance entre l'entête et le texte}{hauteur du pied de page}{distance entre le texte et le pied de page}
+\setmarginsrb{2cm}{1cm}{1.5cm}{1cm}{0.5cm}{1cm}{0.5cm}{1cm}
+
+\def\mytextsc{\bgroup\obeyspaces\mytextscaux}
+\def\mytextscaux#1{\mytextscauxii #1\relax\relax\egroup}
+\def\mytextscauxii#1{%
+\ifx\relax#1\else \ifcat#1\@sptoken{} \expandafter\expandafter\expandafter\mytextscauxii\else
+\ifnum`#1=\uccode`#1 {\normalsize #1}\else {\footnotesize \uppercase{#1}}\fi \expandafter\expandafter\expandafter\mytextscauxii\expandafter\fi\fi}
+
+\addmediapath{/Users/celine/Work/CNRS/workspace/HimalCo/dict/yuanga/data/audio/mp3/}
+\addmediapath{/Users/celine/Work/CNRS/workspace/HimalCo/dict/yuanga/data/audio/wav/}
+\graphicspath{{/Users/celine/Work/CNRS/workspace/HimalCo/dev/lib/lmf/src/output/img/}}
