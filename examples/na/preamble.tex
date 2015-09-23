@@ -1,0 +1,54 @@
+\documentclass[twoside]{article}
+\author{Alexis Michaud}
+\usepackage{pifont}
+\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{xltxtra}
+\usepackage{polyglossia}
+\usepackage[table]{xcolor}
+\usepackage{longtable}
+\definecolor{darkblue}{rgb}{0,0,0.75}
+\usepackage{float}
+\usepackage{lineno}
+\usepackage{textcomp}
+\usepackage{memhfixc}
+\usepackage{lscape}
+\usepackage{amssymb}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+%\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} 
+\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common,ItalicFont=*,ItalicFeatures=FakeSlant]{DoulosSIL}
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Charis SIL} % ou DoulosSIL
+\newcommand{\ipa}[1]{{\phon #1}} % API jamais en italique
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}}
+\newcommand{\bleute}[1]{\cellcolor{green}\textbf{#1}}
+\newcommand{\rouge}[1]{\cellcolor{red}\textbf{#1}}
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun} % pour le chinois
+\newcommand{\zh}[1]{{\cn #1}}
+\newcommand{\topic}{\textsc{dem}}
+\newcommand{\tete}{\textsuperscript{\textsc{head}}}
+\newcommand{\rc}{\textsubscript{\textsc{rc}}}
+\XeTeXlinebreaklocale "zh" % 使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt  % CIRCG
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\usepackage[dvipdfmx,xetex,bigfiles,final,activate=onclick,deactivate=onclick,transparent,passcontext]{media9}
+\usepackage{graphicx}
+\usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
+\hypersetup{bookmarks=false,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage[all]{hypcap}
+\usepackage{gb4e}
+\usepackage{vmargin}
+% {marge gauche}{marge en haut}{marge droite}{marge en bas}{hauteur de l'entête}{distance entre l'entête et le texte}{hauteur du pied de page}{distance entre le texte et le pied de page}
+\setmarginsrb{2cm}{1cm}{1.5cm}{1cm}{0.5cm}{1cm}{0.5cm}{1cm}
+
+\def\mytextsc{\bgroup\obeyspaces\mytextscaux}
+\def\mytextscaux#1{\mytextscauxii #1\relax\relax\egroup}
+\def\mytextscauxii#1{%
+\ifx\relax#1\else \ifcat#1\@sptoken{} \expandafter\expandafter\expandafter\mytextscauxii\else
+\ifnum`#1=\uccode`#1 {\normalsize #1}\else {\footnotesize \uppercase{#1}}\fi \expandafter\expandafter\expandafter\mytextscauxii\expandafter\fi\fi}
+% Ne pas afficher la numérotation des sections, sous-sections etc
+\setcounter{secnumdepth}{0}
