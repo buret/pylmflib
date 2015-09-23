@@ -1,0 +1,43 @@
+\documentclass[twoside]{article}
+\title{Khaling dictionary}
+\author{Guillaume Jacques, Aimée Lahaussois, Dhan Bahadur Rai, Yadav Kumar}
+\usepackage{pifont}
+\usepackage{fontspec}
+\usepackage{booktabs}
+\usepackage{xltxtra}
+\usepackage{polyglossia}
+\usepackage[table]{xcolor}
+\usepackage{float}
+\usepackage{memhfixc}
+\usepackage{amssymb}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+\setmainfont[Script=Devanagari]{Sahadeva}
+%\setmainfont[Script=Devanagari]{Sanskrit 2003}
+\newfontfamily\english[]{CharisSIL}
+\newcommand{\eng}[1]{{\english #1}}
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{CharisSIL}
+\newcommand{\ipa}[1]{{\phon #1}} % API en italique
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun} % pour le chinois
+\newcommand{\zh}[1]{{\cn #1}}
+\newfontfamily\mx[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{ArialUnicodeMS} % pour les questions
+\newcommand{\nq}[1]{{\mx #1}}
+%\newfontfamily\sktfont[Script=Devanagari]{Sanskrit 2003}
+\newfontfamily\sktfont{Sahadeva}
+\newcommand{\skt}[1]{{\sktfont #1}}
+\newfontfamily\mangalfont{Mangal}
+\newcommand{\mgl}[1]{{\mangalfont#1}}
+\newcommand{\reph}{\vphantom{}र्}
+\XeTeXlinebreaklocale "zh" % 使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\usepackage[dvipdfmx,xetex,bigfiles,final,activate=onclick,deactivate=onclick,transparent,passcontext]{media9}
+\usepackage{graphicx}
+\usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
+\usepackage{gb4e}
+\usepackage{vmargin}
+% {marge gauche}{marge en haut}{marge droite}{marge en bas}{hauteur de l'entête}{distance entre l'entête et le texte}{hauteur du pied de page}{distance entre le texte et le pied de page}
+\setmarginsrb{2cm}{1cm}{1.5cm}{1cm}{0.5cm}{1cm}{0.5cm}{1cm}
