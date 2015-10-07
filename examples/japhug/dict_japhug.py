@@ -41,7 +41,7 @@ pylmflib.write_mdf(lexical_resource, user_path + "japhug/result/dictionary.txt")
 #os.system("xsltproc -o " + user_path + "japhug/result/dictionary.html " + user_path + "../src/output/htm.xsl " + user_path + "japhug/result/dictionary.xml")
 
 # Write document file
-#pylmflib.write_doc(lexical_resource, user_path + "japhug/result/dictionary.docx", items=items, sort_order=xml_order, paradigms=True)
+pylmflib.write_doc(lexical_resource, user_path + "japhug/result/dictionary.docx", items=items, sort_order=xml_order, paradigms=True)
 
 # Release created objects
 del lexical_resource

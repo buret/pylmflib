@@ -38,7 +38,7 @@ pylmflib.write_tex(lexical_resource, user_path + "result/Bambara.tex", preamble=
 pylmflib.write_mdf(lexical_resource, user_path + "result/Bambara.txt")
 
 # Write document file
-#pylmflib.write_doc(lexical_resource, user_path + "result/Bambara.docx", items=items, sort_order=xml_order)
+pylmflib.write_doc(lexical_resource, user_path + "result/Bambara.docx", items=items, sort_order=xml_order)
 
 # Release created objects
 del lexical_resource

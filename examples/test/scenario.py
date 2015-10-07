@@ -45,7 +45,7 @@ pylmflib.write_tex(output_lexical_resource, ftest_path + "obj/output.tex", pream
 pylmflib.write_mdf(output_lexical_resource, ftest_path + "obj/output.txt")
 
 # Write document file
-#pylmflib.write_doc(output_lexical_resource, ftest_path + "obj/output.docx")
+pylmflib.write_doc(output_lexical_resource, ftest_path + "obj/output.docx")
 
 # Release created objects
 del input_lexical_resource, output_lexical_resource

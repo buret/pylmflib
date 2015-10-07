@@ -13,7 +13,7 @@ if not os.path.exists(user_path + "yuanga/result"):
     os.mkdir(user_path + "yuanga/result")
 
 # Import user customized configuration
-from setting import lmf2tex, items, reverse_items, sd_order, sd_errors, compare_sd, sd_list
+from setting import lmf2tex, items, reverse_items, sd_order, sd_errors, compare_sd, sd_list, lmf2doc
 
 # Read user configuration
 lexical_resource = pylmflib.read_config(user_path + "yuanga/config.xml")
@@ -37,7 +37,7 @@ for sd in sd_errors:
 pylmflib.write_xml_lmf(lexical_resource, user_path + "yuanga/result/yuanga.xml")
 
 # Write document file
-pylmflib.write_doc(lexical_resource, user_path + "yuanga/result/yuanga.docx", items=items, sort_order=sd_list)
+pylmflib.write_doc(lexical_resource, user_path + "yuanga/result/yuanga.docx", user_path + "yuanga/introduction.txt", lmf2doc=lmf2doc, items=items, sort_order=sd_list)
 
 # Write MDF file
 pylmflib.write_mdf(lexical_resource, user_path + "yuanga/result/yuanga.txt")
@@ -53,7 +53,7 @@ lexical_resource.get_lexicon("yuanga").sort_lexical_entries(items=items, sort_or
 pylmflib.write_xml_lmf(lexical_resource, user_path + "yuanga/result/reverse_yuanga.xml")
 
 # Write document file
-pylmflib.write_doc(lexical_resource, user_path + "yuanga/result/reverse_yuanga.docx", items=items, sort_order=sd_list, reverse=True)
+pylmflib.write_doc(lexical_resource, user_path + "yuanga/result/reverse_yuanga.docx", user_path + "yuanga/introduction.txt", lmf2doc=lmf2doc, items=items, sort_order=sd_list, reverse=True)
 
 # Release created objects
 del lexical_resource
