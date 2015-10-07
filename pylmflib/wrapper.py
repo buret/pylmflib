@@ -151,3 +151,14 @@ def write_doc(*args, **kwds):
     for lexicon in args[0].get_lexicons():
         entries_nb += lexicon.count_lexical_entries()
     log("Successfully wrote %s LMF entries into document file '%s'." % (entries_nb, args[1]))
+
+def write_odt(*args, **kwds):
+    # Import only when needed because it requires installation of Python package 'odf'
+    from output.odt import odt_write
+    # A document file contains one or several lexicons and informations about the lexical resource
+    wrapper_rw(odt_write, *args, **kwds)
+    # Count total number of entries to report to user
+    entries_nb = 0
+    for lexicon in args[0].get_lexicons():
+        entries_nb += lexicon.count_lexical_entries()
+    log("Successfully wrote %s LMF entries into document file '%s'." % (entries_nb, args[1]))
