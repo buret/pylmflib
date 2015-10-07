@@ -42,9 +42,6 @@ pylmflib.write_doc(lexical_resource, user_path + "yuanga/result/yuanga.docx", us
 # Write MDF file
 pylmflib.write_mdf(lexical_resource, user_path + "yuanga/result/yuanga.txt")
 
-# Write HTML file
-#os.system("xsltproc -o " + user_path + "yuanga/result/yuanga.html " + user_path + "../pylmflib/output/htm.xsl " + user_path + "yuanga/result/yuanga.xml")
-
 # Classify lexicon twice: first by French gloss, then by semantic domain
 lexical_resource.get_lexicon("yuanga").sort_lexical_entries(items=reverse_items, sort_order=xml_order)
 lexical_resource.get_lexicon("yuanga").sort_lexical_entries(items=items, sort_order=sd_order, comparison=compare_sd)

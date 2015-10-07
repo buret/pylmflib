@@ -50,5 +50,8 @@ pylmflib.write_doc(output_lexical_resource, ftest_path + "obj/output.docx")
 # Write Open Office document file
 pylmflib.write_odt(output_lexical_resource, ftest_path + "obj/output.odt")
 
+# Write HTML file
+os.system("xsltproc -o " + ftest_path + "obj/output.html " + ftest_path + "../../pylmflib/utils/lmf2htm/htm.xsl " + ftest_path + "obj/output.xml")
+
 # Release created objects
 del input_lexical_resource, output_lexical_resource
