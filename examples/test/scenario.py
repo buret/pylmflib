@@ -53,5 +53,8 @@ pylmflib.write_odt(output_lexical_resource, ftest_path + "obj/output.odt")
 # Write HTML file
 os.system("xsltproc -o " + ftest_path + "obj/output.html " + ftest_path + "../../pylmflib/utils/lmf2htm/htm.xsl " + ftest_path + "obj/output.xml")
 
+# Write XML TEI file
+os.system("xsltproc -o " + ftest_path + "obj/tei.xml " + ftest_path + "../../pylmflib/utils/lmf2tei/lmf2tei.xsl " + ftest_path + "obj/output.xml")
+
 # Release created objects
 del input_lexical_resource, output_lexical_resource
