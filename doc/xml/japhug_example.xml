@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE LexicalResource SYSTEM "DTD_LMF_REV_16.dtd">
+<LexicalResource dtdVersion="16">
+    <GlobalInformation>
+        <feat att="languageCode" val="ISO-639-3"/>
+    </GlobalInformation>
+    <Lexicon>
+        <LexicalEntry id="akarɯ_1">
+            <feat att="partOfSpeech" val="noun"/>
+            <feat att="bibliography" dcr:datcat="http://www.isocat.org/datcat/DC-3687" val="plante"/>
+            <feat att="date" val="2014-07-03"/>
+            <Lemma>
+                <feat att="lexeme" val="akarɯ"/>
+            </Lemma>
+            <Sense id="akarɯ_1-0">
+                <Definition>
+                    <feat att="language" val="eng"/>
+                    <feat att="gloss" val="origan"/>
+                </Definition>
+                <Definition>
+                    <feat att="language" val="chn"/>
+                    <feat att="gloss" val="牛至"/>
+                </Definition>
+                <Context>
+                    <TextRepresentation>
+                        <feat att="language" val="jya"/>
+                        <feat att="writtenForm" val="akarɯ nɯ sɯjno kɯ-xtɕi ci ŋu, ɯ-ru kɯ-xtshɯ-xtshɯm kɯ-ɣɯrni ci ŋu, ʁnɯ-tɣa jamar ma mɤ-mbro, ɯ-jwaʁ kɯ-ɤrtɯm, kɯ-rɲɟi tsa ci ŋu, ɯ-di mnɤm, ɯ-mɯntoʁ kɯ-ɣɯrni ŋgɯ kɯ-wɣrum tsa ci ŋu, ɯ-zrɤm kɯ-xtɕɯ-xtɕi ma me, ɯʑo smɤn ɯ-ŋgɯ kɤ-lɤt ɲɯ-sna."/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="chn"/>
+                        <feat att="writtenForm" val="牛至是一种小植物，茎非常细，呈红色，只有两乍高，有椭圆形的小叶，花是红里透白，有香味，只有小小的根。可以放在药里。"/>
+                    </TextRepresentation>
+                </Context>
+           </Sense>
+        </LexicalEntry>
+    </Lexicon>
+</LexicalResource>

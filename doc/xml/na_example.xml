@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE LexicalResource SYSTEM "DTD_LMF_REV_16.dtd">
+<LexicalResource dtdVersion="16">
+    <GlobalInformation>
+        <feat att="languageCode" dcr:datcat="http://www.isocat.org/datcat/DC-2008" val="ISO-639-3"/>
+    </GlobalInformation>
+    <Speaker speakerId="F4" dcr:datcat="http://www.isocat.org/datcat/DC-3597"/>
+    <Speaker speakerId="F5"/>
+    <Speaker speakerId="M21"/>
+    <Lexicon>
+        <LexicalEntry id="æ_1" dcr:datcat="http://www.isocat.org/datcat/DC-6196">
+            <feat att="partOfSpeech" dcr:datcat="http://www.isocat.org/datcat/DC-3748" val="noun" dcr:datcat="http://www.isocat.org/datcat/DC-1333"/>
+            <feat att="date" dcr:datcat="http://www.isocat.org/datcat/DC-3694" val="2014-06-15"/>
+            <Lemma targets="F4">
+                <feat att="lexeme" dcr:datcat="http://www.isocat.org/datcat/DC-3723" val="æ˩˧"/>
+            </Lemma>
+            <Audio>
+                <feat att="externalReference" dcr:datcat="http://www.isocat.org/datcat/DC-1975" val="B:1789"/>
+            </Audio>
+            <Audio>
+                <feat att="externalReference" val="2011:2642"/>
+            </Audio>
+            <FormRepresentation targets="F5">
+                <feat att="variantForm" dcr:datcat="http://www.isocat.org/datcat/DC-3768" val="æ˩˧"/>
+            </FormRepresentation>
+            <FormRepresentation targets="M21">
+                <feat att="variantForm" val="æ˩˧"/>
+            </FormRepresentation>
+            <Sense id="æ_1-0" dcr:datcat="http://www.isocat.org/datcat/DC-1845">
+                <SubjectField>
+                    <feat att="language" dcr:datcat="http://www.isocat.org/datcat/DC-2482" val="fra"/>
+                    <feat att="semanticDomain" dcr:datcat="http://www.isocat.org/datcat/DC-3755" val="animal"/>
+                </SubjectField>
+                <SubjectField>
+                    <feat att="language" val="eng"/>
+                    <feat att="semanticDomain" val="animal"/>
+                </SubjectField>
+                <Definition>    
+                    <Statement>
+                        <feat att="noteType" dcr:datcat="http://www.isocat.org/datcat/DC-6178" val="phonology"/>
+                        <feat att="language" dcr:datcat="http://www.isocat.org/datcat/DC-2482" val="fra"/>
+                        <feat att="note" dcr:datcat="http://www.isocat.org/datcat/DC-382" val="LM confirmé type "porc""/>
+                    </Statement>
+                    <Statement>
+                        <feat att="noteType" val="tone"/>
+                        <feat att="note" val="LM"/>
+                    </Statement>
+                </Definition>
+                <Definition>
+                    <feat att="language" dcr:datcat="http://www.isocat.org/datcat/DC-2482" val="eng"/>
+                    <feat att="definition" dcr:datcat="http://www.isocat.org/datcat/DC-1972" val="chicken"/>
+                    <feat att="gloss" dcr:datcat="http://www.isocat.org/datcat/DC-244" val="chicken"/>
+                </Definition>
+                <Definition>
+                    <feat att="language" val="chn"/>
+                    <feat att="definition" val="鸡"/>
+                    <feat att="gloss" val="鸡"/>
+                </Definition>
+                <Definition>
+                    <feat att="language" val="fra"/>
+                    <feat att="definition" val="poulet, poule"/>
+                    <feat att="gloss" val="poulet"/>
+                </Definition>
+                <Paradigm targets="mi1">
+                    <feat att="paradigmLabel" dcr:datcat="http://www.isocat.org/datcat/DC-3741" val="classifier"/>
+                    <feat att="paradigm" dcr:datcat="http://www.isocat.org/datcat/DC-3736" val="mi˩"/>
+                </Paradigm>
+                <Context>
+                    <TextRepresentation>
+                        <feat att="language" dcr:datcat="http://www.isocat.org/datcat/DC-2482" val="na?"/>
+                        <feat att="writtenForm" dcr:datcat="http://www.isocat.org/datcat/DC-1836" val="æ˩ dzɯ˧-ze˩"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="eng"/>
+                        <feat att="writtenForm" val="...has eaten (a/some) chicken"/>                        
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="chn"/>
+                        <feat att="writtenForm" val="吃了鸡"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="fra"/>
+                        <feat att="writtenForm" val="...a mangé (un/du) poulet"/>
+                        <feat att="comment" dcr:datcat="http://www.isocat.org/datcat/DC-1846" val="PHONO"/>
+                    </TextRepresentation>
+                </Context>
+                <Context>
+                    <TextRepresentation>
+                        <feat att="language" val="na?"/>
+                        <feat att="writtenForm" val="æ˩ hwæ˧-ze˧"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="eng"/>
+                        <feat att="writtenForm" val="...has bought (a) chicken"/>                        
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="chn"/>
+                        <feat att="writtenForm" val="买了鸡"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="fra"/>
+                        <feat att="writtenForm" val="...a acheté (un/du) poulet"/>
+                        <feat att="comment" val="PHONO"/>
+                    </TextRepresentation>
+                </Context>
+                <Context>
+                    <TextRepresentation>
+                        <feat att="language" val="na?"/>
+                        <feat att="writtenForm" val="æ˩˥, | kʰv˧, | bo˩˥, | hwɤ˧˥, | ʝi˧, | lɑ˧, | tʰo˧li˧, | mv˧gv˧, | bv˧ʐv˧, | ʐwæ˧, | jo˧, | ʑi˩˥"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="eng"/>
+                        <feat att="writtenForm" val="the twelve years of the duodenary cycle"/>                        
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="chn"/>
+                        <feat att="writtenForm" val="十二个生肖"/>
+                    </TextRepresentation>
+                    <TextRepresentation>
+                        <feat att="language" val="fra"/>
+                        <feat att="writtenForm" val="les douze signes astrologiques"/>
+                    </TextRepresentation>
+                </Context>
+            </Sense>
+        </LexicalEntry>
+        <LexicalEntry id="mi_1">
+            <Lemma>
+                <feat att="lexeme" val="mi˩"/>
+            </Lemma>
+        </LexicalEntry>
+    </Lexicon>
+</LexicalResource>
