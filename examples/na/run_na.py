@@ -13,7 +13,7 @@ user_path = sys.path[0] + '/../'
 sys.path.append(user_path + 'na')
 
 # Add pylmflib/ folder to path
-sys.path.append(user_path + '../..')
+sys.path.append(user_path + '..')
 
 # Create result folder
 if not os.path.exists(user_path + "na/result"):
