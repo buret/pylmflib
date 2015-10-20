@@ -2123,7 +2123,6 @@ qui viennent d'ailleurs ('aavhe')  lors des dons dans les cérémonies (de deuil p
 \dt 23/Dec/2014
 
 \lx aari
-\is emprunt
 \is nourriture
 \dialx PA
 \va hari
@@ -2138,7 +2137,7 @@ qui viennent d'ailleurs ('aavhe')  lors des dons dans les cérémonies (de deuil p
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx aru
 \is cultures
@@ -3558,7 +3557,6 @@ ne pas avoir voulu le faire. La personne elle-même ou qqn d'autre peut le dire)
 \dt 23/Aug/2015
 
 \lx bale
-\is emprunt
 \is action
 \dialx GOs
 \ps v ; n
@@ -3572,7 +3570,7 @@ ne pas avoir voulu le faire. La personne elle-même ou qqn d'autre peut le dire)
 \xn un balai fait avec la nervure centrale des folioles de palmes de cocotier
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx balevhi
 \is topographie
@@ -3708,7 +3706,6 @@ extension, les fruits qui ont le même goût)
 \dt 25/Dec/2014
 
 \lx ba-pase
-\is emprunt
 \is instrument
 \dialx GOs
 \ps n
@@ -3725,7 +3722,7 @@ extension, les fruits qui ont le même goût)
 \sge passoire (lit. qui sert à passer le coco)
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx ba-phe-ênõ
 \is coutumes
@@ -4344,7 +4341,6 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \dt 23/Aug/2015
 
 \lx bèsè
-\is emprunt
 \is ustensile
 \dialx GOs
 \ps n
@@ -4361,7 +4357,7 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \cf
 \ce
 \nt
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx bèxè
 \is santé
@@ -4443,7 +4439,6 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \dt 22/Aug/2015
 
 \lx bi
-\is emprunt
 \is jeu
 \hm 2
 \dialx GOs
@@ -4458,7 +4453,7 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx bi
 \hm 3
@@ -4881,7 +4876,6 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \dt 13/Jul/2007
 
 \lx bòlòmaxaò
-\is emprunt
 \is mammifères
 \dialx GOs
 \va boloxao
@@ -4896,7 +4890,7 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \gb
 \rgb
 \bw GB bull and cow
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx bò-na
 \is temps_deixis
@@ -4921,7 +4915,6 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \dt 24/Aug/2015
 
 \lx bosu
-\is emprunt
 \is interaction
 \dialx GOs
 \ps v
@@ -4938,7 +4931,7 @@ l'épouse: fils de frère de père, fils de soeur de mère et les cousins croisés de
 \cf
 \ce
 \nt
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx boxola
 \is plantes
@@ -5659,7 +5652,6 @@ Dubois ms)
 \dt 23/Aug/2015
 
 \lx burey
-\is emprunt
 \is ustensile
 \dialx GOs
 \ps n
@@ -5672,7 +5664,7 @@ Dubois ms)
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx burò
 \hm 1
@@ -7445,7 +7437,6 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure à la 
 \dt 23/Aug/2015
 
 \lx bwòò
-\is emprunt
 \is jeu
 \dialx GOs
 \va bool
@@ -7460,7 +7451,7 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure à la 
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx bwòivhe
 \is insecte
@@ -8503,7 +8494,6 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \dt 23/Aug/2015
 
 \lx chavwo 
-\is emprunt 
 \is soin
 \ph cÊ°avwo
 \dialx GOs
@@ -8533,7 +8523,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \gt elle lave les vêÃªtements
 \cf jaamwe
 \ce laver
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx câwâ ???
 \is interaction
@@ -9669,7 +9659,6 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \dt 22/Aug/2015
 
 \lx chiçô
-\is emprunt
 \is instrument
 \dialx GOs
 \ph cÊ°iÊ’Ãµ
@@ -9685,7 +9674,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx cii-du
 \is corps
@@ -9793,7 +9782,6 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \dt 22/Aug/2015
 
 \lx cimic
-\is emprunt
 \is habillement
 \dialx PA
 \ps n
@@ -9806,7 +9794,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx cimwî
 \is action_corps
@@ -9932,7 +9920,6 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \dt 22/Aug/2015
 
 \lx chiò
-\is emprunt
 \is ustensile
 \ph cÊ°iÉ”
 \dialx GOs BO PA
@@ -9946,7 +9933,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx cii-phagòò
 \is corps
@@ -10534,7 +10521,6 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \dt 23/Aug/2015
 
 \lx chòvwa
-\is emprunt
 \is mammifères
 \dialx GOs
 \ph cÊ°É”Î²a ; cÊ°É”va
@@ -10552,7 +10538,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \xn mon cheval
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx coxada
 \is navigation
@@ -10914,7 +10900,6 @@ dans le processus dont l'un est celui qui coupe)
 \dt 22/Aug/2015
 
 \lx chue
-\is emprunt 
 \is musique
 \dialx GOs WEM WE
 \ph cÊ°ue 
@@ -10928,10 +10913,9 @@ dans le processus dont l'un est celui qui coupe)
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx cuk
-\is emprunt
 \is nourriture
 \dialx PA BO
 \ps n
@@ -10944,7 +10928,7 @@ dans le processus dont l'un est celui qui coupe)
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx cuka 
 \is nourriture
@@ -11573,7 +11557,6 @@ dans le processus dont l'un est celui qui coupe)
 \dt 10/Jun/2015
 
 \lx dame
-\is emprunt
 \is action_corps
 \dialx GOs BO
 \va dam
@@ -11591,7 +11574,7 @@ dans le processus dont l'un est celui qui coupe)
 \sge outil pour damer
 \cf kha
 \ce écraser (avec le pied), appuyer
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx draani
 \is poisson
@@ -12402,7 +12385,6 @@ dans le processus dont l'un est celui qui coupe)
 \dt 25/Aug/2015
 
 \lx dibee
-\is emprunt
 \is nourriture
 \ph ndibe:
 \dialx GOs
@@ -12417,7 +12399,7 @@ dans le processus dont l'un est celui qui coupe)
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx dibwala ???
 \is cultures
@@ -13786,7 +13768,6 @@ Se déguste de préférence sucré.
 \dt 25/Aug/2015
 
 \lx drube
-\is emprunt
 \is mammifères
 \dialx GOs 
 \va dube 
@@ -13803,7 +13784,7 @@ Se déguste de préférence sucré.
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx dubila
 \is soin
@@ -13879,7 +13860,7 @@ Se déguste de préférence sucré.
 \is topographie
 \dialx PA
 \ps n
-\ge ligne de crête [lit. os de la montagne] ; pente de la montagne
+\ge ligne de crête (lit. os de la montagne) ; pente de la montagne
 \re
 \gb
 \rgb
@@ -13889,7 +13870,7 @@ Se déguste de préférence sucré.
 \cf
 \ce
 \nt
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx du-kai
 \is corps
@@ -15438,7 +15419,6 @@ cette femme-là en bas, cette femme-là loin en bas
 \dt 23/Aug/2015
 
 \lx fari
-\is emprunt
 \is nourriture
 \dialx GOs
 \ps n
@@ -15451,10 +15431,9 @@ cette femme-là en bas, cette femme-là loin en bas
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx fè
-\is emprunt
 \is interaction
 \dialx GOs
 \ps n
@@ -15467,7 +15446,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx gaa 
 \hm 1
@@ -16081,7 +16060,6 @@ cette femme-là en bas, cette femme-là loin en bas
 \dt 27/Sep/2015
 
 \lx gèrè
-\is emprunt
 \is nourriture
 \dialx GOs PA BO 
 \ps n
@@ -16095,7 +16073,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \xn résidu de saindoux, grasse 'gratton'
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx gè-thaa
 \is soin
@@ -16255,7 +16233,6 @@ cette femme-là en bas, cette femme-là loin en bas
 \dt 09/Jun/2015
 
 \lx gita
-\is emprunt
 \is musique
 \dialx GOs
 \ps n
@@ -16268,7 +16245,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx giul ???
 \is société
@@ -16386,7 +16363,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \dialx GOs PA BO
 \ps n
 \sn 1
-\is quantificateur
+\is grammaire_quantificateur
 \ge morceau ; partie
 \sn 2
 \is corps
@@ -16425,7 +16402,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \sge un, deux, trois, dix morceaux
 \cf
 \ce
-\dt 27/Sep/2015
+\dt 07/Oct/2015
 
 \lx gòò-bwòn
 \is temps_découpage
@@ -16664,7 +16641,6 @@ cette femme-là en bas, cette femme-là loin en bas
 
 \lx grenui
 \is reptile
-\is emprunt
 \dialx GOs
 \va goronui
 \ve BO
@@ -16678,7 +16654,7 @@ cette femme-là en bas, cette femme-là loin en bas
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx gu
 \is oiseau
@@ -24507,7 +24483,6 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \dt 09/Jun/2015
 
 \lx kafaa
-\is emprunt
 \is insecte
 \dialx GOs
 \ps n
@@ -24521,10 +24496,9 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \cf
 \ce
 \nt
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx kafe
-\is emprunt
 \is nourriture
 \dialx GOs
 \va kape
@@ -24532,13 +24506,15 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \ps n
 \ge café
 \re
+\bw FR café
+\re
 \gb
 \rgb
 \xv li thu kape [WEM]
 \xn elles font du café
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx kâgao
 \is plantes
@@ -24975,7 +24951,6 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \dt 09/Sep/2015
 
 \lx kakorola
-\is emprunt
 \is insecte
 \dialx PA BO [Corne]
 \ps n
@@ -24988,7 +24963,7 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx kha-ku
 \is déplacement
@@ -26154,7 +26129,6 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 
 \lx kausu
 \is arbre
-\is emprunt
 \dialx GOs
 \ps n
 \ge banian (avec la sève duquel on fait des balles de cricket)
@@ -26166,7 +26140,7 @@ perception, indique une perception indirecte, perçue comme ça sur la route, non 
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx kava
 \is poisson
@@ -27157,11 +27131,13 @@ grand que "keruau")
 \dt 22/Aug/2015
 
 \lx kecak
-\is emprunt
+\is paniers
 \dialx BO [Corne]
 \ps n
 \ge sac
 \re
+\gb
+\bw FR sac
 \nt composé : ke- (préfixe des paniers), FR sac
 \re
 \gb
@@ -27170,7 +27146,7 @@ grand que "keruau")
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx ke-cee
 \is étapes.vie
@@ -28882,7 +28858,6 @@ grand que "keruau")
 \dt 23/Aug/2015
 
 \lx kilooc
-\is emprunt
 \is instrument
 \dialx PA
 \ps n
@@ -28895,7 +28870,7 @@ grand que "keruau")
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx kiluu
 \is action_corps
@@ -29156,7 +29131,6 @@ grand que "keruau")
 \dt 09/Jun/2015
 
 \lx kiriket
-\is emprunt
 \is jeu
 \dialx GOs
 \ps n
@@ -29169,7 +29143,7 @@ grand que "keruau")
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx kitrabwi
 \is interaction
@@ -30925,7 +30899,6 @@ grand que "keruau")
 \dt 23/Aug/2015
 
 \lx kotô
-\is emprunt
 \is plantes
 \dialx GOs
 \ps n
@@ -30938,7 +30911,7 @@ grand que "keruau")
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx kou
 \hm 1
@@ -30973,7 +30946,6 @@ grand que "keruau")
 \dt 22/Aug/2015
 
 \lx kovanyi
-\is emprunt
 \is interaction
 \dialx GOs
 \ps n
@@ -30988,7 +30960,7 @@ grand que "keruau")
 \xn mes amis, compagnons
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx kòò-wamwa
 \is outils
@@ -34291,11 +34263,11 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 
 \lx lapya
 \is poisson
-\is emprunt
 \dialx GOs
 \ps n
 \ge tilapia
 \sc Oreochromis mossambica (Cichlidae)
+\bw FR tilapia
 \re
 \gb
 \rgb
@@ -34303,10 +34275,9 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx layô
-\is emprunt
 \is nourriture
 \dialx GOs
 \va laviã
@@ -34321,7 +34292,7 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx -le
 \is grammaire_locatif
@@ -34341,7 +34312,6 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \dt 23/Aug/2015
 
 \lx lè
-\is emprunt
 \is nourriture
 \dialx GOs
 \ps n
@@ -34355,7 +34325,7 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx -li
 \is grammaire_pronom
@@ -34594,7 +34564,6 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \dt 23/Aug/2015
 
 \lx loto
-\is emprunt
 \is déplacement_moyen
 \dialx GOs 
 \va lòto
@@ -34611,7 +34580,7 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 24/Aug/2015
+\dt 07/Oct/2015
 
 \lx -m
 \is grammaire_pronom
@@ -35388,11 +35357,12 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \dt 23/Aug/2015
 
 \lx maic
-\is emprunt
 \is plantes
 \dialx PA
 \ps n
 \ge maïs
+\re
+\bw FR maïs
 \re
 \gb
 \rgb
@@ -35400,7 +35370,7 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 09/Jun/2015
+\dt 07/Oct/2015
 
 \lx mhãi-n
 \is grammaire_quantificateur
@@ -36045,7 +36015,6 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \dt 22/Aug/2015
 
 \lx masi
-\is emprunt
 \is instrument
 \dialx GOs
 \ps n
@@ -36058,7 +36027,7 @@ kajaa; kora; kera; kubwau; djinodji; bea; mwacoa; zara; thiabwau; ua; papua; hou
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx mãã-trele
 \is oiseau
@@ -36872,7 +36841,6 @@ chefferie portait deux robes l'une sur l'autre, elles en enlevaient une qu'elles
 
 \lx medatri
 \is arbre 
-\is emprunt
 \ph me'daÉ½i
 \dialx GOs
 \ps n
@@ -36884,7 +36852,7 @@ chefferie portait deux robes l'une sur l'autre, elles en enlevaient une qu'elles
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx meedree
 \is temps_atmosphérique
@@ -39509,7 +39477,6 @@ central de la case (Dubois)
 \dt 22/Aug/2015
 
 \lx muswa
-\is emprunt
 \is habillement
 \dialx GOs
 \ps n
@@ -39522,7 +39489,7 @@ central de la case (Dubois)
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx muzi
 \is coutumes_objet
@@ -45062,7 +45029,6 @@ cette chose en bas, cette chose loin en bas, cette chose en haut
 \dt 23/Aug/2015
 
 \lx pã
-\is emprunt
 \is nourriture
 \dialx WE
 \ps n
@@ -45075,7 +45041,7 @@ cette chose en bas, cette chose loin en bas, cette chose en haut
 \xn
 \cf
 \ce
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx pha
 \hm 1
@@ -51397,7 +51363,6 @@ sucre
 \dt 22/Aug/2015
 
 \lx piòò
-\is emprunt
 \is outils
 \dialx GOs
 \va piyòc
@@ -51413,7 +51378,7 @@ sucre
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx pio yaai
 \is astre
@@ -52255,11 +52220,12 @@ sucre
 \dt 24/Aug/2015
 
 \lx pò sitrô
-\is emprunt
 \is plantes.fruit
 \dialx GOs
 \ps n
-\ge citron
+\ge citron (lit. fruit citron)
+\re
+\bw FR citron 
 \re
 \gb
 \rgb
@@ -52271,7 +52237,7 @@ sucre
 \cf
 \ce
 \nt
-\dt 13/Jun/2015
+\dt 07/Oct/2015
 
 \lx po za ?
 \is grammaire_interrogatif
@@ -52522,7 +52488,7 @@ sucre
 \is corps
 \dialx GOs
 \ps n
-\ge iris (oeil) [lit. fruit de Vitex trifoliata]
+\ge iris (oeil) (lit. fruit de Vitex trifoliata)
 \re
 \gb
 \rgb
@@ -52534,7 +52500,7 @@ sucre
 \cf
 \ce
 \nt
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx podi 
 \is bananier
@@ -53046,7 +53012,6 @@ sucre
 \dt 22/Aug/2015
 
 \lx pomitee
-\is emprunt
 \is nourriture
 \dialx GOs
 \va 'pomtee
@@ -53054,13 +53019,15 @@ sucre
 \ps n
 \ge pomme de terre
 \re
+\bw FR pomme de terre
+\re
 \gb
 \rgb
 \xv
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx pomõ
 \dialx GOs PA BO
@@ -55203,7 +55170,6 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 \dt 23/Aug/2015
 
 \lx phue
-\is emprunt
 \is instrument
 \dialx GOs
 \ps n
@@ -55216,7 +55182,7 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 \xn le bout/mèche du fouet
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx phugi
 \is médecine
@@ -55859,7 +55825,6 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 
 \lx purumi
 \is insecte
-\is emprunt 
 \ph pu'É½umi 
 \ph pu'rumi
 \dialx GOs PA BO
@@ -55871,7 +55836,7 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 \rgb
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx puruna
 \is habillement
@@ -56711,7 +56676,6 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 \dt 22/Aug/2015
 
 \lx phwalawa
-\is emprunt
 \is nourriture
 \dialx GOs
 \va pwalaa, palawa
@@ -56726,7 +56690,7 @@ enfant de fille de frère ou soeur du père (= petits cousins) ; enfant de fille d
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx pwalee
 \is action_corps
@@ -58785,25 +58749,12 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \dt 23/Dec/2014
 
 \lx salaa
-\is emprunt
 \is nourriture
 \dialx GOs
 \ps n
 \ge salade
 \re
-\gb
-\rgb
-\xv
-\xn
-\cf
-\ce
-\dt 22/Aug/2015
-
-\lx sapone
-\is emprunt
-\dialx GOs
-\ps n
-\ge japonais
+\bw FR salade
 \re
 \gb
 \rgb
@@ -58811,10 +58762,25 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
+
+\lx sapone
+\is société
+\dialx GOs
+\ps n
+\ge japonais
+\re
+\bw FR japonais
+\re
+\gb
+\rgb
+\xv
+\xn
+\cf
+\ce
+\dt 07/Oct/2015
 
 \lx simi
-\is emprunt
 \is habillement
 \dialx GOs
 \va cimic
@@ -58833,14 +58799,15 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \xn il met sa chemise
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx siro
-\is emprunt
 \is nourriture
 \dialx GOs
 \ps n
 \ge sirop
+\re
+\bw FR sirop
 \re
 \gb
 \rgb
@@ -58848,7 +58815,7 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx ta
 \is grammaire_conjonction
@@ -58903,7 +58870,6 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 
 \lx ta
 \is maison.objet
-\is emprunt
 \hm 4
 \dialx GOs
 \va taam
@@ -58914,11 +58880,12 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \ps n
 \ge table
 \re
+\re
 \gb
 \rgb
 \xv
 \xn
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx ta-
 \is grammaire_interpellation
@@ -61026,7 +60993,6 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \dt 23/Aug/2015
 
 \lx taxaza
-\is emprunt
 \is médecine
 \dialx GOs
 \ps n
@@ -61039,7 +61005,7 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \cf
 \ce
 \nt
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx thaxe
 \is maison
@@ -62792,7 +62758,6 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \dt 09/Jun/2015
 
 \lx tri
-\is emprunt
 \is nourriture
 \ph Êˆi
 \dialx GOs
@@ -62807,7 +62772,7 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem > yh
 \xn
 \cf
 \ce
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx thri
 \is coutumes
@@ -64596,12 +64561,12 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \lx thoo
 \is habillement
 \hm 2
-\ph
 \dialx PA BO
 \va throo
 \ve GO(s)
 \ps n
-\ge aigrette (coiffure)  ; plume ou fleur plantée sur le sommet de la tête
+\ge aigrette (coiffure)
+\ge plume ou fleur plantée sur le sommet de la tête
 \re
 \gb
 \rgb
@@ -64610,7 +64575,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \cf
 \ce
 \nt
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx thoo
 \is cultures
@@ -65140,7 +65105,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \is maison
 \dialx WEM
 \ps n
-\ge ce qu'on met sur le 'tho-mwa' (conques etc)
+\ge ce qu'on met sur la flèche faitière de la maison 'throo-mwa' (conques etc)
 \re
 \gb
 \rgb
@@ -65148,7 +65113,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx thròlò
 \is maison
@@ -65305,7 +65270,6 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \dt 23/Aug/2015
 
 \lx tromwa 
-\is emprunt
 \is nourriture
 \dialx GOs
 \va toma
@@ -65316,7 +65280,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \re
 \gb
 \rgb
-\dt 22/Aug/2015
+\dt 07/Oct/2015
 
 \lx throo-mwa
 \is maison
@@ -68246,7 +68210,6 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \dt 22/Aug/2015
 
 \lx vaaci
-\is emprunt
 \is mammifères
 \dialx PA BO WEM
 \ps n
@@ -68259,7 +68222,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx vajama
 \is discours_tradition_orale
@@ -68414,7 +68377,6 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \dt 23/Aug/2015
 
 \lx varan
-\is emprunt
 \is maison
 \dialx PA
 \ps n
@@ -68431,7 +68393,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \cf
 \ce
 \nt
-\dt 04/Jun/2015
+\dt 07/Oct/2015
 
 \lx varû
 \is action_corps
@@ -68509,7 +68471,6 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \dt 22/Aug/2015
 
 \lx vea
-\is emprunt
 \is matière 
 \dialx GOs
 \ps n
@@ -68522,7 +68483,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx vèlè
 \is maison.objet
@@ -70803,7 +70764,7 @@ wa-truci (20)
 \is topographie
 \dialx PA
 \ps n
-\ge versant  ; pente de la montagne [lit. racines de la montagne < wal]
+\ge versant  ; pente de la montagne (lit. racines de la montagne < wal)
 \re
 \gb
 \rgb
@@ -70811,7 +70772,7 @@ wa-truci (20)
 \xn
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx we-kae
 \is ustensile
@@ -72155,7 +72116,7 @@ Mwani-mi ?
 \is grammaire_conjonction
 \sn 1
 \ps COORD
-\ge et , aussi [PA] (comme en nêl.)
+\ge et, aussi [PA]
 \ge mais [GOs]
 \re
 \gb
@@ -72192,7 +72153,7 @@ Mwani-mi ?
 \xn elle vit encore ? - oui bien sûr! elle vit encore
 \cf
 \ce
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx xa
 \is grammaire_conjonction
@@ -72241,7 +72202,7 @@ Mwani-mi ?
 \hm 5
 \dialx GOs
 \ps REV ; ITER GO(s)
-\ge encore  ; de nouveau  ; re-
+\ge encore ; de nouveau
 \re
 \gb
 \rgb
@@ -72262,7 +72223,7 @@ Mwani-mi ?
 \cf
 \ce
 \nt
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx xaatra
 \is poisson
@@ -72999,11 +72960,12 @@ Hiérarchie  des valeurs : yòò > weem > yhalo.
 
 \lx yaro
 \is cultures_outil
-\dialx BO
+\dialx BO PA
 \va zaro
 \ve GO(s)
 \ps n
-\ge pelle à fouir les ignames (en bois ou fer)  ; bêche [PA, BO]
+\ge pelle à fouir les ignames (en bois ou fer)
+\ge bêche
 \re
 \gb
 \rgb
@@ -73012,7 +72974,7 @@ Hiérarchie  des valeurs : yòò > weem > yhalo.
 \cf
 \ce
 \poc *asok 'plant in holes in the ground' (Blust) moi
-\dt 23/Aug/2015
+\dt 07/Oct/2015
 
 \lx yatre
 \is action_corps

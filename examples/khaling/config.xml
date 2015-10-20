@@ -22,7 +22,7 @@
                 <feat att="author"
                     val="Guillaume Jacques, Aimée Lahaussois, Dhan Bahadur Rai, Yadav Kumar"/>
                 <feat att="version" val="1.0"/>
-                <feat att="lastUpdate" val="2015-09-23"/>
+                <feat att="lastUpdate" val="2015-10-21"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
                 <feat att="dateCoding" val="ISO-8601"/>
@@ -37,7 +37,7 @@
                 <feat att="lexiconType" val="bilingual dictionary klr-fra"/>
                 <feat att="entrySource" val="./examples/khaling/result/dictionary-dev.txt"/>
                 <!-- Relative path to audio files -->
-                <feat att="localPath" val="../HimalCo/dict/khaling/data/audio/"/>
+                <feat att="localPath" val="./examples/khaling/mp3/"/>
             </Lexicon>
         </LexicalResource>
     </LMF>

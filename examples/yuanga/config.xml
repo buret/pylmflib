@@ -23,7 +23,7 @@
                 <feat att="languageCode" val="ISO-639-3"/>
                 <feat att="author" val="Isabelle Bril"/>
                 <feat att="version" val="1.0"/>
-                <feat att="lastUpdate" val="2015-10-06"/>
+                <feat att="lastUpdate" val="2015-10-21"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
                 <feat att="dateCoding" val="ISO-8601"/>
@@ -38,7 +38,7 @@
                 <feat att="lexiconType" val="bilingual dictionary nua-fra"/>
                 <feat att="entrySource" val="./examples/yuanga/yuanga.lex"/>
                 <!-- Relative path to audio files -->
-                <feat att="localPath" val="../HimalCo/dict/yuanga/data/audio/"/>
+                <feat att="localPath" val=""/>
             </Lexicon>
         </LexicalResource>
     </LMF>

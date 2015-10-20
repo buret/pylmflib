@@ -21,11 +21,11 @@
                 <feat att="languageCode" val="ISO-639-3"/>
                 <feat att="author" val=""/>
                 <feat att="version" val="0.1"/>
-                <feat att="lastUpdate" val="2015-10-30"/>
+                <feat att="lastUpdate" val="2015-10-21"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
                 <feat att="dateCoding" val="ISO-8601"/>
-                <feat att="creationDate" val="2015-10-30"/>
+                <feat att="creationDate" val="2015-10-21"/>
                 <feat att="projectName" val="Bambara"/>
                 <feat att="description" val="This is a demonstration of Bambara lexicon."/>
             </GlobalInformation>

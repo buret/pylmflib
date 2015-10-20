@@ -1,4 +1,5 @@
 \_sh v3.0  583  MDF 4.0
+\_DateStampHasFourDigitYear
 
 \lx aɕi
 \wav adv-aCi
@@ -11,7 +12,7 @@
 \xn 算了，不要走了，留在这里吧
 \xv aɕi, a-mɤ-tɤ-tɯ-qhe je
 \xn （我收回刚才说的话），你不要放在心上
-\dt 09/Sep/2015
+\dt 09/Oct/2015
 
 \lx aj 
 \ps pro 
@@ -106,7 +107,7 @@
 \ps adv
 \ge identique
 \gn 一模一样
-\et a.na.ma.na
+\bw Tibetan a.na.ma.na
 \xv kɯki tɯ-ŋga ki ni anamana ɲɯ-ŋu-ndʑi
 \xn 这两件衣服是一模一样的
 \sy naχtɕɯɣ
@@ -130,7 +131,7 @@
 \ps n
 \ge alcool distillé 
 \gn 白酒 
-\et a.rag
+\bw Tibetan a.rag
 \dt 19/Apr/2013
 
 \lx aʁɤndɯndɤt
@@ -160,7 +161,7 @@
 \ps n
 \ge terme affectueux pour les enfants 
 \gn 对下一代的爱称 
-\et gtɕes
+\bw Tibetan gtɕes
 \dt 27/Aug/2014
 
 \lx aʑo 
@@ -236,11 +237,11 @@
 \ge hôte, maître de maison 
 \gn 主人 
 \hbf 212 
-\et bdag.po
+\bw Tibetan bdag.po
 \cf nɯβdaʁpu
 \dt 28/Aug/2012
 
-\lx βdaʁ{βzu}
+\lx βdaʁ,βzu
 \wav n-BdaR
 \ge s'occuper de ses tâches 
 \gn 管（任务、职责），一般前加否定前缀 
@@ -264,7 +265,7 @@
 \ps n
 \ge méthode (pour tenir tête à qqn)
 \gn （对付别人的）办法、计策
-\et bdams.mŋags
+\bw Tibetan bdams.mŋags
 \dt 21/Aug/2015
 
 \lx βdeti
@@ -281,7 +282,7 @@
 \sn 2
 \ge bonne action 
 \gn 善事 
-\et bde.ba
+\bw Tibetan bde.ba
 \xv βdiwa ɲɤ-fkot 
 \xn 他做了善事
 
@@ -290,13 +291,13 @@
 \ge septième mois 
 \gn 七月 
 \hbf mois 
-\et bdun.pa
+\bw Tibetan bdun.pa
 
 \lx βdɯt
 \ps n
 \ge une sorte de monstre 
 \gn 魔鬼 
-\et bdud
+\bw Tibetan bdud
 \dt 30/Jan/2015
 
 \lx βɣa
@@ -499,7 +500,7 @@
 \ps n
 \ge lama
 \gn 喇嘛
-\et bla.ma
+\bw Tibetan bla.ma
 \dt 19/Feb/2014
 
 \lx βlɤmɤjmɤɣ
@@ -514,7 +515,7 @@
 \ps n
 \ge ministre 
 \gn 大臣 
-\et blon.po
+\bw Tibetan blon.po
 
 \lx boŋboŋ
 \ps idph.2
@@ -622,7 +623,7 @@
 \ps n
 \ge bien et mal 
 \gn 好坏 
-\et bzaŋ.ŋan
+\bw Tibetan bzaŋ.ŋan
 \xv ɯ-βzaŋɤnŋu kɯ-me 
 \xn 忘恩负义的人
 \dt 07/Aug/2014
@@ -631,7 +632,7 @@
 \ps n
 \ge récompense 
 \gn 奖赏
-\et bzaŋ.len
+\bw Tibetan bzaŋ.len
 \xv nɤ-βzaŋlɤn βze-a ra ma a-tɕɯ ɯ-sroʁ ko-tɯ-ri
 \xn 我要报你的恩，因为你救了我儿子的命
 \dt 10/Apr/2014
@@ -641,7 +642,7 @@
 \ge ami 
 \gn 朋友 
 \hbf 201 
-\et bzaŋ.sa
+\bw Tibetan bzaŋ.sa
 \xv ɯʑo kɯ ɯ-βzaŋsa ɯ-tshɤt tú-wɣ-sɯβzu-a ŋu
 \xn 他把我当朋友
 \dt 30/Aug/2015
@@ -658,7 +659,7 @@
 \ge excroissance sur les angles du toit 
 \gn 房背左右两角上的顶端 
 \hbf maison 
-\et bzur.ltɕog 
+\bw Tibetan bzur.ltɕog 
 \xv kha ɣɯ znde kɤ-βzu tɤ-jɤɣ tɕe ɯ-ʁɤri pɕoʁ χchoʁe tɯ-βzɯr ɯ-taʁ tu-kɤ-sɤmtɕoʁ nɯ βzɯrtɕoʁ rmi 
 \xn 房子的墙壁修完了的时候，在房子正面左右两角顶上修的尖角部分叫|fv{βzɯrtɕoʁ}
 \dt 18/May/2014
@@ -676,7 +677,7 @@
 \ge résidence 
 \gn 住宿
 \un 敬语
-\et bʑag.bʑugs 
+\bw Tibetan bʑag.bʑugs 
 \xv βlama ra kɯ kutɕu βʑaʁβʑɯɣ a-kɤ-nɯ-βzu-nɯ jɤɣ
 \xn 喇嘛可以在这里就寝
 \dt 27/Jan/2015
@@ -686,7 +687,7 @@
 \ps n
 \ge seau à lait 
 \gn 挤奶桶 
-\et bʑo.zo
+\bw Tibetan bʑo.zo
 \dt 29/Dec/2011
 
 \lx βʑɯ
@@ -695,14 +696,14 @@
 \ge souris 
 \gn 老鼠 
 \hbf animal 
-\et bʲi.ba
+\bw Tibetan bʲi.ba
 \dt 29/Dec/2011
 
 \lx βʑɯlu
 \ps n
 \ge année du rat 
 \gn 鼠年 
-\et bʲi.lo
+\bw Tibetan bʲi.lo
 \hbf 755
 
 \lx βʑɯndɤpa
@@ -718,7 +719,7 @@
 \ge dans cinq jours 
 \gn 五天以后 
 \hbf 743 
-\et bʑi
+\bw Tibetan bʑi
 \dt 06/Jan/2012
 
 \lx βʑɯndi
@@ -737,7 +738,7 @@
 \ge quatrième mois 
 \gn 四月 
 \hbf mois 
-\et bʑi.pa
+\bw Tibetan bʑi.pa
 \dt 05/May/2014
 
 \lx βʑɯrna
@@ -752,10 +753,10 @@
 \wav n-ca
 \ps n
 \ge chevrotin 
-\gn 獐子 
+\gn 麝香鹿 
 \hbf animal 
 \xv ca nɯ sɯŋgɯ kɯ-rnaʁ tsa cho stɤmku nɯ ra ku-rɤʑi ɲɯ-ŋu. sɯjno ma mɯ́j-ndze. ɯ-ku nɯ tshɤt ɯ-ku tsa ɲɯ-fse ri ɯ-ʁrɯ maŋe, ɯ-rna nɯ ra tshɤt wuma ɲɯ-fse, ɯ-phoŋbu ɯ-tshɯɣa nɯ ra li tshɤt ɲɯ-fse, ɯ-mɤlɤjaʁ nɯ ra tshɤt ɣɯ sɤznɤ ɲɯ-rɲɟi, ɯ-phoŋbu nɯ ɲɯ-xtshɯm, ɯ-mdoʁ nɯ ɲɯ-pɣi. ɯ-qa nɯ ta-ʁrɯ ɲɯ-ŋu, ɯ-jme kɯ-xtɯ-xtɯt ŋu. ɯ-jme ɯ-pa cho ɯ-xtɤpa lu-kɯ-ɕe nɯ ra ɲɯ-wɣrum. ɲɯ-ɣɤwu tɕe, tshɯtho skɤt tu-βze ɲɯ-ŋu. ɯ-ɕa ɯ-ŋgɯ ɯ-tʂɤm me, ɯ-ɕa ʁɟa ŋu, ɯ-ndʐi nɯ ɯ-χtsɤβ a-pɯ-βdi tɕe mba ri wuma ʑo ngɯt, tɕe kɯɕɯŋgɯ tɕe tɯ-xtsa ɯ-ku spa stu kɯ-pe pjɤ-ŋu. ca phu mu tu tɕe, cɤmu nɯ kɯ-rɤpɯ ɯ-spa ɲɯ-ŋu, cɤmtsho nɯ ɯ-mtsho tu tɕe, nɯ wuma ʑo smɤn kɯ-ʑru ɲɯ-ŋu, tɕe ɯ-phɯ wuma ʑo wxti. 
-\xn 獐子住在大森林和草地上。只吃草。头有点像山羊，但是没有角，耳朵很像山羊的耳朵，四肢比山羊的长一些，身子细，颜色是灰的。有蹄子，尾巴很短。尾巴下面和肚皮都是白色的。叫的时候发出小山羊的叫声。肉里没有脂肪，只有瘦肉。皮子搓揉好了以后，虽然薄但是很结实。在过去，是藏式皮鞋筒最好的材料。獐子有公母，母獐子下崽子，公獐子有麝香，是一种很名贵的药材，价格很高。 
+\xn 麝香鹿住在大森林和草地上。只吃草。头有点像山羊，但是没有角，耳朵很像山羊的耳朵，四肢比山羊的长一些，身子细，颜色是灰的。有蹄子，尾巴很短。尾巴下面和肚皮都是白色的。叫的时候发出小山羊的叫声。肉里没有脂肪，只有瘦肉。皮子搓揉好了以后，虽然薄但是很结实。在过去，是藏式皮鞋筒最好的材料。麝香鹿有公母，母鹿下崽子，公鹿有麝香，是一种很名贵的药材，价格很高。 
 \dt 22/Apr/2013
 
 \lx caŋ
@@ -764,7 +765,7 @@
 \ge mur en terre 
 \gn 土墙 
 \hbf 510 
-\et gʲaŋ
+\bw Tibetan gʲaŋ
 \dt 29/Dec/2011
 
 \lx caŋcaŋ
@@ -805,7 +806,7 @@
 \gn [獐子菌] 
 \hbf champignon 
 \xv cɤjmɤɣ nɯ tɯrgi ɯ-ŋgɯ tu-ɬoʁ ɲɯ-ŋu, ɯ-mdoʁ nɯ kɯ-ɤpɣɯlu ʁɟa ʑo nɯ ŋu, ɯ-rʑɯɣ nɯ ca ɯ-rme ɲɯ-fse, kɯ-wxti tsa ci ɲɯ-ŋu, ɯ-mdoʁ cho ɯ-rʑɯɣ nɯ ra ndʐa cɤjmɤɣ ɲɯ-rmi 
-\xn 獐子菌生长在杉木林里，通体灰色，菌褶像獐子的毛，有点大，因为它的颜色和菌褶像獐子，所以称它为“獐子菌”。 
+\xn 獐子菌生长在杉木林里，通体灰色，菌褶像麝香鹿（獐子）的毛，有点大，因为它的颜色和菌褶像獐子，所以称它为“獐子菌”。 
 \cf ca
 \cf tɤjmɤɣ
 \dt 12/Feb/2014
@@ -843,14 +844,14 @@
 \lx cɤmu
 \ps n
 \ge chevrotain femelle
-\gn 母獐子
+\gn 母麝香鹿
 \cf ca
 \dt 07/Aug/2014
 
 \lx cɤndʐi
 \ps n
 \ge peau de chevrotain 
-\gn 獐子皮 
+\gn 麝香鹿皮 
 \cf ca
 \cf tɯ-ndʐi
 \dt 07/Aug/2014
@@ -867,7 +868,7 @@
 \lx cɤrme
 \ps n
 \ge poil de chevrotain
-\gn 獐子毛
+\gn 麝香鹿毛
 \cf ca
 \cf tɤ-rme
 \dt 20/Dec/2012
@@ -892,7 +893,7 @@
 \ps n
 \ge bovidé au dos et au ventre blanc
 \gn 背部和肚子都是白色的牛
-\et kʰʲuŋ
+\bw Tibetan kʰʲuŋ
 \dt 31/Aug/2015
 
 \lx chɤci
@@ -1022,7 +1023,7 @@
 \ge chienne 
 \gn 母狗 
 \hbf animal
-\et kʰʲi.mo
+\bw Tibetan kʰʲi.mo
 
 \lx chɯrdom
 \wav n-chWrdom
@@ -1039,7 +1040,7 @@
 \ge rage 
 \gn 狂犬病 
 \hbf maladie 
-\et kʰʲi.smʲo
+\bw Tibetan kʰʲi.smʲo
 \xv chɯsɲu ɲɤ-k-ɤtɯɣ-ci
 \xn 它得了狂犬病
 \dt 05/Nov/2011
@@ -1384,7 +1385,7 @@
 \ge viande crue 
 \gn 生肉 
 \hbf 443 
-\et ɕa
+\bw Tibetan ɕa
 
 \lx ɕamɤr
 \ps n
@@ -1403,14 +1404,14 @@
 \ge pousse d'arbre 
 \gn 树苗 
 \hbf plante2 
-\et ɕiŋ
+\bw Tibetan ɕiŋ
 \cf tɯβli
 
 \lx ɕaŋpɕi
 \ps postp
 \ge à partir de ce moment
 \gn 从那以后 
-\et pʰʲis
+\bw Tibetan pʰʲis
 \dt 20/Jan/2015
 
 \lx ɕaŋpin
@@ -1423,14 +1424,14 @@
 \ps n
 \ge arbre fruitier 
 \gn 果树 
-\et ɕiŋ.tog
+\bw Tibetan ɕiŋ.tog
 
 \lx ɕaŋɯ
 \wav n-CaNW
 \ps n
 \ge période de chaleur des cerf 
 \gn 鹿发情 
-\et ɕʷa.ŋu
+\bw Tibetan ɕʷa.ŋu
 \dt 29/Dec/2011
 
 \lx ɕaqajɯ
@@ -1459,7 +1460,7 @@
 \ps n
 \ge ami
 \gn 朋友
-\et ɕag.po
+\bw Tibetan ɕag.po
 \xv a-ɕaχpu ŋu
 \xn 是我的朋友
 \dt 15/May/2012
@@ -1486,7 +1487,7 @@
 \ge genévrier 
 \gn 柏树 
 \hbf plante 
-\et ɕug
+\bw Tibetan ɕug
 \xv ɕɤɣ nɯ si kɯ-jpum kɯ-mbro ci ŋu, ɯ-ru nɯ tɯrgi sthɯci mɤ-jpum, mɤ-mbro, ɯ-rtaʁ nɯ tɯrgi ɯ-rtaʁ sɤznɤ jpum cho rɲɟi, taʁ tɤ-ari ɯ-jija tu-xtɯt ŋu, ɕɤɣ tɯrgi sɤznɤ ɯ-rtaʁ dɤn, ɯ-jwaʁ nɯ alɯlju, aɣɯrtɯrtaʁ, ɯ-mdoʁ nɯ ldʑaŋsɤr ŋu. ɕɤɣ ɣɯ ɯ-ru nɯ li tɤrɤm wuma ʑo kɯ-ʑru kɤ-sɯ-pa ŋu ma ɯ-rɯmu tu, ɯ-mdoʁ mpɕɤr, ɕɤɣ tɯ-phɯ tɕu ɕoŋtɕa lɤβdɤlɤŋu-rzɯɣ ma kɤ-ʁndzɤr mɤ-rtaʁ. ɯ-jwaʁ nɯ tɤ-fsaŋ spa stu kɯ-ʑru ŋu, pjɯ́-wɣ-tɕɤβ tɕe, ɯ-dɯχɯn wuma mɯm. ɯ-rqhu rɕɯrɕɯβ ʑo pa, aɣɯrnɯɕɯr. qartsɯmɤftɕar ɯ-mdoʁ ɲɯ-nɤsci mɤ-cha. 
 \xn 柏树是长得又粗又高的树种，树干没有杉树那么粗和高，枝桠比杉树的要粗和长，枝桠越是长在上面，就越短。柏树的枝桠比杉树的要多，叶子是圆柱形的，长很多枝桠，是淡绿色的，柏树也是制造木板的好材料，有条纹，颜色很美观。一棵柏树只能锯成四五节木料。叶子是烧香的最好的材料，烧了味道很香，树皮很粗，带有一点红色。颜色一年四季都不会变。
 \cf nɯɕɤɣ
@@ -1670,7 +1671,7 @@
 \ps n
 \ge musulman 
 \gn 回族 
-\et ɕar.pa
+\bw Tibetan ɕar.pa
 
 \lx ɕɤrzaŋ
 \ps n
@@ -1735,7 +1736,7 @@
 \gn （放的）假
 \xv jisŋi a-ɕintɕhi ŋu
 \xn 我今天放假
-\et fn:星期
+\bw Tibetan fn:星期
 \dt 08/Sep/2015
 
 \lx ɕirʁaʁ
@@ -1874,7 +1875,7 @@
 \ge oignon 
 \gn 葱 
 \hbf plante 
-\et fn:葱 
+\bw Tibetan fn:葱 
 \xv ɕkɤtshoŋ nɯ tɯ-ji ɯ-ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-qa nɯ ɯ-zrɤm kɯ-wɣrum ŋu, ɯ-ru me, ɯ-jwaʁ kɯ-ɤlɯlju tɕe qhoʁsjɯβ ŋu, ɯ-ku tu-omtɕoʁ ŋu, ɯ-dɯχɯn mɯm, tɕeri kɤ-smi tɕe ɯ-di ɲɯ-me ɕti. 
 \xn |fv{ɕkɤtshoŋ}是自己种在地里的（农作物），须根白色，没有茎，叶子圆柱形、空心。顶部尖，有香味，但煮熟后就没有香味了。
 
@@ -2050,7 +2051,7 @@
 \ge élément du métier à tisser 
 \gn 用来提经线的织具 
 \hbf tissage 
-\et snas 
+\bw Tibetan snas 
 \xv ɕnat nɯ kɤ-taʁ ɯ-ʁjar ɯ-taʁ tu-ɕɯrqoʁ tɕe ɯ-sqar ɯ-tu-kɯ-sɯ-βzu ɣɯ tɤ-ri ŋu, ɯ-tu-kɯ-rɤɕi ndʑu nɯ ɕnat-ndʑu rmi 
 \xn |fv{ɕnat}是用来钩住经线，使经线上下交叉的线，提着这种线的木棒叫|fv{ɕnat-ndʑu}
 \dt 20/May/2013
@@ -2104,7 +2105,7 @@
 \ge tabac à priser 
 \gn 鼻烟 
 \hbf objet traditionel 
-\et du.ba
+\bw Tibetan du.ba
 \xv ɕnɤto tɤ-nɯ-lat-a 
 \xn 我吸了鼻烟。
 \dt 29/Dec/2011
@@ -2114,7 +2115,7 @@
 \ge tabatière 
 \gn 鼻烟壶 
 \hbf objet traditionel 
-\et sna.du.ba.ru
+\bw Tibetan sna.du.ba.ru
 
 \lx ɕnoʁɕnoʁ
 \wav ideo-CnoR-b
@@ -2242,7 +2243,7 @@
 \ge fer noir
 \gn 黑铁
 \cf ɕom
-\et nag
+\bw Tibetan nag
 \dt 17/May/2014
 
 \lx ɕomskrɯt 
@@ -2322,7 +2323,7 @@
 \ps n
 \ge bois 
 \gn 木料 
-\et ɕiŋ.tɕʰa
+\bw Tibetan ɕiŋ.tɕʰa
 
 \lx ɕoŋthi
 \ps adv
@@ -2333,7 +2334,7 @@
 \ps n
 \ge fruit
 \gn 果子
-\et ɕiŋ.tog
+\bw Tibetan ɕiŋ.tog
 \sy sɯmat
 \cf ɕaŋtoʁ
 \dt 12/May/2014
@@ -2355,7 +2356,7 @@
 \ge papier 
 \gn 纸 
 \hbf 647 
-\et ɕog
+\bw Tibetan ɕog
 \xv ɕoʁɕoʁ kɯ smi mɤ-mphɯr
 \xn 纸包不住火（你的坏事总有一天会暴露出来）
 \cf arɯɕoʁɕoʁ
@@ -2715,7 +2716,7 @@
 \ps n
 \ge carte 
 \gn 牌戏
-\et ɕo
+\bw Tibetan ɕo
 \xv ɕu pɯ-lɤt-tɕi tɕe pɯ-ta-ɕɯnŋo
 \xn 我们俩打牌的时候，我把你打败了
 \dt 20/May/2013
@@ -2920,7 +2921,7 @@
 \ps n
 \ge lentement 
 \gn 慢 
-\et dal
+\bw Tibetan dal
 \xv kɤ-rɯɕmi daltsa tɤ-pe ɲɯ-ra 
 \xn 请你说话稍微慢一点
 
@@ -3217,7 +3218,7 @@
 \ps n
 \ge ordre 
 \gn 命令 
-\et bka
+\bw Tibetan bka
 
 \lx fkurzʁe
 \ps n
@@ -3240,7 +3241,7 @@
 \xn 他求了烟子
 \xv fsaŋ tɤ-ta-t-a
 \xn 我求了烟子
-\et bsaŋ
+\bw Tibetan bsaŋ
 \cf sɯfsaŋ
 \cf tɤfsaŋ
 \dt 05/May/2014
@@ -3265,7 +3266,7 @@
 \ps n
 \ge fumigations 
 \gn 烧香拜佛冒出来的烟 
-\et bsaŋ.mtɕʰod
+\bw Tibetan bsaŋ.mtɕʰod
 
 \lx fsapaʁ
 \ps n
@@ -3365,7 +3366,7 @@
 \ge divinité protectrice 
 \gn 神仙 
 \hbf 668 
-\et bsruŋ.ma
+\bw Tibetan bsruŋ.ma
 \dt 20/Aug/2015
 
 \lx fsusqi
@@ -3383,7 +3384,7 @@
 \ps n
 \ge méthode
 \gn 办法
-\et btɕa.ka
+\bw Tibetan btɕa.ka
 \xv tɤ-rɤku kɤ-mɯrkɯ ftɕaka wuma ʑo βze
 \xn 它想尽办法偷吃庄稼
 \cf aftɕaka
@@ -3411,7 +3412,7 @@
 \sn 1
 \ge organisation
 \gn 指挥、安排（事情）
-\et btɕa.bkod?
+\bw Tibetan btɕa.bkod?
 \xv jisŋi kɤ-nɤma kɯkɯra thamtɕɤt aʑo ji-ftɕɤfkɤt tu-βze-a
 \xn 今天我们要做的工作，我来指挥
 \sn 2
@@ -3446,14 +3447,14 @@
 \ge dixième mois 
 \gn 十月 
 \hbf mois 
-\et btɕu.pa
+\bw Tibetan btɕu.pa
 
 \lx ftɕɯʁɲɯz
 \ps n
 \ge douzième mois 
 \gn 十二月 
 \hbf mois 
-\et btɕu.gɲis.pa
+\bw Tibetan btɕu.gɲis.pa
 \dt 20/May/2013
 
 \lx ftɕɯχtɕɯɣ
@@ -3461,7 +3462,7 @@
 \ge onzième mois 
 \gn 十一月 
 \hbf mois 
-\et btɕu.gtɕig.pa
+\bw Tibetan btɕu.gtɕig.pa
 
 \lx ftsaʁra
 \ps n
@@ -3473,7 +3474,7 @@
 \ps n
 \ge force
 \gn 强制性的办法
-\et btsan.po
+\bw Tibetan btsan.po
 \xv kɤ-nɤɲɟɯɲɟu mɯ-mɤ-ɲɯ-khɯ nɤ, ftsɤnbu tú-wɣ-βzu ɲɯ-ɬoʁ
 \xn 软的不行，就要来硬的
 \dt 03/Sep/2015
@@ -3818,7 +3819,7 @@
 \ge lumière et chaleur (du soleil)
 \gn 光和热量（太阳的） 
 \hbf 3 
-\et ɦod
+\bw Tibetan ɦod
 \xv tɤŋe ɯ-ɣot
 \xn 太阳光
 \cf smɯɣot
@@ -3904,7 +3905,7 @@
 \ps n
 \ge appât, leurre
 \gn 鱼饵、诱饵
-\et gzan
+\bw Tibetan gzan
 \xv ɯ-fsa ɯ-ŋgɯ ɯ-ɣzɤn pɯ-pɯ-me nɤ mɤ-ɕe
 \xn 如果在陷阱里没有诱饵，（动物）是不会进去的
 \dt 26/Aug/2015
@@ -4030,7 +4031,7 @@
 \ge étriers 
 \gn 马镫 
 \hbf 592 
-\et job.tɕan
+\bw Tibetan job.tɕan
 \dt 16/Dec/2012
 
 \lx jaftɕinkha
@@ -4047,7 +4048,7 @@
 \sn 2
 \ge à ce moment 
 \gn 在那个时候 
-\et jar.mar
+\bw Tibetan jar.mar
 
 \lx jaŋjaŋ
 \wav ideo-jaN-b
@@ -4074,7 +4075,7 @@
 \ge fusil 
 \gn 枪 
 \hbf 635 
-\et fn:洋炮
+\bw Tibetan fn:洋炮
 
 \lx japa
 \wav8 japa
@@ -4091,7 +4092,7 @@
 \gn 前年 
 \hbf 780
 
-\lx jaqhɤrŋgɤβ{lɤt}
+\lx jaqhɤrŋgɤβ,lɤt
 \ps n
 \pdl dir
 \pdv nɯ-
@@ -4111,7 +4112,7 @@
 \ps n
 \ge chercher à gagner de l'argent par tout les moyens 
 \gn 拉关系，到处想办法赚钱 
-\et jar.mar
+\bw Tibetan jar.mar
 \xv jaramara to-βzu-j 
 \xn 我们拉了关系想办法到处赚钱
 \dt 05/May/2014
@@ -4180,7 +4181,7 @@
 \ps n
 \ge rideau 
 \gn 帘 
-\et jol.ba
+\bw Tibetan jol.ba
 
 \lx jɤmtsa
 \wav n-jAmtsa
@@ -4199,14 +4200,14 @@
 \hbf maison 
 \xv kha ɣɯ jɤɣɤt cho khɤxtu nɯ ra jɤnlaʁ rmi 
 \xn 房子的走缘和房背都叫|fv{jɤnlaʁ}
-\et jan.lag
+\bw Tibetan jan.lag
 
 \lx jɤntɤn
 \wav n-jAntAn
 \ps n
 \ge savoir 
 \gn 技术、知识 
-\et jon.tan
+\bw Tibetan jon.tan
 \xv nɤ-jɤntɤn, @qiche kɤ-lɤt tu
 \xn 你的技术是开汽车
 \cf nɯjɤntɤn
@@ -4276,7 +4277,7 @@
 \ge année du lapin 
 \gn 兔年 
 \hbf 758 
-\et yos.lo
+\bw Tibetan yos.lo
 \dt 30/Dec/2011
 
 \lx jiɕqha
@@ -4289,7 +4290,7 @@
 \ps n
 \ge village
 \gn 村庄（有地、有房子的地方）
-\et jul
+\bw Tibetan jul
 \dt 28/Apr/2014
 
 \lx jilco
@@ -4303,7 +4304,7 @@
 \ps n
 \ge maïs 
 \gn 玉米 
-\et fn:御麦
+\bw Tibetan fn:御麦
 \hbf plante
 
 \lx jinɤji
@@ -4318,7 +4319,7 @@
 \ps cnj
 \ge non seulement... mais... 
 \gn 既……又…… 
-\et jin.pa.la
+\bw Tibetan jin.pa.la
 \xv jisŋi ɲɯ-jɯm jinbalazɯ, qale ɣɤʑu 
 \xn 今天既是晴天又刮风
 \dt 10/Dec/2014
@@ -4507,7 +4508,7 @@
 \ge lettre 
 \gn 信、书 
 \hbf 644 
-\et ji.ge
+\bw Tibetan ji.ge
 
 \lx jɯɣmɯr
 \wav adv-jWGmWr
@@ -4521,7 +4522,7 @@
 \ps n
 \ge épouse de sprulsku 
 \gn 活佛的妻子 
-\et jum
+\bw Tibetan jum
 
 \lx jɯxɕo
 \wav adv-jWfCo
@@ -4545,7 +4546,7 @@
 \ge colle 
 \gn 胶 
 \hbf 613 
-\et ɴbʲar
+\bw Tibetan ɴbʲar
 \dt 09/Apr/2014
 
 \lx ɟɤrɯru
@@ -4670,7 +4671,7 @@
 \ge bovidé de couleur noire dont le ventre et les pattes sont blancs 
 \gn 全身是黑色的，肚皮和脚白色的牛 
 \hbf bovidé 
-\et dkar.nag
+\bw Tibetan dkar.nag
 
 \lx kaŋi
 \wav n-kaNi
@@ -4685,7 +4686,7 @@
 \ps n
 \ge tasse (avec une poignée) 
 \gn 带把的杯子 
-\et fn:缸缸
+\bw Tibetan fn:缸缸
 
 \lx karɣi
 \wav n-karGi
@@ -5028,7 +5029,7 @@
 \ge porcelaine 
 \gn 瓷碗
 \hbf objet traditionel 
-\et dkar.jol
+\bw Tibetan dkar.jol
 \xv kɤrjɤl popo, kɤrjɤl tɕhorzi kɤrjɤl khɯtsa
 \xn 瓷碗
 \dt 20/Oct/2011
@@ -5051,14 +5052,14 @@
 \ge première période du mois 
 \gn 上半月 
 \hbf 775 
-\et dkar.ŋo
+\bw Tibetan dkar.ŋo
 
 \lx kɤrpu
 \wav n-kArpu
 \ps n
 \ge chaux
 \gn 石灰
-\et dkar.po
+\bw Tibetan dkar.po
 \xv kha ɯ-taʁ kɤrpu ta-lɤt
 \xn 他抹了墙
 \dt 20/Oct/2011
@@ -5146,7 +5147,7 @@
 \ge année du chien 
 \gn 狗年 
 \hbf 765 
-\et kʰʲi.lo
+\bw Tibetan kʰʲi.lo
 
 \lx kha
 \ps n
@@ -5170,7 +5171,7 @@
 \ps n
 \ge couvercle 
 \gn 锅的盖子 
-\et kʰa.leb
+\bw Tibetan kʰa.leb
 \hbf 547 
 \dt 10/Dec/2014
 
@@ -5178,7 +5179,7 @@
 \ps n
 \ge gris clair 
 \gn 灰白色 
-\et kʰam.pa
+\bw Tibetan kʰam.pa
 
 \lx khamba
 
@@ -5198,13 +5199,13 @@
 \ps n
 \ge architecte 
 \gn 建筑师，设计房子的人 
-\et kʰaŋ.bkod
+\bw Tibetan kʰaŋ.bkod
 
 \lx khari
 \ps n
 \ge turban 
 \gn 包头巾 
-\et kʰa.dkris
+\bw Tibetan kʰa.dkris
 \hbf 474
 
 \lx kharwut
@@ -5212,7 +5213,7 @@
 \ge fièvre aphteuse 
 \gn 口蹄疫 
 \hbf maladie 
-\et *kʰa.rbod
+\bw Tibetan *kʰa.rbod
 
 \lx khatoʁ
 \ps n
@@ -5224,14 +5225,14 @@
 \xn 制作花带的时候要有不同颜色的线
 \xv mɯntoʁ ɯ-mdoʁ ɲɯ-mpɕɤr khatoʁ ʑo ɣɤʑu
 \xn 花的颜色很漂亮，各种颜色都有
-\et kʰa.dog
+\bw Tibetan kʰa.dog
 \dt 12/May/2014
 
 \lx khatʂu
 \ps n
 \ge merci 
 \gn 谢谢
-\et kʰa.dro
+\bw Tibetan kʰa.dro
 
 \lx khatʂulɤfsɤm
 \ps intj
@@ -5243,7 +5244,7 @@
 \ge proverbe 
 \gn 谚语 
 \hbf 653 
-\et kʰa.dpe
+\bw Tibetan kʰa.dpe
 
 \lx khɤβdɤr
 \wav n-khABdAr
@@ -5260,7 +5261,7 @@
 \ps n
 \ge parole auspicieuse
 \gn 吉利的话
-\et kʰa.brda
+\bw Tibetan kʰa.brda
 \xv khɤβrda kɯ-sna ta-βzu
 \xn 他说了吉利的话 
 \xv nɯnɯ ma-tɯ-ti ma khɤβrda mɤ-kɯ-sna ɲɯ-ŋu
@@ -5279,7 +5280,7 @@
 \ge formule de politesse pour exprimer son arrivée
 \gn 客人表明自己到来的客套话
 \un 主人说|fv{nɤ-tʂu}，客人说|fv{khɤβzaŋ}
-\et kʰa.bzaŋ
+\bw Tibetan kʰa.bzaŋ
 \dt 06/Sep/2015
 
 \lx khɤcɤl
@@ -5318,7 +5319,7 @@
 \xn 我给了他哈达
 \xv sprɯskɯ kɯ a-khɤdaʁ tha-lɤt
 \xn 活佛给了我哈达
-\et kʰa.btags
+\bw Tibetan kʰa.btags
 \dt 01/Aug/2013
 
 \lx khɤdɤrdɤr
@@ -5345,7 +5346,7 @@
 \gn 祈祷 
 \xv ʑɯβdaʁ ɯ-ɕki khɤfɕɤt tɤ-βzu-t-a
 \xn 我向山神祈祷了
-\et kʰa.bɕad
+\bw Tibetan kʰa.bɕad
 \dt 05/May/2014
 
 \lx khɤjlɤn
@@ -5356,7 +5357,7 @@
 \xv kɤ-qur khɤjlɤn tɤ-nɯβzu-t-a ɕti
 \xn 我答应帮他，我发誓要帮他
 \cf nɯkhɤjlɤn
-\et kʰas.len
+\bw Tibetan kʰas.len
 \dt 27/Jan/2015
 
 \lx khɤjmu
@@ -5404,7 +5405,7 @@
 \ps n
 \ge cérémonie 
 \gn 庆祝的仪式 
-\et kʰams.lha?
+\bw Tibetan kʰams.lha?
 \dt 30/Dec/2011
 
 \lx khɤndɤcu
@@ -5419,7 +5420,7 @@
 \ps n
 \ge lecture de sutra 
 \gn 念经 
-\et kʰa.ɴdon
+\bw Tibetan kʰa.ɴdon
 \dt 03/Aug/2014
 
 \lx khɤndzo
@@ -5436,7 +5437,7 @@
 \gn 界限、交界地方 
 \xv tɯ-kɤrme ɯ-khɤntshɤm 
 \xn 开始长头发的地方
-\et kʰa.mtsʰams
+\bw Tibetan kʰa.mtsʰams
 \dt 30/May/2013
 
 \lx khɤɴqra
@@ -5466,7 +5467,7 @@
 \xv khɤphrɯ ma-tɤ-tɯ-lɤt
 \xn 你不要喷水
 \cf nɯkhɤphrɯ
-\et kʰa.pʰru
+\bw Tibetan kʰa.pʰru
 \dt 22/Oct/2014
 
 \lx khɤpɯ
@@ -5501,7 +5502,7 @@
 \xv a-khɤrma pa-βzu
 \xn 他咒了我
 \cf sɯkhɤrma
-\et *kʰa.rma
+\bw Tibetan *kʰa.rma
 \cf ɯ-rɟa
 \dt 19/Aug/2015
 
@@ -5556,7 +5557,7 @@
 \xv tɤfsɤri ɯ-taʁ khɤsnɯm thɯ-lat-a
 \xn 我用口水把麻绳弄湿
 \cf nɯkhɤsnɯm
-\et *kʰa.snum
+\bw Tibetan *kʰa.snum
 \dt 06/May/2014
 
 \lx khɤsta
@@ -5605,7 +5606,7 @@
 \ps n
 \ge saleté entre les dents 
 \gn 牙垢
-\et kʰa.tsa
+\bw Tibetan kʰa.tsa
 
 \lx khɤtshoʁ
 \ps n
@@ -5674,7 +5675,7 @@
 \ps n
 \ge sac pour nourrir les chevaux, que l'on attache à sa bouche 
 \gn 喂马的食料袋，系在嘴上 
-\et kʰa.sgʲe
+\bw Tibetan kʰa.sgʲe
 
 \lx khiɤɣ
 \ps idph.1
@@ -5710,14 +5711,14 @@
 \ge chambre 
 \gn 房间 
 \hbf maison 
-\et kʰaŋ
+\bw Tibetan kʰaŋ
 \dt 29/Dec/2014
 
 \lx khoŋdaʁ
 \ps n
 \ge ancêtre 
 \gn 祖宗 
-\et kʰaŋ.bdag
+\bw Tibetan kʰaŋ.bdag
 \hbf famille
 
 \lx khoŋrɤl
@@ -5727,7 +5728,7 @@
 \xv si khoŋrɤl tɤ-kɯ-ɤri
 \xn 空心树
 \dv si ɯ-ŋgɯ tɤ-kɯ-so nɯnɯ tɕe khoŋrɤl tɤ-kɯ-ɤri tu-kɯ-ti ɕti
-\et kʰoŋ.ral
+\bw Tibetan kʰoŋ.ral
 \dt 12/Jul/2013
 
 \lx khorca
@@ -5745,7 +5746,7 @@
 \ps n
 \ge chien au pelage bariolé
 \gn 身上有花斑的狗
-\et *kʰra.lʷa
+\bw Tibetan *kʰra.lʷa
 \dt 17/Jul/2013
 
 \lx khramba
@@ -5756,7 +5757,7 @@
 \xn 他说了谎话
 \xv khramba rɟɤlpu
 \xn 假的国王
-\et kʰram.ba
+\bw Tibetan kʰram.ba
 \cf nɯkhramba
 \cf rɯkhramba
 \dt 29/Aug/2015
@@ -5772,14 +5773,14 @@
 \ge épouse 
 \gn 妻子 
 \hbf famille 
-\et *kʰrel.mo
+\bw Tibetan *kʰrel.mo
 \dt 24/Jun/2014
 
 \lx khrɤlpa
 \ps n
 \ge époux 
 \gn 丈夫 
-\et *kʰrel.pa
+\bw Tibetan *kʰrel.pa
 \hbf famille
 
 \lx khri
@@ -5787,7 +5788,7 @@
 \ge lit 
 \gn 床 
 \hbf 526 
-\et kʰri
+\bw Tibetan kʰri
 
 \lx khro
 \ps n
@@ -5799,7 +5800,7 @@
 \ps n
 \ge fer blanc 
 \gn 生铁 
-\et kʰro
+\bw Tibetan kʰro
 \dt 30/Dec/2011
 
 \lx khrɯɣnɤkhrɯɣ
@@ -5835,7 +5836,7 @@
 \ps n
 \ge châtiment 
 \gn 刑 
-\et kʰrims
+\bw Tibetan kʰrims
 \dt 30/Dec/2011
 
 \lx khrɯmbjɤm
@@ -5868,7 +5869,7 @@
 \ge dix mille 
 \gn 10000 
 \hbf 827 
-\et kʰri.tsho
+\bw Tibetan kʰri.tsho
 \dt 23/Sep/2014
 
 \lx khrɯtsusqi
@@ -6014,7 +6015,7 @@
 \ge armature en bois pour porter des charges sur le dos 
 \gn 背架 
 \hbf objet traditionel 
-\et kʰur.ɕiŋ
+\bw Tibetan kʰur.ɕiŋ
 
 \lx khɯrndɯɣ
 \ps n
@@ -6138,13 +6139,13 @@
 \ps n
 \ge cuir teint en rouge 
 \gn 染成红色的皮子 
-\et ko.ba.dmar
+\bw Tibetan ko.ba.dmar
 
 \lx konaʁ
 \ps n
 \ge cuir teint en noir 
 \gn 染成黑色的皮子 
-\et ko.ba.nag
+\bw Tibetan ko.ba.nag
 
 \lx kontsɤɣdɯ
 \wav n-kontsAGdW
@@ -6169,7 +6170,7 @@
 \ge récipient 
 \gn 罐子 
 \hbf 545 
-\et fn:罐子
+\bw Tibetan fn:罐子
 
 \lx koŋi
 \wav n-koNi
@@ -6200,7 +6201,7 @@
 \ge empereur 
 \gn 皇帝 
 \hbf 198 
-\et goŋ.ma rgʲal.po
+\bw Tibetan goŋ.ma rgʲal.po
 
 \lx koŋtaʁ
 \ps n
@@ -6232,7 +6233,7 @@
 \ps n
 \ge cuir non teint 
 \gn 没有染色的皮子 
-\et ko.ba.skʲa
+\bw Tibetan ko.ba.skʲa
 \dt 05/Jun/2011
 
 \lx kota
@@ -6251,7 +6252,7 @@
 \ge méthode 
 \gn 办法 
 \hbf 678 
-\et bkol.ba 
+\bw Tibetan bkol.ba 
 \xv ɯʑo ɯ-kowa tu 
 \xn 他有办法
 \cf nɯkowa
@@ -6263,7 +6264,7 @@
 \ge soie
 \gn 丝绸 
 \hbf 465 
-\et gos.tɕʰen
+\bw Tibetan gos.tɕʰen
 \xv koxtɕin kɯ-qarŋe ci ɲɯ-ŋu
 \dt 04/Sep/2015
 
@@ -6272,7 +6273,7 @@
 \ge soie 
 \gn 丝绸 
 \hbf 463 
-\et gos.tɕʰen.ras
+\bw Tibetan gos.tɕʰen.ras
 
 \lx koʑi
 \ps n
@@ -6291,7 +6292,7 @@
 \xv krɤlma nɤrŋi ɯ-ŋgo ŋu, ɲɯ-nɯtɯfɕɤl tɕe ɯ-qe kɯ-qarŋe ŋu, karɣi ɯ-mɯntoʁ fse 
 \xn |fv{krɤlma}是婴儿的病，他拉肚子时大便是黄色的，像是菜子花。
 \cf nɯkrɤlma
-\et grol.ma
+\bw Tibetan grol.ma
 \dt 27/Aug/2012
 
 \lx kroŋwa
@@ -6322,7 +6323,7 @@
 \ge jeu d'échec 
 \gn 棋 
 \hbf 658 
-\et ɴbrel
+\bw Tibetan ɴbrel
 \cf nɯkumbrɤl
 \dt 09/Oct/2011
 
@@ -6333,7 +6334,7 @@
 \ge chien de garde 
 \gn 看门狗 
 \hbf animal 
-\et kʰʲi
+\bw Tibetan kʰʲi
 \dt 23/Dec/2014
 
 \lx kumpɣa
@@ -6445,7 +6446,7 @@
 \ps n
 \ge gypaète barbu 
 \gn 胡兀鹫 
-\et ko.bo
+\bw Tibetan ko.bo
 \hbf oiseau
 
 \lx kuxtɕo
@@ -6556,7 +6557,7 @@
 \gn 旱獭 
 \hbf animal 
 \xv kɯɕpaz nɯ rɯŋgu tsa ku-rɤʑi ŋu, ɯ-ɣɲɟɯ ɯ-ŋgɯ ku-rɤʑi ɲɯ-ŋu, kɯ-wxti kɯ ɣnɤsqi tɯ-rpa jamar tu, ʁzɯɣ kɯ-ɤɣɯrnɯɕɯr tu, ɯ-scɯʁzɯɣ βɣɯz cho naχtɕɯɣ tsa, qartsɯ kɤ-tsu tɕe, ɯ-ɣɲɟɯ ɯ-ŋgɯ lu-cɯ ɲɯ-ŋgrɤl, wuma ʑo tshu ɲɯ-ŋgrɤl, ftɕar tɕe chɯ-nɯɬoʁ, cɯ tɤkha tɕe pɕaʁ tu-βze tɕe ``ɣɯjpa qartsɯ ɕawu rambɯm a-taʁ a-mɤ-ɣɯ-kɤ-rŋgɯ smɯlɤm" tu-ti ɲɯ-ŋgrɤl, ma ɯʑo qartsɯ tɕe wuma ɲɯ-tshu, ɕawu rambɯm wuma ʑo kɯ-wxti tɕe kɯ-mpja ɲɯ-ŋu, tɕe kɯɕpaz ɯ-taʁ ɯ-stu nɯ tɕu kɤ-rŋgɯ tɕe, ɯ-tɯ-mpja kɯ kɯɕpaz nɯ pjɯ́-wɣ-ftʂi ɲɯ-ŋgrɤl, tɕe núndʐa kɯɕpaz khɤfɕɤt tu-βze ɲɯ-ŋgrɤl. kɯ-ɣɤrʁaʁ ra kɯ ɯ-ɣɲɟɯ ɯ-kɯm zɯ tɤ-rcoʁ rɯlɯ thɤstɯɣ kɯ-tu tu-rtsi-nɯ tɕe, ɯ-ŋgɯ kɯɕpaz thɤstɯɣ tu nɯ pjɯ-sɯχsɤl-nɯ ɲɯ-ŋgrɤl. mbroʁpa kɯ fsapaʁ ɯ-βraʁ ŋu tu-ti-nɯ ɲɯ-ŋgrɤl, tɕe tú-wɣ-nɤrʁaʁ qha-nɯ, ɯ-sɤ-dɤn nɯ mbroʁpa sɤtɕha ŋu. 
-\xn 旱獭生活在高山的洞穴里。大的有二十来斤，是红色的，外貌有点像獾。冬天长肥了的时候，就会在洞穴冬眠。据说要冬眠时，它拱着手祈祷：“今年冬天不希望有独角公鹿来睡在我的上面”，因为它在冬天很肥，独角公鹿很大，热量高，会让旱獭融化掉，所以旱獭要祈祷。猎人们数着旱獭洞口贴着的泥球就知道洞穴里住着多少只旱獭。放牧人说它是牲畜的象征，所以讨厌猎捕。旱獭繁殖比较多的地方在牧区。 
+\xn 旱獭生活在高山的洞穴里。大的有二十来斤，是红色的，外貌有点像獾。冬天长肥了的时候，就会在洞穴冬眠。据说要冬眠时，它拱着手祈祷：“今年冬天不希望有独角公鹿来睡在我的上面”，因为它在冬天很肥，独角公鹿很大，热量高，会让旱獭融化掉，所以旱獭要祈祷。猎人们数着旱獭洞口贴着的泥球就知道洞穴里住着多少只旱獭。放牧人说它是牲畜的象征，所以讨厌猎捕。旱獭繁殖比较多的地方在牧区。
 
 \lx kɯɕte
 \wav adv-kWCte
@@ -6606,8 +6607,8 @@
 \ge belette 
 \gn 黄喉貂 
 \hbf animal 
-\xv kɯjkɤkɕi nɯ ʁnɯz nɤ ʁnɯz nɯ tɯtɯrca ku-rɤʑi ɲɯ-ŋgrɤl, ca tu-βɟi ŋgrɤl, ca nɯ sɯku tɤ-ari tɕe ɯ-rca sɯku chɯ-ɕe tɕe ɕ-pjɯ-ɣɤrɤt ŋgrɤl. pa-sat tɕe, ca ɯ-rme tu-ndze tu-z-mɤke, ɯ-qhu tɕe nɯ kóʁmɯz ɯ-ɕa tu-ndze chɯ-ɕkɯt-nɯ mɤ-cha. ɯ-mdoʁ nɯ kɯ-ɲaʁ kɯ-ɤɣɯrnɯɕɯr ŋu, kɯ-xtshɯm kɯ-zri kɯ-fse ŋu, ɯ-mtɕhi kɯ-ɤmtɕoʁ, ɯ-rna qachɣa ɯ-rna kɯ-fse ɲɯ-ŋu, ɯ-jme kɯ-zɯ-zri ŋu.
-\xn 黄喉貂一对一对地呆在一起，会追獐子，獐子上树了，它也跟着上树，最后把獐子甩下来，把它弄死。吃獐子的时候，先吃完獐子的毛再吃肉，所以吃不完。颜色是黑里带红的，身子细而长，嘴尖，耳朵像狐狸的耳朵，尾巴很长。 
+\xv kɯjkɤkɕi nɯ ʁnɯz nɤ ʁnɯz nɯ tɯtɯrca ku-rɤʑi ɲɯ-ŋgrɤl, ca tu-βɟi ŋgrɤl, ca nɯ sɯku tɤ-ari tɕe ɯ-rcɯrca sɯku tu-ɕe tɕe ɕ-pjɯ-ɣɤrɤt ŋgrɤl. pa-sat tɕe, ca ɯ-rme tu-ndze tu-z-mɤke, ɯ-qhu tɕe nɯ kóʁmɯz ɯ-ɕa tu-ndze chɯ-ɕkɯt-nɯ mɤ-cha. ɯ-mdoʁ nɯ kɯ-ɲaʁ kɯ-ɤɣɯrnɯɕɯr ŋu, kɯ-xtshɯm kɯ-zri kɯ-fse ŋu, ɯ-mtɕhi kɯ-ɤmtɕoʁ, ɯ-rna qachɣa ɯ-rna kɯ-fse ɲɯ-ŋu, ɯ-jme kɯ-zɯ-zri ŋu.
+\xn 黄喉貂一对一对地呆在一起，会追麝香鹿，麝香鹿上树了，它也跟着上树，最后把麝香鹿甩下来，把它弄死。吃麝香鹿的时候，先吃完麝香鹿的毛再吃肉，所以吃不完。颜色是黑里带红的，身子细而长，嘴尖，耳朵像狐狸的耳朵，尾巴很长。 
 \dt 20/Oct/2014
 
 \lx kɯjŋu
@@ -6725,12 +6726,12 @@
 \ge membres de la famille 
 \gn 亲戚 
 \hbf famille 
-\et mdza
+\bw Tibetan mdza
 \xv kɯmdza mɤ-arɕɤt-i
 \xn 我们没有血缘关系
 \xv kɯmdza tu-j
 \xn 我们有血缘关系
-\et mdzaɦ
+\bw Tibetan mdzaɦ
 \dt 13/Aug/2012
 
 \lx kɯmŋɤsqi
@@ -6760,7 +6761,7 @@
 \ps n
 \ge Triratna 
 \gn 三宝 
-\et kun.mtɕʰog.gsum
+\bw Tibetan kun.mtɕʰog.gsum
 \dt 22/Oct/2013
 
 \lx kɯmtɕhɯ
@@ -6776,7 +6777,7 @@
 \ge seuil 
 \gn 门槛 
 \hbf 515 
-\et gdan
+\bw Tibetan gdan
 \cf tɤ-ʁdɤn
 \cf kɯm
 
@@ -6862,7 +6863,7 @@
 \ps n
 \ge personne assujettie à la corvée 
 \gn 专为土司背东西的人（乌拉） 
-\et ɦu.lag
+\bw Tibetan ɦu.lag
 
 \lx kɯɲidi
 \ps n
@@ -6942,7 +6943,7 @@
 \ge panthère 
 \gn 豹子 
 \hbf animal 
-\et gzigs
+\bw Tibetan gzigs
 \xv kɯrtsɤɣ nɯ aʁɤndɯndɤt tu ŋgrɤl, ɯ-mdoʁ kɤ-qarŋɯrŋe ɯ-taʁ kɯ-ɲaʁ kɤ-khra ŋu, ɯ-mtɕhirme kɯ-wɣrum ŋu, ɯ-mɤlɤjaʁ ɯ-ndzrɯ cho lɯlu ɯ-mɤndzrɯ fse, ɯ-jme kɯnɤ akhra, ɯ-jme ɯ-ku tɯ-snaʁ kɯ-wɣrum ŋu. tshɤt qaʑo wuma kɤ-ndza rga, nɯŋa kɯ-fse li pjɯ-sat cha, jla mbro kɯ-fse nɯ ra kɯ-dɤn mɤ-kɤm. 
 \xn 豹子到处都有，颜色是淡黄色，上有黑色的斑点，胡须是白色的，爪子和猫的一样，尾巴也是花的，尾巴的尖端有白点。很喜欢吃羊，也能杀死奶牛，但没有能力打败犏牛和马。 
 \dt 21/Oct/2011
@@ -6960,7 +6961,7 @@
 \ge menuisier 
 \gn 木匠 
 \hbf 185 
-\et ɕiŋ.bzo
+\bw Tibetan ɕiŋ.bzo
 
 \lx kɯrɯɕɤmɯɣdɯ
 \ps n
@@ -7042,7 +7043,7 @@
 \ge armoire 
 \gn 柜子 
 \hbf 528
-\et fn:柜子
+\bw Tibetan fn:柜子
 
 \lx laβdelɤŋu
 \ps num
@@ -7119,14 +7120,14 @@
 \ge outil 
 \gn 工具 
 \hbf 604 
-\et lag.ldan
+\bw Tibetan lag.ldan
 \dt 01/Jan/2012
 
 \lx laʁjɯɣ
 \ps n
 \ge bâton 
 \gn 棍子 
-\et lag.dbʲug
+\bw Tibetan lag.dbʲug
 \dt 01/Sep/2014
 
 \lx laʁma
@@ -7153,7 +7154,7 @@
 \ge moulin à prière 
 \gn 手摇转经筒 
 \hbf objet traditionel 
-\et lag.ɴkʰor
+\bw Tibetan lag.ɴkʰor
 \dt 05/May/2014
 
 \lx laʁrda
@@ -7161,7 +7162,7 @@
 \ge geste 
 \gn 手势 
 \hbf 1229 
-\et lag.brda
+\bw Tibetan lag.brda
 \dt 05/May/2014
 
 \lx laʁrdɤβ
@@ -7178,7 +7179,7 @@
 \ge tambour à main 
 \gn 长柄鼓 
 \hbf objet traditionel 
-\et lag.rŋa
+\bw Tibetan lag.rŋa
 
 \lx laʁsta
 \ps n
@@ -7205,7 +7206,7 @@
 \ps n
 \ge type d'offrande au dieux, un des éléments utilisé pour faire les gtorma 
 \gn 供奉鬼神的一种物品 
-\et lag.bzo
+\bw Tibetan lag.bzo
 
 \lx lawa
 \ps n
@@ -7241,7 +7242,7 @@
 \ge objet 
 \gn 东西 
 \hbf 523 
-\et lag.tɕʰa
+\bw Tibetan lag.tɕʰa
 \dt 05/May/2014
 
 \lx laχthɤβ
@@ -7273,7 +7274,7 @@
 \ps n
 \ge
 \gn 腊肉 
-\et fn:腊肉
+\bw Tibetan fn:腊肉
 
 \lx lɤchu
 \ps adv
@@ -7289,7 +7290,7 @@
 \ge endroit sur le toit où l'on plante un rlung-rta et où l'on élève un tas de silex 
 \gn 屋顶上插有经幡、用白燧石堆积而成的石堆（嘉绒式敖包） 
 \hbf maison 
-\et la.btsas
+\bw Tibetan la.btsas
 \xv lɤftsɤz nɯ khɤxtɤmbro ɣɯ ɯ-qhu znde tu-kɯ-ɣi ɣɯ akɯ andi ɯ-χcɤl li znde kɯ-xtɕi ci kɯ-ɤβʑɯrdu, kha ɯ-znde sɤznɤ tɤ-ʁar jamar tu-ro ra, znde cho ɯ-tɯ-jaʁ kɯ-naχtɕɯɣ thɯ-kɤ-βzu ci ŋu, ɯ-χcɤl kɯ-spoʁ ŋu, ɯ-kɤχcɤl zɯ qapi tú-wɣ-rmbɯ ŋu, ɯ-χcɤl nɯ tɕu tshɤχɕaŋ, rloŋrta, nɯ ra pjɯ́-wɣ-sɤtsa ŋu, kɯrɯ kha ɯ-lɤftsɤz kɯ-me me. 
 \xn |fv{lɤftsɤz}是房背墙顶上左右两边的中间再修一堵和外墙一样厚的四方形小墙，中间有小洞，顶上要堆上白石头，在中间插上|fv{tshɤχɕaŋ}、经幡等。所有藏房都有|fv{lɤftsɤz}。 
 \dt 19/May/2014
@@ -7327,7 +7328,7 @@
 \ge radis 
 \gn 萝卜 
 \hbf plante
-\et la.pʰug
+\bw Tibetan la.pʰug
 \dt 19/Sep/2015
 
 \lx lɤsɤr
@@ -7338,7 +7339,7 @@
 \ge nouvel an 
 \gn 新年 
 \hbf 795 
-\et lo.gsar
+\bw Tibetan lo.gsar
 \xv lɤsɤr a-pɯ-tɯ-scit-nɯ 
 \xn 新年快樂
 \xv @eryue @sanhao tɕe ji-lɤsɤr ɲɯ-ŋu, kɯrɯlɤsɤr
@@ -7377,14 +7378,14 @@
 \ps n
 \ge mauvaise chance
 \gn 霉气
-\et las.ŋan
+\bw Tibetan las.ŋan
 \dt 16/May/2014
 
 \lx lɤzŋɤntɕɤn
 \ps n
 \ge malchanceux
 \gn 最倒霉的人
-\et las.ŋan.tɕan
+\bw Tibetan las.ŋan.tɕan
 \dt 20/Aug/2015
 
 \lx lbjɯlbjɯɣ
@@ -7525,7 +7526,7 @@
 \ge vert 
 \gn 绿（布料、线） 
 \hbf 1009 
-\et ldʑaŋ.kʰu
+\bw Tibetan ldʑaŋ.kʰu
 \cf arɯldʑaŋkɯ
 \dt 05/Oct/2013
 
@@ -7533,14 +7534,14 @@
 \ps n
 \ge vert foncé
 \gn 深绿色
-\et ldʑaŋ.nag
+\bw Tibetan ldʑaŋ.nag
 \dt 10/Mar/2014
 
 \lx ldʑɯŋldʑɯŋ
 \ps idph.2
 \ge bleu (ciel) 
 \gn 形容天的蓝色
-\et ldʑaŋ
+\bw Tibetan ldʑaŋ
 \xv tɯmɯ ɲɯ-ɤrŋi ldʑɯŋldʑɯŋ ʑo 
 \xn 天空蓝蓝的样子
 
@@ -7578,7 +7579,7 @@
 \ps n
 \ge cuivre 
 \gn 铜 
-\et li
+\bw Tibetan li
 \dt 25/Dec/2012
 
 \lx ljɤɣljɤɣ
@@ -7671,7 +7672,7 @@
 \ge tout 
 \gn 一切 
 \hbf 962 
-\et lon.pa
+\bw Tibetan lon.pa
 \xv lonbɯnba 
 \xn 所有一切
 \dt 20/Jan/2015
@@ -7681,7 +7682,7 @@
 \ge éléphant 
 \gn 大象 
 \hbf animal 
-\et glaŋ.po.tɕʰe
+\bw Tibetan glaŋ.po.tɕʰe
 \dt 04/Jan/2015
 
 \lx loŋloŋ
@@ -7715,7 +7716,7 @@
 \gn 装修
 \xv iʑo loŋrzoŋ kosɯ-βzu-j
 \xn 我在装修房子
-\et loŋ.rdzoŋ
+\bw Tibetan loŋ.rdzoŋ
 \dt 12/Aug/2012
 
 \lx loʁskɤr
@@ -7862,7 +7863,7 @@
 \ge signe astrologique 
 \gn 生肖 
 \hbf 767 
-\et lo
+\bw Tibetan lo
 \xv nɤʑo tɕhi lu tɯ-ŋu 
 \xn 你属什么？
 \xv a-lu na-rtsi
@@ -7874,14 +7875,14 @@
 \ge année du mouton 
 \gn 羊年 
 \hbf 762 
-\et lug.lo
+\bw Tibetan lug.lo
 
 \lx lɯɣmbrɯm
 \ps n
 \ge maladie du ventre 
 \gn 风丹 
 \hbf maladie 
-\et lug.ɴbrum
+\bw Tibetan lug.ɴbrum
 \xv ɲɯ-rɤʑa pha tɯ-phoŋbu ʑo kɯ-ɤmɯrmɯrmbat ʑo tɤ-ndɤr ɲɯ-ɬoʁ tɕe nɯ lɯɣmbrɯm rmi. tɯ-phoŋbu nɯ-ɤci cho nɯ-mɯɕtaʁ tɕe ɲɯ-ɬoʁ ŋu 
 \xn 全身痒，痘痘长得很密，叫作风丹。身体淋湿，发冷的情况下就会出现。
 \dt 30/Apr/2014
@@ -7959,7 +7960,7 @@
 \ge récolte des plantes que l'on a semées et des plantes sauvage 
 \gn 庄稼和野草 
 \hbf plante 
-\et lo.tog
+\bw Tibetan lo.tog
 
 \lx lɯzlɯz
 \ps idph.2
@@ -8026,13 +8027,13 @@
 \ge bouddha 
 \gn 佛 
 \hbf 672 
-\et lha
+\bw Tibetan lha
 
 \lx ɬarɯɣ
 \ps n
 \ge réincarnation d'un dieu 
 \gn 神的化身 
-\et lha.rigs
+\bw Tibetan lha.rigs
 
 \lx ɬasaŋga
 \ps n
@@ -8066,7 +8067,7 @@
 \ge démon 
 \gn 鬼 
 \hbf 669 
-\et lha.ɴdre
+\bw Tibetan lha.ɴdre
 \dt 10/Sep/2013
 
 \lx ɬɤndʐismi
@@ -8104,7 +8105,7 @@
 \ge nakṣatra anurādhās 
 \gn 房宿 
 \hbf astronomie 
-\et lha.mtsʰams
+\bw Tibetan lha.mtsʰams
 \xv ɬɤntshɤm cho sla ni nɯ-atɯɣ-ndʑi tɕe, sla nɯ ɬɤntshɤm ɯ-rqoʁ zɯ a-pɯ-ɕe tɕe ɣɯjpa taχpa pe kɤ-ti ŋu, sla nɯ ɬɤntshɤm ɣɯ ɯ-jaʁmɤχa a-pɯ-ɕe tɕe, taχpa nɤkɤro kɤ-ti ŋu, ɯ-thɤcu a-pɯ-ɕe tɕe, taχpa mɤ-pe kɤ-ti ŋu 
 \xn 房宿和月亮相逢时，假如月亮到房宿的“手腕”以下，收成很好，假如月亮到房宿的“大拇指”和“食指”之间，收成中等，假如月亮再往下，收成不好。 
 \dt 15/Jan/2013
@@ -8456,7 +8457,7 @@
 \ge masque de danse 
 \gn 跳神时戴的面具 
 \hbf objet traditionel 
-\et ɴbag.mgo
+\bw Tibetan ɴbag.mgo
 \dt 28/Apr/2014
 
 \lx mbɤxɕɯβ
@@ -8534,7 +8535,7 @@
 \ge tonnerre 
 \gn 雷 
 \hbf 8 <2> 1248 
-\et mbrug.glog
+\bw Tibetan mbrug.glog
 \xv mbɣɯrloʁ to-βzu 
 \xn 打雷了
 \dt 01/Jan/2012
@@ -8638,7 +8639,7 @@
 \ge riz 
 \gn 米 
 \hbf plante 
-\et ɴbras
+\bw Tibetan ɴbras
 \dt 01/Jan/2012
 
 \lx mbro²
@@ -8667,7 +8668,7 @@
 \ge yak sauvage 
 \gn 野牦牛 
 \hbf animal 
-\et ɴbroŋ
+\bw Tibetan ɴbroŋ
 \dt 01/Jan/2012
 
 \lx mbroqa
@@ -8680,7 +8681,7 @@
 \ps n
 \ge nomades 
 \gn 牧民 
-\et mbrog.pa
+\bw Tibetan mbrog.pa
 
 \lx mbrosta
 \ps n
@@ -8707,7 +8708,7 @@
 \ge année du dragon 
 \gn 龙年 
 \hbf 759 
-\et ɴbrug.lo
+\bw Tibetan ɴbrug.lo
 
 \lx mbrɯtɕɯ
 \wav n-mbrWtCW
@@ -8725,7 +8726,7 @@
 \ps n
 \ge salaire d'un lama 
 \gn 和尚的工资 
-\et ɴbul.ba
+\bw Tibetan ɴbul.ba
 \dt 17/Dec/2014
 
 \lx mbɯmχtɤr
@@ -8734,7 +8735,7 @@
 \ge cent mille 
 \gn 100000 
 \hbf 831 
-\et ɴbum.tʰer
+\bw Tibetan ɴbum.tʰer
 \dt 01/Jan/2012
 
 \lx mbɯrlɤn
@@ -8743,7 +8744,7 @@
 \ge rabot 
 \gn 刨 
 \hbf 611 
-\et ɴbur.len
+\bw Tibetan ɴbur.len
 \cf nɯmbɯrlɤn
 \dt 11/Jan/2015
 
@@ -8766,7 +8767,7 @@
 \gn 预知力
 \xv ɯ-mchɯnba ɣɤʑu
 \xn 他有预知力
-\et mkʰʲen.pa
+\bw Tibetan mkʰʲen.pa
 \dt 08/Sep/2015
 
 \lx mcɯphɯt
@@ -8806,7 +8807,7 @@
 \ge damaru 
 \gn 鼗 
 \hbf objet traditionel 
-\et ɖa.ma.ru
+\bw Tibetan ɖa.ma.ru
 \dt 25/Mar/2014
 
 \lx mdaʁʑɯɣ
@@ -8814,7 +8815,7 @@
 \ps n
 \ge arc et flèches 
 \gn 弓箭 
-\et mda.gʑu
+\bw Tibetan mda.gʑu
 \dt 01/Jan/2012
 
 \lx mdɯtpa
@@ -8822,7 +8823,7 @@
 \ge nœud que fait un lama en attachant un bsrungs 
 \gn 喇嘛打护身线的结 
 \hbf objet traditionel 
-\et mdud.pa
+\bw Tibetan mdud.pa
 
 \lx mdzadi
 \wav n-mdzadi
@@ -8850,7 +8851,7 @@
 \ge mdzo de couleur blanche 
 \gn 白色的犏牛
 \hbf bovidé 
-\et mdzo.dkar
+\bw Tibetan mdzo.dkar
 \dt 31/Aug/2015
 
 \lx mdzumɤr
@@ -8858,7 +8859,7 @@
 \ge mdzo de couleur marron claire 
 \gn 褐色的犏牛
 \hbf bovidé 
-\et mdzo.dmar
+\bw Tibetan mdzo.dmar
 \dt 31/Aug/2015
 
 \lx mdzurgi
@@ -8872,7 +8873,7 @@
 \ps n
 \ge yak hybride au pelage bariolé
 \gn 杂色的犏牛（看起来是青色的）
-\et mdzo.sŋon
+\bw Tibetan mdzo.sŋon
 \dt 31/Aug/2015
 
 \lx mdʐɯɕɯɣ
@@ -8880,7 +8881,7 @@
 \ge punaise 
 \gn 臭虫 
 \hbf animal 
-\et ɴdre.ɕig
+\bw Tibetan ɴdre.ɕig
 
 \lx me²
 \ps postp 
@@ -8904,7 +8905,7 @@
 \ge corne où l'on met la poudre à fusil 
 \gn 火药角 
 \hbf objet traditionel 
-\et mgʲogs.rwa
+\bw Tibetan mgʲogs.rwa
 
 \lx mkɤɣɯr
 \wav n-mkAGWr
@@ -8919,7 +8920,7 @@
 \ge peuple 
 \gn 百姓 
 \hbf 177 
-\et ɴkʰor.dmaŋs
+\bw Tibetan ɴkʰor.dmaŋs
 \dt 20/May/2014
 
 \lx mkhɤrŋa
@@ -8927,7 +8928,7 @@
 \ge gong 
 \gn 锣 
 \hbf 660 
-\et ɴkʰar.rŋa
+\bw Tibetan ɴkʰar.rŋa
 
 \lx mkhɤscoʁ
 \ps n
@@ -8949,14 +8950,14 @@
 \ge prison 
 \gn 监狱 
 \hbf 68 
-\et kʰrims.kʰaŋ
+\bw Tibetan kʰrims.kʰaŋ
 
 \lx mkhɯrlɤmnɯ
 \ps n
 \ge perceuse 
 \gn 钻子 
 \hbf 609 
-\et ɴkʰor.lo
+\bw Tibetan ɴkʰor.lo
 
 \lx mkhɯrlu
 \wav n-mkhWrlu
@@ -8964,7 +8965,7 @@
 \ge roue 
 \gn 轮子 
 \hbf 587 
-\et ɴkʰor.lo
+\bw Tibetan ɴkʰor.lo
 \dt 01/Jan/2012
 
 \lx mɲaqrɯ
@@ -9023,20 +9024,20 @@
 \ps n
 \ge tout le monde
 \gn 群众
-\et mi.dmaŋs
+\bw Tibetan mi.dmaŋs
 \dt 13/May/2014
 
 \lx mɲirɟit
 \ps n
 \ge progéniture 
 \gn 孩子 
-\et mi
+\bw Tibetan mi
 
 \lx mɲirɯri
 \ps n
 \ge chaque personne 
 \gn 每个人 
-\et mi.re.re
+\bw Tibetan mi.re.re
 \xv mɲirɯri nɯ kɯ nɯ-kɤ-sɯso nɯ to-nɯ-ti-nɯ 
 \xn 每个人讲了自己的想法
 \xv mɲirɯri nɯ ɯ-tɯrju ɯ-tshɯɣa mɯ́j-naχtɕɯɣ
@@ -9049,7 +9050,7 @@
 \ge yéti 
 \gn 野人 
 \hbf 670 
-\et mi.rgod
+\bw Tibetan mi.rgod
 \dt 01/Jan/2012
 
 \lx mɲɯrɟɤβ
@@ -9064,7 +9065,7 @@
 \ge humeur 
 \gn 脾气，态度 
 \hbf 679 
-\et mi.gʑi
+\bw Tibetan mi.gʑi
 \xv ɯ-mɲɯʁʑi βdi 
 \xn 他脾气好
 \cf nɯmɲɯʁʑi
@@ -9109,7 +9110,7 @@
 \ge chien 
 \gn 狗 
 \hbf animal 
-\et kʰʲi
+\bw Tibetan kʰʲi
 
 \lx moɣɤz
 \wav n-moGAz
@@ -9177,7 +9178,7 @@
 \ge habit tibétain en laine 
 \gn 氆氇 
 \hbf 489 
-\et pʰrug
+\bw Tibetan pʰrug
 \dt 21/Jul/2014
 
 \lx mphrɯmdɯt
@@ -9185,7 +9186,7 @@
 \ge groupe de neuf nœuds (sur un khatag ou avec un fil normal) 
 \gn 在哈达上打九个结 
 \hbf objet traditionel 
-\et ɴpʰreŋ.mdud
+\bw Tibetan ɴpʰreŋ.mdud
 
 \lx mphrɯmɯ
 \ps n
@@ -9226,7 +9227,7 @@
 \ps n
 \ge nourriture destinée aux monastères
 \gn 供神的粮食
-\et mtɕʰod.ɴbru
+\bw Tibetan mtɕʰod.ɴbru
 \dv rgɯnba lu-kɤ-lɤt ɣɯ tɤ-rɤku nɯ ra mtɕhɤnmbrɯ tu-kɯ-ti ŋu
 \dn 供给寺庙的粮食叫做{mchodmbru}
 \xv rgɯnba smi pɯ́-wɣ-βlɯ tɕe, (fsaŋ lɤ́-wɣ-ta tɕe) tɤ-khɯ tu-tɕɤt nɯ ɣɯ ɯ-ŋgɯ kú-wɣ-lɤt cho rgɯnba lú-wɣ-sɤri ŋu
@@ -9239,7 +9240,7 @@
 \ge lampe à beurre allumée 
 \gn 点过的酥油灯 
 \hbf objet traditionel 
-\et mtɕʰod.me
+\bw Tibetan mtɕʰod.me
 
 \lx mtɕhɤtkho
 \wav n-mtChAtkho
@@ -9247,7 +9248,7 @@
 \ge endroit où l'on fait des fumigations rituelles 
 \gn 烧香的地方、经堂 
 \hbf maison 
-\et mtɕʰod.kʰaŋ
+\bw Tibetan mtɕʰod.kʰaŋ
 \dt 08/Jan/2012
 
 \lx mtɕhi
@@ -9273,7 +9274,7 @@
 \ge stûpa 
 \gn 塔 
 \hbf 72 
-\et mtɕʰod.rten
+\bw Tibetan mtɕʰod.rten
 \dt 08/Jan/2012
 
 \lx mtɕhɯtsaʁ
@@ -9306,7 +9307,7 @@
 \ge feu mon père 
 \gn 去世了的父亲 
 \hbf famille 
-\et mtʰo.ris
+\bw Tibetan mtʰo.ris
 \xv a-wa mthuri 
 \xn 我已故的父亲 
 \dt 05/May/2014
@@ -9316,7 +9317,7 @@
 \ps n
 \ge mantra 
 \gn 咒经 
-\et mtʰu
+\bw Tibetan mtʰu
 \xv mthɯ cho-lɤt
 \xn 他念了咒经
 \xv ɯ-mthɯ thɯ-lat-a 
@@ -9339,7 +9340,7 @@
 \ge rênes 
 \gn 缰绳 
 \hbf 596 
-\et mtʰur.mda
+\bw Tibetan mtʰur.mda
 \dt 09/Jan/2012
 
 \lx mthɯxtɕɤr
@@ -9408,7 +9409,7 @@
 \xn 我觉得奇怪，其他人不冷，我却觉得很冷
 \xv nɯ tɕhi pɯ-ŋu kɯma mɯ́j-sɯʁjit-a tɕe mtshɤri ɲɯ-sɯsam-a
 \xn 很奇怪，我根本就想不起到底是什么回事
-\et mtshar
+\bw Tibetan mtshar
 \cf sɤmtshɤr
 \dt 25/Apr/2014
 
@@ -9416,14 +9417,14 @@
 \ps n
 \ge animal mythique vivant dans la mer (hippopotame) 
 \gn 海象（河马） 
-\et mtsʰo.glaŋ
+\bw Tibetan mtsʰo.glaŋ
 
 \lx mtshoʁzaŋ
 \ps n
 \ge la plus grosses des casseroles en cuivre 
 \gn 最大的红铜锅子 
 \hbf 545 
-\et mtsʰog.zaŋs
+\bw Tibetan mtsʰog.zaŋs
 \xv mtshoʁzaŋ nɯ tɯthɯ ɯ-ŋgɯz stu ʑo kɯ-wxti ŋu, tɯ-ci kɯɕnɯz zɯm tɕhɯt tu-kɯ-ti pjɤ-ŋu tɕe, tɯ-zɯm nɯ kɯtʂɤsqi kɯɕnɤsqi tɯ-rpa kɯ-tɕhɯt tu. ɯ-spa nɯ zaŋ ŋu, ɯ-mŋu kɯ-jɯ-jom ŋu, ɯ-mŋu tɕhi kɯ-jom nɯ ɯ-phoŋbu kɯnɤ jpum, ɯ-mthɤɣ ri ɯ-xtɕɤr kɯ-fse ci ku-ɕe ŋu tɕe nɯ ɯ-mthɯxtɕɤr tu-ti-nɯ ŋgrɤl. ɯ-mthɯxtɕɤr cho ɯ-mŋu ɯ-pɤrthɤβ nɯ ra thɯci tsuku ʑo ɯ-χpi ku-oʑɯrja ŋu, qaɟy ɯ-χpi, pɣa ɯ-χpi, lɤntsa, ʁjaŋtʂoŋ, rɟanaʁ tɕaʁri, kɯɕnom nɯ ra tu. mtshoʁzaŋ nɯ kɯɕɯŋgɯ rgɯnba kɯ-wxti tɯrme kɯ-dɤn ɣɯ nɯ-tʂha sɤ-ta, tɯ-tshi ɯ-sɤ-βzu nɯ ra pjɤ-ŋu. 
 \xn |fv{mtshoʁzaŋ}是锅里面最大的一种，据说能装七桶水，每一桶有六七十斤重。是用红铜铸成的。口很宽，口有多宽锅身就有多粗，在锅身中间箍着一根薄铜条，人们说是锅子的腰带。腰带和口之间排列着各种各样的图案，有鱼形花纹、鸟形花纹以及各种佛教图纹。过去，在大寺庙和人多的时候用来熬茶，煮粥。 
 \dt 05/May/2014
@@ -9439,7 +9440,7 @@
 \ps n
 \ge arme 
 \gn 武器 
-\et mtsʰon.tɕʰa
+\bw Tibetan mtsʰon.tɕʰa
 \dt 20/Mar/2014
 
 \lx mtshɯzwɤr
@@ -9469,7 +9470,7 @@
 \ge nakṣatra hasta 
 \gn 轸宿 
 \hbf astronomie 
-\et me.bʑi
+\bw Tibetan me.bʑi
 
 \lx mɯɣ
 \cf ɕmɯɣ
@@ -9496,7 +9497,7 @@
 \ge toutes sortes
 \gn 各种各样 
 \un 古语
-\et mi.ɴdra.mi.gtɕig
+\bw Tibetan mi.ɴdra.mi.gtɕig
 \dt 14/Jul/2014
 
 \lx mɯntoʁ
@@ -9506,7 +9507,7 @@
 \ge fleur 
 \gn 花 
 \hbf plante2 
-\et me.tog
+\bw Tibetan me.tog
 \xv mɯntoʁ ɯ-spa
 \xn 蓓蕾
 \xv stɤmku mɯntoʁ ɲɤ-lɤt
@@ -9521,7 +9522,7 @@
 \ps n
 \ge fleur jaune
 \gn 金色的黄花
-\et me.tog.gser.tɕan
+\bw Tibetan me.tog.gser.tɕan
 \dt 05/May/2014
 
 \lx mɯɴɢɯ
@@ -9581,7 +9582,7 @@
 \ps adv
 \ge toute sortes de 
 \gn 各种各样 
-\et mi.tɕʰi.mi.rigs
+\bw Tibetan mi.tɕʰi.mi.rigs
 \xv tɯ-ŋga mɯtɕhɯmɯrɯz ɲɯ-xcat ʑo 
 \xn 有各种各样的衣服
 \dt 30/Jan/2015
@@ -9592,7 +9593,7 @@
 \ge poudre 
 \gn 火药 
 \hbf 640 
-\et mu.zi
+\bw Tibetan mu.zi
 \dt 09/Jan/2012
 
 \lx naŋɕa
@@ -9609,7 +9610,7 @@
 \ge partie intérieure des habits tibétains 
 \gn 衣服里子（藏装） 
 \hbf objet traditionel 
-\et naŋ.ma
+\bw Tibetan naŋ.ma
 
 \lx naŋrzoŋ
 \wav8 naNrzoN
@@ -9650,14 +9651,14 @@
 \ge seconde période du mois 
 \gn 下半月 
 \hbf 776 
-\et nag.ŋo
+\bw Tibetan nag.ŋo
 
 \lx natɕhɯ
 \wav n-natChW
 \ps n
 \ge marais
 \gn 沼泽（草坪上）
-\et na.tɕʰu
+\bw Tibetan na.tɕʰu
 \dt 03/Oct/2011
 
 \lx naχkɯ
@@ -9678,7 +9679,7 @@
 \ge bol 
 \gn 瓷碗，上面有青稞穗子的印 
 \hbf objet traditionel 
-\et nas.ɴbru.ma
+\bw Tibetan nas.ɴbru.ma
 \dt 09/Jan/2012
 
 \lx nɤmkha
@@ -9686,7 +9687,7 @@
 \ge ciel 
 \gn 天 
 \hbf 1 
-\et nam.mkʰa
+\bw Tibetan nam.mkʰa
 \dt 15/Dec/2012
 
 \lx nɤŋgiolo
@@ -9706,7 +9707,7 @@
 \ps n
 \ge pâturage 
 \gn 牧场 
-\et nor.ba
+\bw Tibetan nor.ba
 \dt 12/Apr/2012
 
 \lx nɤrwɯ
@@ -9715,7 +9716,7 @@
 \ge trésor 
 \gn 宝贝 
 \hbf 482 
-\et nor.bu
+\bw Tibetan nor.bu
 \dt 12/Apr/2012
 
 \lx nɤʁarphɤβ
@@ -9850,7 +9851,7 @@
 \ps n
 \ge le monde 
 \gn 世界 
-\et ɴdzam.gliŋ
+\bw Tibetan ɴdzam.gliŋ
 \dt 07/Oct/2014
 
 \lx ndzɤβrta
@@ -9976,7 +9977,7 @@
 \ps n
 \ge hôte 
 \gn 远方的客人 
-\et mgron.po
+\bw Tibetan mgron.po
 \xv ndʐɯnbu ɕe-a
 \xn 我要出差
 \cf nɯndʐɯnbu
@@ -9997,7 +9998,7 @@
 \ge arc-en-ciel 
 \gn 彩虹 
 \hbf 11 
-\et ndʑa
+\bw Tibetan ndʑa
 \xv thaχtsa ɯ-rkɯ khatoʁ lu-kɯ-ɕe nɯ ɯ-ndʑa rmi 
 \xn 花带边的彩色竖条叫|fv{ɯ-ndʑa} 
 \dt 09/Jan/2012
@@ -10103,7 +10104,7 @@
 \ps n
 \ge tapis de selle
 \gn 鞍垫
-\et naŋ.stan
+\bw Tibetan naŋ.stan
 \dt 15/Dec/2012
 
 \lx nóʁmɯz
@@ -10221,7 +10222,7 @@
 \ps adv
 \ge autant 
 \gn 那么多 
-\et tʰams.tɕad
+\bw Tibetan tʰams.tɕad
 
 \lx nɯtɕetha
 \ps vt
@@ -10249,7 +10250,7 @@
 \hbf 947
 \sn 2
 \ge à ce moment-là
-\gn 在那个时候 
+\gn 在那个时候
 
 \lx nɯtɯtɕhɯ
 \ps vt
@@ -10277,7 +10278,7 @@
 \ps n
 \ge lit
 \gn 床
-\et ɲal.kʰri
+\bw Tibetan ɲal.kʰri
 \dt 13/Aug/2012
 
 \lx ɲaɲa
@@ -10350,7 +10351,7 @@
 \ge feu (homme décédé) 
 \gn 去世了的男人 
 \hbf famille 
-\et ɲes.pa
+\bw Tibetan ɲes.pa
 \xv ɲɤspa a-nɯ-tɯ-βze 
 \xn 你去死吧！
 \dt 20/May/2013
@@ -10360,7 +10361,7 @@
 \ge feue (femme décédée) 
 \gn 去世了的女人 
 \hbf famille 
-\et ɲes.ma
+\bw Tibetan ɲes.ma
 \dt 20/May/2013
 
 \lx ɲcɣɤɲcɣɤt
@@ -10587,7 +10588,7 @@
 \an ŋɤnŋɤt
 \dt 19/May/2014
 
-\lx ŋɤtɕɯkɤti{khɯ}
+\lx ŋɤtɕɯkɤti,khɯ
 \pdl dir
 \pdv tɤ-
 \ge obéir en tous points
@@ -10636,7 +10637,7 @@
 \ps n
 \ge désastre 
 \gn 祸事
-\et ɴgoŋ.po
+\bw Tibetan ɴgoŋ.po
 \dt 12/May/2014
 
 \lx ŋgorli
@@ -10652,7 +10653,7 @@
 \ps n
 \ge chef 
 \gn 领导 
-\et ɴgo.mdʑug
+\bw Tibetan ɴgo.mdʑug
 \dt 09/Jan/2012
 
 \lx ŋgurtɕaʁ
@@ -10686,7 +10687,7 @@
 \ps n
 \ge chant mystique
 \gn 道情
-\et mgur
+\bw Tibetan mgur
 
 \lx ŋgɯr²
 \ps idph.2
@@ -10721,7 +10722,7 @@
 \ge paysan 
 \gn 农民 
 \hbf 178 
-\et ɴkʰor.ba.pa
+\bw Tibetan ɴkʰor.ba.pa
 \dt 11/Feb/2014
 
 \lx ŋkhrɯli
@@ -10797,7 +10798,7 @@
 \gn 杂种牛 
 \dt 09/Jan/2012
 
-\lx ɴɢartɯm{ɣɯt}
+\lx ɴɢartɯm,ɣɯt
 \a ɴɢaftɯm
 \wav n-NGartWm
 \wav n-NGartWm2 
@@ -10900,7 +10901,7 @@
 \ge tissu de laine 
 \gn 呢子 
 \hbf 464 
-\et bal
+\bw Tibetan bal
 \dt 08/Dec/2012
 
 \lx ɴɢɯɴɢli
@@ -10947,7 +10948,7 @@
 \ps n
 \ge un mantra 
 \gn 六字真言 
-\et om.ma.ni.padme.hum.hri
+\bw Tibetan om.ma.ni.padme.hum.hri
 \dt 27/Apr/2014
 
 \lx pa
@@ -10998,7 +10999,7 @@
 \ps n
 \ge gelugspa 
 \gn 黄教 
-\et panɖita
+\bw Tibetan panɖita
 
 \lx panja
 \ps n
@@ -11026,7 +11027,7 @@
 \ps n
 \ge xylographe
 \gn 印版
-\et par.ɕiŋ
+\bw Tibetan par.ɕiŋ
 \xv parɕaŋ pɯ-rkaz-a
 \xn 我刻了印版
 \dt 12/Jun/2014
@@ -11036,7 +11037,7 @@
 \ge porc 
 \gn 猪 
 \hbf animal 
-\et pʰag
+\bw Tibetan pʰag
 \xv paʁ nɯ kha pjɯ-kɤ-nɯ-χsu ŋu tɕe, ɯ-ɕa kɤ-ndza ɯ-spa ŋu, paʁ nɯ ɯ-rme kɯ-ɲaʁ tu, kɤ-khra tu, kɯ-ɣɯrni tu, kɯ-wɣrum tu, tsuku ɯ-xtu kɯ-wɣrum ɯ-ro ra kɯ-ɲaʁ tu, ɯ-mi kɯ-wɣrum tu, ɯ-jme ɯ-ku kɯ-wɣrum tu, ɯ-laz tɯ-snaʁ kɯ-wɣrum tu, paʁ kɯ mɤ-ndze ʑo me, tɯ-xpa ʁnɯ-xpa jamar cho-χsu tɕe kɤ-ntɕha tu-βze ŋu, paʁ ɯ-pɯ ta-ndo tɕe, kɯβdɤ-sla tɕe chɯ-rɤpɯ ŋu, ɯ-pɯ nɯ tɯ-ɣjɤn na-lɤt tɕe, kɯ-dɤn sqi sqaptɯɣ jamar kɯ-tu tu, ʁnɯz jamar ma kɯ-me tu, paʁɕa nɯ ɯ-ɕɤmi ɕa cho ɯ-rnom ɯ-ɕa nɯ stu kɯ-mɯm ŋu. paʁɕa laʑu chɯ́-wɣ-tɕɤt khɯ, tɤ-ŋgɤr pjɯ́-wɣ-qaʁ khɯ, tɕhi kɯ-ra tú-wɣ-stu khɯ. 
 \xn 猪是自己在家里喂的，可以用来吃肉。猪有黑毛的，有花毛的，有红毛的，有白毛的。有些腹部是白色的，其它的腹部是黑色的。有的脚是白的，有的尾端白，有的额头上有白点。猪什么都吃，喂了一两年就可以宰了。猪怀小猪要四个月才下，每胎多的有十一头，少的只有两头。猪肉是大腿上和排骨最香。可以弄成腊肉，也可以剥成猪膘，根据需要怎么弄都行。
 
@@ -11084,7 +11085,7 @@
 \ge enclos à cochons 
 \gn 猪圈 
 \hbf maison 
-\et ɴkʰor
+\bw Tibetan ɴkʰor
 \dt 04/Sep/2015
 
 \lx paʁkho
@@ -11160,7 +11161,7 @@
 \ps n
 \ge ivoire 
 \gn 象牙 
-\et ba.so
+\bw Tibetan ba.so
 \dt 15/Apr/2012
 
 \lx paχpatʂɯβ
@@ -11197,7 +11198,7 @@
 \ge courge 
 \gn 瓜子的一种[南瓜] 
 \hbf plante 
-\et fn:北瓜
+\bw Tibetan fn:北瓜
 \xv pɤjka nɯ lu-kɤ-ji ci ŋu, tɤ-rɤku rca pjɯ́-wɣ-ji ŋu. sɤtɕha kɯ-mpja tsa ɬoʁ, rpɣo pɕoʁ kɯ-mɯɕtaʁ tu-ɬoʁ mɤ-cha. ɯ-jwaʁ ɯ-qhu pɕoʁ ɯ-mdzu dɤn tɕe ɯ-rʁom ʑo tɤ-jmɤɣ ɯ-sɤ-χtɕi pe, ɯ-jwaʁ wxti, ɯ-βzɯr kɯmŋu tu, ɯ-ru kɯ-zri tsa jɯ-ɕe ŋu, ɯ-taʁ tu-ɬoʁ mɤ-cha, ɯ-thoʁ pjɤ-ɲɟoʁ tɕe jɯ-ɕe ŋu, si cho sɯjno ru na-tɯɣ tɕe, li tu-ortɯ-rtɤβ tɕe ɯ-taʁ tu-ɕe cha. ɯ-ru ɯ-taʁ kɯnɤ ɯ-mdzu tu. tɕe ɯ-ru ɯ-taʁ tɕe, ɯ-jwaʁ ku-ndzoʁ tɕe, ɯ-jwaʁ χsɯm jamar nɯ-ɬoʁ tɕe, ɯ-mɯntoʁ ku-ndzoʁ ŋu. ɯ-mɯntoʁ ʁnɯ-tɯphu tɕe, tɯ-tɯphu nɯ ɯ-mat chɯ-βze mɤ-cha tɕe, nɯ phu ŋu tu-ti-nɯ ŋgrɤl, li ci tɯ-tɯphu nɯ, ɯ-mat chɯ-βze cha tɕe, nɯ mu ŋu tu-ti-nɯ ŋu, ɯ-mɯntoʁ ɯ-mdoʁ kɯ-qarŋɯ-rŋe ʑo ŋu, kɯ-ɤrɯlaba ŋu, ɯ-βzɯr kɯmŋu tu. pɤjka ɯ-mat kɯ-wxtɯ-wxti chɯ-βze cha, kɯ-ɤrtɯm tɕe kɯ-zri ŋu. sɤtɕha ɯ-taʁ pjɯ-kɯ-ru nɯ aqarŋɯrŋe, tɯmɯ ɯ-pɕoʁ tu-kɯ-ru nɯ, ldʑaŋnaʁ ŋu. pɤjka stu kɯ-wxti nɯ ɣnɤ-sqi tɯ-rpa jarma chɯ-βze cha. thɯ-do tɕe ɯ-rqhu nɯ rko tɕe ɯ-ɕa ɣɯ ɯ-ŋgɯ ɯ-rɣi chɯ-fka ŋu. pɤjka nɯ kɤ-ndza sna, tɯ-mgo zmɤrɤβ ŋu. thɯ-do tɕe, nɯ fse kú-wɣ-nɯ-sqa tɕe, ɯ-lpɤɣ tú-wɣ-ndza tɕe mɯm. 
 \xn 南瓜是自己种的一种植物，是种在庄稼地里，种在气候比较温和的地方，山上气候冷的地方的能生长。叶子的背面有很多小刺，很粗糙，可以用来刷洗菌子。叶子大，有个棱角，茎可以长得比较长，不是往上长，是爬在地上的。遇到了树干或草茎就会缠着往上长。茎上也有刺。茎上长出三四片叶子的时候就开花。有两种花，一种是不能结果的，一种是不能结果的，有人说它是公的，另一种是可以结果的，有人说它是母的。花是大黄色的，形状像喇叭，有五个棱角。南瓜能结很大的果实，是椭圆形的。朝地的那面是淡黄色是，朝天的那面是深绿色的。最大的南瓜有20多斤左右。老了皮子变硬，种子也就饱满了。南瓜可以吃，是一种菜。老南瓜煮以后，成块的吃了很好吃。
 \xv pɤjka tɤ-kɯ-ɬoʁ nɯ, ɯ-mɯntoʁ ku-ndzoʁ ŋu, ɯ-mɯntoʁ kɤ-ndzoʁ tɕe, tɤ-pɤtso (ɯ-ɕki) ``ma-ɕ-kɤ-tɯ-sɯjaʁndze ma mɯntoʁ mbɯt" tu-kɯ-ti ŋu
@@ -11233,7 +11234,7 @@
 \ge beimu 
 \gn 贝母 
 \hbf plante 
-\et fn:贝母 
+\bw Tibetan fn:贝母 
 \xv pɤjmu ruŋgu 
 \xn 贝母生长的草山（最寒冷的地方）
 
@@ -11308,7 +11309,7 @@
 \ps n
 \ge entre 
 \gn 两个之间 
-\et bar
+\bw Tibetan bar
 \xv ndʑi-pɤrthɤβ
 \xn 在他们俩之间
 \cf ɯ-thɤβ
@@ -11329,7 +11330,7 @@
 \ps n
 \ge billet de banque 
 \gn 钞票 
-\et fn:票子
+\bw Tibetan fn:票子
 \dt 26/Aug/2012
 
 \lx pɕintɕɤt
@@ -11344,7 +11345,7 @@
 \ge arrière de la selle 
 \gn 后鞍桥 
 \hbf objet traditionel 
-\et pʰʲi.ru
+\bw Tibetan pʰʲi.ru
 \dt 07/Apr/2014
 
 \lx pɕizgɤkɯm
@@ -11353,14 +11354,14 @@
 \ge grande porte 
 \gn 大门 
 \hbf 516 
-\et pʰʲi.sgo
+\bw Tibetan pʰʲi.sgo
 \dt 12/Jun/2014
 
 \lx pɕoʁβʑi
 \ps n
 \ge dans toutes les directions 
 \gn 四周 
-\et pʰʲogs.bʑi
+\bw Tibetan pʰʲogs.bʑi
 \dt 08/Dec/2014
 
 \lx pɕɯɣ
@@ -11507,13 +11508,13 @@
 \ps n
 \ge parents 
 \gn 父母 
-\et pʰa.ma
+\bw Tibetan pʰa.ma
 
 \lx phantsɯt
 \ps n
 \ge assiette 
 \gn 盘子 
-\et fn:盘子
+\bw Tibetan fn:盘子
 \dt 26/Jan/2015
 
 \lx phaʁlu
@@ -11521,14 +11522,14 @@
 \ge année du porc 
 \gn 猪年 
 \hbf 766 
-\et pʰag.lo
+\bw Tibetan pʰag.lo
 
 \lx phaʁrgot
 \ps n
 \ge sanglier 
 \gn 野猪 
 \hbf animal 
-\et pʰag.rgod
+\bw Tibetan pʰag.rgod
 \dt 11/Jan/2015
 
 \lx phaʁrzi
@@ -11536,21 +11537,21 @@
 \ge brosse à dent traditionnelle en poil de cochon 
 \gn 用猪鬃毛作成的牙刷 
 \hbf animal2 s
-\et pʰag.ze
+\bw Tibetan pʰag.ze
 \dt 05/Nov/2011
 
 \lx phaʁzlasqamŋu
 \ps n
 \ge deux semaines
 \gn 半个月 
-\et zla
+\bw Tibetan zla
 \dt 13/Oct/2014
 
 \lx phaʁzoŋ
 \ps n
 \ge sûtra lu pour les cochons lorsqu'ils sont malades 
 \gn 为猪念的经 
-\et pʰag.??
+\bw Tibetan pʰag.??
 
 \lx phɤβ
 \ps n
@@ -11570,7 +11571,7 @@
 \ps n
 \ge avantage
 \gn 好处
-\et pʰan.tʰog
+\bw Tibetan pʰan.tʰog
 \cf phɤn
 \dt 12/Mar/2014
 
@@ -11578,7 +11579,7 @@
 \ps adv
 \ge de l'autre côté 
 \gn 对面、对岸
-\et pʰa.rol
+\bw Tibetan pʰa.rol
 \xv kɯchu phɤri, ndɯchu phɤri
 \xn
 
@@ -11613,7 +11614,7 @@
 \ge partie extérieur des habits tibétains 
 \gn 衣服面子（藏装） 
 \hbf objet traditionel 
-\et pʰʲi.ma
+\bw Tibetan pʰʲi.ma
 \dt 01/Sep/2014
 
 \lx phoβraŋ
@@ -11621,14 +11622,14 @@
 \ge palais
 \gn 宫殿 
 \un 古语
-\et pʰo.braŋ
+\bw Tibetan pʰo.braŋ
 
 \lx phochi
 \ps n
 \ge chien
 \gn 公狗 
 \hbf animal 
-\et pho.kʰʲi
+\bw Tibetan pho.kʰʲi
 
 \lx pholi
 \ps n
@@ -11641,7 +11642,7 @@
 \ge bouteille 
 \gn 瓶子 
 \hbf 556 
-\et bum.bu
+\bw Tibetan bum.bu
 \dt 15/Apr/2012
 
 \lx phoŋnɤphoŋ
@@ -11668,7 +11669,7 @@
 \ge corbeau (corvus corax) 
 \gn 渡鸦 
 \hbf oiseau 
-\et pʰo.rog
+\bw Tibetan pʰo.rog
 \dt 15/Apr/2012
 
 \lx phoʁphoʁ
@@ -11760,7 +11761,7 @@
 \ge sac que l'on porte en bandoulière 
 \gn 挎包 
 \hbf objet traditionel 
-\et kʰug
+\bw Tibetan kʰug
 \an ɕɤkhoz
 \dt 05/May/2014
 
@@ -11783,7 +11784,7 @@
 \ge année du rat 
 \gn 鼠年 
 \hbf 755 
-\et bʲi.ba.lo
+\bw Tibetan bʲi.ba.lo
 
 \lx pja
 \ps n
@@ -11796,7 +11797,7 @@
 \ge année du coq 
 \gn 鸡年 
 \hbf 764 
-\et bʲa.lo
+\bw Tibetan bʲa.lo
 
 \lx pjɤβlaʁ
 \ps n
@@ -11813,7 +11814,7 @@
 \ge vautour (gyps himalayensis) 
 \gn 高山兀鹫 
 \hbf oiseau 
-\et bʲa.rgod
+\bw Tibetan bʲa.rgod
 \xv pjɤrgɤt nɯ praʁ kɯ-mbro ɯ-ku zɯ ɕ-ku-rma ɲɯ-ŋu, ɯ-ro cho ɯ-ku nɯ kɯ-wɣrum ɲɯ-ŋu, wuma ʑo ɲɯ-wxti. fsusqɯ-tɯrpa jamar tu, kɯ-ɤɲaʁndzɯm tu ɲɯ-ŋgrɤl, pjɤrgɤt ɯ-ŋgɯz kɯ-wxti ɲɯ-ŋu, pjɤrgɤt βlama ŋu nɯ tu-kɯ-ti ɲɯ-ŋgrɤl, fsapaʁ cho tɯrme ɕa tu-ndze ɲɯ-ŋgrɤl, co ra mɤ-ɣi, nɤmkha zɯ tu-nɯpjɤŋkhɤr rga, ɯ-mɤlɤjaʁ ɯ-ndzrɯ ɕɤmiɕtʂɤt fse. ɯ-rme kɯ-wɣrum kɯ-zri ɲɯ-ŋu, ɯ-mtsioʁ nɯ tu-ŋgɤɣ ŋu. 
 \xn 兀鹫一般栖息在悬崖峭壁上，胸部和头部是白色的，很大，有三十来斤。有的是黑色的，是在兀鹫之中比较大的，据说是它们的喇嘛。它吃牲畜和人肉。不会飞到山谷里，喜欢在空中旋转。爪子像铁钩一样，羽毛白而长，嘴是钩起来的。 
 \dt 15/Apr/2012
@@ -11842,7 +11843,7 @@
 \ge corail 
 \gn 珊瑚 
 \hbf 483 
-\et bʲu.ru
+\bw Tibetan bʲu.ru
 \dt 03/Feb/2015
 
 \lx plaʁplaʁ
@@ -11938,7 +11939,7 @@
 \ge falaise 
 \gn 崖山 
 \hbf 26 
-\et brag
+\bw Tibetan brag
 \dt 16/Apr/2012
 
 \lx praʁɕku
@@ -11968,7 +11969,7 @@
 \ge falaise 
 \gn 悬崖 
 \hbf 26 
-\et brag lha.rɲiŋ
+\bw Tibetan brag lha.rɲiŋ
 
 \lx praʁɲɤl
 \ps n
@@ -11986,7 +11987,7 @@
 \ps n
 \ge un mammifère 
 \gn 哺乳动物的一种 
-\et brag.sram
+\bw Tibetan brag.sram
 \xv praʁsrɯm nɯ praʁ ɯ-ŋgɯ ku-kɯ-rɤʑi tɕe ɯ-rme wuma ɲɯ-mpɕɤr tɕe spoŋsrɤm cho tɕhɯɕrɤm nɯra kɯ-naχtɕɯɣ ɲɯ-ŋu-nɯ ɯʑo praʁ ɯ-ŋgɯ ku-rɤʑi ɲɯ-ŋu tɕe núndʐa praʁsrɯm ɲɯ-rmi 
 \xn |fv{praʁsrɯm}是生活在岩石里的一种动物，毛长得很美，同水獭和|fv{spoŋsrɤm} 一样，因为生活在岩石里所以叫 |fv{praʁsrɯm}
 \dt 26/Jan/2015
@@ -11996,7 +11997,7 @@
 \ps n
 \ge nain, une sorte de démon 
 \gn 一种鬼、矮人（投小石头）
-\et brag.srin
+\bw Tibetan brag.srin
 \dt 16/Apr/2012
 
 \lx praʁʑin
@@ -12153,7 +12154,7 @@
 \ps n
 \ge bonpo 
 \gn 黑教 
-\et bon.po
+\bw Tibetan bon.po
 
 \lx pɯthaŋ
 \ps n
@@ -12228,7 +12229,7 @@
 \ge grenouille 
 \gn 青蛙 
 \hbf animal 
-\et sbal
+\bw Tibetan sbal
 \dt 17/Apr/2012
 
 \lx qaɕparaz
@@ -12499,9 +12500,9 @@
 \ge aigle 
 \gn 雕 
 \hbf oiseau 
-\et glag
+\bw Tibetan glag
 \xv qaliaʁ nɯ praʁ ɯ-ŋgɯ zɯ ku-rɤʑi ŋu, ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ thaŋkɤr rmi, ɯʑo ɯ-mdoʁ nɯ kɯ-ɲaʁ ŋu, ɯ-ʁar nɯ kɯ-wɣrum tɯ-tɯ-snaʁ kɯ-tu tu, qala, βʑɯ, paʁtsa cho ɲaɲa nɯ ra tu-ndze ŋgrɤl. li ci thaŋnaʁ kɯ-rmi ci tu tɕe, kɯ-ɲaʁ ʁɟa ʑo ŋu, nɯ kɯ-cha nɯ ŋu, paʁtsa cho ɲaɲa nɯ phɤri ɲɯ-nɯ-tsɯm cha, ca pjɤ-sat ŋgrɤl. ɯ-mi nɯ ɕɤmiɕtʂɤt fse. mphrɯmɯ pjɯ-re ŋgrɤl tu-kɯ-ti ɲɯ-ŋu ma nɤmkha ɯ-stu ʑo tu-ɕe tɕe ɯ-stu li pjɯ-jɣɤt tɕe ɴɢartɯm pjɯ-ɣɯt ŋu. ɯ-mɲaʁ wuma ʑo mto tu-kɯ-ti ɲɯ-ŋgrɤl, phɤri ku-ru tɕe qaʑo kɯ ɯ-qe thɤstɯ-rdoʁ pa-lɤt mtɤm tu-kɯ-ti ɲɯ-ŋgrɤl. ɕa a-tɤ-ndze tɤ-fka ɯ-qhu tɕe, co a-pɯ-ŋu tɕe chɯ-nɯqambɯmbjom mɤ-cha. 
-\xn 雕栖息在岩洞里，有两种，一种叫|fv{thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫|fv{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子像铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
+\xn 雕栖息在岩洞里，有两种，一种叫|fv{thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫|fv{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死麝香鹿。爪子像铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
 \dt 17/Apr/2012
 
 \lx qambalɯla
@@ -12662,7 +12663,7 @@
 \ge faucon (falco cherrug) 
 \gn 猎隼 
 \hbf oiseau 
-\xv qandʑɣi nɯ kɯ-pɣi ci ŋu, ɯ-ʁar ra zɯmi kɯ-wɣrum tɯ-snaʁ ka tu, ɕa rga, stoʁ ji ɯ-raŋ tɕe ju-ɣi ŋu, qartsɯ tɕe ju-nɯɕe ŋu. kɯrɯ ra kɯ tu-ti-nɯ stu kɯ-mɤku pɯ́-wɣ-mto tɕe, ɯ-mgɯr ɯ-qhu a-pɯ-mto tɕe, tɯ-xpa kɯ-fka tu-kɯ-ti-nɯ ŋgrɤl, ɯ-xtu kɤ-mto a-pɯ́-wɣ-z-mɤku tɕe kɯ-mtsɯr tu-kɯ-ti ŋɯ-ŋgrɤl. tɯ-jaʁ tɤ-mthɯm tú-wɣ-ndo tɕe pjɯ-ɣi tɕe tɯ-jaʁ pjɯ-qraʁ tɕe tɤ-mthɯm ɲɯ-kɯ-nɯsɯkho ɲɯ-ŋgrɤl. 
+\xv qandʑɣi nɯ kɯ-pɣi ci ŋu, ɯ-ʁar ra zɯmi kɯ-wɣrum tɯ-snaʁ ka tu, ɕa rga, stoʁ ji ɯ-raŋ tɕe ju-ɣi ŋu, qartsɯ tɕe ju-nɯɕe ŋu. kɯrɯ ra kɯ tu-ti-nɯ stu kɯ-mɤku pɯ́-wɣ-mto tɕe, ɯ-mgɯr ɯ-qhu a-pɯ-mto tɕe, tɯ-xpa kɯ-fka tu-kɯ-ti ŋgrɤl, ɯ-xtu kɤ-mto a-pɯ́-wɣ-z-mɤku tɕe kɯ-mtsɯr tu-kɯ-ti ŋɯ-ŋgrɤl. tɯ-jaʁ tɤ-mthɯm tú-wɣ-ndo tɕe pjɯ-ɣi tɕe tɯ-jaʁ pjɯ-qraʁ tɕe tɤ-mthɯm ɲɯ-kɯ-nɯsɯkho ɲɯ-ŋgrɤl. 
 \xn 猎隼是灰色的，翅膀上有白色斑点，爱吃肉，在种胡豆的季节出现，到了冬天就回去。藏民有一种说法，当它第一次出现时，如果先看见它的背部，这一年吃得饱，如果先看见它的腹部就会挨饿。如果你手上拿着肉，它会飞下来，抓破你的手，然后把肉抢走了。 
 \dt 17/Apr/2012
 
@@ -12766,7 +12767,7 @@
 \ge serpent 
 \gn 蛇 
 \hbf animal 
-\et sbrul
+\bw Tibetan sbrul
 \xv qapri ɯ-χsjɯβ chɤ-βde
 \xn 蛇脱皮了
 \cf tɕhɯχpri
@@ -13023,7 +13024,7 @@
 \ge mouton 
 \gn 绵羊 
 \hbf animal 
-\et gjaŋ
+\bw Tibetan gjaŋ
 \dt 18/Apr/2012
 
 \lx qaʑolu
@@ -13185,7 +13186,7 @@
 \ps n
 \ge naga 
 \gn 龙、水神 
-\et klu
+\bw Tibetan klu
 \xv nɤʑo qhlɯ to-tɯ-sɤzmbrɯ-t
 \xn 你惹了水神
 \dt 07/Oct/2014
@@ -13375,7 +13376,7 @@
 \ps n
 \ge violet 
 \gn 紫色 
-\et mdog
+\bw Tibetan mdog
 
 \lx qroɲaʁ
 \ps n
@@ -13485,7 +13486,7 @@
 \ge ramure de cerf 
 \gn 雄鹿的角 
 \hbf objet traditionel 
-\et rwa.ɴbum
+\bw Tibetan rwa.ɴbum
 \dt 11/Jan/2015
 
 \lx raŋ
@@ -13495,7 +13496,7 @@
 \ge soi-même 
 \gn 自己 
 \hbf 940 
-\et raŋ
+\bw Tibetan raŋ
 \xv nɤʑo tu-tɯ-ti mɤ-ra ma aʑo raŋ tu-nɯti-a jɤɣ
 \xn 不用你说，我自己说
 \xv kɯki laχtɕha ki aʑo raŋ ɣɯ pɯ-kɯ-nɯ-tɯ-tu ɕti
@@ -13507,7 +13508,7 @@
 \ps idph.7
 \ge qui pend (substance visqueuse)
 \gn 形容（黏稠的物质，如鼻涕）吊着的样子
-\et raŋ
+\bw Tibetan raŋ
 \xv nɤɕnaβ raŋɯŋi ʑo pɯ-nɯɬoʁ 
 \xn 你的鼻涕流出来了
 \xv ɲɯ-nɯtɕhomba tɕe, ɯ-ɕnɤmtsrɯɣ raŋɯŋi ɲɯ-ɤsɯ-stu
@@ -13522,7 +13523,7 @@
 \ge laiton 
 \gn 黄铜 
 \hbf 53 
-\et rag
+\bw Tibetan rag
 \dt 20/Apr/2012
 
 \lx raʁdoŋ
@@ -13531,7 +13532,7 @@
 \ge trompette 
 \gn 长号角 
 \hbf 667 
-\et rag.duŋ
+\bw Tibetan rag.duŋ
 \dt 20/Apr/2012
 
 \lx raʁmaʁ
@@ -13574,7 +13575,7 @@
 \ge bovidé de couleur noire 
 \gn 黑色的牛 
 \hbf bovidé 
-\et rwa.tɕʰuŋ?
+\bw Tibetan rwa.tɕʰuŋ?
 
 \lx raz
 \wav n-raz
@@ -13582,7 +13583,7 @@
 \ge tissu 
 \gn 布 
 \hbf 462
-\et ras
+\bw Tibetan ras
 \dt 20/Apr/2012
 
 \lx razmbe
@@ -13632,7 +13633,7 @@
 \ge habit d'homme en lin 
 \gn 布制成的男装 
 \hbf objet traditionel 
-\et ras + lwa.ba
+\bw Tibetan ras + lwa.ba
 \dt 28/Apr/2012
 
 \lx rɤjndoʁ
@@ -13671,7 +13672,7 @@
 \gn 责任 
 \xv ɯʑo to-ngo ri, aʑo a-rɤwaŋ pɯ-me 
 \xn 虽然他生病了，但是我没有责任
-\et raŋ.dbaŋ
+\bw Tibetan raŋ.dbaŋ
 \dt 30/Aug/2015
 
 \lx rbɤrbɤt
@@ -13741,7 +13742,7 @@
 \ps n
 \ge prosternations le long d'une route jusqu'à un lieu saint 
 \gn 朝圣、磕长头 
-\et skʲaŋ.pʰʲag
+\bw Tibetan skʲaŋ.pʰʲag
 \xv ɬasa rcaŋpɕaʁ to-tsɯm
 \xn 他去拉萨朝圣
 \cf rɯrcaŋpɕaʁ
@@ -13751,7 +13752,7 @@
 \ps intj
 \ge mange de la merde ! 
 \gn 一句脏话 
-\et skʲag.gtoŋ
+\bw Tibetan skʲag.gtoŋ
 \dt 02/Jul/2014
 
 \lx rcɤlpa
@@ -13759,7 +13760,7 @@
 \ge estomac de bovidé 
 \gn 牛胃 
 \hbf bovidé2 
-\et rkʲal.pa
+\bw Tibetan rkʲal.pa
 
 \lx rcɤmbeŋga
 \wav8 tWrcu_Wmbe_WkWNga
@@ -13868,7 +13869,7 @@
 \gn 信号、兆头 
 \xv rda to-lɤt (to-ʑmbri) 
 \xn 他敲钟了
-\et brda
+\bw Tibetan brda
 \dt 21/May/2014
 
 \lx rdardɯl
@@ -13886,7 +13887,7 @@
 \gn 石匠
 \xv rdɤβzu ŋu-a
 \xn 我是石匠
-\et rdo.bzu
+\bw Tibetan rdo.bzu
 \cf rɯrdɤβzu
 \dt 26/Jan/2015
 
@@ -13896,7 +13897,7 @@
 \ge tas de pierre, symbole bouddhique 
 \gn 马尼堆、敖包 
 \hbf objet traditionel 
-\et rdo.ɴbum
+\bw Tibetan rdo.ɴbum
 \xv rdɤmbɯm nɯ rdɤstaʁ ʁɟa ʑo kɤ-kɤ-rmbɯ ŋu tɕeri kú-wɣ-sɯ-ɤrtɯm tɕe ɯ-pɕi nɯ znde tú-wɣ-βzu ra. nɯ nɯ tɯ-ɟom ro ro jamar kɯ-mbro tɕe nɯ ɯ-taʁ nɯ tɕu nɯ sɤz kɯ-xtɕi tsa znde kú-wɣ-sɯ-ɤrtɯm ra tɕe nɯ ɯ-taʁ tɕe rdɤstaʁ kú-wɣ-rmbɯ tɕe rdɤstaʁ kɯ-wɣrum ɯ-qapi a-pɯ-dɤn tɕe pe. tɕe nɯ tɯrme tsuku kɯ rdɤmbɯm tu-ti-nɯ tsuku kɯ tshoko tu-ti-nɯ ŋu. 
 \xn 敖包全部是用石头堆成的，但是要把它弄成圆形，在外面砌墙，要砌得一庹多高，在（石堆）上面再砌小一点的圆墙。在上面堆上石头，白石头多一点就好。有的人把敖包叫作|fv{rdɤmbɯm}，有的叫|fv{tshoko}。 
 \dt 19/May/2014
@@ -13905,7 +13906,7 @@
 \ps n
 \ge gravure sur pierre
 \gn 石刻
-\et rdo.brkos
+\bw Tibetan rdo.brkos
 \dt 05/Nov/2011
 
 \lx rdɤstaʁ
@@ -13914,7 +13915,7 @@
 \ge pierre 
 \gn 石头 
 \hbf 43 
-\et rdo
+\bw Tibetan rdo
 \cf nɯrdɤstaʁ
 \dt 26/Aug/2012
 
@@ -13924,7 +13925,7 @@
 \ge poussière 
 \gn 尘土 
 \hbf 45 
-\et rdul
+\bw Tibetan rdul
 \dt 21/Apr/2012
 
 \lx rdzardza
@@ -13955,7 +13956,7 @@
 \ps n
 \ge sommet de la montagne 
 \gn 最高山上 
-\et rdza.ri
+\bw Tibetan rdza.ri
 
 \lx rdzɯrdzi
 \wav ideo-rdzi-b
@@ -13984,7 +13985,7 @@
 \ng n.rdpl
 \ge personne âgée
 \gn 老年人 
-\et dgan
+\bw Tibetan dgan
 \dt 01/Sep/2014
 
 \lx rgɤl
@@ -13998,7 +13999,7 @@
 \ge boîte 
 \gn 箱子 
 \hbf 527 
-\et sgam
+\bw Tibetan sgam
 \dt 21/Apr/2012
 
 \lx rgɤmpɯ
@@ -14014,7 +14015,7 @@
 \ge vieillarde 
 \gn 老太太 
 \hbf 172 
-\et rgan.mo
+\bw Tibetan rgan.mo
 \dt 21/Apr/2012
 
 \lx rgɤtpu
@@ -14023,7 +14024,7 @@
 \ge vieillard 
 \gn 老人 
 \hbf 171 
-\et rgad.po
+\bw Tibetan rgad.po
 \dt 21/Apr/2012
 
 \lx rgonma
@@ -14032,7 +14033,7 @@
 \ge jument 
 \gn 母马 
 \hbf animal 
-\et rgod.ma
+\bw Tibetan rgod.ma
 \dt 21/Apr/2012
 
 \lx rgɯdɯ
@@ -14047,7 +14048,7 @@
 \ge vache à pois 
 \gn 黑白相间、红白相间的牛 
 \hbf bovidé 
-\et kʰra
+\bw Tibetan kʰra
 \dt 21/Apr/2012
 
 \lx rgɯnba
@@ -14056,7 +14057,7 @@
 \ge temple 
 \gn 庙 
 \hbf 69 
-\et dgon.pa
+\bw Tibetan dgon.pa
 \dt 21/Apr/2012
 
 \lx rgɯni
@@ -14075,7 +14076,7 @@
 \ps n
 \ge pâturage d'hiver 
 \gn 冬天的牧场 
-\et dgun.sa
+\bw Tibetan dgun.sa
 \dt 21/Apr/2012
 
 \lx rgɯpa
@@ -14083,7 +14084,7 @@
 \ge neuvième mois 
 \gn 九月 
 \hbf mois 
-\et dgu.pa
+\bw Tibetan dgu.pa
 
 \lx rgɯskɯ
 \ps n
@@ -14141,7 +14142,7 @@
 \ge divinité des montagnes 
 \gn 山神 
 \hbf 668 
-\et ri.bdag
+\bw Tibetan ri.bdag
 
 \lx rirɤβ
 \wav n-rirAB
@@ -14149,7 +14150,7 @@
 \ge haute montagne 
 \gn 高山 
 \un 古语
-\et ri.rab
+\bw Tibetan ri.rab
 \dt 21/Apr/2012
 
 \lx rjaŋrjaŋ
@@ -14222,7 +14223,7 @@
 \ge pantholops hodgsoni 
 \gn 藏羚 
 \hbf animal 
-\et rgʲa
+\bw Tibetan rgʲa
 \dt 21/Apr/2012
 
 \lx rɟama
@@ -14231,7 +14232,7 @@
 \ge balance 
 \gn 称 
 \hbf 570 
-\et rgʲa.ma
+\bw Tibetan rgʲa.ma
 \dt 21/Apr/2012
 
 \lx rɟamar
@@ -14246,7 +14247,7 @@
 \ge espèce de chien dont le corps est noir et les yeux sont entourés de rouges 
 \gn 四眼狗 
 \hbf animal 
-\et rgʲa.ɴbrug
+\bw Tibetan rgʲa.ɴbrug
 \dt 20/Jan/2014
 
 \lx rɟamtshu
@@ -14254,14 +14255,14 @@
 \ge mer 
 \gn 海 
 \hbf 32 
-\et rgʲa.mtsʰo
+\bw Tibetan rgʲa.mtsʰo
 
 \lx rɟanatɕaʁri
 \wav n-rJanatCaRri
 \ps n
 \ge la grande muraille de chine 
 \gn 万里长城、一种佛教图纹 
-\et rgʲa.nag ltɕags.ri
+\bw Tibetan rgʲa.nag ltɕags.ri
 \dt 07/Jan/2015
 
 \lx rɟandzi
@@ -14278,7 +14279,7 @@
 \xn 要有长远打算
 \xv rɟaŋ ʑo z-jo-fskɤr
 \xn 他绕了个大圈
-\et rgʲaŋ
+\bw Tibetan rgʲaŋ
 \cf rɯrɟaŋrɟɤz
 \dt 01/Sep/2015
 
@@ -14305,7 +14306,7 @@
 \ge barbe 
 \gn 连鬓胡 
 \hbf 87 
-\et rgʲa.bo
+\bw Tibetan rgʲa.bo
 \dt 21/Apr/2012
 
 \lx rɟɤβlun
@@ -14313,7 +14314,7 @@
 \ps n
 \ge ministre 
 \gn 宰相、大臣 
-\et rgʲa.blon
+\bw Tibetan rgʲa.blon
 \dt 21/Apr/2012
 
 \lx rɟɤɕi
@@ -14358,7 +14359,7 @@
 \ps n
 \ge Inde 
 \gn 印度 
-\et rgʲa dkar
+\bw Tibetan rgʲa dkar
 \xv rɟɤkɤr zɯ βlama ra kɯ srɯnmɯ ra tu-nɯkon-nɯ ɲɯ-ŋu 
 \xn 在印度，喇嘛们把全世界的妖精管制在那里。 
 \dt 27/Feb/2014
@@ -14367,7 +14368,7 @@
 \ps n
 \ge pays 
 \gn 国家 
-\et rgʲal.kʰab
+\bw Tibetan rgʲal.kʰab
 \dt 17/Jul/2014
 
 \lx rɟɤlsa
@@ -14375,7 +14376,7 @@
 \ps n
 \ge palais 
 \gn 宫殿 
-\et rgʲal.sa
+\bw Tibetan rgʲal.sa
 \xv tɕɯχtsi rɟɤlsa 
 \xn 卓克基官寨
 \dt 16/May/2014
@@ -14386,7 +14387,7 @@
 \ge bijoux, décoration 
 \gn 装饰品 
 \hbf objet traditionel 
-\et rgʲan.tɕʰa
+\bw Tibetan rgʲan.tɕʰa
 \dt 23/Apr/2012
 
 \lx rɟɤŋgɤɣ
@@ -14404,7 +14405,7 @@
 \ps n
 \ge demi livre 
 \gn 半斤 
-\et *rgʲa.pʰʲed
+\bw Tibetan *rgʲa.pʰʲed
 \dt 21/Apr/2012
 
 \lx rɟɤskɤt
@@ -14413,7 +14414,7 @@
 \ge escalier en bois 
 \gn 板梯 
 \hbf 520 
-\et rgʲa.skas
+\bw Tibetan rgʲa.skas
 \dt 21/Apr/2012
 
 \lx rɟɤskhi
@@ -14436,7 +14437,7 @@
 \ge four chinois 
 \gn 炉子 
 \hbf 544
-\et rgʲa.tʰab
+\bw Tibetan rgʲa.tʰab
 \dt 15/Oct/2014
 
 \lx rɟɤtpa
@@ -14444,7 +14445,7 @@
 \ge huitième mois 
 \gn 八月 
 \hbf mois 
-\et brgʲad.pa
+\bw Tibetan brgʲad.pa
 \dt 20/Oct/2014
 
 \lx rɟɤtsha
@@ -14452,7 +14453,7 @@
 \ps n
 \ge plaque de sel 
 \gn 盐的大块 
-\et rgʲa.tsʰʷa
+\bw Tibetan rgʲa.tsʰʷa
 \xv iʑo pɯ-xtɕi-j tɕe, rɟɤtsha ɯ-ntɕhɯr ntsɯ tu-nɯntsɯɣ-i pɯ-ŋu 
 \xn 我们小时候一直舔盐块
 \dt 26/Jan/2015
@@ -14470,7 +14471,7 @@
 \ge scie 
 \gn 锯 
 \hbf 608 
-\et sog.le
+\bw Tibetan sog.le
 
 \lx rɟɯɣ²
 \ps n
@@ -14494,7 +14495,7 @@
 \ps n
 \ge richesses 
 \gn 财富
-\et rgʲu.naŋ.loŋ.spʲod
+\bw Tibetan rgʲu.naŋ.loŋ.spʲod
 \xv rɟɯnaŋlaŋspjɤt pjɯ-kɤ-khɯ
 \xn 保佑我们能顺利地创造财富
 \dt 26/Aug/2012
@@ -14515,13 +14516,13 @@
 \ps n
 \ge capacité à gagner de l'argent 
 \gn 赚钱的本事，财力 
-\et rgʲu.stobs
+\bw Tibetan rgʲu.stobs
 
 \lx rɟɯtɕɯn
 \ps n
 \ge résor
 \gn 宝物，贵重物品
-\et rgʲu.tɕʰen
+\bw Tibetan rgʲu.tɕʰen
 \dt 19/Aug/2015
 
 \lx rkɤdɯt
@@ -14530,7 +14531,7 @@
 \ge clarinette 
 \gn 唢呐 
 \hbf 667 
-\et rkaŋ.??
+\bw Tibetan rkaŋ.??
 \dt 23/Apr/2012
 
 \lx rkɤsnom
@@ -14539,7 +14540,7 @@
 \ge pantalon 
 \gn 裤子 
 \hbf 471 
-\et rkaŋ.snam
+\bw Tibetan rkaŋ.snam
 \dt 23/Apr/2012
 
 \lx rkɤtu
@@ -14580,7 +14581,7 @@
 \ge démon à un pied 
 \gn 独脚鬼 
 \hbf 670 
-\et rkaŋ.rgʲal
+\bw Tibetan rkaŋ.rgʲal
 \dt 23/Apr/2012
 
 \lx rkoŋtoŋ
@@ -14593,7 +14594,7 @@
 \ge trompette en fémur humain 
 \gn 胫骨号筒 
 \hbf objet traditionel 
-\et rkaŋ.duŋ
+\bw Tibetan rkaŋ.duŋ
 \dt 22/Aug/2015
 
 \lx rkorsa
@@ -14665,7 +14666,7 @@
 \xv ɯ-rloŋrta ɲɯ-taʁ
 \xn 他运气好
 \hbf objet traditionel 
-\et rluŋ.rta
+\bw Tibetan rluŋ.rta
 \dt 24/Aug/2015
 
 \lx rloʁrloʁ
@@ -14706,7 +14707,7 @@
 \ge paon 
 \gn 孔雀 
 \hbf oiseau 
-\et rma.bʲa
+\bw Tibetan rma.bʲa
 \dt 29/Apr/2013
 
 \lx rmɤβrmɤβ
@@ -14751,7 +14752,7 @@
 \gn 生铁锅，有四个把子 
 \hbf 545 
 \hbf objet traditionel
-\et rna.bʑi
+\bw Tibetan rna.bʑi
 \dt 28/Apr/2012
 
 \lx rnɤjɯ
@@ -14759,7 +14760,7 @@
 \ge boucle d'oreille 
 \gn 耳环 
 \hbf 484 
-\et rna.ju
+\bw Tibetan rna.ju
 \dt 19/Feb/2014
 
 \lx rnɤlu
@@ -14775,7 +14776,7 @@
 \ge casserole en fer 
 \gn 生铁锅，有两个把子 
 \hbf 545 
-\et rna.ru?
+\bw Tibetan rna.ru?
 \dt 08/Oct/2014
 
 \lx rndzɤkɤŋe
@@ -14842,7 +14843,7 @@
 \hbf animal 
 \xv rŋamoŋ raŋzga
 \xn 骆驼（固有的）鞍子
-\et rŋa.moŋ
+\bw Tibetan rŋa.moŋ
 \dt 07/May/2014
 
 \lx rŋapa
@@ -14850,7 +14851,7 @@
 \ge cinquième mois 
 \gn 五月 
 \hbf mois 
-\et lŋa.pa
+\bw Tibetan lŋa.pa
 
 \lx rŋawa
 \ps n
@@ -14903,7 +14904,7 @@
 \ge bâton courbé avec lequel on frappe le tambour 
 \gn 用来打鼓的棍子 
 \hbf objet traditionel 
-\et rŋa.gjog
+\bw Tibetan rŋa.gjog
 \dt 28/Apr/2012
 
 \lx rŋgɤm
@@ -14929,7 +14930,7 @@
 \ge argent 
 \gn 银子 
 \hbf 52 
-\et dŋul
+\bw Tibetan dŋul
 \cf aɣɯrŋɯl
 \dt 22/Aug/2015
 
@@ -14978,7 +14979,7 @@
 \ps n
 \ge locuteurs du rgyalrong oriental 
 \gn 操嘉绒东部方言的人 
-\et roŋ.pa
+\bw Tibetan roŋ.pa
 \xv ɣnɤsqi-xpa ɕɯŋgɯ zɯ roŋba-skɤt pjɤ-βzjoz
 \xn 他20年前学了四土话
 \dt 28/Apr/2012
@@ -14990,7 +14991,7 @@
 \ge chacun 
 \gn 每个 
 \hbf 926 
-\et raŋ.re
+\bw Tibetan raŋ.re
 \xv kɤndza thɯ́-wɣ-kro tɕe, tɯrme roŋri ɣɯ ɲɯ́-wɣ-kho ra
 \xn 分食物的时候，要分给每一个人
 \xv tɯrme roŋri ɣɯ nɯ-mɲaʁ tu ɕti
@@ -14999,7 +15000,7 @@
 \ps adv
 \ge chacun 
 \gn 每个
-\et re.re 
+\bw Tibetan re.re 
 \dt 21/Aug/2015
 
 \lx roŋwa
@@ -15007,7 +15008,7 @@
 \ps n
 \ge agriculteurs 
 \gn 农民 
-\et roŋ.ba
+\bw Tibetan roŋ.ba
 \dt 28/Apr/2012
 
 \lx roŋzga
@@ -15203,7 +15204,7 @@
 \ge cheval castré 
 \gn 骟马 
 \hbf animal
-\et rta
+\bw Tibetan rta
 \dt 28/Apr/2012
 
 \lx rtakhaŋ
@@ -15218,14 +15219,14 @@
 \ge année du cheval 
 \gn 马年 
 \hbf 761 
-\et rta.lo
+\bw Tibetan rta.lo
 
 \lx rtamdɯt
 \wav n-rtamdWt
 \ps n
 \ge un type de nœud 
 \gn 一种打结的方式 
-\et rta.mdud
+\bw Tibetan rta.mdud
 \dt 28/Apr/2012
 
 \lx rtamu
@@ -15255,7 +15256,7 @@
 \ge fouet de cheval 
 \gn 打马的鞭子 
 \hbf 597 
-\et rta.ltɕag
+\bw Tibetan rta.ltɕag
 \dt 29/Apr/2012
 
 \lx rtɤmkɯχsɤl
@@ -15289,7 +15290,7 @@
 \ps n
 \ge sage
 \gn 得道者
-\et rtogs.ldan
+\bw Tibetan rtogs.ldan
 \dt 04/Sep/2015
 
 \lx rtoʁldɤn mɯntoʁ
@@ -15304,14 +15305,14 @@
 \ge bâton pour frapper les contrevenants à l'ordre dans le monastère 
 \gn 宗教活动时，维持纪律的和尚用来打人的棍子 
 \hbf objet traditionel 
-\et dbʲug
+\bw Tibetan dbʲug
 \dt 29/Apr/2012
 
 \lx rtsatɯɣ
 \ps n
 \ge herbe non identifiée qui rend malade le bétail qui l'absorbe 
 \gn 有毒的草，学名不明，牲畜吃了就生病 
-\et rtswa.dug
+\bw Tibetan rtswa.dug
 \dt 05/Nov/2014
 
 \lx rtsawa
@@ -15320,7 +15321,7 @@
 \ge importance 
 \gn 重要性 
 \hbf 1014 
-\et rtsa.ba
+\bw Tibetan rtsa.ba
 \xv ɯ-rtsawa ɲɯ-wxti
 \xn 很重要
 \se ɯ-rtsawa ndo
@@ -15335,7 +15336,7 @@
 \ps n
 \ge sac à rtsampa
 \gn 糌粑口袋
-\et rtsam.kʰug
+\bw Tibetan rtsam.kʰug
 \dv rtsɤmkɯɣ nɯ, tɯsqar ɯ-fkɯm ŋu
 \dn 糌粑口袋是用来装糌粑的口袋
 \dt 12/Nov/2014
@@ -15380,7 +15381,6 @@
 \ge râpeux 
 \gn 形容物体摸起来粗糙刮手的样子
 
-
 \lx rtsimu
 \ps n
 \ge façon dont poussent les branches (arbre)
@@ -15395,7 +15395,7 @@
 \ps n
 \ge vengeance 
 \gn 报仇 
-\et rtsod
+\bw Tibetan rtsod
 \xv maka rtsot tu-βze-a ɲɯ-ntshi 
 \xn 我要报仇
 \dt 29/Apr/2012
@@ -15419,7 +15419,7 @@
 \ps n
 \ge toutes les plantes 
 \gn 所有的草木 
-\et rtsi.ɕiŋ?
+\bw Tibetan rtsi.ɕiŋ?
 
 \lx rtsɯpɣaʁ
 \wav n-rtsWpGaR
@@ -15446,7 +15446,7 @@
 \ps n
 \ge compte 
 \gn 帐 
-\et rtsi.sgrig
+\bw Tibetan rtsi.sgrig
 \xv nɤ-rtsɯtʂɯɣ te-a ra, ma-ta-ta 
 \xn 我要跟你算帐，我不会放过你的
 \dt 24/Aug/2015
@@ -15464,7 +15464,7 @@
 \ps n
 \ge lieu d'habitation temporaire dans la montagne
 \gn 山上、牧草上暂住的地方（帐篷里）
-\et ri
+\bw Tibetan ri
 \xv rɯ ɲɯ-scat-a
 \xn 我在搬帐篷
 \dt 04/Feb/2014
@@ -15505,7 +15505,7 @@
 \ge bête sauvage 
 \gn 野兽 
 \hbf animal 
-\et ri.dʷags
+\bw Tibetan ri.dʷags
 \dt 26/Jan/2015
 
 \lx rɯlɯ
@@ -15520,7 +15520,7 @@
 \ps n
 \ge espèce 
 \gn 种类 
-\et rim.pa
+\bw Tibetan rim.pa
 \dt 29/Apr/2012
 
 \lx rɯmu
@@ -15528,13 +15528,13 @@
 \ge motif 
 \gn 纹路 
 \hbf 645 
-\et ri.mo
+\bw Tibetan ri.mo
 
 \lx rɯrgɤm
 \ps n
 \ge cercueil
 \gn 棺材
-\et rus.sgam?
+\bw Tibetan rus.sgam?
 \dt 04/May/2014
 
 \lx rɯri
@@ -15550,14 +15550,14 @@
 \sn 2
 \ge dieu de la montagne 
 \gn 山神 
-\et ri.rtse
+\bw Tibetan ri.rtse
 \dt 29/Apr/2012
 
 \lx rɯspa
 \ps n
 \ge génie 
 \gn 天才 
-\et rigs.pa
+\bw Tibetan rigs.pa
 
 \lx rɯtɕhɤβ
 \wav n-rWtChAB
@@ -15588,7 +15588,7 @@
 \ps n
 \ge mémoire 
 \gn 记性 
-\et rig.pa
+\bw Tibetan rig.pa
 \dt 29/Apr/2012
 
 \lx rwa
@@ -15596,7 +15596,7 @@
 \ps n
 \ge tente de nomade en poil de yak 
 \gn 牧民的帐篷（毛制成的） 
-\et sbra.ba
+\bw Tibetan sbra.ba
 \dt 29/Apr/2012
 
 \lx rwoʁrwoʁ
@@ -15684,7 +15684,7 @@
 \ps n
 \ge habit en peau de renard 
 \gn 狐狸皮皮袄
-\et wa?
+\bw Tibetan wa?
 \dt 04/Nov/2012
 
 \lx ʁaz
@@ -15748,14 +15748,14 @@
 \ge parasol (réservé aux sprul sku) 
 \gn 华盖（活佛专用） 
 \hbf objet traditionel 
-\et gdug
+\bw Tibetan gdug
 \dt 21/Apr/2012
 
 \lx ʁdɯn
 \ps n
 \ge malheur 
 \gn 邪恶 
-\et gdon
+\bw Tibetan gdon
 
 \lx ʁdɯrɟɤt
 \ps n
@@ -15833,7 +15833,7 @@
 \ge surveillant dans le monastère 
 \gn 负责惩罚违律行为的和尚 
 \hbf 191 
-\et *dge.sku
+\bw Tibetan *dge.sku
 \dt 21/Apr/2012
 
 \lx ʁgɤsloŋ
@@ -15841,13 +15841,13 @@
 \ge bhiksu 
 \gn 比丘 
 \hbf 191 
-\et dge.sloŋ
+\bw Tibetan dge.sloŋ
 
 \lx ʁgiwa
 \ps n
 \ge récitation de mantras
 \gn 念经
-\et dge.ba
+\bw Tibetan dge.ba
 \xv ʁgiwa tɤ-βzu-j
 \xn 我们请人念经了
 \cf rɯʁgiwa
@@ -15869,7 +15869,7 @@
 \ge ennemi 
 \gn 仇人 
 \hbf 197 
-\et dgra.ja
+\bw Tibetan dgra.ja
 \dt 13/Jan/2014
 
 \lx ʁja
@@ -15877,7 +15877,7 @@
 \ps n
 \ge vert-de-gris 
 \gn 铜锈 
-\et gja
+\bw Tibetan gja
 \dt 21/Apr/2012
 
 \lx ʁjaŋ
@@ -15885,7 +15885,7 @@
 \ps n
 \ge bon présage, bonne fortune 
 \gn 吉祥 
-\et gjaŋ
+\bw Tibetan gjaŋ
 \xv kha ɯ-ŋgɯ ʁjaŋ a-pɯ-tu ra 
 \xn 一个家庭需要吉祥
 \dt 21/Apr/2012
@@ -15904,7 +15904,7 @@
 \ps n
 \ge svastika 
 \gn 卍字 
-\et gjung.druŋ
+\bw Tibetan gjung.druŋ
 \dt 21/Apr/2012
 
 \lx ʁjɤrsa
@@ -15912,7 +15912,7 @@
 \ps n
 \ge pâturage d'été 
 \gn 夏天的牧场 
-\et dbʲar.sa
+\bw Tibetan dbʲar.sa
 \dt 12/Apr/2013
 
 \lx ʁjɤʁjɤβ
@@ -15936,7 +15936,7 @@
 \ge serviteur 
 \gn 仆人 
 \hbf 183 
-\et gjog
+\bw Tibetan gjog
 \se tɤ-ʁjoʁ
 \ps np
 \ge serviteur de
@@ -15956,7 +15956,7 @@
 \ge turquoise 
 \gn 碧玉、绿松石 
 \un 古语
-\et gju
+\bw Tibetan gju
 \sy mti
 \dt 23/Apr/2012
 
@@ -15985,7 +15985,7 @@
 \ge dragon 
 \gn 龙 
 \hbf animal 
-\et ɴbrug
+\bw Tibetan ɴbrug
 \dt 08/Dec/2014
 
 \lx ʁjɯmbrɯɣma
@@ -15993,7 +15993,7 @@
 \ge bol 
 \gn 瓷碗，画着龙形状的图案 
 \hbf objet traditionel 
-\et ɴbrug.ma
+\bw Tibetan ɴbrug.ma
 
 \lx ʁjɯʁji
 \wav8 RjWRji
@@ -16047,7 +16047,7 @@
 \ge année du bœuf 
 \gn 牛年 
 \hbf 756 
-\et glaŋ.lo
+\bw Tibetan glaŋ.lo
 
 \lx ʁlɤwur
 \wav adv-RlAwur
@@ -16055,7 +16055,7 @@
 \ps adv
 \ge soudain 
 \gn 突然 
-\et glo.bur
+\bw Tibetan glo.bur
 \xv ʁlɤwur to-rɤŋgat
 \xn 他突然出发了
 \xv ʁlɤwur to-ngo
@@ -16083,7 +16083,7 @@
 \ps n
 \ge orge qui vient juste de fermenter 
 \gn 刚刚发酵的青稞 
-\et glum
+\bw Tibetan glum
 \dt 23/Apr/2012
 
 \lx ʁlɯmbɯɣ
@@ -16100,7 +16100,7 @@
 \ps n
 \ge tchang qui vient juste de fermenter 
 \gn 刚刚发酵的青稞酒 
-\et glum
+\bw Tibetan glum
 
 \lx ʁlɯmsɯsi
 \ps n
@@ -16115,7 +16115,7 @@
 \ps n
 \ge personne qui ne se préoccupe de rien 
 \gn 什么都不在乎的人
-\et glen.pa
+\bw Tibetan glen.pa
 \dt 23/Apr/2012
 
 \lx ʁmaʁ
@@ -16131,7 +16131,7 @@
 \ge drapeau 
 \gn 旗 
 \hbf objet traditionel 
-\et dmag.dar
+\bw Tibetan dmag.dar
 
 \lx ʁmaʁmi
 \wav n-RmaRmi
@@ -16139,7 +16139,7 @@
 \ge militaire
 \gn 士兵 
 \hbf 179 
-\et dmag.mi
+\bw Tibetan dmag.mi
 \xv ʁmaʁmi pɯ-kɯ-ɬoʁ
 \xn 退役的士兵
 \cf nɯʁmaʁmi
@@ -16176,7 +16176,7 @@
 \ps n
 \ge bordeaux 
 \gn 紫色 
-\et dmar.smug
+\bw Tibetan dmar.smug
 \cf arɯʁmɤrsmɯɣ
 \dt 04/May/2014
 
@@ -16186,7 +16186,7 @@
 \ge casserole en cuivre 
 \gn 红铜锅，用来熬茶 
 \hbf 545 
-\et dmar.rigs.?
+\bw Tibetan dmar.rigs.?
 \dt 23/Apr/2012
 
 \lx ʁmbɣi
@@ -16245,7 +16245,7 @@
 \ge diadème 
 \gn 天冠 
 \hbf objet traditionel 
-\et gnam.ʑwa
+\bw Tibetan gnam.ʑwa
 \dt 23/Apr/2012
 
 \lx ʁnaʁna
@@ -16261,7 +16261,7 @@
 \ge grande ourse 
 \gn 北斗 
 \hbf astronomie 
-\et gnam.kʰʲi
+\bw Tibetan gnam.kʰʲi
 \dt 28/Apr/2012
 
 \lx ʁnɤmjaŋ
@@ -16270,7 +16270,7 @@
 \ge plafond 
 \gn 天花板 
 \hbf maison 
-\et gnam.jaŋs
+\bw Tibetan gnam.jaŋs
 \dt 28/Apr/2012
 
 \lx ʁnɯz
@@ -16294,7 +16294,7 @@
 \xn 他去了阴间（去世了）
 \xv a-ʁɲɤlwa ʑo nɯ-rzoʁ
 \xn 我受了很多苦
-\et dmʲal.ba
+\bw Tibetan dmʲal.ba
 \cf nɯʁɲɤlwa
 \dt 02/Sep/2015
 
@@ -16304,7 +16304,7 @@
 \ge intendant du monastère 
 \gn 寺庙的管家 
 \hbf 191 
-\et gɲer.pa
+\bw Tibetan gɲer.pa
 \dt 26/Jan/2015
 
 \lx ʁɲispa
@@ -16312,7 +16312,7 @@
 \ge deuxième mois 
 \gn 二月 
 \hbf mois 
-\et gɲis.pa
+\bw Tibetan gɲis.pa
 
 \lx ʁɲɟiʁɲɟi
 \wav8 RYJiTYJi
@@ -16342,7 +16342,7 @@
 \ge bovidé à tête blanche, mais dont les yeux sont cerclés de noir 
 \gn 头白而眼圈黑的牛 
 \hbf bovidé 
-\et mig.nag
+\bw Tibetan mig.nag
 
 \lx ʁɲɯɣra
 \wav n-RYWGra
@@ -16350,7 +16350,7 @@
 \ge masque pour se couvrir les yeux 
 \gn 眼罩 
 \hbf objet traditionel 
-\et mig.ra
+\bw Tibetan mig.ra
 \dt 28/Apr/2012
 
 \lx ʁŋaftɕɤt
@@ -16380,7 +16380,7 @@
 \ps n
 \ge couple 
 \gn 夫妻  
-\et bza.mi
+\bw Tibetan bza.mi
 \dt 29/Apr/2012
 
 \lx ʁzɤn
@@ -16388,7 +16388,7 @@
 \ge kyasha 
 \gn 袈裟 
 \hbf objet traditionel 
-\et gzan
+\bw Tibetan gzan
 
 \lx ʁzɤr
 \wav n-RzAr
@@ -16412,7 +16412,7 @@
 \ps n
 \ge apparence 
 \gn 相貌 
-\et gzugs
+\bw Tibetan gzugs
 
 \lx ʁzɯlu
 \wav n-RzWlu
@@ -16431,7 +16431,7 @@
 \ge jeune homme
 \gn 小伙子，青年
 \hbf 175 
-\et gʑon.nu
+\bw Tibetan gʑon.nu
 \cf nɯʁʑɯnɯ
 \dt 22/Aug/2015
 
@@ -16496,7 +16496,7 @@
 \ps n
 \ge bouddha 
 \gn 佛，神仙 
-\et saŋs.rgʲas
+\bw Tibetan saŋs.rgʲas
 
 \lx sarndzu
 \ps n
@@ -16581,7 +16581,7 @@
 \ge limite 
 \gn 界限 
 \hbf 721 
-\et gral
+\bw Tibetan gral
 \dt 02/May/2012
 
 \lx sɤɣphɤn
@@ -16624,7 +16624,7 @@
 \ge bassine 
 \gn 盆子 
 \hbf objet traditionel 
-\et fn:洗脸盆
+\bw Tibetan fn:洗脸盆
 \dt 02/May/2012
 
 \lx sɤmŋo
@@ -16696,14 +16696,16 @@
 \ng n.lieu
 \ge Gdong.brgyad
 \gn 龙尔甲
-\dt 01/Sep/2015
+\xv sɤŋupɯ
+\xn 龙尔甲人
+\dt 25/Sep/2015
 
 \lx sɤpɕoʁ
 \wav n-sApCoR
 \ps n
 \ge endroit 
 \gn 地区
-\et sa.pʰʲogs
+\bw Tibetan sa.pʰʲogs
 \dt 08/Dec/2014
 
 \lx sɤrlɤn
@@ -16711,7 +16713,7 @@
 \ps n
 \ge trou humide
 \gn 潮湿地
-\et sa.rlon
+\bw Tibetan sa.rlon
 \dt 23/Jul/2015
 
 \lx sɤrndzo
@@ -16736,7 +16738,7 @@
 \ge grêle 
 \gn 冰雹 
 \hbf 13 
-\et ser.ba
+\bw Tibetan ser.ba
 \xv jɯfɕɯndʐi sɤrwa chɤ-lɤt tɕe, tɤ-rɤku ra pjɤ-xtsɯ tɕe mɯ-to-sɤpe
 \xn 前天下了冰雹，破坏了庄稼
 \dt 02/May/2012
@@ -16746,7 +16748,7 @@
 \ps n
 \ge monde 
 \gn 世界 
-\et sa.gʑi
+\bw Tibetan sa.gʑi
 \dt 02/May/2012
 
 \lx sɤscur
@@ -16778,7 +16780,7 @@
 \ps n
 \ge endroit vide 
 \gn 荒野 
-\et sa.stoŋ
+\bw Tibetan sa.stoŋ
 \dt 02/May/2012
 
 \lx sɤtɤβ
@@ -16795,7 +16797,7 @@
 \ge endroit 
 \gn 地方 
 \hbf 22 
-\et sa.tɕʰa
+\bw Tibetan sa.tɕʰa
 \dt 02/May/2012
 
 \lx sɤxtɕɯɣ
@@ -16847,7 +16849,7 @@
 \ge champs 
 \gn 田地 
 \hbf 41 
-\et sa.ʑiŋ
+\bw Tibetan sa.ʑiŋ
 \dt 02/May/2012
 
 \lx scapa
@@ -16872,7 +16874,7 @@
 \ge pie, animal domestique dont le corps est noir et le milieu du corps blanc 
 \gn 喜鹊,全身黑色，腰白色的牲畜 
 \hbf oiseau 
-\et skʲa.ka
+\bw Tibetan skʲa.ka
 \dt 29/Apr/2012
 
 \lx scɤmdʑɯɣ
@@ -16880,7 +16882,7 @@
 \ps n
 \ge protection 
 \gn 保佑 
-\et skʲabs.ɴdʑug
+\bw Tibetan skʲabs.ɴdʑug
 \dt 29/Apr/2012
 
 \lx scɤʁzɯɣ
@@ -16903,7 +16905,7 @@
 \ps n
 \ge vie, existence 
 \gn 生命 
-\et skʲe.ba
+\bw Tibetan skʲe.ba
 \xv sciwa ɲo-nɤsci 
 \xn 他换了一条生命，死了以后活过来了
 
@@ -16924,7 +16926,7 @@
 \ge louche 
 \gn 勺子、瓢 
 \hbf 551 
-\et skʲogs
+\bw Tibetan skʲogs
 \dt 26/Jan/2015
 
 \lx scoʁɲaʁ
@@ -16988,7 +16990,7 @@
 \ps n
 \ge faute
 \gn 过错
-\et skʲon
+\bw Tibetan skʲon
 \dt 24/Jun/2014
 
 \lx scus
@@ -17015,7 +17017,7 @@
 \ge arbre 
 \gn 树 
 \hbf plante 
-\et ɕiŋ
+\bw Tibetan ɕiŋ
 
 \lx sijmɤɣ
 \wav n-sijmAG
@@ -17059,14 +17061,14 @@
 \ps n
 \ge réponse 
 \gn 回句、回音 
-\et skad.len
+\bw Tibetan skad.len
 \dt 29/Apr/2012
 
 \lx skɤlpa
 \ps n
 \ge monde 
 \gn 世界 
-\et bskal.pa
+\bw Tibetan bskal.pa
 
 \lx skɤm
 \wav n-skAm
@@ -17074,7 +17076,7 @@
 \ge bœuf à viande 
 \gn 菜牛 
 \hbf bovidé 
-\et skom.po
+\bw Tibetan skom.po
 \xv skɤmndʐi kɤ-qaʁ 
 \xn 剥牛皮
 \dt 29/Apr/2012
@@ -17091,7 +17093,7 @@
 \ps n
 \ge chemin des moulins à prière
 \gn 转经的路
-\et bskor.lam
+\bw Tibetan bskor.lam
 \dt 29/Aug/2012
 
 \lx skɤrma
@@ -17104,7 +17106,7 @@
 \ge jour
 \gn 日子
 \hbf 577 
-\et skar.ma
+\bw Tibetan skar.ma
 \xv skɤrma kɯ-sna
 \xn 好日子
 \dt 12/Aug/2012
@@ -17114,7 +17116,7 @@
 \ge vénus, étoile du soir 
 \gn 金星 
 \hbf astronomie 
-\et skar.tɕʰen
+\bw Tibetan skar.tɕʰen
 \dt 17/Mar/2014
 
 \lx skɤrwa
@@ -17123,7 +17125,7 @@
 \ps n
 \ge faire tourner les moulins à prière 
 \gn 转经 
-\et skor.ba
+\bw Tibetan skor.ba
 \xv skɤrwa ko-ɕe
 \xn 他去转经了
 \xv skɤrwa tɯ-tɤxɯr kɤ-ari-a 
@@ -17159,7 +17161,7 @@
 \ge statue de bouddha 
 \gn 佛像 
 \hbf 672 
-\et sku
+\bw Tibetan sku
 
 \lx skɯrloʁ
 \ps n
@@ -17174,7 +17176,7 @@
 \ge cadeau 
 \gn 礼物 （请别人带的）
 \hbf 684 
-\et skur.ma
+\bw Tibetan skur.ma
 \xv kɯki a-mu kɯ nɤ-skɯrma jɤ́-wɣ-sɯɣɯt-a ŋu
 \xn 这是我母亲要我带给你的礼物
 \sy tɤ-pɤro
@@ -17186,7 +17188,7 @@
 \ge feu (sprulsku) 
 \gn 圆寂了的活佛 
 \hbf famille 
-\et sku.gɕegs
+\bw Tibetan sku.gɕegs
 
 \lx sla
 \wav n-sla
@@ -17194,7 +17196,7 @@
 \ge lune 
 \gn 月亮 
 \hbf 4 
-\et zla
+\bw Tibetan zla
 \xv sla qajɣi rkɯ kɯ-fse ci ma ɲo-me 
 \xn 月亮只有馍馍那么大 
 \cf slɤzɯn
@@ -17206,7 +17208,7 @@
 \ps n
 \ge étudiant 
 \gn 学生 
-\et slob.ma
+\bw Tibetan slob.ma
 \xv nɤ-slama ɯ́-dɤn
 \xn 你的学生很多吗？
 \xv slama tu-dɤn tɕe kɤ-sɤsɯxɕɤt mɤ-mbat ma
@@ -17261,7 +17263,7 @@
 \ps n
 \ge école
 \gn 学校
-\et slob.kʰaŋ
+\bw Tibetan slob.kʰaŋ
 \dt 26/Aug/2015
 
 \lx slɤŋe
@@ -17302,7 +17304,7 @@
 \ps n
 \ge professeur 
 \gn 老师 
-\et slob.dpon
+\bw Tibetan slob.dpon
 \dt 29/Apr/2012
 
 \lx slɯŋslɯŋ
@@ -17346,7 +17348,7 @@
 \ge médicament 
 \gn 药 
 \hbf 456 
-\et sman
+\bw Tibetan sman
 \xv smɤn kɤ-ndza a-mɤ-nɯ-tɯ-jmɯt je!
 \xn 你不要忘记吃药
 \xv smɤn tɕhi pɯ-pɯ-ŋɯ-ŋu ʑo nɤ ɯ-tshɤt kɤ-ndza ra
@@ -17358,7 +17360,7 @@
 \ge médecin 
 \gn 医生 
 \hbf 181 
-\et sman.pa
+\bw Tibetan sman.pa
 
 \lx smɤnkhaŋ
 \wav n-smAnkhaN
@@ -17373,7 +17375,7 @@
 \ps n
 \ge médicament
 \gn 药材
-\et sman.rigs
+\bw Tibetan sman.rigs
 \dt 05/May/2014
 
 \lx smɤʁjoʁ
@@ -17433,7 +17435,7 @@
 \ps n
 \ge prière, espoir
 \gn 愿望
-\et smon.lam
+\bw Tibetan smon.lam
 \xv a-pɯ-cha smɯlɤm
 \xn 希望能够成功！
 \dt 02/May/2014
@@ -17457,7 +17459,7 @@
 \ge pléiades 
 \gn 昴宿 
 \hbf astronomie 
-\et smin.drug
+\bw Tibetan smin.drug
 
 \lx smɯŋgɯ
 \wav n-smWNgW
@@ -17536,7 +17538,7 @@
 \ps n
 \ge état d'esprit 
 \gn 性情 
-\et snaŋ.ba
+\bw Tibetan snaŋ.ba
 \xv snaŋwa ɲɯ-mthu 
 \xn 自信心强
 
@@ -17545,14 +17547,14 @@
 \ge encre 
 \gn 墨 
 \hbf 649 
-\et snag.tsʰa
+\bw Tibetan snag.tsʰa
 
 \lx snowa
 \wav vi-mthu2
 \ps n
 \ge pensée, idéal
 \gn 理想、想法
-\et snaŋ.ba
+\bw Tibetan snaŋ.ba
 \xv ɯ-snowa ɲɯ-mthu
 \xn 他的理想很远大
 \dt 26/Jan/2015
@@ -17562,7 +17564,7 @@
 \ps n
 \ge huile contenu dans les poils; viande, huile 
 \gn 羊毛和牛毛中含着的油脂、肉、油的统称 
-\et snum
+\bw Tibetan snum
 \dt 02/May/2012
 
 \lx snɯɲaʁ
@@ -17582,7 +17584,7 @@
 \ps n
 \ge upavâsa, fête du jeûne
 \gn 哑巴经（禁食斋）
-\et smʲuŋ.gnas
+\bw Tibetan smʲuŋ.gnas
 \xv sɲaŋne kɤ-ndo-t-a
 \xn 我念了哑巴经
 \cf rɯsɲaŋne
@@ -17628,7 +17630,7 @@
 \ge harnais 
 \gn 后輶
 \hbf 595 
-\et rmed
+\bw Tibetan rmed
 \dt 02/May/2012
 
 \lx sɲikuku
@@ -17658,7 +17660,7 @@
 \ge pinceau 
 \gn 笔 
 \hbf 648 
-\et smʲu.gu
+\bw Tibetan smʲu.gu
 \dt 26/Jan/2015
 
 \lx sɲɯŋgɯpala
@@ -17683,7 +17685,7 @@
 \ge autrefois 
 \gn 古时候 
 \hbf 784 
-\et sŋa.rabs
+\bw Tibetan sŋa.rabs
 \dt 29/Apr/2012
 
 \lx sŋaʁ
@@ -17691,7 +17693,7 @@
 \ps n
 \ge sorcellerie 
 \gn 法术 
-\et sŋags
+\bw Tibetan sŋags
 \xv ɯʑo sŋaʁ pjɤ-k-ɤʁe-ci
 \xn 他被施了法术
 \dt 30/Apr/2014
@@ -17702,7 +17704,7 @@
 \ge sorcier 
 \gn 法师、巫师 
 \hbf 191 
-\et sŋags.pa
+\bw Tibetan sŋags.pa
 \dt 02/May/2012
 
 \lx sŋɤrɯ
@@ -17710,7 +17712,7 @@
 \ps n
 \ge avant de la selle 
 \gn 前鞍桥
-\et sŋa.ru
+\bw Tibetan sŋa.ru
 \dt 29/Apr/2012
 
 \lx sŋi
@@ -17741,14 +17743,14 @@
 \ps n
 \ge plantes qui poussent au printemps 
 \gn 春天发芽了的各种植物 
-\et sŋo
+\bw Tibetan sŋo
 \dt 02/May/2012
 
 \lx sŋoʁmɤr
 \ps n
 \ge beurre sur lequel un moine a soufflé 
 \gn 和尚念经后，在上面吹过的酥油 
-\et mar
+\bw Tibetan mar
 
 \lx sŋɯqiɯ
 \ps n
@@ -17791,13 +17793,13 @@
 \ge paille de blé 
 \gn 麦秸 
 \hbf plante2 
-\et sog.ma
+\bw Tibetan sog.ma
 
 \lx soʁpu
 \ps n
 \ge mongol 
 \gn 蒙古人 
-\et sog.po
+\bw Tibetan sog.po
 
 \lx soskɯsku
 \a soskuku
@@ -17861,14 +17863,14 @@
 \ge loup 
 \gn 狼 
 \hbf animal 
-\et spʲaŋ.ki
+\bw Tibetan spʲaŋ.ki
 
 \lx spjɤtɕha
 \wav n-spjAtCha
 \ps n
 \ge habitude 
 \gn 习气、作法（贬义） 
-\et spʲod.tɕʰa?
+\bw Tibetan spʲod.tɕʰa?
 \dt 19/Aug/2014
 
 \lx spoŋspoz
@@ -17886,7 +17888,7 @@
 \ge mammifère non identifié 
 \gn 一种动物 
 \hbf animal 
-\et spaŋ.sram
+\bw Tibetan spaŋ.sram
 \xv spoŋsrɤm nɯ rɯdaʁ ruŋgu kɯ-mbro ku-kɯ-rɤʑi ci ŋu tɕe ɯ-rme nɯ wuma ʑo mpɕɤr tɕe tɕhɯɕrɤm cho kɯ-naχtɕɯɣ ŋu 
 \xn |fv{spoŋsrɤm}是生活在高山草地上的动物，它的毛长得很美，和水獭一样的贵重。
 
@@ -17906,7 +17908,7 @@
 \ge encens 
 \gn 香 
 \hbf 541 
-\et spos
+\bw Tibetan spos
 \dt 02/May/2012
 
 \lx sprilu
@@ -17914,7 +17916,7 @@
 \ge année du singe 
 \gn 猴年 
 \hbf 763 
-\et spreɦu.lo
+\bw Tibetan spreɦu.lo
 \dt 24/Aug/2014
 
 \lx sprɯlpa
@@ -17922,7 +17924,7 @@
 \ps n
 \ge magie 
 \gn 法术 
-\et sprul.pa
+\bw Tibetan sprul.pa
 \dt 02/May/2012
 
 \lx sprɯskɯ
@@ -17931,7 +17933,7 @@
 \ps n
 \ge sprulsku 
 \gn 活佛 
-\et sprul.sku
+\bw Tibetan sprul.sku
 \dt 02/May/2012
 
 \lx spɯrtɯm
@@ -18043,7 +18045,7 @@
 \ps n
 \ge prince 
 \gn 王子 
-\et sras
+\bw Tibetan sras
 
 \lx sroχtɕɤn
 \ps n
@@ -18073,7 +18075,7 @@
 \ge coton 
 \gn 棉花 
 \hbf plante 
-\et srin
+\bw Tibetan srin
 
 \lx srɯn³
 \ps n
@@ -18122,7 +18124,7 @@
 \ps n
 \ge râkshasî
 \gn 妖精
-\et srin.mo
+\bw Tibetan srin.mo
 \dt 27/Feb/2014
 
 \lx srɯsmɤn
@@ -18157,7 +18159,7 @@
 \ge année du tigre 
 \gn 虎年 
 \hbf 757 
-\et stag.lo
+\bw Tibetan stag.lo
 
 \lx staʁnɤ
 \ps postp
@@ -18205,13 +18207,13 @@
 \ge bol 
 \gn 瓷碗，画着佛像的图案 
 \hbf objet traditionel 
-\et stag rgʲan.ma
+\bw Tibetan stag rgʲan.ma
 
 \lx stɤβtshɤt
 \ps n
 \ge épreuves de force 
 \gn 角力
-\et stobs.tsʰad
+\bw Tibetan stobs.tsʰad
 \dt 24/Aug/2014
 
 \lx stɤɣdo
@@ -18259,7 +18261,7 @@
 \ps n
 \ge chemise de moine
 \gn 和尚穿的上内衣
-\et stod
+\bw Tibetan stod
 \dt 05/May/2014
 
 \lx stɤrɟɯɣ
@@ -18276,7 +18278,7 @@
 \ps n
 \ge tête et queue
 \gn 头尾
-\et stod.smad
+\bw Tibetan stod.smad
 \dt 24/Apr/2013
 
 \lx stɤtoŋ
@@ -18284,8 +18286,18 @@
 \ps n
 \ge manteau 
 \gn 上衣 
-\et stod.tʰuŋ
+\bw Tibetan stod.tʰuŋ
 \dt 05/May/2012
+
+\lx stɤtpa
+\ps n
+\ng n.lieu
+\ge Stodpa
+\gn 四大坝
+\bw Tibetan stod.pa
+\xv stɤtpapɯ
+\xn 四大坝人
+\dt 25/Sep/2015
 
 \lx stɣɤrnɤstɣɤr
 \ps idph.2
@@ -18366,7 +18378,7 @@
 \ge automne 
 \gn 秋天 
 \hbf 793 
-\et ston.ka
+\bw Tibetan ston.ka
 \dt 05/May/2012
 l
 
@@ -18376,7 +18388,7 @@ l
 \ge mille 
 \gn 1000 
 \hbf 826 
-\et stoŋ
+\bw Tibetan stoŋ
 \dt 05/May/2012
 
 \lx stoʁ
@@ -18459,7 +18471,7 @@ l
 \ge mariage 
 \gn 婚姻 
 \hbf 796 
-\et ston.mo
+\bw Tibetan ston.mo
 \cf rɯstɯnmɯ
 \dt 05/May/2012
 
@@ -18723,7 +18735,7 @@ l
 \ge animaux 
 \gn 动物 
 \hbf animal 
-\et sems.tɕan
+\bw Tibetan sems.tɕan
 \dt 05/May/2012
 
 \lx sɯmtɕɤnrtazoʁ
@@ -18732,7 +18744,7 @@ l
 \ge animaux domestiques 
 \gn 牲畜 
 \hbf animal 
-\et sems.tɕan rta.zog
+\bw Tibetan sems.tɕan rta.zog
 \dt 05/May/2012
 
 \lx sɯmtso
@@ -18753,7 +18765,7 @@ l
 \ps n
 \ge inquiétude 
 \gn 操心 
-\et sems.sdug
+\bw Tibetan sems.sdug
 \cf nɯsɯmɯzdɯɣ
 \dt 25/Jan/2015
 
@@ -18769,7 +18781,7 @@ l
 \ps n
 \ge emplanture
 \gn 榫头 
-\et fn:榫头
+\bw Tibetan fn:榫头
 \dt 05/May/2012
 
 \lx sɯŋgi
@@ -18778,7 +18790,7 @@ l
 \ge lion 
 \gn 狮子 
 \hbf animal 
-\et seŋ.ge
+\bw Tibetan seŋ.ge
 \dt 05/May/2012
 
 \lx sɯŋgɯ
@@ -18806,7 +18818,7 @@ l
 \ps n
 \ge forêt primaire de la montagne 
 \gn 深山老林
-\et nags.tɕʰen
+\bw Tibetan nags.tɕʰen
 
 \lx sɯŋgɯpɤjka
 \ps n
@@ -18864,7 +18876,7 @@ l
 \ge arbre 
 \gn 树 
 \hbf plante2 
-\et ɕiŋ
+\bw Tibetan ɕiŋ
 \dt 05/May/2012
 
 \lx sɯrkɤz
@@ -19131,13 +19143,13 @@ l
 \ps n
 \ge habit que l'on rabat au niveau de l'épaule 
 \gn 大襟
-\et fn:大襟
+\bw Tibetan fn:大襟
 
 \lx talɤn
 \ps n
 \ge besace 
 \gn 褡裢 
-\et fn:褡裢
+\bw Tibetan fn:褡裢
 
 \lx ta-ma
 \ps np
@@ -19209,7 +19221,7 @@ l
 \ps n
 \ge grand drapeau flottant au vent
 \gn 大经幡
-\et dar.tɕʰen
+\bw Tibetan dar.tɕʰen
 \dt 17/Mar/2014
 
 \lx taʁ
@@ -19401,7 +19413,7 @@ l
 \ge foi 
 \gn 信仰 
 \hbf 1137 
-\et dad.pa
+\bw Tibetan dad.pa
 \xv tatpa tɤ-ta-t-a
 \xn 我崇拜(了)他
 \dt 22/Feb/2014
@@ -19443,7 +19455,7 @@ l
 \ge forme, modèle 
 \gn 形状、榜样 
 \hbf 697 
-\et dpe
+\bw Tibetan dpe
 \xv ɯʑo a-ta-χpi sna 
 \xn 他值得做我的榜样 
 \dt 27/Apr/2014
@@ -19522,7 +19534,7 @@ l
 \ge coin 
 \gn 楔子 
 \hbf 619 
-\et kʰʲewu
+\bw Tibetan kʰʲewu
 \dt 05/Feb/2014
 
 \lx tɤcoʁcoʁ
@@ -19568,7 +19580,7 @@ l
 \ge peigne 
 \gn 梳子 
 \hbf 481 
-\et ɕad
+\bw Tibetan ɕad
 \dt 10/May/2012
 
 \lx tɤɕi
@@ -19686,7 +19698,7 @@ l
 \ge couvercle 
 \gn 盖子 
 \hbf 547 
-\et ɴgebs
+\bw Tibetan ɴgebs
 \cf fkaβ
 \dt 09/Jun/2013
 
@@ -19747,7 +19759,7 @@ l
 \ge signe 
 \gn 记号 
 \hbf 681 
-\et rtags
+\bw Tibetan rtags
 \xv ɯ-ftaʁ to-ta
 \xn 他做了记号
 \dt 15/Nov/2014
@@ -20164,7 +20176,7 @@ l
 \ps np
 \ge prix à payer 
 \gn 自己应该承担的责任、应该付出的代价 
-\et kʰral
+\bw Tibetan kʰral
 \xv ki a-khrɤl ŋu 
 \xn 这是我的责任
 \xv a-khrɤl nɯ-n-nɤma-t-a
@@ -20380,7 +20392,7 @@ l
 \ge rougeole 
 \gn 疹子 
 \hbf 126 
-\et ɴbrum
+\bw Tibetan ɴbrum
 \dt 09/Jun/2013
 
 \lx tɤmcar
@@ -20593,7 +20605,7 @@ l
 \ge poison 
 \gn 毒 
 \hbf 641 
-\et dug
+\bw Tibetan dug
 \dt 12/May/2012
 
 \lx tɤndɤɣri
@@ -21006,6 +21018,7 @@ l
 \ge sabot 
 \gn 蹄子 
 \hbf animal2
+\cf tɯ-qa
 \dt 20/Dec/2012
 
 \lx tɤqɤt
@@ -21238,7 +21251,7 @@ l
 \ge chien de berger 
 \gn 牧羊犬 
 \hbf animal 
-\et kʰʲi
+\bw Tibetan kʰʲi
 \dt 23/Dec/2014
 
 \lx tɤ-rkhɤrkhɤt
@@ -21539,7 +21552,7 @@ l
 \ps clf
 \ge un étage 
 \gn 一层楼 
-\et rtseg
+\bw Tibetan rtseg
 \xv χsɤ-rtsɤɣ
 \xn 三层楼
 \xv ki kha ki ɯ-tɤ-rtsɤɣ ɲɯ-mbro 
@@ -21573,7 +21586,7 @@ l
 \gn 猪油 
 \hbf 445 
 \dv tɤ-rtsi nɯ kɯɕɯŋgɯ tɕe ku-mphɯr-nɯ ku-sɤrtɯm-nɯ tɕe, ɯ-ŋgɯ ɲɯ-ɣɤdi, ɲɯ-ɤrŋi ra pɯ-ŋgrɤl tham tɕe tu-sphjar-nɯ tɕe, ɲɯ-sqhiar-nɯ tɕe, nɯ kɯ-fse tu-sɯzbaʁ-nɯ tɕe tɕe ɯ-ŋgɯ ɲɯ-kɯ-ɤrŋi ɲɯ-kɯ-ɣɤdi nɯ maŋe
-\et rtsi
+\bw Tibetan rtsi
 \cf aɣɯrtsi
 \dt 20/Oct/2012
 
@@ -21587,7 +21600,7 @@ l
 \ps n
 \ge nombre
 \gn 数目
-\et rtsis
+\bw Tibetan rtsis
 \cf rtsi
 \dt 18/Aug/2015
 
@@ -21627,7 +21640,7 @@ l
 \ge temps, une nuit 
 \gn 时间、一夜 
 \hbf 737 
-\et ʑag
+\bw Tibetan ʑag
 \xv tɤ-rʑaʁ tɤ-rɲɟi tɕe, mɤ-saχsɤl
 \xn 时间长了就会不清楚
 \xv ɯ-rʑaʁ ɲɯ-zri / ɯ-rʑaʁ mɯ́j-zri 
@@ -21703,7 +21716,7 @@ l
 \ge coussin 
 \gn 垫子 
 \hbf 492 
-\et gdan
+\bw Tibetan gdan
 \cf nɤʁdɤn
 \dt 12/May/2012
 
@@ -22086,7 +22099,7 @@ l
 \ge pin 
 \gn 松树 
 \hbf plante 
-\et tʰaŋ
+\bw Tibetan tʰaŋ
 \xv tɤtho nɯ zgo ku kɯ-mbro tsa tu-ɬoʁ ŋu, ɯ-jwaʁ nɯ taqaβ kɯ-fse kɯ-zri ŋu, ɯ-jwaʁ nɯ ɯ-rtaʁ ɣɯ ɯ-βri aʁɤndɯndɤt ku-ndzoʁ ŋu, aɣɯjwaʁ, ɯ-mdoʁ nɯ tɯrgi ɯ-jwaʁ mdoʁ cho naχtɕɯɣ, tɯ-xpa lɤ-skɤr ɯ-mdoʁ ɲɯ-nɤsci mɤ-cha. ɯ-ru jpum tsa aɣɯrtɯrtaʁ, ɯ-tɯ-ɤɣɯrtɯrtaʁ nɯ ɕɤɣ ʑo fse, ɯ-mat tu, tɯrgi laŋlaŋ cho naχtɕɯɣ ri, artɯm. tɤtho ɯ-ru nɯ li ɕɤɣ jamar ma kɤ-rɤɣdɤt mɤ-rtaʁ. ŋgɤjpɤn nɯ li kɯ-ʑru kɤ-sɯpa ŋu, ma qajɯ kɯ mɤ-ndze. tɤtho si nɯ wuma ʑo ɯ-tɤ-ndʑɯɣ dɤn tɕe wuma ʑo kɤ-βlɯ pe. 
 \xn 松树生长在高山上，叶子长得像针一样，比较长，叶子在枝桠上到处生长，很茂盛，颜色和杉树的颜色一样，一年四季不变色。树干比较粗，长出很多枝桠，枝桠生长的方式很像柏树，有果实，像杉树的果实一样但是是球形的。松树的树干也只能锯成和柏树那么多的几段。用松树的木料制造的木板算是比较优质的，因为蛀虫不爱咬。因为松树的树脂多，所以很好烧。
 \dt 11/Sep/2013
@@ -22404,7 +22417,7 @@ l
 \ge sac pour les feuilles de thé 
 \gn 茶叶袋 
 \hbf objet traditionel 
-\et dʑa.kʰug
+\bw Tibetan dʑa.kʰug
 
 \lx tɕamba
 \ps n
@@ -22419,7 +22432,7 @@ l
 \ge espèce de plante 
 \gn 植物的一种 
 \hbf plante 
-\et dʑa.mo
+\bw Tibetan dʑa.mo
 \xv tɕamu nɯ χsɯ-tɯphu tu tɕe, sɯjno ci tu tɕe ɯ-jwaʁ kɯ-rʁom tsa ci ŋu, mɤ-mbro, ɯ-mɯntoʁ ɯ-ru kɯ-xtshɯm kɯ-zri tsa tu-ɬoʁ tɕe ɯ-mɯntoʁ kɯ-wɣrum ɲɯ-lɤt ŋu, ɯ-mɯntoʁ ɯ-qhu pɕoʁ nɯ kɯ-ɣɯrni kɯ-qandʐi tsa ŋu, ɯ-jwaʁ nɯ ɲɯ́-wɣ-sɯɣ-rom tɕe, tʂha kɤ-nɯ-ta sna, tɕe núndʐa tɕamu rmi. li ci tɯ-tɯphu nɯ, ɕkrɤz kɯ-do tsa ɣɯ ɯ-ci kɯ-ɣɯrni tɤ-se ʑo kɯ-fse pjɯ-nɯɬoʁ tɕe, cɯschɯz tu-ojtɯ tɕe tɤ-rʑaʁ tɤ-rɲɟi tɕe ku-jkrɯt tɕe ɯ-rŋgɤm ɲɯ-βze tɕe ɯ-nɯnɯ wuma ʑo tʂha kɯ-ʑru tɯ-mtshi kɯ-mŋɤm kɯ-phɤn ɲɯ-ŋu khi, tɕeri wuma ʑo kɤ-mto rkɯn. ɕkrɤz ɯ-kɤχcɤl ri kɯ-rko ku-kɯ-ndzoʁ ci tu tɕe nɯ li tʂha ku-nɯ-ta-nɯ pɯ-ŋgrɤl. mɤʑɯ tɯ-tɯphu nɯ sɤjku ɯ-taʁ ku-kɯ-ndzoʁ tɕe, kɯ-rko ci ɲɯ-ŋu tɕe ɯ-nɯnɯ pjɯ́-wɣ-qrɯ tɕe ɲɯ-ɣɯrni tsa tɕe nɯnɯ li tʂha ɯ-rca kú-wɣ-nɯ-ta tɕe tʂha ɯ-mdoʁ ɲɯ-ɣɤmpɕɤr cha. 
 \xn |fv{tɕamu}有三种，其中一个是一种草，叶子有点粗糙，长得不高，花茎比较细长，开白花，花背面是暗红色的，把叶子晒干了以后，可以熬茶喝，所以叫作|fv{tɕamu}。还有一种是比较老的青冈树上流出红色像血一样的液体滴在某个地方时，时间一长就会凝结成的坚硬的固体，那是一种优质的茶，据说可以治胃病，但是很罕见。在青冈树上也会长出一种硬东西，以前曾经有人把它当茶喝。还有一种是长在白桦树上的硬东西，打碎了里面是红色的，把它放在马茶里熬使茶水颜色好看。
 
@@ -22443,7 +22456,7 @@ l
 \ge briquet 
 \gn 火镰 
 \hbf 538 
-\et ltɕags.dmar
+\bw Tibetan ltɕags.dmar
 \dt 07/Jan/2015
 
 \lx tɕaʁtshɯɣ
@@ -22451,7 +22464,7 @@ l
 \ge brûlure au fer rouge pour soigner les migraines 
 \gn 烙（治头风的方式） 
 \un 同|fv{ta (kɤ-)}连用
-\et ltɕags.tsʰigs
+\bw Tibetan ltɕags.tsʰigs
 \xv tɕaʁtshɯɣ ko-ta
 \xn 他给他烙了印子。
 \xv smɤnba kɯ tu-kɯ-nɯsmɤn, tɯ-ku ɯ-taʁ ku-te nɯ tɕaʁtshɯɣ
@@ -22462,14 +22475,14 @@ l
 \ps n
 \ge fers (pieds) 
 \gn 脚镣 
-\et ltɕags.sgrog
+\bw Tibetan ltɕags.sgrog
 \dt 23/Nov/2014
 
 \lx tɕaχkɤr
 \ps n
 \ge fer blanc 
 \gn 白铁皮 
-\et ltɕags.dkar
+\bw Tibetan ltɕags.dkar
 \dt 13/Aug/2012
 
 \lx tɕaχkhɤβ
@@ -22483,7 +22496,7 @@ l
 \ge bandit 
 \gn 强盗 
 \hbf 195 
-\et dʑag.pa
+\bw Tibetan dʑag.pa
 \cf nɯtɕaχpa
 
 \dt 11/Aug/2014
@@ -22493,7 +22506,7 @@ l
 \ge gingembre 
 \gn 姜 
 \hbf plante 
-\et sga.skʲa
+\bw Tibetan sga.skʲa
 \dt 05/Feb/2014
 
 \lx tɕɤkɯ
@@ -22529,7 +22542,7 @@ l
 \ge none 
 \gn 尼姑 
 \hbf 190 
-\et dʑo.mo
+\bw Tibetan dʑo.mo
 
 \lx tɕɤndi
 \ps adv
@@ -22547,7 +22560,9 @@ l
 \ng n.lieu
 \ge Japhug
 \gn 茶堡区
-\dt 19/Jan/2015
+\xv tɕɤphɯpɯ
+\xn 茶堡人
+\dt 25/Sep/2015
 
 \lx tɕɤthi
 \ps adv
@@ -22702,7 +22717,7 @@ l
 \ps n
 \ge théière
 \gn 茶壶
-\et fn:茶壶
+\bw Tibetan fn:茶壶
 
 \lx tɕhɤɣdɯ
 \ps n
@@ -22718,7 +22733,7 @@ l
 \ps n
 \ge coutume 
 \gn 风俗 
-\et tɕʰos.lugs
+\bw Tibetan tɕʰos.lugs
 \cf nɯtɕhɤjlɯz
 \dt 22/Aug/2015
 
@@ -22767,7 +22782,7 @@ l
 \ge pluie 
 \gn 雨 
 \hbf 10 
-\et tɕʰar.nag
+\bw Tibetan tɕʰar.nag
 \xv tɕhɤrnaʁ ɲɯ-ɤsɯ-lɤt
 \xn 下雨
 \dt 06/May/2012
@@ -22870,7 +22885,7 @@ l
 \ge quoi 
 \gn 什么 
 \hbf 954 
-\et tɕʰi
+\bw Tibetan tɕʰi
 \xv kutɕu tɕhi ɯ-kɯ-pa jɤ-tɯ-ɣe?
 \xn 你来这里做什么？
 \un 同|fv{maʁ nɤ}连用时有“至少”的意思
@@ -22905,7 +22920,7 @@ l
 \ps n
 \ge cristal 
 \gn 水晶 
-\et tɕʰu.ɕel
+\bw Tibetan tɕʰu.ɕel
 \xv tɕhiɕɤl-mprɯwa 
 \xn 水晶的念珠
 \dt 06/May/2012
@@ -22931,7 +22946,7 @@ l
 \ge pourquoi 
 \gn 为什么
 \hbf 957 
-\et tɕʰi.ɴdra
+\bw Tibetan tɕʰi.ɴdra
 \dt 23/Dec/2014
 
 \lx tɕhinthaʁ
@@ -23000,7 +23015,7 @@ l
 \ge rhume 
 \gn 感冒 
 \hbf maladie 
-\et tɕʰam.pa
+\bw Tibetan tɕʰam.pa
 \dt 06/May/2012
 
 \lx tɕhorzi
@@ -23027,7 +23042,7 @@ l
 \ps n
 \ge religion 
 \gn 佛学 
-\et tɕʰos
+\bw Tibetan tɕʰos
 
 \lx tɕhʁɯβnɤtɕhʁɯβ
 \ps idph.3
@@ -23083,7 +23098,7 @@ l
 \ge loutre 
 \gn 水獭 
 \hbf animal 
-\et tɕʰu.sram
+\bw Tibetan tɕʰu.sram
 \dt 05/Feb/2014
 
 \lx tɕhɯɣur
@@ -23169,7 +23184,7 @@ l
 \ge moulin à eau 
 \gn 水车 
 \hbf moulin 
-\et tɕʰu.ɴkʰor
+\bw Tibetan tɕʰu.ɴkʰor
 \dt 06/May/2012
 
 \lx tɕhɯŋkhɤru
@@ -23202,7 +23217,7 @@ l
 \ps n
 \ge source d'un fleuve 
 \gn 水源 
-\et tɕʰu.pʰugs
+\bw Tibetan tɕʰu.pʰugs
 \dt 06/May/2012
 
 \lx tɕhɯqhu
@@ -23216,7 +23231,7 @@ l
 \ps n
 \ge galet 
 \gn 卵石 
-\et tɕʰu.rdo
+\bw Tibetan tɕʰu.rdo
 \dt 08/Dec/2014
 
 \lx tɕhɯrkɯ
@@ -23236,14 +23251,14 @@ l
 \ps n
 \ge tsampa 
 \gn 糌粑的一种吃法 
-\et tɕʰu.rtsam.pa
+\bw Tibetan tɕʰu.rtsam.pa
 \dt 06/May/2012
 
 \lx tɕhɯrwa
 \ps n
 \ge quark, tvorog
 \gn 奶渣
-\et pʰʲur.ba
+\bw Tibetan pʰʲur.ba
 \dt 05/Jan/2015
 
 \lx tɕhɯʁja
@@ -23278,7 +23293,7 @@ l
 \ps n
 \ge inondation 
 \gn 洪水
-\et *tɕʰu.sloŋ
+\bw Tibetan *tɕʰu.sloŋ
 
 \lx tɕhɯsmɤn
 \ps n
@@ -23299,7 +23314,7 @@ l
 \ps n
 \ge coulée de boue
 \gn 洪水、泥石流
-\et tɕʰu.tʰan
+\bw Tibetan tɕʰu.tʰan
 \xv tɕhɯthɤn chɤ-ɣi
 \xn 来了泥石流
 \dt 05/Nov/2011
@@ -23308,7 +23323,7 @@ l
 \ps n
 \ge source empoisonnée 
 \gn 有毒的山泉 
-\et tɕʰu.dug
+\bw Tibetan tɕʰu.dug
 \dt 05/Feb/2014
 
 \lx tɕhɯwɯr
@@ -23318,7 +23333,7 @@ l
 \xv a-jaʁ tɕhɯwɯr rɣurɣu ʑo to-rku
 \xn 我手上长了水泡
 \cf cɯmbɤrom
-\et tɕʰu.bur
+\bw Tibetan tɕʰu.bur
 \dt 16/May/2014
 
 \lx tɕhɯχpri
@@ -23358,7 +23373,7 @@ l
 \ge irrigation 
 \gn 灌溉 
 \hbf 1359 
-\et tɕʰu.ʑiŋ
+\bw Tibetan tɕʰu.ʑiŋ
 \xv tɕhɯʑaŋ thɯ-lat-a 
 \xn 我灌溉了(农田)
 \dt 09/Feb/2015
@@ -23392,7 +23407,7 @@ l
 \ge table 
 \gn 桌子 
 \hbf 524 
-\et ltɕog.rtsi
+\bw Tibetan ltɕog.rtsi
 \dt 06/May/2012
 
 \lx tɕrɯɣnɤtɕrɯɣ
@@ -23470,7 +23485,7 @@ l
 \ge tabac 
 \gn 烟 
 \hbf 455 
-\et tʰa.mag
+\bw Tibetan tʰa.mag
 \xv thamaka a-nɯ-tɯ-ftɕɤt
 \xn 你戒烟吧
 \dt 15/Jun/2012
@@ -23483,7 +23498,7 @@ l
 \ps adv
 \ge complètement, tout 
 \gn 全部 
-\et tʰams.tɕad
+\bw Tibetan tʰams.tɕad
 \dt 20/Jan/2015
 
 \lx thamtham
@@ -23491,14 +23506,14 @@ l
 \ge maintenant 
 \gn 现在 
 \hbf 785 
-\et tʰam
+\bw Tibetan tʰam
 
 \lx thaŋ¹
 \ps n
 \ge plaine 
 \gn 平坝 
 \hbf 39 
-\et tʰaŋ
+\bw Tibetan tʰaŋ
 \dt 18/Mar/2015
 
 \lx thaŋ²
@@ -23514,7 +23529,7 @@ l
 \ge élément du métier à tisser 
 \gn 筘[版版] 
 \hbf tissage 
-\et ɴtʰag.ɕa
+\bw Tibetan ɴtʰag.ɕa
 \xv thaʁɕa nɯ tɤ-rɤm thɯ-kɤ-βʑoʁ tɕe nɯ-kɤ-ɣɤmpɕu tɕe stɤsmɤt thɯ-kɤ-sɤmtɕoʁ ŋu, thɯ-kɯ-taʁ tɕe kɤ-taʁ ɯ-sqar ɯ-sɤ-lɤt ɯ-spa ŋu 
 \xn |fv{thaʁɕa}是把木板削平了以后，两头削尖了，用来让经线和纬线的交叉部分上下移动的工具
 \dt 20/May/2013
@@ -23525,7 +23540,7 @@ l
 \ge élément du métier à tisser 
 \gn 榨刀
 \hbf tissage 
-\et ɴtʰag.ma
+\bw Tibetan ɴtʰag.ma
 \xv thaʁmu nɯ thɯ-kɯ-taʁ tɕe kɤ-taʁ ɯ-sqar ɯ-chɯ-sɤ-ɤsɯɣ ɯ-jlɤβ ɯ-ɲɯ-sɤ-ɤrʁe ɯ-spa ŋu. tɤrɤm ɯ-rkɯ zɯ ɕom kɯ-mba tsa pɯ-kɤ-tshoʁ ci ŋu 
 \xn 织布时，榨刀是用来把经线和纬线的交叉部分弄紧，然后穿纬线的工具。是边上装着一块薄铁片的木版。
 \dt 19/May/2014
@@ -23535,7 +23550,7 @@ l
 \ge moulin à prière que l'on fait tourner avec les doigts 
 \gn 指捻转经筒 
 \hbf objet traditionel 
-\et tʰag.ɴkʰor
+\bw Tibetan tʰag.ɴkʰor
 \dt 11/Feb/2014
 
 \lx thaʁtɕɤz
@@ -23544,7 +23559,7 @@ l
 \ge appareil à tisser 
 \gn 织布机 
 \hbf 632 
-\et tʰag.btɕas
+\bw Tibetan tʰag.btɕas
 \dt 06/May/2012
 
 \lx thaʁtsa
@@ -23596,7 +23611,7 @@ l
 \ge foyer 
 \gn 灶 
 \hbf maison 
-\et tʰab.ka
+\bw Tibetan tʰab.ka
 \dt 02/Aug/2014
 
 \lx thɤfkɤlɤɣi
@@ -23618,7 +23633,7 @@ l
 \ps n
 \ge palanquin 
 \gn 轿子 
-\et fn:抬轿
+\bw Tibetan fn:抬轿
 \dt 03/Sep/2015
 
 \lx thɤjtɕu
@@ -23642,7 +23657,7 @@ l
 \ge terre 
 \gn 土 
 \hbf 40 
-\et tʰal.ba
+\bw Tibetan tʰal.ba
 \dt 22/Feb/2014
 
 \lx thɤlwaɲaʁ
@@ -23724,7 +23739,7 @@ l
 \ge foudre 
 \gn 霹雷 
 \hbf 1247 
-\et tʰog
+\bw Tibetan tʰog
 \xv thoʁ pjɤ-ɣi
 \xn 打雷了
 \xv ɣɯjpa kɯ-nɯtʂoŋtshaβ lo-ɕe-nɯ tɕe, tɤ-tɕɯ ci thoʁ kɯ tó-wɣ-tsɯɣ tɕe pjɤ-si 
@@ -23780,7 +23795,7 @@ l
 \ge taureau, bouc non castré 
 \gn 种羊、种牛 
 \hbf bovidé 
-\et tʰug
+\bw Tibetan tʰug
 \dt 23/Mar/2014
 
 \lx thɯɣ⁴
@@ -23816,14 +23831,14 @@ l
 \ps n
 \ge nain, une sorte de démon 
 \gn 一种鬼，矮人 
-\et tʰeɦu.raŋ
+\bw Tibetan tʰeɦu.raŋ
 \dt 09/May/2012
 
 \lx thɯrdu 
 \ps n 
 \ge poids (d'une balance)
 \gn 砝码，秤砣
-\et tʰur.rdo
+\bw Tibetan tʰur.rdo
 \dt 19/Aug/2015
 
 \lx thɯrnaʁ
@@ -23832,14 +23847,14 @@ l
 \ge balance de précision 
 \gn 秤
 \hbf 570 
-\et tʰur.sraŋ
+\bw Tibetan tʰur.sraŋ
 \dt 09/May/2012
 
 \lx thɯrʑi
 \ps n
 \ge compassion 
 \gn 同情，怜悯
-\et tʰugs.rje
+\bw Tibetan tʰugs.rje
 
 \lx thɯthɤci
 \ps pro
@@ -23855,7 +23870,7 @@ l
 \ge premier mois 
 \gn 一月 
 \hbf mois 
-\et daŋ.po
+\bw Tibetan daŋ.po
 
 \lx toŋkɤr
 \wav n-toNkAr
@@ -23863,7 +23878,7 @@ l
 \ge conque 
 \gn 螺 
 \hbf objet traditionel 
-\et duŋ.dkar
+\bw Tibetan duŋ.dkar
 \dt 15/May/2012
 
 \lx toŋku
@@ -23877,7 +23892,7 @@ l
 \ge centime 
 \gn 一角 
 \hbf 907 
-\et doŋ.rtse
+\bw Tibetan doŋ.rtse
 
 \lx toʁde
 \ps adv
@@ -23889,7 +23904,7 @@ l
 \ps adv
 \ge plutôt, un peu 
 \gn 比较、稍微 
-\et tsa
+\bw Tibetan tsa
 \xv nɤʑo ndi tsa nɯ-cit 
 \xn 你稍微转过去一点 
 \xv khɯtsa ɯ-ŋgɯ tɯ-ci kɯ-dɤn tsa tɤ-rke 
@@ -23938,7 +23953,7 @@ l
 \ps n
 \ge santal 
 \gn 檀木 
-\et tsan.dan
+\bw Tibetan tsan.dan
 
 \lx tsɣaʁtsɣaʁ
 \wav ideo-tsGaR-b
@@ -23956,7 +23971,7 @@ l
 \ge sel 
 \gn 盐 
 \hbf 61 
-\et tsʰwa
+\bw Tibetan tsʰwa
 
 \lx tshala
 \wav n-tshala
@@ -23964,7 +23979,7 @@ l
 \ge soudage 
 \gn （焊接用的）铁水 
 \hbf 1369 
-\et tsʰa.la
+\bw Tibetan tsʰa.la
 \xv tshala ka-lɤt
 \xn 他(把东西)焊了。
 \dt 15/May/2012
@@ -23983,7 +23998,7 @@ l
 \ge crible 
 \gn 筛子 
 \hbf 629 
-\et tsʰags
+\bw Tibetan tsʰags
 \xv ki tɤɕi ki tshaʁ pɯ-lat-a
 \xn 我筛了青稞
 \xv tshaʁ ɯ-mɲaʁ
@@ -23995,7 +24010,7 @@ l
 \ps n
 \ge impressions sur argile
 \gn （用模型印出来的）小泥像
-\et tsha.tsha
+\bw Tibetan tsha.tsha
 \cf tshɤcim
 \cf tshɤrkɯ
 \dt 04/Sep/2015
@@ -24006,7 +24021,7 @@ l
 \ge tuberculose 
 \gn 肺结核 
 \hbf maladie 
-\et tsʰa.ba
+\bw Tibetan tsʰa.ba
 \dt 30/May/2013
 
 \lx tshɤcim
@@ -24138,14 +24153,14 @@ l
 \gn 放生
 \xv tshɤthɤr lo-lɤt
 \xn 他放生了(某种生物)
-\et tsʰe.tʰar
+\bw Tibetan tsʰe.tʰar
 \dt 29/Dec/2014
 
 \lx tshɤtʂot
 \ps n
 \ge fièvre
 \gn 发烧
-\et tsʰa.drod
+\bw Tibetan tsʰa.drod
 \cf nɯtshɤtʂot
 \dt 26/Jan/2015
 
@@ -24195,14 +24210,14 @@ l
 \ge commerce 
 \gn 生意 
 \hbf 1821 
-\et tsʰoŋ
+\bw Tibetan tsʰoŋ
 
 \lx tshoŋpawa
 \wav n-tshoNpawa
 \ps n
 \ge marchand
 \gn 老板、商人
-\et tsʰoŋ.pa.ba
+\bw Tibetan tsʰoŋ.pa.ba
 \dt 05/Nov/2011
 
 \lx tshoŋwa
@@ -24210,7 +24225,7 @@ l
 \ge marchand 
 \gn 商人 
 \hbf 180 
-\et tsʰoŋ.ba
+\bw Tibetan tsʰoŋ.ba
 \dt 01/Aug/2013
 
 \lx tshoʁɕaŋ
@@ -24232,7 +24247,7 @@ l
 \ge teinture 
 \gn 染料 
 \hbf 543 
-\et tsʰos
+\bw Tibetan tsʰos
 \dt 15/May/2012
 
 \lx tshupa
@@ -24240,7 +24255,7 @@ l
 \ge village 
 \gn 村子 
 \hbf 66 
-\et tsʰo.pa
+\bw Tibetan tsʰo.pa
 
 \lx tshɯɣru
 \wav n-tshWGru
@@ -24290,7 +24305,7 @@ l
 \wav8 tshWrJWn
 \ge souvent 
 \gn 经常 
-\et tsʰe.rgʲun
+\bw Tibetan tsʰe.rgʲun
 \xv tshɯrɟɯn nɯɣi ɕti
 \xn 他经常回来
 \dt 12/May/2012
@@ -24393,7 +24408,7 @@ l
 \ps n
 \ge vérité
 \gn 真话
-\et draŋ.gtam
+\bw Tibetan draŋ.gtam
 \cf ɯ-stɤrju
 \dt 27/Apr/2014
 
@@ -24412,7 +24427,7 @@ l
 \ge bol de moine 
 \gn 僧碗 
 \hbf objet traditionel 
-\et grʷa.pʰor
+\bw Tibetan grʷa.pʰor
 \dt 15/May/2012
 
 \lx tʂaqhu
@@ -24632,7 +24647,7 @@ l
 \ge sixième mois 
 \gn 六月 
 \hbf mois 
-\et drug.pa
+\bw Tibetan drug.pa
 
 \lx tʂɯmpa
 \wav n-tsxWmpa
@@ -24647,7 +24662,7 @@ l
 \ps n
 \ge bienfait 
 \gn 报恩 
-\et drin.len
+\bw Tibetan drin.len
 \dt 16/May/2012
 
 \lx tʂɯtʂu
@@ -24670,7 +24685,7 @@ l
 \ps np
 \ge devoir 
 \gn 义务
-\et blas
+\bw Tibetan blas
 \xv tɕhaʁra chɯ-raʁrɯz-a ma a-βlɤz ɕti
 \xn 我扫厕所，因为这是我的义务
 \xv aʑo nɤme-a ra ma a-βlɤz ɕti
@@ -24834,7 +24849,7 @@ l
 \ge muscle 
 \gn 肌肉 
 \hbf 128 
-\et ɕa
+\bw Tibetan ɕa
 \dt 16/May/2012
 
 \lx tɯ-ɕaqraʁ
@@ -24934,7 +24949,7 @@ l
 \ge bile 
 \gn 胆 
 \hbf 147 
-\et mkʰris
+\bw Tibetan mkʰris
 \dt 16/May/2012
 
 \lx tɯɕlu
@@ -24960,7 +24975,7 @@ l
 \ge nez 
 \gn 鼻子 
 \hbf 80 
-\et sna
+\bw Tibetan sna
 
 \lx tɯ-ɕnaβ
 \ps np
@@ -25044,7 +25059,7 @@ l
 \ge organe sexuel féminin 
 \gn 女性生殖器 
 \hbf 118 
-\et stu
+\bw Tibetan stu
 
 \lx tɯ-ɕɯrɲo
 \ps np
@@ -25087,7 +25102,7 @@ l
 \ge diarrhée 
 \gn 拉肚子 
 \hbf maladie 
-\et bɕal
+\bw Tibetan bɕal
 \dt 29/May/2013
 
 \lx tɯfɕɤt¹
@@ -25129,7 +25144,7 @@ l
 \ps np
 \ge chance
 \gn 运气
-\et bsod.nams
+\bw Tibetan bsod.nams
 \dt 20/Nov/2011
 
 \lx tɯftsaʁ
@@ -25149,7 +25164,7 @@ l
 \ge poison 
 \gn 毒 
 \hbf 641 
-\et dug
+\bw Tibetan dug
 
 \lx tɯ-ɣdɤt
 \ps clf
@@ -25488,7 +25503,7 @@ l
 \ge longueur des deux bras étendus
 \gn 一庹[一排] 
 \hbf 899 
-\et ɴdom.pa
+\bw Tibetan ɴdom.pa
 \dt 29/May/2013
 
 \lx tɯ-ɟɯɣ
@@ -25516,9 +25531,9 @@ l
 \ge sommet du crâne 
 \gn 头盖骨 
 \hbf corps 
-\et kapāla
+\bw Tibetan kapāla
 
-\lx tɯ-kɤrnoʁ{mtɕɯr}
+\lx tɯ-kɤrnoʁ,mtɕɯr
 \ps vi
 \ge avoir un vertige 
 \gn 头晕 
@@ -25531,7 +25546,7 @@ l
 \ps clf
 \ge pied 
 \gn 尺 
-\et kʰa
+\bw Tibetan kʰa
 \hbf 901
 
 \lx tɯ-khɤftsɯɣ
@@ -25570,21 +25585,21 @@ l
 \ge place dans la hiérarchie 
 \gn 官职 
 \hbf 199 
-\et kʰur
+\bw Tibetan kʰur
 \dt 29/May/2013
 
 \lx tɯkon
 \ps n
 \ge pouvoir 
 \gn 权力
-\et fn:权
+\bw Tibetan fn:权
 \dt 29/May/2013
 
 \lx tɯkrɤz
 \ps n
 \ge discussion 
 \gn 商量 
-\et gros
+\bw Tibetan gros
 \dt 29/May/2013
 
 \lx tɯ-kri
@@ -25608,7 +25623,7 @@ l
 \hbf 74 
 \xv sɯjno ɣɯ ɯ-ku
 \xn 草的叶子和茎
-\et mgo
+\bw Tibetan mgo
 \cf nɤkɤtɕhɯ
 \dt 05/May/2014
 
@@ -25645,7 +25660,7 @@ l
 \ge karma 
 \gn 运气 
 \hbf 674 
-\et las
+\bw Tibetan las
 \xv a-laz ɯ-tɯ-khe
 \xn 我的命很苦
 \xv a-laz tu
@@ -25841,7 +25856,7 @@ l
 \ge plante du pied 
 \gn 脚底 
 \hbf 103 
-\et sbar.mo
+\bw Tibetan sbar.mo
 
 \lx tɯ-mɤpu
 \ps np
@@ -25874,6 +25889,14 @@ l
 \gn 牛肚子 
 \hbf bovidé
 
+\lx tɯmbaz
+\ps n
+\ge coulée de boue
+\gn 泥石流
+\xv tɯmbaz chɤ-ɣi
+\xn 发生了泥石流
+\dt 09/Oct/2015
+
 \lx tɯ-mbɤtɯm
 \ps np
 \ge rein 
@@ -25885,7 +25908,7 @@ l
 \ge corde 
 \gn 绳子 
 \hbf 619 
-\et ɴbreŋ
+\bw Tibetan ɴbreŋ
 
 \lx tɯ-mbur
 \ps np
@@ -25921,7 +25944,7 @@ l
 \ge fusils traditionnels 
 \gn 土枪 
 \hbf objet traditionel 
-\et mda
+\bw Tibetan mda
 
 \lx tɯmdi
 \ps adv
@@ -25975,7 +25998,7 @@ l
 \ge beau-fils 
 \gn 女婿 
 \hbf famille 
-\et mag.pa
+\bw Tibetan mag.pa
 
 \lx tɯ-mga
 \ps np
@@ -26081,7 +26104,7 @@ l
 \ge cou 
 \gn 脖子 
 \hbf 89 
-\et ske
+\bw Tibetan ske
 
 \lx tɯmnɯ
 \ps n
@@ -26094,14 +26117,14 @@ l
 \ge flèche 
 \gn 箭 
 \hbf 637 
-\et mda
+\bw Tibetan mda
 
 \lx tɯ-mɲaʁ
 \ps np
 \ge œil 
 \gn 眼睛 
 \hbf 79 
-\et mig
+\bw Tibetan mig
 
 \lx tɯ-mɲaʁfkaβ
 \ps np
@@ -26138,7 +26161,7 @@ l
 \ge vie 
 \gn 一辈子 
 \hbf 915 
-\et mi.tsʰe
+\bw Tibetan mi.tsʰe
 
 \lx tɯmɲɯɣ
 \ps n
@@ -26155,7 +26178,7 @@ l
 \ge œsophage
 \gn 食道
 \hbf 140 
-\et mid
+\bw Tibetan mid
 \cf nɯmɲɯɣ
 \dt 01/Feb/2013
 
@@ -26210,7 +26233,7 @@ l
 \ge bouche
 \gn 嘴
 \hbf 85 
-\et mtɕʰu
+\bw Tibetan mtɕʰu
 \xv nɤ-mtɕhi kɤ-ndɤm
 \xn 你闭嘴
 \xv cha ɯ-kɯ-tshi ɯ-mtɕhi kɯ-nɯʑɯβ ɯ-qe 
@@ -26229,7 +26252,7 @@ l
 \ps n
 \ge crachat rituel 
 \gn 念经时，一边吹一边吐口水，治病的方式 
-\et mtɕʰu
+\bw Tibetan mtɕʰu
 
 \lx tɯmtɕi
 \ps n
@@ -26288,7 +26311,7 @@ l
 \ge foie 
 \gn 肝 
 \hbf 145 
-\et mtɕʰin.pa
+\bw Tibetan mtɕʰin.pa
 
 \lx tɯ-mtso
 \wav n-tWmtso
@@ -26522,13 +26545,13 @@ l
 \ps np
 \ge sein 
 \gn 乳房 
-\hbf 94 
+\hbf 94
 
 \lx tɯ-ɲɤm
 \ps n
 \ge chair, gras 
 \gn 身上的肉（人、动物） 
-\et ɲam
+\bw Tibetan ɲam
 \se tɯ-ɲɤm phɤn
 \ge très utile
 \gn 有用
@@ -26698,7 +26721,7 @@ l
 \ge dessin 
 \gn 画，照片 
 \hbf 645 
-\et par
+\bw Tibetan par
 \xv nɤ-tɯpɤr pjɯ-lat-a tɕe, tɯrme ɯ-ɕki ɲɯ-kham-a
 \xn 我给你拍照片，给别人看
 \dt 23/Jun/2013
@@ -26736,7 +26759,7 @@ l
 \ge côté, direction 
 \gn 方向 
 \hbf 997 <2> 703 
-\et pʰʲogs
+\bw Tibetan pʰʲogs
 \xv tɯ-pɕoʁ ci pjɯ-phɤn, tɯ-pɕoʁ ci pjɯ-ʁdɯɣ ɲɯ-ɕti
 \xn （这种药）一方面有好处，一方面又有副作用
 \xv ɯ-pɕoʁ a-mɤ-pɯ-naχtɕɯɣ qhe li ɯ-ti mɤ-naχtɕɯɣ
@@ -26771,7 +26794,7 @@ l
 \ge bouteille 
 \gn 一瓶 
 \hbf 891 
-\et bum-pa
+\bw Tibetan bum-pa
 \xv cha tɯ-phoŋ 
 \xn 一瓶酒
 
@@ -26781,7 +26804,7 @@ l
 \ge corps 
 \gn 身体 
 \hbf 73 
-\et pʰuŋ.po
+\bw Tibetan pʰuŋ.po
 \xv nɤ-phoŋbu ɣɯ ɯ-βri ma-pɯ-tɯ-sɯxɕe ma!
 \xn 你不要伤着身体！
 \dt 19/Oct/2012
@@ -26829,7 +26852,7 @@ l
 \ge aisselle 
 \gn 膈肢窝 
 \hbf 92 
-\et bʑag.ɦog
+\bw Tibetan bʑag.ɦog
 
 \lx tɯ-pju
 \ps np
@@ -26843,7 +26866,7 @@ l
 \ge unité de mesure 
 \gn 斗 
 \hbf 571 
-\et ɴbo
+\bw Tibetan ɴbo
 \dt 15/May/2014
 
 \lx tɯpoli
@@ -26876,6 +26899,32 @@ l
 \gn 食管的末端
 \hbf 148
 \dt 20/Aug/2012
+
+\lx tɯ-qa
+\wav8 Wqa_Zo_tunWlhoR_naRzia
+\wav8 Wqa_Zo_pjWnWlhoR
+\ps np
+\sn 1
+\ge racine
+\gn 根
+\sn 2
+\ge patte
+\gn （动物）的脚
+\sn 3
+\ge fond 
+\gn 底部
+\xv tɤ-fkɯm ɣɯ ɯ-qa
+\xn 袋子的底部
+\xv mtshu ɯ-qa zɯ
+\xn 在湖底
+\xv ɯ-qa ʑo tu-nɯɬoʁ naʁzi-a
+\xn 我想寻根问底
+\xv ɯ-kɤ-thu nɯ ɯ-qa ʑo tu-nɯɬoʁ naʁzi
+\xn 他想寻根问底
+\xv nɯ-tɯ-khe kɯ ɯ-qa ʑo ɲɤ-me
+\xn 他们笨到极点
+\cf ɯ-qataʁrɯ
+\dt 01/Sep/2015
 
 \lx tɯ-qartsɯ
 \wav n-tWqartsW
@@ -26962,7 +27011,7 @@ l
 \ps np
 \ge capacité de décision
 \gn 自我主张的权利
-\et raŋ.dbaŋ
+\bw Tibetan raŋ.dbaŋ
 \xv a-rɤʁoŋ me
 \xn 我身不由己
 \dt 30/Aug/2015
@@ -26993,7 +27042,7 @@ l
 \gn 粮食
 \sy tɯjpu
 \hbf 835 
-\et rdog.po
+\bw Tibetan rdog.po
 
 \xv khɯtsa tɯ-rdoʁ 
 \xn 一个碗
@@ -27098,7 +27147,7 @@ l
 \gn 财富 
 \xv tɯ-tsɣe kɤ-βzu ɣɯ ɯ-rɟɯ ɲɯ-rtaʁ
 \xn 他有做生意的本钱
-\et rgʲu
+\bw Tibetan rgʲu
 \dt 18/May/2014
 
 \lx tɯ-rkɤn
@@ -27106,20 +27155,20 @@ l
 \ge palais 
 \gn 上腭 
 \hbf corps 
-\et rkan
+\bw Tibetan rkan
 
 \lx tɯrkɤz
 \ps n
 \ge sculpture 
 \gn 雕塑 
-\et rkos
+\bw Tibetan rkos
 
 \lx tɯ-rkoŋɕɤl
 \ps clf
 \ge are 
 \gn 一亩 
 \hbf 908 
-\et rkaŋ
+\bw Tibetan rkaŋ
 
 \lx tɯ-rla
 \ps np
@@ -27192,7 +27241,7 @@ l
 \ge oreille 
 \gn 耳朵 
 \hbf 81 
-\et rna
+\bw Tibetan rna
 \pdl comit
 \pdv kɤ́rnɯrna
 \dt 21/Dec/2013
@@ -27202,7 +27251,7 @@ l
 \ge âme 
 \gn 灵魂 
 \hbf 673 
-\et rnam.ɕes
+\bw Tibetan rnam.ɕes
 
 \lx tɯ-rnɤfsɯr
 \ps np
@@ -27297,7 +27346,7 @@ l
 \ge poitrine 
 \gn 胸膛 
 \hbf 93 
-\et braŋ
+\bw Tibetan braŋ
 \xv ɯ-ro ɲɯ-ŋgɤr
 \xn 他很小气（容易生气）
 \xv ɯ-ro ɲɯ-jom
@@ -27326,7 +27375,7 @@ l
 \ge épaule 
 \gn 肩膀 
 \hbf 90 
-\et pʰrag
+\bw Tibetan pʰrag
 
 \lx tɯ-rpɣo
 \wav8 tWrpGo_def
@@ -27353,7 +27402,7 @@ l
 \ge gorge 
 \gn 喉咙 
 \hbf 141 
-\et lkog
+\bw Tibetan lkog
 \xv a-pɯ-sɤtso ra ma a-rqo ɲɯ-qhrɯt ʑo tɕe, mɤ-tɯ-tso thaŋ ɲɯ-sɯsam-a ŋu
 \xn 希望听得清楚，因为我的喉咙倒了(嗓子哑了)，我怕你听不清楚
 \dt 07/Apr/2011
@@ -27403,7 +27452,7 @@ l
 \ge tombe 
 \gn 坟墓 
 \hbf 71 
-\et dur.sa
+\bw Tibetan dur.sa
 \dt 12/Mar/2014
 
 \lx tɯrtɕhi
@@ -27425,13 +27474,13 @@ l
 \ge pouls 
 \gn 脉搏
 \hbf 131 
-\et rtsa
+\bw Tibetan rtsa
 
 \lx tɯ-rtsaku
 \ps np
 \ge point d'acupuncture 
 \gn 穴位 
-\et rtsa
+\bw Tibetan rtsa
 
 \lx tɯ-rtsɤɣ
 \wav8 tWrtsAG-def
@@ -27471,7 +27520,7 @@ l
 \ge articulation 
 \gn 关节 
 \hbf corps 
-\et tsʰigs
+\bw Tibetan tsʰigs
 
 \lx tɯ-rɯxpa
 \ps np
@@ -27479,7 +27528,7 @@ l
 \gn 记性 
 \xv a-rɯxpa mɯ-ɲo-sna 
 \xn 我记性不好
-\et rig.pa
+\bw Tibetan rig.pa
 
 \lx tɯ-rzɤz
 \ps np
@@ -27491,7 +27540,7 @@ l
 \sn 2
 \ge dot
 \gn 嫁妆
-\et rdzas
+\bw Tibetan rdzas
 \dt 26/Aug/2015
 
 \lx tɯ-rzɯɣ
@@ -27582,7 +27631,7 @@ l
 \xn 我问心无愧
 \xv nɤ-ʁnoŋ maŋe
 \xn 你问心无愧
-\et gnoŋ
+\bw Tibetan gnoŋ
 \dt 29/Dec/2014
 
 \lx tɯ-ʁɲirgɯm
@@ -27597,7 +27646,7 @@ l
 \ps np
 \ge pouvoir 
 \gn 权力
-\et dbaŋ
+\bw Tibetan dbaŋ
 
 \lx tɯ-sa
 \ps np
@@ -27611,7 +27660,7 @@ l
 \ge anniversaire, lieu de naissance 
 \gn 生日、出生的地方 
 \hbf 682 
-\et skʲe
+\bw Tibetan skʲe
 \xv nɤ-sɤsci ŋotɕu pɯ-ŋu?
 \xn 你生在哪里？
 \dt 23/Mar/2014
@@ -27642,7 +27691,7 @@ l
 \ge partie 
 \gn 份 
 \hbf 692 
-\et skal.ba
+\bw Tibetan skal.ba
 
 \lx tɯ-skɤt
 \wav kAnWrAGO-WskAt
@@ -27660,7 +27709,7 @@ l
 \ge langue
 \gn 语言 
 \hbf 161 
-\et skad
+\bw Tibetan skad
 \xv tɕhi ɯ-skɤt ɲɯ-ŋu, ɯ-ɲɯ-tɯ-tso
 \xn 你懂不懂什么意思？
 \un 同|fv{βzu}连用时，表示“模仿、装作”的意思
@@ -27696,7 +27745,7 @@ l
 \ge le bas du corps 
 \gn 下半身 
 \hbf 736 
-\et smad
+\bw Tibetan smad
 \cf smɤʁjoʁ
 \dt 20/Dec/2012
 
@@ -27786,7 +27835,7 @@ l
 \ge once 
 \gn 一两 
 \hbf 894 
-\et sraŋ
+\bw Tibetan sraŋ
 
 \lx tɯ-srɤm
 \ps np
@@ -27799,7 +27848,7 @@ l
 \ge vie 
 \gn 生命 
 \hbf 163 
-\et srog
+\bw Tibetan srog
 \xv a-sroʁ ngɯt
 \xn 我命大（不容易死）
 \xv jla nɯ ŋkhorwapa ra nɯ-sroʁ ɯ-kɯ-ndo pɯ-ŋu
@@ -27852,7 +27901,7 @@ l
 \ge le haut du corps 
 \gn 上半身 
 \hbf 735 
-\et stot
+\bw Tibetan stot
 \xv tɯ-stɤt kɤ-βde 
 \xn 脱下藏装右手的袖子（便于做事） 
 \cf stɤnga
@@ -27862,7 +27911,7 @@ l
 \ps np
 \ge état d'esprit 
 \gn 性情 
-\et sems
+\bw Tibetan sems
 \xv ɯ-sɯm wuma ʑo ŋɤn
 \xn 他疑心很重
 \xv a-sɯm mba, kɤ-rɤntɕha mɤ-cha-a
@@ -27892,7 +27941,7 @@ l
 \ps n
 \ge pensée 
 \gn 想法 
-\et sems.pa
+\bw Tibetan sems.pa
 \xv tɯ-sɯmpa kɯ-sɤɣdɯɣ
 \xn 心里很烦
 \xv nɤ-sɯmpa kɤ-rku tɯrme
@@ -27916,7 +27965,7 @@ l
 \ps clf
 \ge une bande de couleur 
 \gn 一条很细的条纹 
-\et srol
+\bw Tibetan srol
 
 \lx tɯtaʁ
 \ps n
@@ -28203,7 +28252,7 @@ l
 \ge heure 
 \gn 钟 
 \hbf 662 
-\et tsʰod
+\bw Tibetan tsʰod
 \xv mɤʑɯ tɯtshot ʁnɯz cho tɯ-phaʁ jamar tɕe tu 
 \xn 还有两个半小时
 \xv mɤʑɯ sqamŋu skɤrma tɕe tɯtshot kɯtʂɤɣ zɣɯt ɲɯ-ŋu
@@ -28255,7 +28304,7 @@ l
 \ps np
 \ge but, sens
 \gn 目的、意思
-\et don
+\bw Tibetan don
 \xv ɯ-sɤ-ntɕhoz mɯ́j-naχtɕɯɣ tɕe, tɕe ɯ-tun nɯ mɯ́j-naχtɕɯɣ ɲɯ-ŋu
 \xn 用在不同的语境里（这个词）的意思也不一样
 \xv ʁnaʁna ɯ-tun naχtɕɯɣ ɕti
@@ -28403,7 +28452,7 @@ l
 \ge force 
 \gn 力气 
 \hbf 675 
-\et ɕed
+\bw Tibetan ɕed
 \xv ɯ-xɕɤt tɯ-tu ʑo tha-ɣɤmɯt 
 \xn 他用尽全力吹
 
@@ -28426,7 +28475,7 @@ l
 \ps adv
 \ge toute l'année 
 \gn 一年到头
-\et lo.skor
+\bw Tibetan lo.skor
 
 \lx tɯ-xsoz
 \ps clf
@@ -28472,7 +28521,7 @@ l
 \gn 靴筒上部是獐皮子，下部是染成红色的牛皮的一种靴子 
 \hbf objet traditionel 
 \xv tɯ-xtsa kɤɣɯɕqri nɯ ɯ-ɕna ɯ-rkɯ cho ɯ-komɤr nɯ ra li mbanaʁtsa cho naχtɕɯɣ ri komɤr ɯ-sɤ-tʂɯβ tɤ-ri nɯ ɯ-mdoʁ kɯ-mpɕɤr ku-lɤt-nɯ ŋgrɤl. ɯ-rkɯ ɯ-tɯ-tʂɯβ nɯ ra kɤntɕhɯ ku-lɤt-nɯ ŋgrɤl. ɯ-rkɯ ɯ-taʁ tɕe komɤr pjɯ-tshoʁ-nɯ ɯ-taʁ kóʁmɯz cɤndʐi, nɯ maʁ nɤ mphrɯɣ nɯ maʁ nɤ raz kɯ-mpɕɤr kɯ-fse pjɯ-tshoʁ-nɯ. ɯ-xtsɤkɤŋgɯ nɯ li smɤɣ thɯ-kɤ-βzu pjɯ-tshoʁ-nɯ ŋu. tɕe nɯ tɯ-xtsa nɯ kɤ-tʂɯβ ɴqa, tɕe kɯ-mpɕɤr kɤ-nɯ-sɯpa ŋu
-\xn |fv{tɯxtsa kɤɣɯɕqri}（鞋的一种）的鞋尖、鞋边和鞋背上用红皮子，（做法）和黑皮鞋一样。缝红皮子要用彩色的线，缝鞋边的时候要缝几道。鞋边上面先缝上红皮子（作鞋面），然后上面再缝上獐子皮、氆氇或者美观的棉布（作鞋筒）。鞋筒的内层又是用羊毛制成的。缝这种鞋子很困难，但是可以当作是（藏族服装）的装饰品之一。 
+\xn |fv{tɯxtsa kɤɣɯɕqri}（鞋的一种）的鞋尖、鞋边和鞋背上用红皮子，（做法）和黑皮鞋一样。缝红皮子要用彩色的线，缝鞋边的时候要缝几道。鞋边上面先缝上红皮子（作鞋面），然后上面再缝上麝香鹿皮、氆氇或者美观的棉布（作鞋筒）。鞋筒的内层又是用羊毛制成的。缝这种鞋子很困难，但是可以当作是（藏族服装）的装饰品之一。 
 \dt 05/May/2014
 
 \lx tɯ-xtsɤkɤŋgɯ
@@ -28501,13 +28550,12 @@ l
 \hbf 96 
 \cf ɯ-xtɤfka
 
-
 \lx tɯ-χpɣi
 \ps np
 \ge cuisse 
 \gn 大腿 
 \hbf 100 
-\et bʲin.pa
+\bw Tibetan bʲin.pa
 
 \lx tɯ-χpɯm
 \wav8 aXpWm_pWtshoRa
@@ -28550,7 +28598,7 @@ l
 \gn 时代 
 \xv ndʑi-tɯz a-pɯ-βdi
 \xn 祝你们俩一生平安
-\et dus
+\bw Tibetan dus
 \dt 18/May/2014
 
 \lx tɯ-zboʁ
@@ -28682,7 +28730,7 @@ l
 \gn 办法，计谋 
 \xv nɤ-βlu ci tu-tɕat-a
 \xn 我给你出个主意
-\et blo
+\bw Tibetan blo
 \cf ɯ-βlaβlu
 \cf nɯβlu
 \dt 20/Aug/2015
@@ -28703,7 +28751,7 @@ l
 \ge angle
 \gn 角落 
 \hbf 709 
-\et bzur
+\bw Tibetan bzur
 \xv tɕoχtsi ɣɯ ɯ-βzɯr ri a-jaʁ kɤ-nɯ-rpu-t-a tɕe ɲɯ-mŋɤm
 \xn 我把手撞到桌子的一角，很痛
 \dt 09/Apr/2014
@@ -28840,7 +28888,7 @@ l
 \ps np
 \ge raison 
 \gn 理由、规律、条理
-\et gral
+\bw Tibetan gral
 \xv laχtɕha ɯ-grɤl kɯ-me ʑo ɲɤ-ta
 \xn 东西放得没有条理
 \xv nɤ-grɤl ɯ-tɯ-me 
@@ -28914,7 +28962,7 @@ l
 \ps np
 \ge poignée 
 \gn 把子 
-\et ju.ba
+\bw Tibetan ju.ba
 \hbf 550
 \dt 09/Jun/2013
 
@@ -29015,13 +29063,13 @@ l
 \ps pro
 \ge celui-ci
 \ge 这个 
-\cf kɯki 
+\cf kɯki
 
 \lx ɯkɯkɯra
 \ps pro
 \ge ceux-ci
 \ge 这些 
-\cf kɯra 
+\cf kɯra
 
 \lx ɯ-locu
 \ps np
@@ -29042,14 +29090,23 @@ l
 \gn 外层 
 \dt 30/May/2013
 
-\lx ɯ-lu{sɯxcɯ}
+\lx ɯ-lu,sɯxcɯ
 \ps vt
 \ge faire perdre la conscience
 \gn 令人失去知觉
 \xv to-ʁndɯ tɕe ɯ-lu ʑo pjɤ-sɯxcɯ
 \xn 他打了他，令他失去了知觉
-\cf ɯ-lu{cɯ}
+\cf ɯ-lu,cɯ
 \dt 18/Aug/2015
+
+\lx ɯ-lɯtshɤt
+\ps np
+\ge du même âge
+\gn 同岁，跟自己年龄差不多
+\xv ɯ-lɯtshɤt ra nɯ-rca ɲɯ-rga
+\xn 他喜欢跟自己同龄的小孩子在一起
+\cf aɣɯlɯtshɤt
+\dt 09/Oct/2015
 
 \lx ɯ-lwa
 \wav n-mbrolWa
@@ -29077,7 +29134,7 @@ l
 \ps n
 \ge résultat
 \gn 结果 
-\et ɴbras
+\bw Tibetan ɴbras
 \xv a-mbrɤzɯ pɯ-smɯn
 \xn 我得到了（好）结果
 \xv tɯʑo kɯ ɯ-mbrɤzɯ ɣɯ-nɯ-ndza kɯ-ra ŋu
@@ -29104,7 +29161,7 @@ l
 \ge couleur 
 \gn 颜色 
 \hbf 702 
-\et mdog
+\bw Tibetan mdog
 \xv qromke ɯ-mdoʁ asɯ-ndo
 \xn 带有紫色
 \dt 12/Sep/2013
@@ -29195,7 +29252,7 @@ l
 \ps np
 \ge penser à
 \gn (为某人)着想
-\et ɴdaŋ
+\bw Tibetan ɴdaŋ
 \xv nɯ ɯ-ndaŋ pjɯ-lat-a ŋu
 \xn 我为他着想
 \xv tɯ-zda ra nɯ-ndaŋ pjɯ́-wɣ-lɤt ra ma nɯ-ʁdɯxpa ɣɯ-βzu mɤ-βdi
@@ -29252,13 +29309,13 @@ l
 \ps pro
 \ge celui-là
 \ge 那个 
-\cf nɯnɯ 
+\cf nɯnɯ
 
 \lx ɯnɯnɯra
 \ps pro
 \ge ceux-là
 \ge 那些 
-\cf nɯra 
+\cf nɯra
 
 \lx ɯŋ
 \ps intj
@@ -29294,7 +29351,7 @@ l
 \gn 本来，首先
 \xv ɯʑo ɯŋgu jɤznɤ taʁndo kɯ-tso ci pjɤ-ŋu ri, ɯ-ndo tɕe taʁndo mɯ-ɲɤ-tso
 \xn 他本来很听话的，后来就不听话了
-\et ɴgo
+\bw Tibetan ɴgo
 \an ɯ-ndo
 \cf nɯŋgu
 \dt 11/Oct/2013
@@ -29353,7 +29410,7 @@ l
 \ps np
 \ge au milieu 
 \gn 中间 
-\et bar
+\bw Tibetan bar
 \cf ɯ-thɤβ
 
 \lx ɯ-pɕi
@@ -29362,7 +29419,7 @@ l
 \ge dehors 
 \gn 外面 
 \hbf 714 
-\et pʰʲi
+\bw Tibetan pʰʲi
 \xv ɯ-pɕi qale ɣɤʑu wo
 \xn 外面有风
 
@@ -29416,31 +29473,14 @@ l
 \hbf corps
 \dt 26/Jan/2015
 
-\lx ɯ-qa
-\wav8 Wqa_Zo_tunWlhoR_naRzia
-\wav8 Wqa_Zo_pjWnWlhoR
+\lx ɯ-qaɕɯqa
 \ps np
-\sn 1
-\ge racine
-\gn 根
-\sn 2
-\ge patte
-\gn （动物）的脚
-\sn 3
-\ge fond 
-\gn 底部
-\xv tɤ-fkɯm ɣɯ ɯ-qa
-\xn 袋子的底部
-\xv mtshu ɯ-qa zɯ
-\xn 在湖底
-\xv ɯ-qa ʑo tu-nɯɬoʁ naʁzi-a
-\xn 我想寻根问底
-\xv ɯ-kɤ-thu nɯ ɯ-qa ʑo tu-nɯɬoʁ naʁzi
-\xn 他想寻根问底
-\xv nɯ-tɯ-khe kɯ ɯ-qa ʑo ɲɤ-me
-\xn 他们笨到极点
-\cf ɯ-qataʁrɯ
-\dt 01/Sep/2015
+\ge le fond
+\gn 最深处
+\xv rɟɤmtshu ɯ-qaɕɯqa nɯtɕu zɯ
+\xn 在海的最深处
+\nq qɤ
+\dt 09/Oct/2015
 
 \lx ɯ-qhɤchu
 \wav8 qhAchu
@@ -29496,7 +29536,7 @@ l
 \ps np
 \ge génération, au moment de 
 \gn 年代，正当那个时候 
-\et riŋ
+\bw Tibetan riŋ
 
 \lx ɯ-rɤɣ
 \wav n-WrAG
@@ -29532,7 +29572,7 @@ l
 \gn 整体的牲畜的粮食
 \cf tɯ-rdoʁ
 
-\lx ɯ-rgu{sɯ}
+\lx ɯ-rgu,sɯ
 \ps np
 \ge robuste, fort (malgré les apparences)
 \gn 有（出乎意料的）能力，体力
@@ -29679,7 +29719,7 @@ l
 \xn 在庙里上了漆
 \xv laχtɕha ɯ-rtsi to-lɤt
 \xn 他给家具上了漆
-\et rtsi
+\bw Tibetan rtsi
 \cf sɯrtsi
 \dt 05/Nov/2011
 
@@ -29704,7 +29744,7 @@ l
 \ps np
 \ge nationalité, race 
 \gn 族 
-\et rigs
+\bw Tibetan rigs
 
 \lx ɯ-rɯru
 \ps np
@@ -29730,7 +29770,7 @@ l
 \sn 3
 \ge clairvoyance
 \gn 预见
-\et rigs
+\bw Tibetan rigs
 \dt 24/Aug/2015
 
 \lx ɯ-rwarwa
@@ -29868,14 +29908,14 @@ l
 \gn 可怜，无奈 
 \xv nɤ-scawa ɲɯ-saχaʁ 
 \xn 你很可怜
-\et skʲo.ba
+\bw Tibetan skʲo.ba
 
 \lx ɯ-sci
 \wav8 asci
 \ps np
 \ge à la place de 
 \gn 替 
-\et skʲi
+\bw Tibetan skʲi
 \xv nɤ-sci aʑo ju-ɕe-a 
 \xn 我替你去
 \xv aʑo a-ʁa maŋe tɕe, nɤʑo a-sci tu-tɯ-βze ɯ-tɯ-cha?
@@ -29923,7 +29963,7 @@ l
 \ge fissure, interstice, couture 
 \gn 裂缝、针脚 
 \hbf 494 
-\et srubs
+\bw Tibetan srubs
 
 \lx ɯ-sta
 \wav Wsta_naBzu
@@ -30030,9 +30070,9 @@ l
 \lx ɯ-tɕhaʁ¹
 \wav n-tChaR
 \ps np
-\ge nourriture pour cheval 
+\ge fourrage (pour cheval)
 \gn 马料（没有磨成粉） 
-\et tɕʰag
+\bw Tibetan tɕʰag
 \xv mbro ɯ-tɕhaʁ tɤ-ta-t-a
 \xn 我喂了马
 \cf nɯtɕhaʁ
@@ -30054,7 +30094,7 @@ l
 \ps np
 \ge amende
 \gn 罚款
-\et tɕʰad
+\bw Tibetan tɕʰad
 \xv a-tɕhɤl nɯ-kho-t-a
 \xn 我交了罚款
 \cf nɯtɕhɤl
@@ -30086,7 +30126,7 @@ l
 \ps n
 \ge énorme 
 \gn 巨大 
-\et tɕʰen
+\bw Tibetan tɕʰen
 
 \lx ɯ-tɕɯtɕu
 \ps np
@@ -30130,7 +30170,7 @@ l
 \gn 权利
 \xv rɟɤlpu ɣɯ ɯ-thoβ nɯ tɤru ɣɯ sɤznɤ kɯ-wxti ŋu
 \xn 国王的权利比头人的大
-\et tʰob
+\bw Tibetan tʰob
 \dt 15/May/2014
 
 \lx ɯ-thɯɣli
@@ -30322,10 +30362,10 @@ l
 \ps np
 \ge sommet pointu, excroissance pointue 
 \gn 尖顶 
-\et gser.tʰog
+\bw Tibetan gser.tʰog
 \dt 25/Nov/2014
 
-\lx ɯ-χsoŋχsɤz{ɣi}
+\lx ɯ-χsoŋχsɤz,ɣi
 \ge retrouver son énergie
 \gn 提起精神
 \xv ɯ-χsoŋχsɤz to-ɣi
@@ -30423,7 +30463,7 @@ l
 \ps np
 \ge pour se venger de ...
 \gn 为了报复……
-\et ʑe.ŋan
+\bw Tibetan ʑe.ŋan
 \xv nɤʑo taʁndo mɯ́j-tɯ-tso, nɤ-ʑɤŋɤn kɯ-ɴqa ɲɯ-ta-znɤma ŋu
 \xn 因为你不听话，为了报复你，就让你干重货
 \dt 07/Sep/2015
@@ -30506,14 +30546,14 @@ l
 \xn 天啊，你这么高！
 \xv worɟɤmchɤm ɯ-tɯ-nɯɲɤmkhe nɯ!
 \xn 天啊，你这么瘦！
-\et ʔo.rgʲan.mkʰʲen
+\bw Tibetan ʔo.rgʲan.mkʰʲen
 \dt 04/Apr/2014
 
 \lx wortɕhi
 \ps intj
 \ge je vous en prie 
 \gn 求您了
-\et ɦor.tɕʰe
+\bw Tibetan ɦor.tɕʰe
 \xv wortɕhi tu-kɯ-qur-a-nɯ ɲɯ-ntshi
 \xn 求你们帮一下我
 
@@ -30521,7 +30561,7 @@ l
 \ps intj
 \ge je vous en prie 
 \gn 求您了
-\et ɦor.tɕʰe
+\bw Tibetan ɦor.tɕʰe
 
 \lx wudɯŋ
 \ps n
@@ -30539,7 +30579,7 @@ l
 \ps n
 \ge corvée 
 \gn 乌拉，徭役
-\et ɦu.lag
+\bw Tibetan ɦu.lag
 
 \lx wuŋgru
 \ps n
@@ -30644,6 +30684,13 @@ l
 \ge espèce d'arbre
 \gn 乔木的一种
 \dt 05/May/2014
+
+\lx xɕɤfsa
+\ps n
+\ge ficelle (faite de paille)
+\gn 草绳
+\cf xɕaj
+\dt 09/Oct/2015
 
 \lx xɕɤɣrum
 \ps n
@@ -30848,7 +30895,7 @@ l
 \gn 鞋边（鞋子、靴子盖脚的部分） 
 \hbf objet traditionel 
 \xv xtsɤrkɯ nɯ tɯ-xtsa χchoʁe ɯ-pa mŋulɤn ɯ-sɤ-tshoʁ nɯ ŋu, xtsɤrkɯ ɯ-taʁ nɯ tɕu xtsɤku pjɯ́-wɣ-tshoʁ, ɯ-ŋgɯ ɯ-pɕoʁ nɯ tɕu xtsɤkɤŋgɯ pjɯ-tu ra, xtsɤkɤŋgɯ nɯ tɯ-ŋgar pjɯ-ŋu ra, xtsɤku nɯ cɤndʐi nɯ maʁ nɤ ɕkom ndʐi, nɯ maʁ nɤ qartshɤndʐi kɯ-mba pjɯ-ŋu ɲɯ-ra. tɯ-xtsa nɯ ɯ-qhu tɕe ɯ-srɯβzɤn pjɯ-tu ɲɯ-ra, tɯ-xtsa nɯ tú-wɣ-ŋga tɕe wuma ʑo mpja. tɯ-xtsa ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ konaʁxtsa rmi, ɯ-xtsɤrkɯ nɯ komɤr thɯ-kɤ-sɯɣ-ɲaʁ ŋu, mɤʑɯ tɯ-tɯphu nɯ koscaxtsa rmi, tɕe ɯ-xtsɤrkɯ nɯ mɯ-pɯ-kɤ-sɯɣ-tshwi ŋu. 
-\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用獐子皮、麂子皮或是比较薄的鹿子皮做成的。在鞋后面要有|fv{srɯβzɤn}（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫|fv{konaʁ xtsa}，鞋帮是染成黑色的红皮子，另一种叫|fv{kosca xtsa}，鞋帮是根本没有染色的皮子。 
+\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用麝香鹿皮、麂子皮或是比较薄的鹿子皮做成的。在鞋后面要有|fv{srɯβzɤn}（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫|fv{konaʁ xtsa}，鞋帮是染成黑色的红皮子，另一种叫|fv{kosca xtsa}，鞋帮是根本没有染色的皮子。 
 \dt 13/Dec/2012
 
 \lx xtsɤrtɯm
@@ -31042,7 +31089,7 @@ l
 \ge aluminium 
 \gn 铝 
 \hbf 57 
-\et ha.jaŋ
+\bw Tibetan ha.jaŋ
 \dt 02/Jan/2015
 
 \lx χajχaj
@@ -31198,21 +31245,21 @@ l
 \ps n
 \ge morceau de bois coupé à la hache 
 \gn 劈好了的木料（房背、走缘当石板用） 
-\et gɕag
+\bw Tibetan gɕag
 \dt 03/Aug/2012
 
 \lx χɕɤl
 \ps n
 \ge verre 
 \gn 玻璃 
-\et ɕel
+\bw Tibetan ɕel
 \dt 29/Nov/2014
 
 \lx χɕɤlkara
 \ps n
 \ge sucre en morceau 
 \gn 冰糖 
-\et ɕel.dkar
+\bw Tibetan ɕel.dkar
 \dt 29/Nov/2014
 
 \lx χɕɤlmdoŋ
@@ -31225,7 +31272,7 @@ l
 \ps n
 \ge lunettes 
 \gn 眼镜 
-\et ɕel.mig
+\bw Tibetan ɕel.mig
 \pdl comit 
 \pdv kɤ́χɕɤlmɯlmɯɣ
 \xv χɕɤlmɯɣ tɤ-nɯ-ta-t-a (tɤ-nɯ-tshoʁ-a)
@@ -31237,7 +31284,7 @@ l
 \ge miroir 
 \gn 镜子 
 \hbf 531 
-\et ɕel.sgo
+\bw Tibetan ɕel.sgo
 \sy kɯsɤɣru
 \dt 09/Oct/2014
 
@@ -31245,7 +31292,7 @@ l
 \ps n
 \ge Yama
 \gn 阎王
-\et gɕen.rdʑe
+\bw Tibetan gɕen.rdʑe
 \dt 09/Sep/2015
 
 \lx χɕitka
@@ -31253,7 +31300,7 @@ l
 \ge printemps 
 \gn 春天 
 \hbf 791 
-\et dpʲid.ka
+\bw Tibetan dpʲid.ka
 \dt 22/Feb/2014
 
 \lx χɕɯldɤn
@@ -31329,14 +31376,14 @@ l
 \ps n
 \ge yojana
 \gn 由旬，长度单位（非常远） 
-\et dpag.tsʰad
+\bw Tibetan dpag.tsʰad
 \dt 21/May/2014
 
 \lx χpɤlwi
 \ps n
 \ge un motif bouddhique 
 \gn 一种佛教图纹 
-\et dpal.beɦu
+\bw Tibetan dpal.beɦu
 \dt 02/Jan/2015
 
 \lx χphjɤrχphjɤr
@@ -31352,7 +31399,7 @@ l
 \ge histoire, exemple
 \gn 故事，例子
 \hbf 652 
-\et dpe
+\bw Tibetan dpe
 \xv ɯʑo kɯ χpi wuma kɯ-mpɕɤr ci ɲɤ-sɤβzu
 \xn 他编了一个很精彩的故事
 \xv ɯ-χpi zɯ (= a-pɯ-ŋu nɤ) 
@@ -31377,7 +31424,7 @@ l
 \ge moine 
 \gn 和尚 
 \hbf 189 
-\et dpon
+\bw Tibetan dpon
 \xv χpɯn to-ndo
 \xn 他当了和尚
 \cf nɯχpɯn
@@ -31389,54 +31436,54 @@ l
 \ge étalon 
 \gn 公马 
 \hbf animal 
-\et gseb
+\bw Tibetan gseb
 
 \lx χsɤlkawa
 \ps n
 \ge moine qui garde la chapelle 
 \gn 守佛堂的和尚 
-\et gsol.ka.ba
+\bw Tibetan gsol.ka.ba
 
 \lx χsɤltɕhɯ
 \ps n
 \ge eau (honorifique) 
 \gn 水（敬语） 
-\et gsol.tɕʰu
+\bw Tibetan gsol.tɕʰu
 
 \lx χsɤr²
 \ps n
 \ge or 
 \gn 金子 
 \hbf 51 
-\et gser
+\bw Tibetan gser
 \dt 25/Nov/2014
 
 \lx χsɤrɣɤt
 \ps n
 \ge sûtra pour les animaux
 \gn 为牛羊念的经 
-\et gser.ɦod
+\bw Tibetan gser.ɦod
 \dt 25/Nov/2014
 
 \lx χsɤrmdoʁ
 \ps n
 \ge doré 
 \gn 金色 
-\et gser.mdog
+\bw Tibetan gser.mdog
 \dt 25/Nov/2014
 
 \lx χsɤrnaʁ
 \ps n
 \ge or noir 
 \gn 黑色的金
-\et gser.nag
+\bw Tibetan gser.nag
 \dt 25/Nov/2014
 
 \lx χsɤrɲa
 \ps n
 \ge cyprin 
 \gn 金鱼  
-\et gser.ɲa
+\bw Tibetan gser.ɲa
 
 \lx χsɤrɲɟɤt
 \ps n
@@ -31455,7 +31502,7 @@ l
 \ge coiffe en or 
 \gn 金冠 
 \hbf objet traditionel 
-\et gser.ʑwa
+\bw Tibetan gser.ʑwa
 
 \lx χsiβnɤχsiβ
 \ps idph.3
@@ -31491,7 +31538,7 @@ l
 \ge troisième mois 
 \gn 三月 
 \hbf mois 
-\et gsum.pa
+\bw Tibetan gsum.pa
 
 \lx χsɯmkha
 \ps n
@@ -31529,7 +31576,7 @@ l
 \ps n
 \ge bête sauvage
 \gn 野兽
-\et gtɕan.gzan
+\bw Tibetan gtɕan.gzan
 \dt 18/May/2014
 
 \lx χtɕɤt
@@ -31537,7 +31584,7 @@ l
 \ps n
 \ge exorcisme 
 \gn 驱妖的仪式、咒经
-\et gtɕod
+\bw Tibetan gtɕod
 \xv sprɯskɯ kɯ χtɕɤt pa-lɤt
 \xn 活佛念了咒经
 \dt 22/Aug/2015
@@ -31546,14 +31593,14 @@ l
 \ps n
 \ge mets pour bien recevoir les invités
 \gn 款待客人的食品
-\et gtɕes.zas
+\bw Tibetan gtɕes.zas
 \dt 11/Dec/2012
 
 \lx χtɕoŋ
 \ps n
 \ge rhumatisme 
 \gn 风湿，关节疼 
-\et gtɕoŋ
+\bw Tibetan gtɕoŋ
 \hbf maladie 
 \dt 03/Aug/2013
 
@@ -31570,7 +31617,7 @@ l
 \ps n
 \ge tout nu 
 \gn 裸体，不穿衣服 
-\et gtɕer.bu.pa
+\bw Tibetan gtɕer.bu.pa
 \cf rɯχtɕɯrɯ
 \dt 27/Jan/2014
 
@@ -31578,7 +31625,7 @@ l
 \ps n
 \ge offrande au dieux 
 \gn 供奉鬼神的物品 
-\et gtor.ma
+\bw Tibetan gtor.ma
 
 \lx χtshɤχtshɤt
 \wav ideo-XtshAt-b
@@ -31619,7 +31666,7 @@ l
 \ps n
 \ge thé au beurre
 \gn 酥油茶
-\et dkrug.dʑa
+\bw Tibetan dkrug.dʑa
 \dt 07/Sep/2013
 
 \lx χtɯmbrɤl
@@ -31627,21 +31674,21 @@ l
 \ge célébration 
 \gn 庆祝 
 \hbf 796 
-\et rten.ɴbrel
+\bw Tibetan rten.ɴbrel
 
 \lx χtɯn
 \ps n
 \ge mortier 
 \gn 臼[坨坨] 
 \hbf 627 
-\et gtun
+\bw Tibetan gtun
 
 \lx χɯχɯ
 \ps idph.2
 \ge qui a des grandes narines
 \gn 形容鼻孔很大的样子
 \xv ca kɯ ɯ-ɕna χɯχɯ ʑo to-stu
-\xn 獐子把鼻孔弄得很大
+\xn 麝香鹿把鼻孔弄得很大
 \dt 13/May/2014
 
 \lx χwara
@@ -31649,13 +31696,13 @@ l
 \ge un type de tente 
 \gn 一种帐篷 
 \hbf objet traditionel 
-\et sbra
+\bw Tibetan sbra
 
 \lx χwɤr
 \ps n
 \ge Hor 
 \gn 霍尔 
-\et hor
+\bw Tibetan hor
 
 \lx χwɤrχwɤr
 \ps idph.2
@@ -31681,13 +31728,13 @@ l
 \ge cuivre 
 \gn 红铜 
 \hbf 53 
-\et zaŋs
+\bw Tibetan zaŋs
 
 \lx zaŋpoŋ
 \ps n
 \ge
 \gn 火罐（原来是用红铜铸的） 
-\et zaŋs.bum
+\bw Tibetan zaŋs.bum
 
 \lx zaŋzaŋ
 \wav ideo-zaN-b
@@ -31717,14 +31764,14 @@ l
 \ps n
 \ge nourriture pour les morts 
 \gn 供奉死人的食物 
-\et zan po.?
+\bw Tibetan zan po.?
 
 \lx zɤsna
 \wav n-zAsna
 \ps n
 \ge nourriture pour les morts 
 \gn 祭祀死人用的食物 
-\et zas.sna
+\bw Tibetan zas.sna
 \xv tɯrme pɯ-si tɕe zɤsna chɯ́-wɣ-βde ŋu
 \xn 人去世了就要给他供奉一些食物
 
@@ -31736,7 +31783,7 @@ l
 \ge année du serpent 
 \gn 蛇年 
 \hbf 760 
-\et sbrul.lo
+\bw Tibetan sbrul.lo
 
 \lx zbɯ
 \ps n
@@ -31768,7 +31815,7 @@ l
 \ge bois 
 \gn 大木头 
 \hbf 511 
-\et sdoŋ.po
+\bw Tibetan sdoŋ.po
 \dt 07/Aug/2012
 
 \lx zdoʁzdoʁ
@@ -31784,7 +31831,7 @@ l
 \ps n
 \ge acceptable à la rigueur 
 \gn 勉强，不理想 
-\et sdug.tʰug
+\bw Tibetan sdug.tʰug
 \xv a-kɤ-nɤma zdɯxthɯɣ ʑo nɯ-sthɯ́t-a 
 \xn 我工作完成得差强人意
 \dt 23/Mar/2014
@@ -31866,7 +31913,7 @@ l
 \ge tente 
 \gn 帐篷（棉布制成） 
 \hbf objet traditionel 
-\et sgar
+\bw Tibetan sgar
 \xv mbroʁpa kɯ zgɤr cho-thɯ
 \xn 牧民搭了帐篷
 \xv zgɤr thɯ-tʂɯβ-i
@@ -31877,7 +31924,7 @@ l
 \ps n
 \ge mât de tente 
 \gn 帐篷杆子 
-\et sgar.ɕiŋ
+\bw Tibetan sgar.ɕiŋ
 
 \lx zgɤrtshoʁ
 \ps n
@@ -31937,7 +31984,7 @@ l
 \ge sac en cuir 
 \gn 用牛皮缝成的口袋 
 \hbf objet traditionel 
-\et sgra.ba
+\bw Tibetan sgra.ba
 \xv qartshaz ɯ-ndʐi zgrawa 
 \xn 鹿皮制成的口袋
 \dt 19/Feb/2014
@@ -31960,7 +32007,7 @@ l
 \ge bracelet 
 \gn 手镯 
 \hbf 487 
-\et sgrog
+\bw Tibetan sgrog
 
 \lx zgrɯtɕhɯ
 \wav8 zgrWtChW
@@ -31985,7 +32032,7 @@ l
 \ge bosse 
 \gn 驼背 
 \hbf 91 
-\et sgur.ba
+\bw Tibetan sgur.ba
 
 \lx zɣɤrzɣɤr
 \ps idph.2
@@ -32142,7 +32189,7 @@ l
 \ge sac en poils de yak 
 \gn 毛织布袋 
 \hbf objet traditionel 
-\et sgʲe
+\bw Tibetan sgʲe
 
 \lx zɟoʁzɟoʁ
 \ps idph.2
@@ -32181,7 +32228,7 @@ l
 \ps n
 \ge eau (honorifique) 
 \gn 水（敬语） 
-\et slob.tɕʰu
+\bw Tibetan slob.tɕʰu
 \dt 20/May/2014
 
 \lx znaχsoz
@@ -32308,7 +32355,7 @@ l
 \ge haricot 
 \gn 绿豆 
 \hbf plante 
-\et sran
+\bw Tibetan sran
 \xv zrɤntɕɯ nɯ li tɤ-rɤku ci ŋu, tɯ-ji nɯ mɤ-kɯ-sna tsa lu-ji khɯ, ɯʑo kɯ-xtɕi ci ŋu, tu-wxti mɤ-cha, ɯ-tshɯ́ɣa nɯ staʁpɯ cho naχtɕɯɣ, ɯ-jwaʁ, ɯ-ru, ɯ-mɯntoʁ, ɯ-cɤβ nɯ ra lonba staʁpɯ fsɯ-fse ʑo fse, staʁpɯ wuma ʑɤ tu-rɲɟi cha, ɯ-rdoʁ ɯ-jndʐɤz artɯm rloʁ-rloʁ. zrɤntɕɯ ɯ-rdoʁ xtɕi cho aɕpɯɕpa tsa. 
 \xn 绿豆是一种庄稼，可以种在贫瘠的地里。它较小，长不大，形状和豌豆一样，叶子、茎、花、荚果和豌豆一模一样。豌豆长得长，颗粒是球形的。绿豆的颗粒小而扁。
 \dt 18/Aug/2014
@@ -32399,7 +32446,7 @@ l
 \ge seau 
 \gn 桶 
 \hbf 561 
-\et zom
+\bw Tibetan zom
 
 \lx zɯmbɯr
 \ps n
@@ -32450,7 +32497,7 @@ l
 \ge cymbales 
 \gn 钹 
 \hbf 661 
-\et sbug.tɕʰal
+\bw Tibetan sbug.tɕʰal
 \dt 24/Aug/2014
 
 \lx zwaʁnɤzwaʁ
@@ -32540,7 +32587,7 @@ l
 \ps n
 \ge le plus grand champs 
 \gn 最大的田地 
-\et ʑiŋ.mo
+\bw Tibetan ʑiŋ.mo
 
 \lx ʑaŋndza
 \ps n
@@ -32567,7 +32614,7 @@ l
 \ps n
 \ge jour 
 \gn 天 
-\et ʑag
+\bw Tibetan ʑag
 \xv ʑaʁ χsɤ-rʑaʁ 
 \xn 三天 
 \xv ʑaʁ χsɯ-sŋi 
@@ -32577,7 +32624,7 @@ l
 \ps n
 \ge pellicule de graisse 
 \gn 浮油 
-\et ʑag
+\bw Tibetan ʑag
 \dt 26/Oct/2011
 
 \lx ʑatsa
@@ -32612,7 +32659,7 @@ l
 \ps n
 \ge boiteux 
 \gn 跛子 
-\et ʑa.bo
+\bw Tibetan ʑa.bo
 \sy ɕkala
 \cf aʑɤwu
 \dt 28/Aug/2015
@@ -32622,7 +32669,7 @@ l
 \ge envie, volonté de dépasser les autres 
 \gn 妒忌、有赶上别人的心 
 \hbf 1410 
-\et ʑe.sdaŋ
+\bw Tibetan ʑe.sdaŋ
 
 \lx ʑdraŋʑdraŋ
 \wav ideo-ZdraN-c
@@ -32728,7 +32775,7 @@ l
 \ps n
 \ge une célébration bouddhique 
 \gn 一种法事
-\et ʑi.ba ri.mtɕʰod
+\bw Tibetan ʑi.ba ri.mtɕʰod
 \dt 02/Aug/2014
 
 \lx ʑmbɤr
@@ -32778,7 +32825,7 @@ l
 \ge bateau 
 \gn 船 
 \hbf 602 <2> 1377 
-\et gru
+\bw Tibetan gru
 \xv ʑmbrɯ kɤ-lat-a 
 \xn 我划了船
 \dt 12/Jan/2014
@@ -32868,13 +32915,13 @@ l
 \ps n
 \ge yaourt 
 \gn 酸奶
-\et ʑo
+\bw Tibetan ʑo
 
 \lx ʑɯβdaʁ
 \ps n
 \ge dieu de la montagne
 \gn 山神
-\et gʑi.bdag
+\bw Tibetan gʑi.bdag
 \dt 02/Aug/2012
 
 \lx ʑɯβʑɯβ
@@ -32898,7 +32945,7 @@ l
 \ps n
 \ge siège, place où l'on s'assoit (honorifique) 
 \gn 座位（敬语） 
-\et bʑugs.sa
+\bw Tibetan bʑugs.sa
 
 \lx ʑɯɣsɯr
 \ps n
@@ -32925,7 +32972,7 @@ l
 \sn 4
 \ge un long moment
 \gn 很长时间 
-\et ʑiŋ.kʰams
+\bw Tibetan ʑiŋ.kʰams
 \dt 20/Aug/2015
 
 \lx ʑɯnmar
@@ -32933,7 +32980,7 @@ l
 \ps n
 \ge beurre clarifié
 \gn 融酥，融化的酥油
-\et ʑun.mar
+\bw Tibetan ʑun.mar
 \dv ʑɯnmar nɯ jiɕqha, tamar nɯ ɲɯ́-wɣ-ftʂi tɕe, kú-wɣ-sɯ-stɤm tɕe nɯnɯ ŋu
 \cf ta-mar
 \dt 13/Apr/2014
@@ -33036,7 +33083,7 @@ l
 \ps vs
 \ge triangulaire
 \gn 三角形
-\et bzur.gsum
+\bw Tibetan bzur.gsum
 \dt 26/Jan/2015
 
 \lx _aβʑɯrdu
@@ -33046,7 +33093,7 @@ l
 \ge carré 
 \gn 四方形
 \hbf 989 
-\et bʑi.rdo
+\bw Tibetan bʑi.rdo
 \xv aβzɯrdu, ɲɯ-ɤβʑɯrdu
 \xn 是四方形的
 \xv kɯki rdɤstaʁ ki kɯ-ɤβʑɯrdu ci ɲɯ-ŋu
@@ -33526,7 +33573,7 @@ l
 \ge être clair (voir) 
 \gn 清晰、明显
 \hbf 1090 
-\et bkra.gsal
+\bw Tibetan bkra.gsal
 \xv kɯ-ɲaʁ kɯ-wɣrum ɲɯ-ɤfkrɤχsɤl
 \xn 黑色和红色的区别很分明
 \xv to-k-ɤfkrɤχsɤl-ci
@@ -33838,7 +33885,8 @@ l
 \gn 跟自己年龄差不多的
 \xv ndʑiʑo ɲɯ-tɯ-ɤɣɯlɯtshɤt-ndʑi
 \xn 你们俩年龄差不多
-\dt 22/Aug/2015
+\cf ɯ-lɯtshɤt
+\dt 09/Oct/2015
 
 \lx _aɣɯmar
 \ps vi
@@ -34381,7 +34429,7 @@ l
 \pdv pɯ-
 \ge être le bienfaiteur 
 \gn 有恩 
-\et drin
+\bw Tibetan drin
 \xv jɯfɕɯndʐi wuma pjɤ-k-ɤɣɯtʂɯn-ci
 \xn 他前几天（对别人）有恩
 \xv a-taʁ tɯ-aɣɯtʂɯn 
@@ -34397,7 +34445,7 @@ l
 \ng denom
 \ge vénéneux 
 \gn 有毒性 
-\et dug
+\bw Tibetan dug
 \xv to-k-ɤɣɯtɯɣ-ci
 \xn 毒性比以前大
 \xv jiɕqha ɣʑo kɯ kó-wɣ-mtsɯɣ-a tɕe, wuma ɲɯ-ɤɣɯtɯɣ
@@ -34447,7 +34495,7 @@ l
 \pdv tɤ-
 \ge envieux 
 \gn 爱嫉妒别人 
-\et ʑe.sdaŋ
+\bw Tibetan ʑe.sdaŋ
 \hbf 1410
 \xv ki ɯ-ʁɤri mɯ-pɯ-aɣɯʑɤzdaŋ ri tham wuma to-k-ɤɣɯʑɤzdaŋ-ci
 \xn 他以前不妒忌别人，现在就很妒忌
@@ -34734,7 +34782,7 @@ l
 \ge bariolé 
 \gn 花的（颜色）
 \hbf 1098 
-\et kʰra
+\bw Tibetan kʰra
 \xv jiɕqha tɯ-ŋga nɯ ɲɯ-ɤkhra
 \xn 这件衣服是花的
 \xv jiɕqha nɯŋa nɯ kɯ-ɤkhra ɲɯ-ŋu
@@ -35270,7 +35318,7 @@ l
 \pdv nɯ-
 \ge s'apprécier réciproquement 
 \gn 谈恋爱
-\et mtʰun
+\bw Tibetan mtʰun
 \xv ʑɤni ɲɯ-ɤmthɯn-ndʑi
 \xn 他们在谈恋爱
 \dt 24/Aug/2012
@@ -37639,7 +37687,7 @@ l
 \ps vs
 \ge poli
 \gn 文明、有礼貌
-\et ja.rabs
+\bw Tibetan ja.rabs
 \dt 31/Aug/2015
 
 \lx _arɯlaba
@@ -37924,7 +37972,7 @@ l
 \xn 那是一个相貌堂堂的人
 \xv nɯ ɕɯŋgɯ ɯ-ʁzɯɣ mɯ-pɯ-pe ri, tham to-k-ɤʁzɯɣβzaŋ-ci
 \xn 以前相貌不好，现在相貌变得很好
-\et gzugs.bzaŋ
+\bw Tibetan gzugs.bzaŋ
 \an aʁzɯŋɤn
 \dt 30/Nov/2013
 
@@ -37933,7 +37981,7 @@ l
 \ps vs
 \ge d'une apparence peu avenante
 \gn 相貌不好
-\et gzugs.ŋan
+\bw Tibetan gzugs.ŋan
 \an aʁzɯɣβzaŋ
 \dt 30/Nov/2013
 
@@ -38638,7 +38686,7 @@ l
 \xv tɕelo ɲɯ-ɤχɕɯβ-ndʑi tɕe ɲɯ-ndzur-ndʑi 
 \xn 他们俩一起在那里站着
 \cf saχɕɯβ
-\et gshib
+\bw Tibetan gshib
 \dt 02/Jan/2015
 
 \lx _aχɕɯldɤn
@@ -38796,7 +38844,7 @@ l
 \ge se recroqueviller 
 \gn 蜷缩 
 \hbf 1457 
-\et sgur
+\bw Tibetan sgur
 \xv pjɤ-k-ɤzgɯrloʁ-ci
 \xn 他缩成了一团
 \cf azgɯr
@@ -39012,7 +39060,7 @@ l
 \pdv bare infinitive 
 \ge beau 
 \gn 美观 
-\et bde
+\bw Tibetan bde
 \xv ɯ-βzu ɲɯ-βdi
 \xn 他做得很好
 \xv ɯ-skhrɯ mɯ-ɲo-βdi
@@ -39041,7 +39089,7 @@ l
 \pdv pɯ-
 \ge préparer, planifier 
 \gn 计划、设计、准备需要的材料 
-\et bgod
+\bw Tibetan bgod
 \xv kɯki kha ci tɤ-βgoz-a
 \xn 我设计了这个房子
 \xv tɯ-ŋga ɯ-spa ci tɤ-βgoz-a
@@ -39234,7 +39282,7 @@ l
 \pdv nɯ-
 \ge tendre (peau)
 \gn 绷紧
-\et brgʲaŋ
+\bw Tibetan brgʲaŋ
 \xv aʑo tɯ-ndʐi nɯ-βrɟaŋ-a
 \xn 我把皮子绷紧了
 \dt 07/Feb/2014
@@ -39350,7 +39398,7 @@ l
 \xn 我在茶里加了酥油
 \xv tʂha pɯ-kɤ-βzdɤr
 \xn 酥油茶
-\et sdor
+\bw Tibetan sdor
 \cf tɤ-βzdɤr
 \dt 02/Aug/2012
 
@@ -39362,7 +39410,7 @@ l
 \ge ramasser 
 \gn 捡起来 
 \hbf 1414 
-\et bsdu
+\bw Tibetan bsdu
 \xv tɤ-βzdɯ-t-a
 \xn 我捡了
 \xv stoʁ tɤ-βzdi
@@ -39414,7 +39462,7 @@ l
 \ge devenir saoul 
 \gn 醉 
 \hbf 1818 
-\et bzi
+\bw Tibetan bzi
 \xv ɯʑo lɤ-βzi, ɯʑo lo-βzi
 \xn 他喝醉了
 \xv aʑo a-ku lɤ-kɯ-βzi ʑo ɲɯ-fse
@@ -39460,7 +39508,7 @@ l
 \ge étudier 
 \gn 学 
 \hbf 1742 
-\et sbʲaŋs
+\bw Tibetan sbʲaŋs
 \xv tɤ-scoz kɤ-βzjoz ɴqa 
 \xn 文字很难学
 \xv aʑo nɤ-ɕki a-kɤ-βzjoz dɤn 
@@ -39488,7 +39536,7 @@ l
 \ge corriger
 \gn 纠正
 \hbf 1159 
-\et bsgʲur
+\bw Tibetan bsgʲur
 \xv nɯ-βzɟɯr-a, na-βzɟɯr
 \xn 我改变了，他改变了
 \xv mɤ-kɯ-pe tɤ-kɤ-nɤma nɯra ɯ-qhu tɕe ɲɯ́-wɣ-βzɟɯr ra
@@ -39525,7 +39573,7 @@ l
 \hbf 1820
 \hbf 1476
 \hbf 1586 
-\et bzo
+\bw Tibetan bzo
 \xv tɤ-βzu-t-a, ta-βzu, tu-βze-a, tɤ-βze
 \xn 我做了，他做了，我做，你做吧
 \xv tʂu nɯ-βzu-t-a 
@@ -39590,7 +39638,7 @@ l
 \ge déplacer 
 \gn 拿过去、搬走 
 \hbf 1139 
-\et bzur
+\bw Tibetan bzur
 \xv tɤ-βzɯr-a, ta-βzɯr
 \xn 我拿走了，他拿走了
 \xv ɲɯ-saʁdɯɣ tɕe, tɤ-βzɯr-a
@@ -39607,7 +39655,7 @@ l
 \ge tailler, éplucher 
 \gn 削 
 \hbf 1733 
-\et bʑogs
+\bw Tibetan bʑogs
 \xv chɯ-βʑoʁ-a, tha-βʑoʁ
 \xn 我削，他削了
 \xv kɯki laʁdɯn mɯ́j-sna tɕe, chɯ́-wɣ-βʑoʁ ɲɯ-ra
@@ -40604,7 +40652,7 @@ l
 \gn 记得 、记住
 
 \hbf 1407 
-\et btags
+\bw Tibetan btags
 \xv kɤ-ɕɯftaʁ-a, kɤ-tɯ-ɕɯftaʁ, ka-ɕɯftaʁ
 \xn 我记住了，你记住了，他记住了
 \xv tɤ-scoz nɯ koŋla ʑo kú-wɣ-rtoʁ tɕe, ɲɯ́-wɣ-sɯɣʑaʁ mɤɕtʂa kɤ-ɕɯftaʁ mɤ-sɤcha
@@ -40938,7 +40986,7 @@ l
 \ge nombreux 
 \gn 多 
 \hbf 987
-\et ldan
+\bw Tibetan ldan
 \xv tɯrme ɲɯ-dɤn
 \xn 人很多
 \xv pɯ-dɤn-i
@@ -41010,7 +41058,7 @@ l
 \pdv tɤ-
 \ge se repentir, rembourser
 \gn 忏悔、赔偿
-\et bɕags
+\bw Tibetan bɕags
 \xv tɤ-fɕaʁ-a
 \xn 我忏悔了
 \xv kɯmaʁ tɤ́-wɣ-nɤma tɕe, laχtɕha ku-fɕaʁ ra
@@ -41042,7 +41090,7 @@ l
 \ge avoir la diarrhée 
 \gn 拉肚子 
 \hbf 1737 
-\et bɕal
+\bw Tibetan bɕal
 \xv a-xtu ɲɯ-fɕɤl 
 \xn 我拉肚子
 \xv a-xtu nɯ-fɕɤl, a-xtu pɯ-fɕɤl
@@ -41069,7 +41117,7 @@ l
 \pdv thɯ-
 \ge étendre
 \gn 摆出来
-\et bɕam
+\bw Tibetan bɕam
 \xv ɯʑo kɯ laχtɕha kɤ-ntsɣe ɯ-spa nɯ chɤ-fɕɤm
 \xn 我把卖的东西全部摆出来了
 \sy ɕkho
@@ -41083,7 +41131,7 @@ l
 \ge raconter , discuter
 \gn 讲故事 、谈话、讲述
 \hbf 1417 
-\et bɕad
+\bw Tibetan bɕad
 \xv nɤʑo pɯ-tɯ-fɕɤt, ɯʑo kɯ pa-fɕɤt
 \xn 你讲述了，他讲述了
 \xv ku-fɕɤt-tɕi
@@ -41282,7 +41330,7 @@ l
 \ge couvrir 
 \gn 盖 
 \hbf 1331 <2> 1520 
-\et bkab
+\bw Tibetan bkab
 \xv kɤ-fkaβ-a
 \xn 我盖了
 
@@ -41339,7 +41387,7 @@ l
 \pdv pɯ-
 \ge établir 
 \gn 创造、创建、设计 
-\et bkod
+\bw Tibetan bkod
 \xv pɯ-fkot-a
 \xn 我创建了
 \xv ɯʑo kɯ ta-fkot
@@ -41359,7 +41407,7 @@ l
 \pdv thɯ-
 \ge magnifique (peau d'animal)
 \gn 彩色斑斓
-\et bkra
+\bw Tibetan bkra
 \xv qachɣɤndʐi ɲɯ-fkra
 \xn 狐狸皮子彩色斑斓
 \xv kɯrtsɤɣndʐi ɲɯ-fkra
@@ -41393,11 +41441,10 @@ l
 \ps vt
 \pdl dir 
 \pdv _
-\un
 \ge mettre en ordre (des objets identiques)
 \gn 排列整齐（相同的东西）
 \un 有的人把|fv{fkrɤm}当做基本词干
-\et bkram
+\bw Tibetan bkram
 \xv aʑo pɯ-fkro-t-a
 \xn 我布置了
 \xv aʑo nɯ-βzdɤr pjɯ-fkram-a
@@ -41463,7 +41510,7 @@ l
 \ge fiable 
 \gn 可靠 
 \hbf 1101 
-\et brtan
+\bw Tibetan brtan
 \xv tɯrme ɲɯ-frtɤn
 \xn 那个人很可靠
 \dt 27/Sep/2011
@@ -41548,7 +41595,7 @@ l
 \pdv tɤ-
 \ge contourner 
 \gn 绕道、围着走 
-\et skor
+\bw Tibetan skor
 \xv ɯʑo kɯ a-tɤ-fskɤr
 \xn 他绕过去吧！
 \xv aʑo tu-fskar-a
@@ -41576,7 +41623,7 @@ l
 \pdv nɯ-
 \ge gagner (de l'argent) 
 \gn 挣（钱） 
-\et bsogs
+\bw Tibetan bsogs
 \xv (tɯ-rɟɯ) nɯ-fso-ʁa
 \xn 我挣了（钱）
 \xv nɯ-tɯ-fsoʁ
@@ -41623,9 +41670,14 @@ l
 \pdv nɯ-
 \ge rendre clair
 \gn 使变亮
-\un 也可以说|fv{sɯfsoʁ}
 \xv kɯki kha ɲɯ-qanɯ ri, kɤ-ɣɤfsoʁ khɯ
 \xn 这个房间很黑，可以令它变亮
+\se sɯfsoʁ
+\ps vt
+\pdl dir 
+\pdv nɯ-
+\ge rendre clair
+\gn 使变亮
 \an qanɯ
 \dt 25/Dec/2012
 
@@ -41638,7 +41690,7 @@ l
 \ge protéger 
 \gn 保护 
 \hbf 1147 
-\et bsruŋ
+\bw Tibetan bsruŋ
 \xv tɤ-fsraŋ-a
 \xn 我保护了他
 \xv ta-fsraŋ
@@ -41660,7 +41712,7 @@ l
 \ge louer 
 \gn 称赞、抬举 
 \hbf 1189 
-\et bstod
+\bw Tibetan bstod
 \xv tu-ta-fstɤt
 \xn 我称赞你
 \xv to-fstɤt
@@ -41674,7 +41726,7 @@ l
 \pdv kɤ-
 \ge servir 
 \gn 伺候、照顾
-\et bstun
+\bw Tibetan bstun
 \xv kɤ-fstɯn-a
 \xn 我照顾了他
 \xv kɤ-tɯ-fstɯn
@@ -41698,7 +41750,7 @@ l
 \ge rendre la monnaie 
 \gn 退还多余的部分，退零钱 
 
-\et gsug.pa
+\bw Tibetan gsug.pa
 \xv aʑo nɯ-fsɯɣ-a
 \xn 我还了
 \xv nɤʑo nɯ-tɯ-fsɯɣ
@@ -41762,7 +41814,7 @@ l
 \pdv tɤ-
 \ge demander à qqn de faire qqch pour soi
 \gn 请别人做事
-\et btɕol
+\bw Tibetan btɕol
 \xv tó-wɣ-ftɕala
 \xn 他请了我
 \xv to-tɯ́-wɣftɕɤl
@@ -41787,7 +41839,7 @@ l
 \ge s'abstenir, renoncer à une mauvaise habitude
 \gn 戒掉
 \hbf 1411 
-\et btɕad
+\bw Tibetan btɕad
 \xv ɯʑo kɯ na-ftɕɤt
 \xn 他戒掉了
 \xv nɤʑo nɯ-tɯ-ftɕɤt
@@ -41889,7 +41941,7 @@ l
 \ps vs
 \ge sévère
 \gn 严格
-\et btsan
+\bw Tibetan btsan
 \xv khɯna kɯ-ftsɤn ci ɲɯ-ŋu
 \xn 是一条很凶的狗（守家的）
 \xv sɤcɯ ɲɯ-ftsɤn
@@ -41940,7 +41992,7 @@ l
 \pdv tɤ-
 \ge empiler des pierres pour faire une marque 
 \gn 把石头立起来做标记
-\et btsug
+\bw Tibetan btsug
 \xv iʑo kɤ-ftsɯɣ-i
 \xn 我们建立了(某种组织)
 \xv ʑara kɯ ka-ftsɯɣ-nɯ
@@ -41966,7 +42018,7 @@ l
 \sn 2
 \ge vider de son eau 
 \gn 倒干、让水流干 
-\et btsir
+\bw Tibetan btsir
 \xv pɯ-ftsɯr-a
 \xn 我拧干了
 \xv ɯʑo kɯ pa-ftsɯr
@@ -42014,7 +42066,7 @@ l
 \pdv pɯ-
 \ge apprivoiser 
 \gn 驯服
-\et btul
+\bw Tibetan btul
 \xv jla pɯ-ftɯl-a 
 \xn 我驯服了犏牛
 \xv ɯʑo kɯ mbro pa-ftɯl
@@ -42934,6 +42986,18 @@ l
 \cf tɤ-jwaʁ
 \cf rɤjwaʁ
 \dt 04/Aug/2012
+
+\lx _ɣɤjwɤrlɤr
+\ps vi
+\ge être secoué
+\gn 摇晃、摇摆不稳
+\xv ʑmbrɯ nɯ tɯ-ɣɤjwɤrlɤr to-ʑa
+\xn 船开始摇晃了
+\se sɤjwɤrlɤr
+\ps vt
+\xv khɯtsa ma-tɯ-sɤjwɤrlɤr ma tɯ-lwoʁ
+\xn 碗不要摇，会（把水）倒出来
+\dt 09/Oct/2015
 
 \lx _ɣɤɟaʁ
 \wav vt-GAJaR
@@ -43957,7 +44021,7 @@ l
 \ge pentu 
 \gn 陡峭 
 \hbf 1124 
-\et rab
+\bw Tibetan rab
 \xv sɤtɕha ɲɯ-ɣɤrɤβ
 \xn （那个）地方很陡峭
 \xv tɤ-ɣmbaj ɲɯ-ɣɤrɤβ
@@ -44117,7 +44181,7 @@ l
 \ge diminuer 
 \gn 减少 
 \hbf 1415 
-\et dkon
+\bw Tibetan dkon
 \xv pɯ-ɣɤrkɯn-a
 \xn 我减少了
 \xv ɯʑo kɯ pa-ɣɤrkɯn
@@ -44632,7 +44696,7 @@ l
 \ps vs
 \ge grandiose
 \gn 隆重 
-\et gzab
+\bw Tibetan gzab
 \un 沙尔宗方言
 \xv tɤʁaʁ ɲɯ-ɣɤʁzɤβ
 \xn 聚会很隆重
@@ -45886,7 +45950,7 @@ l
 \ge répondre 
 \gn 回答 
 \hbf 1389 
-\et len
+\bw Tibetan len
 \xv ɯʑo kɯ na-ɣɯlɤn
 \xn 他回答了
 \xv jiɕqha ɲɯ-ɤkhu tɕe tɤ-ɣɯlan-a
@@ -46100,7 +46164,7 @@ l
 \ge chaud (temps) 
 \gn 很热（天气） 
 \hbf 1062 
-\et tsʰa.dug
+\bw Tibetan tsʰa.dug
 \xv tɯmɯ ɲɯ-jɯm, ɲɯ-ɣɯtshɤdɯɣ
 \xn 天晴了，很热
 \dt 29/May/2013
@@ -46223,7 +46287,7 @@ l
 \cf jaʁ
 \dt 06/Aug/2013
 
-\lx _jasa{ta}
+\lx _jasa,ta
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -46700,7 +46764,7 @@ l
 \cf kɤtɯpa¹
 \dt 06/Sep/2015
 
-\lx _khɤli{rgi}
+\lx _khɤli,rgi
 \pdl dir 
 \pdv tɤ-
 \ge avoir une bonne renommée
@@ -47041,7 +47105,7 @@ l
 \pdv pɯ-
 \ge finir (cérémonie religieuse)
 \gn 做完（宗教仪式）
-\et grol
+\bw Tibetan grol
 \xv sɲaŋne kɤ-ndo pɯ-krul-a
 \xn 我把哑巴经念完了
 \xv χpɯn ra kɤ-ɣɤrpi pjɤ-krul-nɯ
@@ -47087,7 +47151,7 @@ l
 \pdv tɤ-
 \ge se soulever
 \gn 起义
-\et laŋ
+\bw Tibetan laŋ
 \xn mkharmaŋ to-laŋ-nɯ
 \xv 老百姓起义了
 
@@ -47100,7 +47164,7 @@ l
 \ge faire paître les animaux 
 \gn 放牧 
 \hbf 1316 
-\et ɴbrog
+\bw Tibetan ɴbrog
 \xv a-mu kɯ ji-fsapaʁ ra na-lɤɣ
 \xn 我母亲把牲畜带去放了
 \xv fsapaʁ ra ɕ-pɯ-laɣ-a
@@ -47430,7 +47494,7 @@ l
 \pdv kɤ-
 \ge plier 
 \gn 折起来、折叠 
-\et lteb
+\bw Tibetan lteb
 \xv kɤ-ltaβ-a
 \xn 我折了
 \xv nɤki tɯ-ŋga nɯ kɤ-ltɤβ
@@ -47631,7 +47695,7 @@ l
 \ps vi
 \ge beaucoup 
 \gn 很多 
-\et maŋ
+\bw Tibetan maŋ
 \xv ɯ-pjɤβlaʁ ɲɯ-maŋ
 \xn 他想得多
 \dt 06/May/2014
@@ -47808,7 +47872,7 @@ l
 \ge saillant 
 \gn 凸 
 \hbf 970 
-\et ɴbur
+\bw Tibetan ɴbur
 \xv znde ɲɯ-mɤmbɯr tɕe, mbɯt ɲɯ-ŋu
 \xn 墙有个凸出的地方，快要塌下来了
 \xv pjɤ-mɤmbɯr
@@ -48067,7 +48131,7 @@ l
 \pdv nɯ-
 \ge être sur le côté
 \gn 在旁边
-\et zur
+\bw Tibetan zur
 \xv pɯ-ŋke-j pɯ-ŋu tɕe, aʑo ɲɯ-mɤzɯr-a pɯ-ŋu (chɯ-mɤzɯr-a pɯ-ŋu)
 \xn 我们走的时候，我在边缘
 \dt 26/Aug/2012
@@ -48581,7 +48645,7 @@ l
 \pdv tɤ-
 \ge percevoir la vraie nature de quelqu'un (pouvoir de sprulsku) 
 \gn 活佛看穿别人的本性 
-\et mkʰʲen
+\bw Tibetan mkʰʲen
 \xv sprɯskɯ kɯ kɯ-mchin ɕti
 \xn 活佛能看穿人的本性（|fv{kɯ}-是宾语泛指标记）
 \dt 29/May/2013
@@ -48667,7 +48731,7 @@ l
 \ge honorable
 \gn 体面、好听
 \hbf 1060 
-\et mdzes
+\bw Tibetan mdzes
 \xv kɯ-mdzɤz to-βzu
 \xn 他弄得比较体面一些
 \xv nɯ tu-kɯ-ti tɕe ɲɯ-mdzɤz
@@ -48693,7 +48757,7 @@ l
 \pdv tɤ-
 \ge interdire , éviter
 \gn 忌讳、禁止 、避开
-\et mdzaŋs
+\bw Tibetan mdzaŋs
 \xv nɯki chabei nɯ tɤ-mdzoz, a-mɤ-pɯ-ɴɢrɯ
 \xn 小心茶杯，不要打破了
 \xv ɯʑo kɯ na-mdzoz
@@ -48712,7 +48776,7 @@ l
 \ge attelage 
 \gn 驮架 
 \hbf 598 
-\et mdzo.sga
+\bw Tibetan mdzo.sga
 \dv mdzuzga nɯnɯ jla ɯ-taʁ kɤ-ta ŋu, rtazga nɯnɯ mbro ɯ-taʁ tɕe sɤz-nɯmbrɤpɯ ŋu
 \dt 10/Feb/2013
 
@@ -48743,7 +48807,7 @@ l
 \gn 朝圣
 \xv ɯʑo ɬasa ɕ-to-mdʑɤl 
 \xn 他去拉萨朝圣了
-\et mdʑal
+\bw Tibetan mdʑal
 \dt 17/May/2014
 
 \lx _me¹
@@ -48771,7 +48835,7 @@ l
 \pdv nɯ-
 \ge recevoir un hôte
 \gn 接待，请
-\et mgron
+\bw Tibetan mgron
 \xv ɯʑo kɯ ɯ-zda na-mgrɯn tɕe, tʂha na-jtshi
 \xn 他接待了客人，给他茶喝
 \xv aʑo ci ɲɯ-ta-mgrɯn
@@ -48871,7 +48935,7 @@ l
 \pdv thɯ-
 \ge être bon à 
 \gn 擅长 
-\et mkʰas
+\bw Tibetan mkʰas
 \xv ɕoŋβzu ɲɯ-mkhɤz
 \xn 木匠很厉害
 \xv kɤ-rɤrɤt ɲɯ-mkhɤz
@@ -48885,7 +48949,7 @@ l
 \pdv tɤ-
 \ge se réincarner 
 \gn 投胎 、转世
-\et ɴkʰruŋ
+\bw Tibetan ɴkʰruŋ
 \xv βlama to-mkhroŋ
 \xn 喇嘛转世了
 \xv sprɯskɯ to-mkhroŋ
@@ -48911,7 +48975,7 @@ l
 \pdv tɤ-
 \ge être nécessiteux 
 \gn 缺吃少穿的，需要（别人帮忙）
-\et mkʰo
+\bw Tibetan mkʰo
 \xv jiɕqha nɯ kɯ-mkhu ɕti
 \xn 那个人缺吃少穿
 \xv tɤ-mkhu
@@ -49018,7 +49082,7 @@ l
 \ge refaire 
 \gn 重新做 
 \hbf 1173 
-\un {mnɤt}没有固有的趋向前缀，它的趋向前缀和前面的辅助动词一致。例如，{rɤrɤt}“写”的固有趋向前缀是{pɯ-}，所以当|fv{mnɤt}和|fv{rɤrɤt}连用时（表示“重新写”）），|fv{mnɤt}必须前加|fv{pɯ-}这个前缀
+\un |fv{mnɤt}没有固有的趋向前缀，它的趋向前缀和前面的辅助动词一致。例如，|fv{rɤrɤt}“写”的固有趋向前缀是|fv{pɯ-}，所以当|fv{mnɤt}和|fv{rɤrɤt}连用时（表示“重新写”）），|fv{mnɤt}必须前加|fv{pɯ-}这个前缀
 \xv kɤ-nɤma tú-wɣ-sɤpe tɕe kɤ-mnɤt mɤra
 \xn 如果工作做好了的话，不需要重新做
 \xv kɤ-nɤma tɤ-mnɤt ma mɯ́jpe
@@ -49225,7 +49289,7 @@ l
 \pdv tɤ-
 \ge reprocher, ne pas pouvoir pardonner 
 \gn 责怪
-\et ɴpʰʲa
+\bw Tibetan ɴpʰʲa
 \xv nɤʑɯɣ nɯ mɯ-tɤ-nɤma-t-a tɕe ma-tɤ-kɯ-mpɕa-a a ma
 \xn 你的那个我没有做，不要责怪我
 \dt 26/Aug/2012
@@ -49237,7 +49301,7 @@ l
 \ge beau 
 \gn 美，好看，好听 
 \hbf 1060 <2> 1092 
-\et mtɕʰor
+\bw Tibetan mtɕʰor
 \se ɣɤmpɕɤr
 \cf nɤmpɕɤr
 \cf rɤmpɕɤr
@@ -49274,7 +49338,7 @@ l
 \pdv tɤ-
 \ge bien fermé, sans interstice
 \gn 关紧，密封，没有缝隙
-\et ɴpʰrod
+\bw Tibetan ɴpʰrod
 \xv rgɤm ɲɯ-mphrɤt
 \xn 盒子关得很密封
 \xv khɯɣɲɟɯ mɯ́j-mphrɤt tɕe a-lɤ-mphrɤt ɲɯ-ra
@@ -49304,7 +49368,7 @@ l
 \ps vi
 \pdl dir 
 \pdv nɯ-
-\et ɴpʰel
+\bw Tibetan ɴpʰel
 \ge se multiplier (animaux)
 \gn 繁殖（动物）
 \xv paʁ ɲɤ-mphɯl
@@ -49564,7 +49628,7 @@ l
 \pdv thɯ-
 \ge trop haut (coup de fusil), fort (état d'esprit) 
 \gn 打枪瞄高、有自信（性情）、膘情好、高尚
-\et mtʰo
+\bw Tibetan mtʰo
 \xv nɤ-sɯm ɯ-tɯ-mthu nɯ 
 \xn 你自以为是
 \xv ɯ-snowa ɲɯ-mthu
@@ -49588,7 +49652,7 @@ l
 \pdv thɯ-
 \ge relier, rallonger
 \gn 连接起来（补充一部分）
-\et mtʰud
+\bw Tibetan mtʰud
 \xv ki tɯmbri ki mɯ́j-rtaʁ tɕe kɤ-mthɯt ɲɯ-ɬoʁ
 \xn 这条绳子不够，需要把它连接起来
 \xv tɤ-ri nɯ kɯ mɯ́j-ɕaβ tɕe kɤ-mthɯt-a
@@ -49778,7 +49842,7 @@ l
 \ge être complet
 \gn 齐备、齐全
 \hbf 1328 
-\et mtsʰuŋs
+\bw Tibetan mtsʰuŋs
 \xv laχtɕha ɯ-kɯ-χtɯ jɤ-ari-a ri, kɯ-mtshoŋ ʑo ɣɤʑu
 \xn 我去买东西，需要的东西全部都有
 \xv @xinhua @shudian ɯ-ŋgɯ zɯ laχtɕha kɤ-χtɯ kɯ-mtshoŋ ʑo ɣɤʑu
@@ -49912,6 +49976,22 @@ l
 \cf ɕɯɣmu
 \cf sɤɣmu
 \dt 24/Aug/2012
+
+\lx _mu,cɯɣ
+\ps vi
+\ge vivre constament dans la peur
+\gn 提心吊胆，恐慌不安
+\xv kɤ-mu kɤ-cɯɣ kɤ-rɤʑi kɯ-ra ɲɯ-sɤdɯɣ
+\xn 整天提心吊胆的感觉不好受
+\xv ɲɯ-mu ɲɯ-cɯɣ ʑo
+\xn 他提心吊胆
+\xv ma-tɯ-mu ma-tɯ-cɯɣ ma mɤ-ʁdɯɣ nɤ
+\xn 你不要这样提心吊胆，不会有是的
+\lf Component1 = mu
+\ps vi
+\lf Component2 = cɯɣ
+\ps vi
+\dt 01/Sep/2015
 
 \lx _mɯɕtaʁ
 \wav vi-mWCtaR
@@ -50153,7 +50233,7 @@ l
 \pdv tɤ-
 \ge dans une situation stable
 \gn 踏实，稳定
-\et gtan
+\bw Tibetan gtan
 \xv aʑɯɣ tɤ-mɯχtɤn
 \xn 我的情况稳定了（不可能再有变动）
 \xv a-z-rɤʑi tɤ-mɯχtɤn
@@ -50341,7 +50421,7 @@ l
 \ge frais 
 \gn 新鲜 
 \hbf 1088 
-\et gsos
+\bw Tibetan gsos
 \xv tɯβli ɲɯ-naχsoz
 \xn 苗子很新鲜（很有活力）
 \xv jiɕqha nɯ kɯ-naχsoz ci ɲɯ-ŋu
@@ -50379,7 +50459,7 @@ l
 \pdv tɤ-
 \ge semblable 
 \gn 一样 
-\et gtɕig
+\bw Tibetan gtɕig
 \xv naχtɕɯɣ ɕti
 \xn 无所谓，都一样
 \xv mɤ-kɯ-naχtɕɯɣ tu thaŋ nɯ-sɯso-t-a
@@ -51570,7 +51650,7 @@ l
 \ge grêlé 
 \gn 麻子 
 \hbf 206 
-\et ɴbrum
+\bw Tibetan ɴbrum
 \xv jiɕqha nɯ ɯ-rŋa ɲɯ-nɤmbrɯmtɕɤz
 \xn 那个人的满脸是麻子
 \dt 17/Oct/2011
@@ -51653,7 +51733,7 @@ l
 \ge sentir 
 \gn 闻嗅（故意） 
 \hbf 1707 
-\et mnam
+\bw Tibetan mnam
 \xv khɯna kɯ ta-nɤmnɤm
 \xn 狗闻了一下
 \xv ki tɤ-nɤmnɤm
@@ -51878,7 +51958,7 @@ l
 \pdv nɯ-
 \ge trouver étrange 
 \gn 觉得奇怪 、感到惊讶
-\et mtsʰar
+\bw Tibetan mtsʰar
 \sy naχaʁ
 \xv jiɕqha nɯ tɤ-aʑɯʑu-ndʑi ri, ``mɤ-cha" nɯ-sɯso-t-a ri, pɯ-cha rcanɯ nɯ-nɤmtshar-a
 \xn 在角力的时候，我以为他不行，但他居然赢了，我感到很惊讶
@@ -52032,7 +52112,7 @@ l
 \ge vibrer 
 \gn 振动 
 \hbf 1795 
-\et ɴdar
+\bw Tibetan ɴdar
 \xv nɯ pɯ-atɤr tɕe tɤ-nɤndɤr
 \xn 掉下去就震动了
 \se znɤndɤr
@@ -52682,7 +52762,7 @@ l
 \xv kumpɣa kɯ ɯ-ndza cho qajɯ ɲɯ-ɕar tɕe, sɤtɕha aʁɤndɯndɤt ʑo chɯ-nɤqadrɤt ŋu
 \xn 鸡在找食物和虫子的时候，会到到处乱抓地面
 \cf adrɤt
-\cf tɤ-qa
+\cf tɯ-qa
 \dt 29/Aug/2015
 
 \lx _nɤqaʁ
@@ -52926,7 +53006,7 @@ l
 \gn 高兴得哭
 \xv aʑo jɤ-azɣɯt-a tɕe, a-mu ɲɯ-nɤrgɤŋɯ
 \xn 我到了的时候，我目前高兴得哭了出来
-\et rga.ŋu
+\bw Tibetan rga.ŋu
 \dt 20/Aug/2015
 
 \lx _nɤrɣɤma
@@ -53321,7 +53401,7 @@ l
 \pdv tɤ-
 \ge être bon en équitation 
 \gn 骑马的技术好 
-\et rtsal
+\bw Tibetan rtsal
 \xv mbro kɤ-nɯmbrɤpɯ wuma ɲɯ-nɤrtsɤl
 \xn 他骑马的技术非常好
 \dt 17/Oct/2011
@@ -53430,7 +53510,7 @@ l
 \gn 邀请（敬语）
 \un “邀请”这种意思是古语|fv{kɯɕɯŋgɯ ɯ-skɤt}，只出现在传统故事中
 \hbf 1271 
-\et gdan
+\bw Tibetan gdan
 \xv smɤnmi mitoʁ kuɕana ɕ-ku-nɤʁdɤn tɕe, tɕetha aʑo a-kɯ-mŋɤm phɤn ɕti
 \xn 如果他请到古夏纳的话，我的病马上就会好
 \se znɤʁdɤn
@@ -53474,7 +53554,7 @@ l
 \pdv nɯ-
 \ge trouver dommage, regretter
 \gn 觉得可惜、后悔
-\et gnoŋ
+\bw Tibetan gnoŋ
 \xv @beibei pɯ-qrɯ-t-a tɕe ɲɯ-nɤʁnoŋ-a
 \xn 我打破了杯子，觉得很可惜
 \xv @beibei pa-qrɯ tɕe ɲɯ-nɤʁnoŋ
@@ -53492,7 +53572,7 @@ l
 \gn 灰心、对……没有希望
 \xv jiɕqha kɤ-nɤma nɯ wuma ʑo ɲɯ-ɴqa tɕe, nɯ-nɤʁombi-t-a ɕti
 \xn 这件事情做起来很难，我对它没有希望了
-\cf tɯ-ʁo{mbi}
+\cf tɯ-ʁo,mbi
 \cf sɤʁombi
 \dt 16/May/2013
 
@@ -54245,7 +54325,7 @@ l
 \pdv nɯ-
 \ge remercier, avoir de la reconnaissance pour
 \gn 感激 
-\et drin
+\bw Tibetan drin
 \xv nɯ-nɤxtʂɯn-a
 \xn 我很感激了
 \xv ɲɯ-nɤxtʂɯn
@@ -54280,7 +54360,7 @@ l
 \pdv _
 \ge être au milieu 
 \gn 到中间
-\et dkʲil
+\bw Tibetan dkʲil
 \xv tɯ-ci kɤ-nɤχcɤl (tɯ-ci ɯ-ŋgɯ kɤ-ndʑaʁ tɕe kɤ-nɤχcɤl)
 \xn 他到水的中间了
 \xv ndzom ɯ-taʁ kɤ-nɤχcɤl
@@ -54437,7 +54517,7 @@ l
 \ge envier 
 \gn 妒忌 
 \hbf 1410 
-\et ʑe.ŋan
+\bw Tibetan ʑe.ŋan
 \xv aʑo laχtɕha tɤ-nɯ-χtɯ-t-a tɕe, ɲɯ-kɯ-nɯʑɤmŋan-a
 \xn 我给自己买了东西，你在妒忌我
 \se sɤnɯʑɤmŋɤn
@@ -54487,15 +54567,15 @@ l
 \pdl dir 
 \pdv pɯ-
 \ge avoir la nausée 
-\gn 觉得恶心
+\gn 感到恶心、觉得恶心
 \xv pɯ-nɤʑɯloʁ-a
-\xn 我觉得恶心
+\xn 我感到恶心
 \xv tɤ-pɤtso kɯ ɯ-qe na-lɤt tɕe pɯ-nɤʑɯloʁ-a
 \xn 小孩子屙了屎，我觉得很恶心
 \xv khɯna lo-qioʁ tɕe pɯ-nɤʑɯloʁ-a
 \xn 狗在那里吐了，我觉得很恶心
 \cf sɤʑɯloʁ
-\cf tɯ-ʑi{loʁ}
+\cf tɯ-ʑi,loʁ
 \dt 22/Feb/2014
 
 \lx _nɤʑɯʑu
@@ -54787,7 +54867,7 @@ l
 \ge lire à haute voix 
 \gn 读 
 \hbf 1287 
-\et ɴdon
+\bw Tibetan ɴdon
 \xv tɕe nɤ-χpi pɯ-ndɯn jɤɣ
 \xn 好吧，你念你的故事吧
 \xv ɯ-mphru pɯ-ʑe tɕe pɯ-ndɯn
@@ -55173,7 +55253,7 @@ l
 \pdv nɯ-
 \ge être effrayé (animal, surtout cheval) 
 \gn 受惊（动物，特别是马）到处乱跑乱跳 
-\et ɴdrog
+\bw Tibetan ɴdrog
 \xv mbro ɲɤ-ndʐoʁ
 \xn 马受惊了
 \se sɯɣndʐoʁ
@@ -55255,7 +55335,7 @@ l
 \ge chaud, tiède, tendre (personne) 
 \gn 温暖、温柔 
 \hbf 1062 
-\et ɴdʑam
+\bw Tibetan ɴdʑam
 \xv kɯ-ndʑɤm tɤ-ndze
 \xn 趁热吃！
 \cf ɣɤndʑɤm
@@ -55288,7 +55368,7 @@ l
 \ge accuser 
 \gn 告状、投诉 
 \hbf 1338 
-\et ʑu
+\bw Tibetan ʑu
 \xv khɯtsa pɯ-tɯ-qrɯt, aʑo mɤ-ta-ndʑɯ
 \xn 你把碗打破了，我不会告你的状
 \se sɤndʑɯ
@@ -55305,7 +55385,7 @@ l
 \pdv nɯ-
 \ge être détruit 
 \gn 灭亡 
-\et ɴdʑig
+\bw Tibetan ɴdʑig
 \xv skalpa ɲɤ-ndʑɯɣ 
 \xn 世界灭亡了、时代变了
 \dt 24/Oct/2011
@@ -55367,7 +55447,7 @@ l
 \ge accomplir 
 \gn 成功 、完成
 \hbf 1192 
-\et ɴgrub
+\bw Tibetan ɴgrub
 \xv nɤ-kɤ-nɯsmɯlɤm nɯ a-pɯ-ngrɯβ
 \xn 希望你祈求的事情会成功！
 \se sɯngrɯβ
@@ -55551,7 +55631,7 @@ l
 \pdv kɤ-
 \ge éclairer 
 \gn 映照 
-\et ɴtɕʰar
+\bw Tibetan ɴtɕʰar
 \xv @dianying ko-ntɕhɤr
 \xn 电影上映了
 \xv tɤŋe ɯ-ɣot ko-ntɕhɤr
@@ -55683,7 +55763,7 @@ l
 \pdv _
 \ge rôder
 \gn 流浪 
-\et ɴtʰor
+\bw Tibetan ɴtʰor
 \xv mbro ɯ-zda maŋe tɕe ɲɤ-nthor
 \xn 马离了群就流浪
 \dt 22/Oct/2013
@@ -55755,7 +55835,7 @@ l
 \gn 念经 
 \xv χpɯn ra ɲɯ-ntshoʁ-nɯ
 \xn 和尚们在念经
-\et ɴtsʰog
+\bw Tibetan ɴtsʰog
 \dt 02/Apr/2014
 
 \lx _ntʂu
@@ -55813,7 +55893,7 @@ l
 \gn 承担
 \xv ɯʑo kɯ ta-nɤma pɯ-ɕti ri, aʑo kɯ nɯ-nɯβdaʁ-a
 \xn 本来是他做的事情，最后让我承担了
-\et bdag
+\bw Tibetan bdag
 \se znɯβdaʁ
 \ps vt
 \pdl dir
@@ -56801,7 +56881,7 @@ l
 \pdv pɯ-
 \ge avoir comme passion 
 \gn 有这个爱好
-\et jon.tan
+\bw Tibetan jon.tan
 \xv nɤ-mɲitsi kɤ-rɤβzjoz ntsɯ pɯ-tɯ-nɯjɤntɤn
 \xn 这一辈子你的爱好是学习
 \cf jɤntɤn
@@ -57236,7 +57316,7 @@ l
 \ge aller en prison
 \gn 坐牢
 \hbf 1308 
-\et kʰrims
+\bw Tibetan kʰrims
 \xv ɲɯ-nɯkhrɯm-nɯ
 \xn 他们在坐牢
 \se znɯkhrɯm
@@ -57278,7 +57358,7 @@ l
 \ge commander, gérer 
 \gn 担当、管理
 \hbf 199 
-\et kʰur
+\bw Tibetan kʰur
 \xv aʑo daduizhang paz-nɯkhɯr-a
 \xn 我以前当大队长
 \dt 17/Jan/2011
@@ -57322,7 +57402,7 @@ l
 \hbf 1358 
 \xv thamtham aʑo @linyegongzuo ku-oz-nɯkon-a
 \xn 我现在管理林业工作
-\et fn:管
+\bw Tibetan fn:管
 \se ʑɣɤnɯkon
 \ps vi
 \pdl dir 
@@ -57342,7 +57422,7 @@ l
 \ge cher 
 \gn 贵 
 \hbf 1054 
-\et goŋ
+\bw Tibetan goŋ
 \xv laχtɕha ɲɯ-nɯkoŋ, mɯ́j-nɯkoŋ
 \xn 东西很便宜，不便宜
 \dt 20/Oct/2011
@@ -57562,7 +57642,7 @@ l
 \ge fêter le nouvel an 
 \gn 过年 
 \hbf 1362 
-\et lo.gsar
+\bw Tibetan lo.gsar
 \xv kɤ-nɯlɤsɤr to-mda
 \xn 到了过年的时候了
 \cf lɤsɤr
@@ -57723,7 +57803,7 @@ l
 \ge raboter 
 \gn 刨 
 \hbf 1150 
-\et ɴbur.len
+\bw Tibetan ɴbur.len
 \xv si thɯ-nɯmbɯrlɤn
 \xn 你刨一下树
 \xv tɤrɤm thɯ-nɯmbɯrlan-a
@@ -58010,7 +58090,7 @@ l
 \pdv tɤ-
 \ge être impressionnant 
 \gn 醒目耀眼 
-\et mŋa
+\bw Tibetan mŋa
 \xv ɯ-ŋga ɲɯ-nɯmŋa
 \xn 他的衣服醒目耀眼
 \dt 19/Jan/2011
@@ -58086,7 +58166,7 @@ l
 \pdv tɤ-
 \ge faire un bénéfice au dépend de
 \gn 赚……的钱
-\et mtʰo
+\bw Tibetan mtʰo
 \xv laχtɕha to-nɯmthɯ
 \xn 他在那个东西上赚到钱了
 \xv @shikuaiqian to-nɯmthɯ
@@ -58596,7 +58676,7 @@ l
 \ge humilier 
 \gn 侮辱 、欺负
 \un 不能用于动物
-\et ŋo.med
+\bw Tibetan ŋo.med
 \xv jiɕqha tɤ-pɤtso nɯ ɲɯ-ɤz-nɯŋumit-nɯ
 \xn 他们在欺负那个小孩子
 \xv jiɕqha tɯrme ɲɯ-ɤz-nɯŋumit-nɯ
@@ -59151,6 +59231,8 @@ l
 \xn 他轻轻地碰了一下
 \xv nɯ-nɯrɕat-a
 \xn 我轻轻地碰了一下
+\xv ɯ-mɲaʁ ɲɯ-nɯrɕɤt cinɤ mɤ-kɯ-ɤtsɯtsu qhe ɲɤ-ɕqhlɤt
+\xn 还没有来得及看一眼就消失了
 \se znɯrɕɤt
 \ps vt
 \pdl dir 
@@ -59160,7 +59242,7 @@ l
 \gn （用某个东西）轻轻地碰一下
 \xv nɯ-ari-ndʑi tɕe, lo rŋgɯ nɯ ɯ-ɕki nɯ tɕu phuɲi ɲɤ-znɯrɕɤt-ndʑi
 \xn 他们俩到了之后，在大石包上用树枝轻轻地擦过去了
-\dt 13/Jan/2015
+\dt 09/Oct/2015
 
 \lx _nɯrdɤstaʁ
 \ps vt
@@ -59234,7 +59316,7 @@ l
 \ge aimer 
 \gn 喜欢 
 \hbf 1126 <2> 1714 
-\et dga
+\bw Tibetan dga
 \xv jiɕqha tɕheme nɯ ɲɯ-nɯrge-a
 \xn 我喜欢那个女子
 \xv tɕheme nɯ nɯ-nɯrga-t-a
@@ -59279,7 +59361,7 @@ l
 \pdv tɤ-
 \ge se parer (de bijoux)
 \gn 打扮（一身带满装饰）
-\et rgʲan.tɕʰa
+\bw Tibetan rgʲan.tɕʰa
 \xv tɤ-nɯrɟɤntɕa-t-a
 \xn 我打扮了
 \dt 02/Mar/2011
@@ -59324,7 +59406,7 @@ l
 \pdv nɯ-
 \ge vert (bois), humide
 \gn 湿、生（木头）
-\et rlan
+\bw Tibetan rlan
 \xv pjɤ-nɯrlɤn tɕe sɯtɕhaʁ ko-ɕe
 \xn 木头是湿的，所以缩了
 \xv kɯ-nɯrlɤn
@@ -59574,7 +59656,7 @@ l
 \pdv pɯ-
 \ge s'empoisonner en mangeant une herbe (bovidé) 
 \gn 草中毒（牛） 
-\et rtsʷa.dug
+\bw Tibetan rtsʷa.dug
 \xv jla pjɤ-nɯrtsɤtɯɣ
 \xn 犏牛吃草中毒了
 \xv qambrɯ pjɤ-nɯrtsɤtɯɣ
@@ -59681,7 +59763,7 @@ l
 \pdv pɯ-
 \ge attraper le mal des hauteurs 
 \gn 发生高山反应
-\et rdza.dug
+\bw Tibetan rdza.dug
 \xv pjɤ-nɯrzandaɣ-a
 \xn 我有了高山反应
 \xv aj mucin ʑo mɯ́j-nɯrzandaɣ-a
@@ -59729,7 +59811,7 @@ l
 \pdv tɤ-
 \ge considérer comme un ennemi 
 \gn 敌视 
-\et dgra
+\bw Tibetan dgra
 \xv jiɕqha kɯ tú-wɣ-nɯʁgra-a ɲɯ-ŋu
 \xn 那个人跟我有仇
 \se anɯʁgrɯʁgra
@@ -59866,7 +59948,7 @@ l
 \pdv thɯ-
 \ge beau 
 \gn 美观 
-\et gzigs
+\bw Tibetan gzigs
 \xv jiɕqha tɤ-tɕɯ nɯ ɲɯ-nɯʁzɯɣ
 \xn 那个男子很英俊
 \xv jiɕqha laχtɕha ɲɯ-nɯʁzɯɣ
@@ -59967,7 +60049,7 @@ l
 \ps vs
 \ge beau 
 \gn 美丽、漂亮
-\et skʲe.gzugs
+\bw Tibetan skʲe.gzugs
 \xv jiɕqha nɯ mɯ́j-nɯscɯʁzɯɣ
 \xn 那个人不漂亮
 \xv jiɕqha nɯ ɲɯ-nɯscɯʁzɯɣ
@@ -60402,7 +60484,7 @@ l
 \ge se méfier 
 \gn 怀疑 
 \hbf 1380 
-\et sems.ŋan
+\bw Tibetan sems.ŋan
 \xv jiɕqha nɯ ŋu maʁ mɤ-xsi ri tɤ-nɯsɯmŋan-a
 \xn 不知道是不是他（偷了东西），但是我怀疑他了
 \xv ma-tɤ-kɯ-nɯsɯmŋan-a ma aʑo maʁ-a
@@ -60420,7 +60502,7 @@ l
 \pdv tɤ-
 \ge hésiter
 \gn 犹豫
-\et sems.gɲis
+\bw Tibetan sems.gɲis
 \xv nɤʑo ɲɯ-tɯ-nɯsɯmʁɲɯz netɕi
 \xn 你还在犹豫啊
 \xv chɯ-ɕe-a ɕi ma-thɯ-ɕe-a kɯ ku-nɯsɯmɯʁɲɯz-a ma, kutɕu ku-rɤʑi-a sɤtɕha ɲɯ-mbro tɕe, a-rtshɤz kɯ-mŋɤm ɲɯ-ʁdɯɣ
@@ -60440,7 +60522,7 @@ l
 \ge être malheureux, être triste
 \gn 不高兴、伤心
 \hbf 1120 
-\et sems.sdug
+\bw Tibetan sems.sdug
 \xv thɯ-nɯsɯmɯzdɯɣ mɤ-ra
 \xn 你不要伤心
 \xv ma-tɯ-nɯsɯmɯzdɯɣ 
@@ -60578,7 +60660,7 @@ l
 \ge extorquer 
 \gn 抢 
 \hbf 1570 
-\et dʑag.pa
+\bw Tibetan dʑag.pa
 \xv tʂu tɕe pjɤ́-wɣ-nɯtɕaχpa
 \xn 他在路上被抢了
 \sy nɯsɯkho
@@ -60622,7 +60704,7 @@ l
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge manger (cheval) 
+\ge manger du fourrage (cheval) 
 \gn 吃饲料（马）
 \xv mbro ɲɯ-nɯtɕhaʁ
 \xn 马在吃饲料
@@ -60654,7 +60736,7 @@ l
 \ge être puni 
 \gn 受到惩罚 
 \hbf 1308 
-\et tɕʰad
+\bw Tibetan tɕʰad
 \se znɯtɕhɤl
 \ps vt
 \pdl dir 
@@ -60707,7 +60789,7 @@ l
 \pdv pɯ-
 \ge s'empoisonner en buvant de l'eau (bovidé) 
 \gn 水中毒（牛） 
-\et tɕʰu.dug
+\bw Tibetan tɕʰu.dug
 \xv jla pjɤ-nɯtɕhɯtɯɣ
 \xn 犏牛喝水中毒了
 \xv qambrɯ pjɤ-nɯtɕhɯtɯɣ
@@ -60738,7 +60820,7 @@ l
 \pdv tɤ-
 \ge lever 
 \gn 抬（几个人一起） 
-\et fn:抬
+\bw Tibetan fn:抬
 \hbf 1659
 \xv ɕoŋtɕa tɤ-nɯthaj-tɕi
 \xn 我们俩把木料抬起来了
@@ -60750,7 +60832,7 @@ l
 \ng denom
 \pdl dir 
 \pdv tɤ-
-\ge jouer au jeu de hasard 
+\ge jouer à un jeu de hasard (où il faut deviner combien d'objets son adversaire tient dans la main)
 \gn 赌胡豆的游戏 
 \xv stoʁ tɤ-nɯthɤstɯɣ-tɕi
 \xn 我们俩赌了胡豆
@@ -60842,7 +60924,7 @@ l
 \ge avoir la fièvre 
 \gn 发烧 
 \hbf 1305 
-\et tsʰa.drod
+\bw Tibetan tsʰa.drod
 \xv ɲɯ-nɯtɕhomba tɕe ɲɯ-nɯtshɤtʂot
 \xn 他感冒就发烧
 \xv nɯ-nɯtshɤtʂot-a
@@ -60868,7 +60950,7 @@ l
 \pdv tɤ-
 \ge prendre soin
 \gn 照顾
-\et fn:照顾
+\bw Tibetan fn:照顾
 \se ʑɣɤnɯtʂawku
 \ng refl
 \ge prendre soin de soi
@@ -61217,7 +61299,7 @@ l
 \ge s'inquiéter pour quelqu'un 
 \gn 为别人担心 
 \hbf 1306 
-\et sdug
+\bw Tibetan sdug
 \xv a-mu ɲɯ-nɯzdɯɣ-a
 \xn 我担心我的母亲
 \xv a-rɟit ɲɯ-nɯzdɯɣ-a
@@ -61369,7 +61451,7 @@ l
 \ge envier, vouloir imiter 
 \gn 妒忌
 \hbf 1410 
-\et ʑe.sdaŋ
+\bw Tibetan ʑe.sdaŋ
 \se sɤnɯʑɤzdaŋ
 \ps vi
 \ge envier les gens
@@ -61568,7 +61650,7 @@ l
 \ge regretter 
 \gn 后悔 
 \hbf 1376 
-\et ɴgʲod
+\bw Tibetan ɴgʲod
 \xv ɲɯ-ɲɟat-a
 \xn 我后悔
 \xv tɤ-ɲɟat-a
@@ -61702,7 +61784,7 @@ l
 \ge changer 
 \gn 变化 
 \hbf 1158 
-\et ɴgʲur
+\bw Tibetan ɴgʲur
 \xv kutɕu kɤ-tɯ-nɤrʑaʁ tɕe nɤ-skɤt ɲɤ-ɲɟɯr
 \xn 你在这里待久了，你的语言就变了
 \dt 24/Aug/2012
@@ -61775,7 +61857,7 @@ l
 \ge féroce
 \gn 凶
 \hbf 1053 
-\et ŋan
+\bw Tibetan ŋan
 \se ɣɤŋɤn
 \wav8 GANAn
 \ps vt
@@ -61988,7 +62070,7 @@ l
 \ge accomplir 
 \gn 成功 、完成
 \hbf 1192 
-\et ɴgrub
+\bw Tibetan ɴgrub
 \xv jisŋi ji-sɯphɯt pɯ-ŋgrɯ
 \xn 今天我们砍柴的任务完成了
 \xv jisŋi ji-ma pɯ-ŋgrɯ
@@ -62099,7 +62181,7 @@ l
 \pdv _
 \ge arriver
 \gn 来临（活佛、神仙）
-\et ɴkʰor
+\bw Tibetan ɴkʰor
 \xv kɯki ɕɤfɕo aʑo a-phe ku-ŋkhor ɲɯ-ŋu
 \xn 这几天他到我这里了
 \dt 11/Feb/2014
@@ -62451,7 +62533,7 @@ l
 \cf apa
 \cf sɤpa
 \hbf 1356
-\se ɯ-pɯ{pa}
+\se ɯ-pɯ,pa
 \ge conserver
 \gn 保管
 \xv laχtɕha ɯ-pɯ tɤ-pe
@@ -62460,10 +62542,6 @@ l
 \xn 牛奶不能长时间保存，不然就会腥(变质)
 \xv nɤ-jaʁ ɯ-pɯ ma-tɤ-tɯ-nɯ-pe
 \xn 你不要不管，要帮一下忙
-\lf Component1 = ɯ-pɯ
-\ps np
-\lf Component2 = pa
-\ps vt
 \se nɯpa
 \ps vt
 \pdl dir
@@ -62510,7 +62588,7 @@ l
 \ge essuyer 
 \gn 擦 
 \hbf 1163 <2> 1738 
-\et pʰʲis
+\bw Tibetan pʰʲis
 \xv @zhuozi nɯ-pɕiz
 \xn 擦一下桌子
 \xv nɤ-rŋa pɯ-pɕiz
@@ -62727,7 +62805,7 @@ l
 \pdv tɤ-
 \ge avoir un (bon) effet 
 \gn 有效果，起作用
-\et pʰan
+\bw Tibetan pʰan
 \xv pɯ-me mɤ-phɤn ma ɣɯ-ndza ra, pɯ-tu mɤ-phɤn ma ɣɯ-ɕtʂat ra
 \xn 粮食再少也不能不吃，粮食再多也不能不节约
 \se ɣɤphɤn
@@ -62809,7 +62887,7 @@ l
 \ge oser 
 \gn 敢 
 \hbf 1335 
-\et pʰod
+\bw Tibetan pʰod
 \xv jiɕqha nɯ kɤ-saʁndɯ ɲɯ-phot
 \xn 他敢打人
 \xv ku-ɕe ɲɯ-phot
@@ -62869,7 +62947,7 @@ l
 \ge offrir 
 \gn 献给 、上供
 \hbf 1723 
-\et pʰul
+\bw Tibetan pʰul
 \xv βlama ɯ-ʁɤri lɤ-phɯl-a
 \xn 我献给喇嘛了
 \xv tɯjpu lɤ-phɯl-a
@@ -62945,7 +63023,7 @@ l
 \xv sɯŋgɯ kɤ-pjal-a
 \xn 我穿过了森林
 \hbf 1771 
-\et bʲol
+\bw Tibetan bʲol
 \dt 18/Aug/2015
 
 \lx _pjɤt
@@ -62987,7 +63065,7 @@ l
 \cf mblɯt
 \dt 31/Aug/2015
 
-\lx _prɤdɤja{ta}
+\lx _prɤdɤja,ta
 \sn 1
 \ge griffer partout
 \gn 到处乱抓
@@ -63696,7 +63774,7 @@ l
 \pdv tɤ-
 \ge long (temps) 
 \gn 长（时间，路程） 
-\et riŋ
+\bw Tibetan riŋ
 \xv ki ɲɯ-fse nɯ ɲɯ-raŋ 
 \xn 这样、那样
 \xv mɤ-kɯ-fse mɤ-kɯ-raŋ ʑo maŋe
@@ -64108,7 +64186,7 @@ l
 \pdv tɤ-
 \ge prendre pour prétexte 
 \gn 拿为借口 
-\et len
+\bw Tibetan len
 \xv nɯ aʑo tu-kɯ-rɤɣlan-a ɲɯ-ŋu
 \xn 你在怪我
 \xv nɤʑo tu-tɯ́-wɣ-rɤɣlɤn ɲɯ-ŋu
@@ -64276,7 +64354,7 @@ l
 \ge discuter 
 \gn 商量 
 \hbf 1608 
-\et gros
+\bw Tibetan gros
 \xv tɤ-rɤkrɤz-tɕi
 \xn 我们俩商量过了
 \xv khro tɤ-rɤkrɤz-nɯ
@@ -64624,7 +64702,7 @@ l
 \ge effectuer une danse rituelle 
 \gn 跳神 
 \hbf 657 
-\et ɴtɕʰams
+\bw Tibetan ɴtɕʰams
 \xv rgɯnba ɲɯ-rɤntɕhom-nɯ
 \xn 庙里在跳神
 \dt 25/Apr/2014
@@ -64636,7 +64714,7 @@ l
 \pdv kɤ-
 \ge faire une retraite 
 \gn 闭关修行 
-\et bsɲen.mtsʰams
+\bw Tibetan bsɲen.mtsʰams
 \xv βlama ɲɯ-rɤntshom
 \xn 喇嘛在修行
 \xv βlama ko-rɤntshom
@@ -65403,7 +65481,7 @@ l
 \pdv thɯ-
 \ge échouer en affaire 
 \gn 做亏本生意
-\et rdab.tɕʰal
+\bw Tibetan rdab.tɕʰal
 \xv thɯ-rdaβ-a, thɯ-rdɤβ
 \xn 我亏本，他亏本
 \xv jɤxtshi tɯtsɣe thɯ-rdaβ-a 
@@ -65452,7 +65530,7 @@ l
 \pdv pɯ-
 \ge battre
 \gn 打、 夯土墙 
-\et rduŋ
+\bw Tibetan rduŋ
 \xv nɤ-stu tɤ-fse ma ta-rdoŋ
 \xn 你表现好一点，不然就打你
 \xv caŋ pɯ-rdoŋ-a
@@ -65474,7 +65552,7 @@ l
 \pdv nɯ-
 \ge aimer
 \gn 喜欢 
-\et dga
+\bw Tibetan dga
 \xv kɤ-rɯɕmi mɯ́j-rga
 \xn 他不爱说话
 \cf nɯrga
@@ -65489,7 +65567,7 @@ l
 \ge être vieux, vieillir
 \gn 年老 
 \hbf 1059 
-\et rgas
+\bw Tibetan rgas
 \xv jiɕqha rgɤtpu nɯ cho-rgɤz
 \xn 那位老年人变老了
 \xv nɯŋa do chɤ-rgɤz
@@ -65586,7 +65664,7 @@ l
 \ge courir 
 \gn 跑 
 \hbf 1544 
-\et rgʲug
+\bw Tibetan rgʲug
 \xv kɤ-rɟɯɣ-a, nɯ-rɟɯɣ-a
 \xn 我跑了
 \cf nɤrɟɯrɟɯɣ
@@ -65637,7 +65715,7 @@ l
 \pdv pɯ-
 \ge graver, sculpter 
 \gn 雕刻 
-\et rkos
+\bw Tibetan rkos
 \xv parɕaŋ pɯ-rkaz-a
 \xn 我刻了印版
 \xv parɕaŋ pa-rkɤz
@@ -65774,7 +65852,7 @@ l
 \ge peu 
 \gn 少 
 \hbf 988 
-\et dkon
+\bw Tibetan dkon
 \se nɤrkɯn
 \ps vt
 \ge trouver trop peu, manquer de 
@@ -65813,7 +65891,7 @@ l
 \ge disparaître 
 \gn 失踪 
 \hbf 1623 
-\et brlag
+\bw Tibetan brlag
 \xv a-taqaβ ɲɤ-rlaʁ
 \xn 我的针不见了
 \xv a-mbrɯtɕɯ ɲɤ-rlaʁ
@@ -65955,7 +66033,7 @@ l
 \ge ancien 
 \gn 陈旧 
 \hbf 1051 
-\et rɲiŋ
+\bw Tibetan rɲiŋ
 
 \lx _rɲɟi
 \wav vi-rYJi
@@ -66094,7 +66172,7 @@ l
 \ge frire (le blé) 
 \gn 干炒（麦子） 
 \hbf 1186 
-\et rŋo
+\bw Tibetan rŋo
 \xv tɤɕi tɤ-rŋu-t-a
 \xn 我炒了青稞
 \xv tɤɕi chɯ́-wɣ-rŋu tɕe nɯ kóʁmɯz nɤ tɯsqar ɲɯ-βze ɕti
@@ -66356,7 +66434,7 @@ l
 \ge regarder
 \gn 看
 \hbf 1469 
-\et rtogs
+\bw Tibetan rtogs
 \xv laχtɕha tɤ-rtoʁ-a
 \xn 我看了东西
 \xv jɯɣi ta-rtoʁ
@@ -66442,7 +66520,7 @@ l
 \xv ki kɤ-rtsi kɯ-tu me nɤ
 \xn 这不算什么 
 \hbf 1640 <2> 1656 
-\et rtsi
+\bw Tibetan rtsi
 \se sɤrtsi
 \ps vt
 \ge considérer comme
@@ -66469,7 +66547,7 @@ l
 \ge empiler 
 \gn 堆起来 
 \hbf 1278 <2> 1511 
-\et rtsigs
+\bw Tibetan rtsigs
 \xv si pɯ-rtsɯɣ-a
 \xn 我把木头堆起来了
 \xv tɤɕi pɯ-rtsɯɣ-a
@@ -66615,7 +66693,7 @@ l
 \pdv tɤ-
 \ge être orgueilleux
 \gn 骄傲
-\et fn:骄傲
+\bw Tibetan fn:骄傲
 \xv ma-tɯ-rɯcɤβŋgɤβ
 \xn 你不要骄傲
 \xv tɤ-rɯcɤβŋgaβ-a
@@ -67014,7 +67092,7 @@ l
 \ge faire attention 
 \gn 小心 
 \hbf 1734 
-\et mdzaŋs.pa
+\bw Tibetan mdzaŋs.pa
 \xv tɤ-rɯndzaŋspa ma kɯ-mɯrkɯ tɯ-ɕlɯɣ
 \xn 你小心一点，不然会被偷东西的
 \dt 24/Aug/2012
@@ -67130,7 +67208,7 @@ l
 \pdv tɤ-
 \ge porter attention à son apparence 
 \gn 讲究排场 
-\et fn:排场
+\bw Tibetan fn:排场
 \xv jiɕqha nɯ kɯ-rɯphajtɕhaŋ ci ɲɯ-ŋu
 \xn 那个人很讲排场
 \dt 22/May/2011
@@ -67147,7 +67225,7 @@ l
 \ge ruiner
 \gn 倾家荡产、破坏
 \hbf 1136 
-\et ɴpʰro.brlag
+\bw Tibetan ɴpʰro.brlag
 \xv nɯ-kha thamtɕɤt cho-phɯt, nɯ-laχtɕha chɤ-ntsɣe chɤ-rɯphɯrlaʁ
 \xn 他拆了他们的房子，卖了他们的东西，把财产花光了
 \dt 09/Jun/2013
@@ -67172,7 +67250,7 @@ l
 \ge tourner dans le ciel (oiseau)
 \gn 盘旋
 \hbf 1545 
-\et ɴkʰor
+\bw Tibetan ɴkʰor
 \xv qaliaʁ ɲɯ-rɯpjɤŋkhɤr 
 \xn 老鹰在盘旋
 \dv aʁɤndɯndɤt tu-nɤmtɕɯrlu tɕe ɲɯ-nɤrɯra, nɯ pjɤŋkhɤr tu-kɯ-ti ɲɯ-ŋu
@@ -67258,7 +67336,7 @@ l
 \xn 他要求我给他钱
 \xv ɯʑo a-ɕki tu-kɤ-qur ntsɯ ɲɯ-nɯrawa ŋu
 \xn 他总是要求我帮他
-\et re.ba
+\bw Tibetan re.ba
 \dt 25/Aug/2012
 
 \lx _rɯrɤt
@@ -67277,7 +67355,7 @@ l
 \ng denom
 \ge se prosterner jusqu'à un lieu saint tout le long de la route
 \gn 磕长头（到观音桥） 
-\et brkʲaŋs.pʰʲag
+\bw Tibetan brkʲaŋs.pʰʲag
 \cf rcaŋpɕaʁ
 \dt 09/Jun/2013
 
@@ -67346,7 +67424,7 @@ l
 \pdv thɯ-
 \ge faire les comptes 
 \gn 算帐
-\et rtsi.sgrig
+\bw Tibetan rtsi.sgrig
 \xv thɯ-rɯrtsɯtʂɯɣ-a / rtsɯtʂɯɣ thɯ-ta-t-a
 \xn 我算账了
 \dt 24/Aug/2012
@@ -67415,7 +67493,7 @@ l
 \ge soudain 
 \gn 突然 
 \hbf 1598 
-\et glo.bur
+\bw Tibetan glo.bur
 \xv @wenchuan waɟɯ to-rɯʁlɤwur ɕti
 \xn 汶川大地震发生得很突然
 \dt 22/Mar/2014
@@ -67455,7 +67533,7 @@ l
 \ge se marier 
 \gn 结婚 
 \hbf 1441 
-\et ston.mo
+\bw Tibetan ston.mo
 \xv ji-me tɤ-rɯstɯnmɯ
 \xn 我们的女儿结了婚
 \xv ji-tɕɯ tɤ-rɯstɯnmɯ
@@ -67543,7 +67621,7 @@ l
 \pdv pɯ-
 \ge faire du commerce 
 \gn 做生意 
-\et tsʰoŋ.pa
+\bw Tibetan tsʰoŋ.pa
 \xv pjɤ-rɯtshoŋpa
 \xn 他以前做生意（现在不做了）
 \dt 28/May/2011
@@ -67633,7 +67711,7 @@ l
 \ps vs
 \ge tout nu
 \gn 裸体、光着身子
-\et gtɕer.bu
+\bw Tibetan gtɕer.bu
 \cf χtɕɯrɯpa
 \dt 27/Jan/2014
 
@@ -67657,7 +67735,7 @@ l
 \pdv pɯ-
 \ge vrai 
 \gn 真实 
-\et rigs
+\bw Tibetan rigs
 \xv tɯmɯ ɲɯ-ɤsɯ-lɤt ɲɯ-ti-nɯ, ɕ-thɯ-nɤrɯra-a ri, ɲɯ-rɯz
 \xn 我听说外面在下雨，我去看了一下是真的
 \dt 15/May/2013
@@ -67696,7 +67774,7 @@ l
 \pdv thɯ-
 \ge mettre dedans 
 \gn 往里装 
-\et rdzoŋ
+\bw Tibetan rdzoŋ
 \xv thɯ-rzoŋ-a
 \xn 我装了
 \xv tha-rzoŋ
@@ -67709,7 +67787,7 @@ l
 \ps vi
 \ge pousser (complète)
 \gn （完全）长出了
-\et rdzogs
+\bw Tibetan rdzogs
 \xv lɯtoʁ ɲɤ-rzoʁ
 \xn （春天的时候），草木复苏
 \xv a-ʁɲɤlwa nɯ-rzoʁ
@@ -67847,7 +67925,7 @@ l
 \pdv tɤ-
 \ge introverti 
 \gn 内向 
-\et glen.pa
+\bw Tibetan glen.pa
 
 \lx _ʁma
 \ps vs
@@ -67855,7 +67933,7 @@ l
 \pdv pɯ-
 \ge trop bas (coup de fusil) 
 \gn 打枪瞄低 
-\et dma
+\bw Tibetan dma
 \xv ɕɤmɯɣdɯ ɯ-tɯ-ʁma nɯ 
 \xn 那杆枪打得很低
 
@@ -67909,7 +67987,7 @@ l
 \gn 容易损坏
 \xv tɯ-rnom ɯ-ɕɤrɯ nɯ wuma ʑo ɣɤʁnɤt, pjɯ-kɯ-ndʐaβ, kú-wɣ-nɯ-rpu nɯ ra tɕe tu-ʁnɤt mbat
 \xn 肋骨容易裂伤
-\et gnod
+\bw Tibetan gnod
 \cf saʁnɤt
 \dt 15/May/2013
 
@@ -67922,7 +68000,7 @@ l
 \ge se disperser 
 \gn 散开 
 \hbf 1235 
-\et gtor
+\bw Tibetan gtor
 \xv tɯjpu pjɤ-ʁndɤr
 \xn 面粉撒得到处都是
 \xv laχtɕha pjɤ-ʁndɤr
@@ -68031,7 +68109,7 @@ l
 \ge attentif, soigneux 
 \gn 细心、细致 
 \hbf 1103 
-\et gzab
+\bw Tibetan gzab
 \xv ɯ-ma ɲɤ-ʁzɤβ 
 \xn 他做事很细致
 \xv ɯ-βraʁ kɤ-ʁzaβ-a
@@ -68145,7 +68223,7 @@ l
 \ge ennuyer, empêcher 
 \gn 干扰、防碍 
 \hbf 1096 
-\et sdug
+\bw Tibetan sdug
 \xv tɤ-rɤru ma ɲɯ-tɯ-saʁdɯɣ
 \xn 你起来，你在那里碍事
 \dt 21/Oct/2011
@@ -68204,7 +68282,7 @@ l
 \xv a-taʁ pɯ-saʁnɤt
 \xn 伤害我了
 \hbf 1108 
-\et gnod
+\bw Tibetan gnod
 \cf ʁnɤt
 \dt 24/Aug/2015
 
@@ -68569,7 +68647,7 @@ l
 \ge peigner 
 \gn 梳 
 \hbf 1634 
-\et ɕad
+\bw Tibetan ɕad
 \xv nɤ-ku thɯ-sɤɕɤt
 \xn 你梳一下头
 \xv ɯ-ku ɲɯ-ɤʁzrɤwɤlu, pɯ-sɤɕat-a
@@ -69040,6 +69118,10 @@ l
 \cf ajtɯ
 \dt 10/Jun/2011
 
+\lx _sɤjwɤrlɤr
+\cf ɣɤjwɤrlɤr
+\dt 09/Oct/2015
+
 \lx _sɤɟɯɟrɯɣ
 \cf ɣɤɟɯɟrɯɣ
 \dt 02/Oct/2011
@@ -69097,7 +69179,7 @@ l
 \pdv thɯ-
 \ge enfermer 
 \gn 拦起来 
-\et ɴkʰor
+\bw Tibetan ɴkʰor
 \xv si kɤ-sɤkhar-i
 \xn 我们用树叉围成圆圈了
 \xv smi kɤ-sɤkhar
@@ -70614,7 +70696,7 @@ l
 \ge heureux, agréable (environnement, époque) amusant (personne) 
 \gn 幸福（环境、时代、生活）、好玩（人） 
 \hbf 1118 
-\et skʲid
+\bw Tibetan skʲid
 \xv ji-tɯrma ɲɯ-sɤscit 
 \xn
 \cf scit
@@ -71371,15 +71453,15 @@ l
 \pdl dir 
 \pdv nɯ-
 \ge dégouter 
-\gn 使人觉得恶心 
+\gn 使人感到恶心 
 \xv jiɕqha nɯ mɯ́j-saχɕin, ɲɯ-sɤʑɯloʁ
-\xn 不卫生，令人觉得恶心
+\xn 不卫生，令人感到恶心
 \se nɤsɤʑɯloʁ
 \ps vt
 \ge trouver dégoutant
 \gn 觉得恶心
 \cf nɤʑɯloʁ
-\cf tɯ-ʑi{loʁ}
+\cf tɯ-ʑi,loʁ
 \dt 24/Aug/2015
 
 \lx _sɤʑɯrja
@@ -71476,7 +71558,7 @@ l
 \xv tɤ-pɤtso ra kɯ-ŋu kɤ-sɯxɕɤt ɯ-khɯkha a-thɯ-sci-nɯ (a-thɯ-ndzɤt-nɯ) tɕe pe
 \xn 在孩子生长的过程中要进行正面教育就会好
 \sy ndzɤt
-\et skʲe
+\bw Tibetan skʲe
 \se sɯsci
 \ps vt
 \pdl dir 
@@ -71496,7 +71578,7 @@ l
 \ge heureux 
 \gn 幸福 
 \hbf 1118 
-\et skʲid
+\bw Tibetan skʲid
 \se sɯscit
 \ps vt
 \ng caus
@@ -71552,7 +71634,7 @@ l
 \ge peser 
 \gn 称 
 \hbf 1188 
-\et skar
+\bw Tibetan skar
 \xv tɤ-skar-a
 \xn 我称了
 \xv ta-skɤr
@@ -71697,7 +71779,7 @@ l
 \pdv pɯ-
 \ge porter des fruits
 \gn 成熟
-\et smin
+\bw Tibetan smin
 \xv ɯ-mbrɤzɯ smɯn
 \xn 会有好结果
 \dt 15/May/2014
@@ -71735,7 +71817,7 @@ l
 \ge être fou 
 \gn 疯 
 \hbf 1323 
-\et smʲo
+\bw Tibetan smʲo
 \xv jiɕqha nɯ ɲɤ-sɲu
 \xn 那个人疯了
 \xv kɯ-sɲu ci ɲɯ-ŋu
@@ -71782,7 +71864,7 @@ l
 \pdv tɤ-
 \ge maudire, ensorceller
 \gn 施法术 、咒语
-\et sŋags
+\bw Tibetan sŋags
 \xv to-sŋaʁ (=tɯ-sŋaʁ to-ɕe)
 \xn 他咒了他
 \xv tɤ́-wɣ-sŋaʁ-a
@@ -71835,7 +71917,7 @@ l
 \pdv tɤ-
 \ge ronfler
 \gn 打鼾
-\et sŋur
+\bw Tibetan sŋur
 \xv nɤ-tɯ-sŋur nɯ 
 \xn 你鼾声打得很大声
 \xv jɯfɕɯɕɤr nɤʑo pɯ-tɯ-sŋur
@@ -71933,6 +72015,31 @@ l
 \xn 他本来就会开车
 \dt 05/Jan/2014
 
+\lx _spa,rka
+\wav8 mAspeamArkea
+\wav8 mAtWsperke
+\wav8 mWtAtWspatrkat
+\pdl dir
+\pdv tɤ-
+\ge être innocent
+\gn 无辜
+\ng serie
+\1s mɤ-spe-a mɤ-rke-a me
+\2s mɤ-tɯ-spe mɤ-tɯ-rke me
+\2s mɤ-tɯ-sperke me
+\pdl 2sg,pfv
+\pdv mɯ-tɤ-tɯ-spa-t-rka-t me
+\un |fv{spa}和|fv{rka}只用于否定形式，带|fv{mɤ-}前缀，同时必须与否定存在动词|fv{me}“没有”连用
+\xv mɤ-spe mɤ-rke kɯ-me
+\xn 无辜的人
+\xv mkharmaŋ mɤ-spa-nɯ mɤ-rka-nɯ kɯ-me
+\xn 无辜的老百姓
+\lf Component1 = spa
+\ps vt
+\lf Component2 = rka
+\ps vt
+\dt 14/May/2014
+
 \lx _spɤr
 \wav vt-spAr
 \ps vt
@@ -72016,7 +72123,7 @@ l
 \pdv tɤ-
 \ge montrer, faire une démonstration (de ses capacités)
 \gn 展现出来，显示（自己的本领）
-\et spʲod
+\bw Tibetan spʲod
 \xv tɤ-spjat-a
 \xn 我显示了
 \xv ɯ-kɤ-ro kɯ-tu ra ta-nɯ-spjɤt
@@ -72050,7 +72157,7 @@ l
 \gn 上缴
 \un 把零件拼起来
 \hbf 1128 
-\et sprod
+\bw Tibetan sprod
 \xv mkhɯrlu (jiqi) to-sprɤt 
 \xn 他安装了机器
 \xv ɕoŋβzu kɯ to-sprɤt
@@ -72645,6 +72752,10 @@ l
 \xn 我为自己求了烟子
 \cf fsaŋ
 \dt 30/Aug/2011
+
+\lx _sɯfsoʁ
+\cf fsoʁ²
+\dt 08/Oct/2015
 
 \lx _sɯftɕaʁ
 \wav8 pWtWsWftCaR
@@ -73490,7 +73601,6 @@ l
 \lx _sɯtɕɤt
 \cf tɕɤt
 
-
 \lx _sɯti
 \cf ti
 \dt 25/Sep/2011
@@ -73611,7 +73721,7 @@ l
 \ge faire diminuer 
 \gn 减 
 \hbf 1415 
-\et tɕʰag
+\bw Tibetan tɕʰag
 \xv pɯ-sɯxtɕhaʁ-a
 \xn 我减了
 \xv @laoban kɯ a-ŋgra pjɤ-sɯxtɕhaʁ
@@ -73664,7 +73774,7 @@ l
 \ge avoir au complet 
 \gn 具备齐全、一个也没有漏掉 
 \hbf 1455 <2> 1583 
-\et tsʰaŋs
+\bw Tibetan tsʰaŋs
 \xv laʁdɯn tɤ-sɯxtshoz-a tɕe, kɤ-rɤma khɯ 
 \xn 农具具备齐全，可以工作了
 \sy ɣɤtshoz
@@ -73684,7 +73794,7 @@ l
 \ge teindre 
 \gn 染 
 \hbf 1584 
-\et tsʰos
+\bw Tibetan tsʰos
 \xv tɤ-ri pjɤ-sɯxtshwi
 \xn 他染了线
 \xv tɯ-ŋga pjɤ-sɯxtshwi
@@ -73748,7 +73858,7 @@ l
 \ge reconnaître, s'apercevoir 
 \gn 认得，发现 
 \hbf 1590 
-\et gsal
+\bw Tibetan gsal
 \xv ɲɯ-sɯχsɤl
 \xn 他认得他
 \xv pɯ-sɯχsal-a
@@ -73844,7 +73954,7 @@ l
 \pdv thɯ-
 \ge capable 
 \gn 能干 
-\et sra
+\bw Tibetan sra
 \xv kɤ-ŋke kɯ-ʂa ci ɲɯ-ŋu
 \xn 他是一个很能走路的人
 \dt 21/Oct/2011
@@ -73931,7 +74041,7 @@ l
 \ge se développer 
 \gn 发展 
 \hbf 1300 
-\et dar
+\bw Tibetan dar
 \xv rgali chɤ-tar
 \xn 小奶牛身体壮起来了
 \xv jiɕqha nɯra to-tar-nɯ
@@ -74023,7 +74133,7 @@ l
 \gn 加（在糌粑里、在茶里）的酥油
 \xv a-mu kɯ a-βzdɤr pa-lɤt
 \xn 母亲给我加了酥油
-\et sdor
+\bw Tibetan sdor
 \cf βzdɤr
 \dt 02/Aug/2012
 
@@ -74038,7 +74148,7 @@ l
 \xn 他不在看得见的地方，看不见他
 \dt 21/Dec/2013
 
-\lx _tɤlɟɣo{lɤt}
+\lx _tɤlɟɣo,lɤt
 \pdl dir 
 \pdv kɤ-
 \ge attraper au collet (cheval, bovidé) 
@@ -74076,7 +74186,7 @@ l
 \cf nɤphɯxtsɯ
 \dt 10/Nov/2011
 
-\lx _tɤqɤt{lɤt}
+\lx _tɤqɤt,lɤt
 \pdl dir 
 \pdv lɤ-
 \ge séparer une chambre en deux 
@@ -74275,7 +74385,7 @@ l
 \xn 我坐不住
 \xv tɤ-pɤtso kɤ-rɤʑi mɯ́j-tɕhaʁ
 \xn 小孩子坐不住
-\et tɕʰag
+\bw Tibetan tɕʰag
 \cf ɯ-tɕhaʁ²
 \cf sɯxtɕhaʁ
 \cf ɣɤtɕhaʁ
@@ -74295,7 +74405,7 @@ l
 \un 干木鸟话一般用|fv{ɲat}，|fv{tɕhɤt}主要是沙尔宗方言
 \ge disparaître 
 \gn 消失（庄稼）
-\et tɕʰad
+\bw Tibetan tɕʰad
 \xv ɲɤ-tɕhat-a
 \xn 我累倒了
 \xv mbro lo-tɕhɤt
@@ -74440,7 +74550,7 @@ l
 \cf tɯtɣa²
 \dt 03/Sep/2011
 
-\lx _thaʁ{tɕhot}
+\lx _thaʁ,tɕhot
 \wav8 thaRpWtChota
 \wav8 thaRnWtChottCi
 \pdl dir 
@@ -74449,7 +74559,7 @@ l
 \pdv pɯ-
 \ge décider 
 \gn 决定 
-\et tʰag.tɕʰod
+\bw Tibetan tʰag.tɕʰod
 \xv thaʁ pɯ-tɕhot-a
 \xn 我决定了
 \xv tɕi-tɯkrɤz tɤ-ɣe tɕe thaʁ nɯ-tɕhot-tɕi
@@ -74469,7 +74579,7 @@ l
 \ge se sauver
 \gn 保命 
 \un 古语
-\et tʰar
+\bw Tibetan tʰar
 \xv to-thɤr
 \xn 他得救了
 \dt 26/Aug/2015
@@ -74497,8 +74607,8 @@ l
 \sy rɤtɕaʁ
 \dt 19/Mar/2014
 
-\lx _tho{thɯɣ}
-\a thoʁ{thɯɣ}
+\lx _tho,thɯɣ
+\a thoʁ,thɯɣ
 \wav vi-thWG-b
 \wav vi-thWG-b2
 \wav8 thoYWthWG
@@ -74850,7 +74960,7 @@ l
 \ge être au complet 
 \gn 齐全（零散的东西，几个人） 
 \hbf 1455 <2> 1583 
-\et tsʰaŋs
+\bw Tibetan tsʰaŋs
 \xv a-rɣe pɯ-nɯ-prat-a tɕe, pɯ-ʁndɤr tɕeri tɤ-wum-a tɕe nɯ ʁo tɤ-tshoz
 \xn 我把珠子弄断，撒在地上了捡了以后倒是齐全的
 \xv kɯki jɯɣi ki ɲɯ-tshoz
@@ -75118,7 +75228,7 @@ l
 \pdv tɤ-
 \ge être juste 
 \gn 公平 
-\et draŋ
+\bw Tibetan draŋ
 \xv tɯrju ɲɯ-tʂaŋ
 \xn 那句话是公平的
 \xv rɟama ɲɯ-tʂaŋ
@@ -75143,7 +75253,7 @@ l
 \xn 我病好了
 \sy mna
 \sy ftshi
-\et drag
+\bw Tibetan drag
 \dt 26/Aug/2015
 
 \lx _tʂaʁ²
@@ -75254,7 +75364,7 @@ l
 \ge coudre 
 \gn 缝 
 \hbf 1324 
-\et ɴdrub
+\bw Tibetan ɴdrub
 \xv tɯ-xtsa kɤ-tʂɯβ-a
 \xn 我缝了鞋子
 \se rɤtʂɯβ
@@ -75280,7 +75390,7 @@ l
 \ge enrouler (tissu) 
 \gn 卷布 
 \hbf 1456 
-\et sgril
+\bw Tibetan sgril
 \xv thɯ-tʂɯl-a
 \xn 我卷了(布)
 \xv tɯ-ŋga thɯ-tʂɯl
@@ -75337,7 +75447,7 @@ l
 \xn 面变味了
 \dt 06/Sep/2011
 
-\lx _tɯ-qe{rɤrɕɯβ}
+\lx _tɯ-qe,rɤrɕɯβ
 \wav vt-rArCWB
 \pdl dir 
 \pdv thɯ-
@@ -75363,7 +75473,7 @@ l
 \xn 牲畜在我面前冲过去了
 \dt 06/Sep/2011
 
-\lx _tɯ-ʁo{mbi}
+\lx _tɯ-ʁo,mbi
 \wav8 aRomAmbi
 \wav n-tWRo
 \pdl dir 
@@ -75371,20 +75481,19 @@ l
 \ng acaus
 \ge regretter, ne pas être satisfait, être déçu 
 \gn 介意、灰心、失望
-\un |fv{tɯ-ʁo} 可以|fv{phi}和|fv{mbi}连用，不能单独使用
 \xv a-ʁo mɤ-mbi
 \xn 我不介意 
 \xv a-ʁo ɲɯ-mbi ɕti
 \xn 我很失望
 \cf nɤʁombi
-\cf tɯ-ʁo{phi}
+\cf tɯ-ʁo,phi
 \lf Component1 = tɯ-ʁo
 \ps np
 \lf Component2 = mbi
 \ps vi
 \dt 22/Jul/2014
 
-\lx _tɯ-ʁo{phi}
+\lx _tɯ-ʁo,phi
 \wav8 aRoYWphi
 \ge décevoir
 \gn 令……失望
@@ -75394,7 +75503,7 @@ l
 \xn 我对你很失望
 \xv a-ʁo ɲɯ-nɯ-phi-a
 \xn 我对我自己很失望
-\cf tɯ-ʁo{mbi}
+\cf tɯ-ʁo,mbi
 \lf Component1 = tɯ-ʁo
 \ps np
 \lf Component2 = phi
@@ -75421,7 +75530,7 @@ l
 \gn 早熟
 \dt 04/Sep/2015
 
-\lx _tɯ-tɕa{nɯjɤt}
+\lx _tɯ-tɕa,nɯjɤt
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -75435,14 +75544,14 @@ l
 \ps vt
 \dt 27/Aug/2015
 
-\lx _tɯ-ʑi{loʁ}
+\lx _tɯ-ʑi,loʁ
 \wav vi-loR-tWZi
 \ge avoir la nausée 
-\gn 觉得恶心
+\gn 感到恶心
 \xv ɯʑo ɯ-ʑi ɲɯ-loʁ
-\xn 他觉得恶心
+\xn 他感到恶心
 \xv a-ʑi ɲɯ-loʁ
-\xn 我觉得恶心
+\xn 我感到恶心
 \se sɯɣloʁ
 \se sɤsɯɣloʁ
 \cf nɤʑɯloʁ
@@ -75452,7 +75561,7 @@ l
 \ps vs
 \dt 22/Jul/2014
 
-\lx _ɯ-lu{cɯ}
+\lx _ɯ-lu,cɯ
 \pdl dir 
 \pdv pɯ-
 \ge perdre conscience
@@ -75466,7 +75575,7 @@ l
 \se ɯ-lu{sɯxcɯ}
 \dt 18/Aug/2015
 
-\lx _ɯ-ndzɯɣ{maʁ}
+\lx _ɯ-ndzɯɣ,maʁ
 \pdl dir 
 \pdv pɯ-
 \ge être terrible 
@@ -75483,13 +75592,13 @@ l
 \ps vs
 \dt 22/Jul/2014
 
-\lx _ɯ-ŋgu{thon}
+\lx _ɯ-ŋgu,thon
 \wav vi-WNgu_thon
 \pdl dir 
 \pdv thɯ-
 \ge avoir une bonne situation familiale 
 \gn 家境好 
-\et mgo.tʰon
+\bw Tibetan mgo.tʰon
 \un |fv{ɯ-ŋgu} 的领属前缀可以替换成双数、复数、第一、第二人称的前缀，如|fv{a-ŋgu, nɤ-ŋgu}。|fv{thon}不能附加人称标记
 \xv ɯ-ŋgu mɯ́j-thon
 \xn 他什么都没有
@@ -75512,7 +75621,7 @@ l
 \xn （你儿子）满周岁了吗？
 \dt 30/Oct/2014
 
-\lx _ɯ-rɕa{mŋɤm}
+\lx _ɯ-rɕa,mŋɤm
 \ge chérir
 \gn 疼爱
 \xv a-ɣe a-rɕa mŋɤm
@@ -75525,7 +75634,7 @@ l
 \ps vs
 \dt 30/May/2013
 
-\lx _ɯ-rɕa{tsha}
+\lx _ɯ-rɕa,tsha
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -75544,7 +75653,7 @@ l
 \dt 26/Aug/2015
 \ge
 
-\lx _ɯ-rɕa{χtɤt}
+\lx _ɯ-rɕa,χtɤt
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -75560,7 +75669,7 @@ l
 \ps vt
 \dt 26/Aug/2015
 
-\lx _ɯ-rka{ŋɤn}
+\lx _ɯ-rka,ŋɤn
 \ge être ingrat
 \gn 脾气很坏，做亏心事 
 \xv nɤ-rka ɯ-tɯ-ŋɤn 
@@ -75931,7 +76040,7 @@ l
 \pdv nɯ-
 \ge décéder (honorifique, réservé aux lamas et aux sprulsku) 
 \gn 圆寂（敬语） 
-\et gɕegs
+\bw Tibetan gɕegs
 \dt 24/Aug/2012
 
 \lx _χɕɤβ
@@ -75969,7 +76078,7 @@ l
 \pdv pɯ-
 \ge rassurant 
 \gn 安全
-\et gɕin
+\bw Tibetan gɕin
 \xv ta-ma pjɤ-χɕin
 \xn 工作完了
 \xv kɤ-χɕin lo-zɣɯt-ndʑi
@@ -76019,6 +76128,19 @@ l
 \cf χɕu
 \dt 01/Sep/2015
 
+\lx _χɕu,rnaʁ
+\ge merci beaucoup 
+\gn 万分感谢 
+\xv pɯ-tɯ-χɕu pɯ-tɯ-rnaʁ 
+\xn 感谢你了
+\xv pɯ-χɕu pɯ-rnaʁ 
+\xn 万分感谢他
+\lf Component1 = χɕu
+\ps vs
+\lf Component2 = rnaʁ
+\ps vs
+\dt 23/Jul/2015
+
 \lx _χpa
 \wav vi-Xpa
 \ps vs
@@ -76028,7 +76150,7 @@ l
 \pdv thɯ-
 \ge fier, plein de confiance en soi 
 \gn 自豪，很有自信 
-\et dpa
+\bw Tibetan dpa
 \xv tɯrme kɯ-χpa ci ɲɯ-ŋu
 \xn 他是一个自豪的人
 \xv ɯ-sɯm lo-χpa 
@@ -76090,7 +76212,7 @@ l
 \pdv kɤ-
 \ge manger, boire (honorifique) 
 \gn 用膳（敬语） 
-\et gsol
+\bw Tibetan gsol
 \xv βlama kɯ to-χsɤl
 \xn 喇嘛吃了
 \dt 17/Apr/2013
@@ -76160,7 +76282,7 @@ l
 \pdv thɯ-
 \ge élever 
 \gn 养、供他吃 
-\et gso
+\bw Tibetan gso
 \xv pɣɤtɕɯ kɯ ɯ-pɯ ɲɯ-ɤsɯ-χsu
 \xn 鸟在喂它的小鸟
 \xv nɯ-χsu-t-a
@@ -76204,7 +76326,7 @@ l
 \ge disperser 
 \gn 打散 、撒
 \hbf 1235 <2> 1595 
-\et gtor
+\bw Tibetan gtor
 \xv tɯjpu pjɤ-χtɤr
 \xn 他撒了粮食
 \xv tɯ-rɣi tha-χtɤr 
@@ -76244,7 +76366,7 @@ l
 \gn 靠 
 \un “靠”的引申意义（如“这件事靠你了”）不能用|fv{ʑɣɤχtɤt}或|fv{ʑɣɤta}来表示，参看|fv{ti}“说”
 \hbf 1757 
-\et gtad
+\bw Tibetan gtad
 \xv si ɯ-taʁ ko-ʑɣɤχtɤt
 \xn 他靠在树上
 \xv znde ɯ-taʁ ko-ʑɣɤχtɤt 
@@ -76262,7 +76384,7 @@ l
 \pdv pɯ-
 \ge être chéri 
 \gn 受宠
-\et gtɕes
+\bw Tibetan gtɕes
 \se sɯχtɕɤz
 \ps vt
 \ge adorer
@@ -76352,7 +76474,7 @@ l
 \ge propre 
 \gn 干净（本质） 
 \hbf 1085 
-\et gtsaŋ
+\bw Tibetan gtsaŋ
 \xv tɯ-ci ɲɯ-χtso
 \xn 水很干净
 \xv ndzɤtshi ɲɯ-χtso
@@ -76520,7 +76642,7 @@ l
 \ge plier 
 \gn 折叠、裹起来 
 \hbf 1278 
-\et sdeb
+\bw Tibetan sdeb
 \xv tɯmbri ta-zdɤβ
 \xn 他把绳子折起来了（弄成双股）
 \sy ltɤβ
@@ -76533,7 +76655,7 @@ l
 \ge pénible 
 \gn 辛苦 
 \hbf 1095 
-\et sdug
+\bw Tibetan sdug
 \xv ɯʑo ɲɯ-zdɯɣ
 \xn 他很辛苦
 \dt 24/Aug/2012
@@ -76572,7 +76694,7 @@ l
 \ge attacher 
 \gn 绑 
 \hbf 1141 
-\et sgrog
+\bw Tibetan sgrog
 \xv laχtɕha to-zgroʁ
 \xn 他把东西捆起来了
 \xv ɯ-fkur to-zgroʁ
@@ -76595,7 +76717,7 @@ l
 \pdv nɯ-
 \ge faire avec toute son énergie 
 \gn 一心一意地做一件事情 
-\et sgrub
+\bw Tibetan sgrub
 \xv tɕhɤz kɤ-zgrɯβ
 \xn 修佛法
 \dt 24/Jul/2014
@@ -76607,7 +76729,7 @@ l
 \pdv nɯ-
 \ge rouler entre les mains (sens inverse des aiguilles d'une montre) 
 \gn 搓线（逆时针） 
-\et sgril
+\bw Tibetan sgril
 \xv tɤ-ri na-zgrɯl 
 \xn 他搓了线
 \xv tɯmbri na-zgrɯl
@@ -77090,7 +77212,7 @@ l
 \ps vs
 \ge qui aime se vanter de ses bonnes actions 
 \gn 夸耀自己对别人的好处 
-\et drin
+\bw Tibetan drin
 \xv ɲɯ-sɯxtʂɯn ri ri, ɲɯ-znɤtʂɯntʂɯn
 \xn 他虽然对别人好，但是会夸耀自己
 \dt 26/Oct/2011
@@ -77422,7 +77544,7 @@ l
 \pdv pɯ-
 \ge imiter 
 \gn 模仿 
-\et dpe
+\bw Tibetan dpe
 \xv a-tɕhemɤχti ɣɯ ɯ-tɯ-rɤt nɯ pɯ-znɯχpi-t-a
 \xn 我模仿了我女朋友的字
 \dt 24/Aug/2012
@@ -77594,7 +77716,7 @@ l
 \dt 06/Sep/2015
 
 \lx _zrɯɕmi
-\cf rɯɕmi 
+\cf rɯɕmi
 
 \lx _zrɯɣnɤn
 \cf rɯɣnɤn
@@ -77643,7 +77765,7 @@ l
 \ge allumer 
 \gn 点火、点灯 
 \hbf 1268 <2> 1270 
-\et sbor
+\bw Tibetan sbor
 \xv smi ka-zwɤr, smi ta-zwɤr
 \xn 他点了火
 \xv tɤtʂu kɤ-zwar-a
@@ -78064,7 +78186,7 @@ l
 \gn 装扮成，转变成 
 \xv ɬɤndʐi nɯ tɯrme ɲɯ-ʑɣɤsprɯl ŋgrɤl
 \xn 鬼会把自己变成人
-\et sprul
+\bw Tibetan sprul
 \dt 24/Aug/2012
 
 \lx _ʑɣɤstu
@@ -78464,7 +78586,7 @@ l
 \un 古语 
 \xv sɤrma a-tɤ-ʑɯɣ-nɯ
 \xn 他们要向他请安
-\et bʑugs
+\bw Tibetan bʑugs
 \dt 12/Mar/2014
 
 \lx _ʑɯm
@@ -78491,57 +78613,3 @@ l
 \xv ki kɤ-ndza ki ɲɯ-mɯm tɕe, tú-wɣ-nɯ-ndza tɕe ɲɯ-ʑɯm
 \xn 这种食物很好吃，吃了感觉很好
 \dt 01/Nov/2011
-
-\lx _{mu}{cɯɣ}
-\ps vi
-\ge vivre constament dans la peur
-\gn 提心吊胆，恐慌不安
-\xv kɤ-mu kɤ-cɯɣ kɤ-rɤʑi kɯ-ra ɲɯ-sɤdɯɣ
-\xn 整天提心吊胆的感觉不好受
-\xv ɲɯ-mu ɲɯ-cɯɣ ʑo
-\xn 他提心吊胆
-\xv ma-tɯ-mu ma-tɯ-cɯɣ ma mɤ-ʁdɯɣ nɤ
-\xn 你不要这样提心吊胆，不会有是的
-\lf Component1 = mu
-\ps vi
-\lf Component2 = cɯɣ
-\ps vi
-\dt 01/Sep/2015
-
-\lx {spa}{rka}
-\wav8 mAspeamArkea
-\wav8 mAtWsperke
-\wav8 mWtAtWspatrkat
-\pdl dir
-\pdv tɤ-
-\ge être innocent
-\gn 无辜
-\ng serie
-\1s mɤ-spe-a mɤ-rke-a me
-\2s mɤ-tɯ-spe mɤ-tɯ-rke me
-\2s mɤ-tɯ-sperke me
-\pdl 2sg.pfv
-\pdv mɯ-tɤ-tɯ-spa-t-rka-t me
-\un |fv{spa}和|fv{rka}只用于否定形式，带|fv{mɤ-}前缀，同时必须与否定存在动词|fv{me}“没有”连用
-\xv mɤ-spe mɤ-rke kɯ-me
-\xn 无辜的人
-\xv mkharmaŋ mɤ-spa-nɯ mɤ-rka-nɯ kɯ-me
-\xn 无辜的老百姓
-\lf Component1 = spa
-\ps vt
-\lf Component2 = rka
-\ps vt
-\dt 14/May/2014
-
-\lx {χɕu}{rnaʁ}
-\ge merci beaucoup 
-\gn 万分感谢 
-\xv pɯ-tɯ-χɕu pɯ-tɯ-rnaʁ 
-\xn 感谢你了
-\xv pɯ-χɕu pɯ-rnaʁ 
-\xn 万分感谢他
-\lf Component1 = χɕu
-\ps vs
-\lf Component2 = rnaʁ
-\ps vs
-\dt 23/Jul/2015
