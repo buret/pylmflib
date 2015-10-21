@@ -8,6 +8,8 @@ recursive-include examples *.*
 recursive-include pylmflib *.csv *.test *.pl *.xsl *.xml
 prune examples/*/result
 prune examples/*/obj
+prune examples/*/result-1.0
+prune examples/*/mp3
 
 # recursive-exclude
 # exclude
