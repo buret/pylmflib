@@ -4,7 +4,7 @@ pylmflib
 
 Latest version: 1.0
 
-Date: October 20, 2015
+Date: October 21, 2015
 
 Author: Céline Buret
 
@@ -53,7 +53,7 @@ ________________________
 
 If you are using ``pylmflib`` for non-commercial, scientific projects, please cite the library in its current state along with the version that you used:
 
-Buret, Céline (2015): pylmflib. Python Library for Automatic Tasks in Multi-Languages Dictionaries. Version 1.0 (Uploaded on 2015-10-20). URL: http://www.pylmflib.org.
+Buret, Céline (2015): pylmflib. Python Library for Automatic Tasks in Multi-Languages Dictionaries. Version 1.0 (Uploaded on 2015-10-21). URL: http://www.pylmflib.org.
 
 Installation
 =============
