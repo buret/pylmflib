@@ -2938,7 +2938,6 @@
 \dt 25/Aug/2015
 
 \lx bæ˩
-bbae
 \sf <nb="B"> 590
 \sf <nb="2011"> 833
 \hm
@@ -3053,7 +3052,6 @@ bbae
 \dt 25/Aug/2015
 
 \lx bæ˩˥
-bbaeq
 \sf <nb="B"> 237
 \sf <nb="2011"> 308
 \hm
