@@ -1,4 +1,4 @@
-include *.txt *.md
+include *.txt *.rst
 include test/startup.py
 include LICENSE
 include doc/Doxygen/*

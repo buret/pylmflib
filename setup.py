@@ -7,7 +7,7 @@ import pylmflib
 setup(name='pylmflib',
     version=pylmflib.wrapper.__version__,
     description='Python LMF library',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     author='Céline Buret',
     author_email='buret.celine@gmail.com',
     #install_requires=["docx", "odf"],

@@ -130,7 +130,7 @@ Before being able to run ``pylmflib``, you will need to follow these steps:
 
 3. python-docx
 
-Download ``python-docx-0.8.5.tar.gz` : https://pypi.python.org/pypi/python-docx
+Download ``python-docx-0.8.5.tar.gz`` : https://pypi.python.org/pypi/python-docx
 ::
 
 	$ tar xvzf python-docx-0.8.5.tar.gz
@@ -161,7 +161,6 @@ Download : http://www.fontpalace.com/font-download/MingLiU/
 8. ArialUnicodeMS
 
 Download : https://code.google.com/p/tuanphamvu/downloads/detail?name=Arial%20Unicode%20MS.rar&can=2&q=
-
 
 9. Copy audio files if any.
 
@@ -319,7 +318,7 @@ As a result, the following files will appear in the result directory:
 
 * ``Bambara.docx``, that shows an example of a Microsoft Word document that you can obtain ;
 * ``Bambara.tex``, that you must compile using XeLaTeX to get a PDF printable dictionary ;
-* ``Bambara.txt``, which is similar to the input database ``BambaraDemo.db` in MDF format ;
+* ``Bambara.txt``, which is similar to the input database ``BambaraDemo.db`` in MDF format ;
 * ``Bambara.xml``, which is the XML LMF representation of the dictionary.
 
 You can also directly run the conversion and XeLaTeX command by running ``bambara.sh`` or ``bambara.bat`` depending on your operating system.
