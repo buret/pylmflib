@@ -1,2 +1,0 @@
-# pylmflib
-Python LMF library
