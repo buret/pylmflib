@@ -1,5 +1,5 @@
 \documentclass[twoside,11pt]{article}
-\title{Dictionnaire Japhug-chinois-français\\\zh{嘉-汉-法词典}}
+\title{Dictionnaire Japhug-chinois-français\\\zh{嘉绒-汉-法词典\\ Version 1.0}}
 \author{Guillaume Jacques\\\zh{向柏霖}}
 
 \usepackage{pifont}
@@ -24,7 +24,7 @@
 %\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} 
 \newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{Charis SIL} 
 \newcommand{\ipa}[1]{{\phon #1}} % API toujours en italique
-\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{MingLiU} % (ou SimSun) pour le chinois
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun} % (ou SimSun) pour le chinois
 \newcommand{\zh}[1]{{\cn #1}}
 \newfontfamily\mx[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{ArialUnicodeMS} % pour les questions
 \newcommand{\nq}[1]{{\mx #1}}
@@ -34,6 +34,8 @@
 \newcommand{\topic}{\textsc{dem}}
 \newcommand{\tete}{\textsuperscript{\textsc{head}}}
 \newcommand{\rc}{\textsubscript{\textsc{rc}}}
+\newcommand{\ital}[1]{{\normalfont\textit{#1}}}
+\newcommand{\caps}[1]{{\normalfont\textsc{#1}}}
 \XeTeXlinebreaklocale 'zh' % 使用中文换行
 \XeTeXlinebreakskip = 0pt plus 1pt % CIRCG
  \usepackage{fancyhdr}
