@@ -1187,8 +1187,12 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
             # French gloss
             is_gloss = False
             for sense in lexical_entry.get_senses():
+                subject_ok = False
+                for subject_field in sense.get_subject_fields():
+                    if current_item[0].decode(ENCODING) in subject_field.get_semanticDomain():
+                        subject_ok = True
                 for gloss in sense.find_glosses(language=config.xml.French):
-                    if not is_gloss:
+                    if not is_gloss and subject_ok:
                         # Paragraph
                         p = document.add_paragraph()
                         # Write gloss in bold, except characters that are between brackets or square brackets
