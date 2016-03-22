@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Mwotlap -->
+<SortOrder>
+	<rules level="1">
+		<rule str="" rank="0"/>
+		<rule str="A" rank="1"/> <rule str="a" rank="1"/> <rule str="Aa" rank="1"/> <rule str="aa" rank="1"/>
+		<rule str="Ā" rank="2"/> <rule str="ā" rank="2"/>
+		<rule str="Ä" rank="3"/> <rule str="ä" rank="3"/>
+		<rule str="Ää" rank="4"/> <rule str="ää" rank="4"/>
+		<rule str="B" rank="5"/> <rule str="b" rank="5"/>
+		<rule str="C" rank="6"/> <rule str="c" rank="6"/>
+		<rule str="D" rank="7"/> <rule str="d" rank="7"/>
+		<rule str="E" rank="8"/> <rule str="e" rank="8"/>
+		<rule str="Ee" rank="9"/> <rule str="ee" rank="9"/>
+		<rule str="Ë" rank="10"/> <rule str="ë" rank="10"/>
+		<rule str="Ē" rank="11"/> <rule str="ē" rank="11"/>
+		<rule str="Ēē" rank="12"/> <rule str="ēē" rank="12"/>
+		<rule str="F" rank="13"/> <rule str="f" rank="13"/>
+		<rule str="G" rank="14"/> <rule str="g" rank="14"/>
+		<rule str="Ḡ" rank="15"/> <rule str="ḡ" rank="15"/>
+		<rule str="H" rank="16"/> <rule str="h" rank="16"/>
+		<rule str="I" rank="17"/> <rule str="i" rank="17"/>
+		<rule str="Ii" rank="18"/> <rule str="ii" rank="18"/>̀
+		<rule str="J" rank="19"/> <rule str="j" rank="19"/>
+		<rule str="K" rank="20"/> <rule str="k" rank="20"/>
+		<rule str="L" rank="21"/> <rule str="l" rank="21"/>
+		<rule str="M" rank="22"/> <rule str="m" rank="22"/>
+		<rule str="M̄" rank="23"/> <rule str="m̄" rank="23"/>
+		<rule str="N" rank="24"/> <rule str="n" rank="24"/>
+		<rule str="N̄" rank="25"/> <rule str="n̄" rank="25"/>
+		<rule str="N̄w" rank="26"/> <rule str="n̄w" rank="26"/>
+		<rule str="Ñ" rank="27"/> <rule str="ñ" rank="27"/>
+		<rule str="O" rank="28"/> <rule str="o" rank="28"/>
+		<rule str="Oo" rank="29"/> <rule str="oo" rank="29"/>
+		<rule str="Ō" rank="30"/> <rule str="ō" rank="30"/>
+		<rule str="Ōō" rank="31"/> <rule str="ōō" rank="31"/>
+		<rule str="Ö" rank="32"/> <rule str="ö" rank="32"/>
+		<rule str="P" rank="33"/> <rule str="p" rank="33"/>
+		<rule str="Q" rank="34"/> <rule str="q" rank="34"/>
+		<rule str="Q̄" rank="35"/> <rule str="q̄" rank="35"/>
+		<rule str="R" rank="36"/> <rule str="r" rank="36"/>
+		<rule str="R̄" rank="37"/> <rule str="r̄" rank="37"/>
+		<rule str="S" rank="38"/> <rule str="s" rank="38"/>
+		<rule str="T" rank="39"/> <rule str="t" rank="39"/>
+		<rule str="U" rank="40"/> <rule str="u" rank="40"/>
+		<rule str="Uu" rank="41"/> <rule str="uu" rank="41"/>
+		<rule str="V" rank="42"/> <rule str="v" rank="42"/>
+		<rule str="W" rank="43"/> <rule str="w" rank="43"/>
+		<rule str="X" rank="44"/> <rule str="x" rank="44"/>
+		<rule str="Y" rank="45"/> <rule str="y" rank="45"/>
+		<rule str="Z" rank="46"/> <rule str="z" rank="46"/>
+		<!-- Special characters -->
+		<rule str="-" rank="47"/> <rule str="(" rank="47"/> <rule str=")" rank="47"/> <rule str="…" rank="47"/>
+	</rules>
+</SortOrder>
