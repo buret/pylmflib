@@ -3,6 +3,7 @@
 """! @package core
 """
 
+from core.lexical_entry import LexicalEntry
 from utils.error_handling import Warning
 from utils.io import ENCODING
 
@@ -346,7 +347,28 @@ class Lexicon():
         self.__checked = False
         return self
 
-    def convert_to_latex(self):
-        """This method converts the lexicon into LaTeX format.
+    def duplicate_entries(self):
+        """! @brief This method duplicates entries having multiple senses into different entries.
+        @return Lexicon instance.
         """
-        pass
+        for lexical_entry in self.get_lexical_entries():
+            # Check if the current entry has multiple senses
+            if len(lexical_entry.get_senses()) > 2 and not lexical_entry.is_copy():
+                # Keep only the first sense for the current entry
+                senses = [lexical_entry.sense[0], lexical_entry.sense[1]]
+                for i in range (2, len(lexical_entry.get_senses())):
+                    # We have to build a separate entry for each sense having a semantic domain
+                    duplicate = False
+                    for subject_field in lexical_entry.sense[i].get_subject_fields():
+                        if subject_field.get_semanticDomain() is not None:
+                            duplicate = True
+                            break
+                    if duplicate:
+                        new_entry = LexicalEntry(lexical_entry.id, lexical_entry)
+                        new_entry.sense = [lexical_entry.sense[0], lexical_entry.sense[i]]
+                        self.add_lexical_entry(new_entry)
+                    else:
+                        senses.append(lexical_entry.sense[i])
+                # Keep only the non duplicate senses for the current entry
+                lexical_entry.sense = senses
+        return self

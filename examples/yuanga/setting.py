@@ -1113,52 +1113,52 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                             p.add_run(".")
                     except AttributeError:
                         pass
-                # Links
-                if len(lexical_entry.get_related_forms("simple link")) != 0:
-                    p = document.add_paragraph()
-                    p.add_run("  Voir :").italic = True
-                    for related_form in lexical_entry.get_related_forms("simple link"):
-                        if related_form.get_lexical_entry() is not None:
-                            # TODO : hyperlink
-                            pass
-                        p.add_run(" ")
-                        p.add_run(related_form.get_lexeme().split('[')[0]).bold = True
-                        for element in related_form.get_lexeme().split('[')[1:]:
-                            p.add_run('[' + element)
-                        try:
-                            for written_form in related_form.find_written_forms(language=config.xml.French):
-                                p.add_run(" " + written_form)
-                        except AttributeError:
-                            for written_form in related_form.find_written_forms(language=config.xml.English):
-                                p.add_run(" " + written_form)
-                    p.add_run(".")
-                # Notes
-                if len(lexical_entry.find_notes(type="general")) != 0:
-                    p = document.add_paragraph()
-                    p.add_run("  ")
-                    p.add_run("[Note :")
-                    for note in lexical_entry.find_notes(type="general"):
-                        p.add_run(" ")
-                        p.add_run(note)
+            # Links
+            if len(lexical_entry.get_related_forms("simple link")) != 0:
+                p = document.add_paragraph()
+                p.add_run("  Voir :").italic = True
+                for related_form in lexical_entry.get_related_forms("simple link"):
+                    if related_form.get_lexical_entry() is not None:
+                        # TODO : hyperlink
+                        pass
+                    p.add_run(" ")
+                    p.add_run(related_form.get_lexeme().split('[')[0]).bold = True
+                    for element in related_form.get_lexeme().split('[')[1:]:
+                        p.add_run('[' + element)
+                    try:
+                        for written_form in related_form.find_written_forms(language=config.xml.French):
+                            p.add_run(" " + written_form)
+                    except AttributeError:
+                        for written_form in related_form.find_written_forms(language=config.xml.English):
+                            p.add_run(" " + written_form)
+                p.add_run(".")
+            # Notes
+            if len(lexical_entry.find_notes(type="general")) != 0:
+                p = document.add_paragraph()
+                p.add_run("  ")
+                p.add_run("[Note :")
+                for note in lexical_entry.find_notes(type="general"):
+                    p.add_run(" ")
+                    p.add_run(note)
+                p.add_run("].")
+            # Note phonologique
+            if len(lexical_entry.find_notes(type="phonology")) != 0:
+                p = document.add_paragraph()
+                p.add_run("  ")
+                p.add_run("[Note phonologique :")
+                for note in lexical_entry.find_notes(type="phonology"):
+                    p.add_run(" ")
+                    p.add_run(note)
+                p.add_run("].")
+            # Note anthropologique
+            if len(lexical_entry.find_notes(type="anthropology")) != 0:
+                p = document.add_paragraph()
+                p.add_run("  ")
+                p.add_run("[Note anthropologique :")
+                for note in lexical_entry.find_notes(type="anthropology"):
+                    p.add_run(" ")
+                    p.add_run(note)
                     p.add_run("].")
-                # Note phonologique
-                if len(lexical_entry.find_notes(type="phonology")) != 0:
-                    p = document.add_paragraph()
-                    p.add_run("  ")
-                    p.add_run("[Note phonologique :")
-                    for note in lexical_entry.find_notes(type="phonology"):
-                        p.add_run(" ")
-                        p.add_run(note)
-                    p.add_run("].")
-                # Note anthropologique
-                if len(lexical_entry.find_notes(type="anthropology")) != 0:
-                    p = document.add_paragraph()
-                    p.add_run("  ")
-                    p.add_run("[Note anthropologique :")
-                    for note in lexical_entry.find_notes(type="anthropology"):
-                        p.add_run(" ")
-                        p.add_run(note)
-                        p.add_run("].")
             # Handle subentries
             for related_form in lexical_entry.get_related_forms("subentry"):
                 if related_form.get_lexical_entry() is not None:

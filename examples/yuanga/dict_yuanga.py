@@ -26,6 +26,7 @@ print lexical_resource.get_bibliographic_citation()
 
 # Classify lexicon twice: first by lexeme, then by semantic domain
 xml_order = pylmflib.read_sort_order(user_path + "yuanga/sort_order.xml")
+lexical_resource.get_lexicon("yuanga").duplicate_entries()
 lexical_resource.get_lexicon("yuanga").sort_lexical_entries(sort_order=xml_order)
 lexical_resource.get_lexicon("yuanga").sort_lexical_entries(items=items, sort_order=sd_order, comparison=compare_sd)
 

@@ -15,43 +15,64 @@ from morphology.list_of_components import ListOfComponents
 class LexicalEntry():
     """! "Lexical Entry is a class representing a lexeme in a given language and is a container for managing the Form and Sense classes. A Lexical Entry instance can contain one to many different forms and can have from zero to many different senses." (LMF)
     """
-    def __init__(self, id='0'):
+    def __init__(self, id='0', lexical_entry=None):
         """! @brief Constructor.
         LexicalEntry instances are owned by Lexicon.
         @param id Unique IDentifier. If not provided, default value is 0.
+        @param lexical_entry If not None, it is the instance to copy.
         @return A LexicalEntry instance.
         """
-        self.homonymNumber = None
-        self.status = None
-        self.date = None
-        self.partOfSpeech = None
-        self.independentWord = None
-        self.bibliography = None
-        ## UID is managed at the Lexicon level
-        self.id = id
-        ## Sense instances are owned by LexicalEntry
-        # There is zero to many Sense instances per LexicalEntry
-        self.sense = []
-        ## Lemma instance is owned by LexicalEntry
-        # There is one Lemma instance by LexicalEntry instance
-        self.lemma = None # lemmatized form
-        ## RelatedForm instances are owned by LexicalEntry
-        # There is zero to many RelatedForm instances per LexicalEntry
-        self.related_form = []
-        ## WordForm instances are owned by LexicalEntry
-        # There is zero to many WordForm instances per LexicalEntry
-        self.word_form = []
-        ## Stem instances are owned by LexicalEntry
-        # There is zero to many Stem instances per LexicalEntry
-        self.stem = [] # ordered list
-        ## ListOfComponents instance is owned by LexicalEntry
-        # There is zero or one ListOfComponents instance per LexicalEntry
-        self.list_of_components = None
-        # Speaker id
-        self.targets = None
-        ## Pointer to an existing Speaker
-        # There is one Speaker pointer per LexicalEntry instance
-        self.__speaker = None
+        if lexical_entry is None:
+            self.__copied = False
+            self.homonymNumber = None
+            self.status = None
+            self.date = None
+            self.partOfSpeech = None
+            self.independentWord = None
+            self.bibliography = None
+            ## UID is managed at the Lexicon level
+            self.id = id
+            ## Sense instances are owned by LexicalEntry
+            # There is zero to many Sense instances per LexicalEntry
+            self.sense = []
+            ## Lemma instance is owned by LexicalEntry
+            # There is one Lemma instance by LexicalEntry instance
+            self.lemma = None # lemmatized form
+            ## RelatedForm instances are owned by LexicalEntry
+            # There is zero to many RelatedForm instances per LexicalEntry
+            self.related_form = []
+            ## WordForm instances are owned by LexicalEntry
+            # There is zero to many WordForm instances per LexicalEntry
+            self.word_form = []
+            ## Stem instances are owned by LexicalEntry
+            # There is zero to many Stem instances per LexicalEntry
+            self.stem = [] # ordered list
+            ## ListOfComponents instance is owned by LexicalEntry
+            # There is zero or one ListOfComponents instance per LexicalEntry
+            self.list_of_components = None
+            # Speaker id
+            self.targets = None
+            ## Pointer to an existing Speaker
+            # There is one Speaker pointer per LexicalEntry instance
+            self.__speaker = None
+        else:
+            # Copy constructor
+            self.__copied = True
+            self.homonymNumber = lexical_entry.homonymNumber
+            self.status = lexical_entry.status
+            self.date = lexical_entry.date
+            self.partOfSpeech = lexical_entry.partOfSpeech
+            self.independentWord = lexical_entry.independentWord
+            self.bibliography = lexical_entry.bibliography
+            self.id = lexical_entry.id
+            self.sense = lexical_entry.sense
+            self.lemma = lexical_entry.lemma
+            self.related_form = lexical_entry.related_form
+            self.word_form = lexical_entry.word_form
+            self.stem = lexical_entry.stem
+            self.list_of_components = lexical_entry.list_of_components
+            self.targets = lexical_entry.targets
+            self.__speaker = lexical_entry.__speaker
 
     def __del__(self):
         """! @brief Destructor.
@@ -75,6 +96,12 @@ class LexicalEntry():
             del self.list_of_components
         # Decrement the reference count on pointed objects
         self.__speaker = None
+
+    def is_copy(self):
+        """! @brief Destructor.
+        @return A boolean indicating if the current instance is a copy of another one or not.
+        """
+        return self.__copied
 
     def set_partOfSpeech(self, part_of_speech, range=partOfSpeech_range, mapping=ps_partOfSpeech):
         """! @brief Set grammatical category.
