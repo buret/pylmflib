@@ -95,6 +95,27 @@ class Definition():
         if self.language == language:
             return self.gloss
 
+    def set_literally(self, literally, language=None):
+        """! @brief Set literal meaning.
+        @param literally Literal meaning.
+        @param language Language used for the literal meaning.
+        @return Definition instance.
+        """
+        self.literally = literally
+        if language is not None:
+            self.set_language(language)
+        return self
+
+    def get_literally(self, language=None):
+        """! @brief Get literal meaning.
+        @param language If this argument is given, get literal meaning only if written in this language.
+        @return The filtered Definition attribute 'literally'.
+        """
+        if language is None:
+            return self.literally
+        if self.language == language:
+            return self.literally
+
     def create_statement(self):
         """! @brief Create a Statement instance.
         @return Statement instance.
@@ -396,6 +417,21 @@ class Definition():
         # If there is a Statement instance, get etymology comment
         if statement is not None:
             return statement.get_etymologyComment(term_source_language)
+
+    def set_term_source_language(self, term_source_language):
+        """! @brief Set etymology language.
+        Attribute 'termSourceLanguage' is owned by the first Statement.
+        @param term_source_language Etymology language.
+        @return Definition instance.
+        """
+        # Get the first Statement instance if any
+        statement = self.get_first_statement()
+        # If there is no Statement instance, create and add one
+        if statement is None:
+            statement = self.create_statement()
+            self.add_statement(statement)
+        statement.set_termSourceLanguage(term_source_language)
+        return self
 
     def get_term_source_language(self):
         """! @brief Get language used for the etymology comment.

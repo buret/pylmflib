@@ -7,7 +7,7 @@ from morphology.lemma import Lemma
 from morphology.related_form import RelatedForm
 from morphology.word_form import WordForm
 from common.range import partOfSpeech_range
-from config.mdf import ps_partOfSpeech
+from config.mdf import ps_partOfSpeech, mdf_semanticRelation
 from utils.attr import check_attr_type, check_attr_range
 from core.sense import Sense
 from morphology.list_of_components import ListOfComponents
@@ -260,6 +260,18 @@ class LexicalEntry():
         if len(self.get_related_forms(semantic_relation)) >= 1:
             return self.get_related_forms()[-1]
 
+    def set_last_related_form(self, written_form, language, semantic_relation=mdf_semanticRelation["cf"]):
+        """Set related form gloss.
+        Attributes 'writtenForm' and 'language' are owned by FormRepresentation, which is owned by RelatedForm.
+        @param written_form The gloss to set.
+        @param language Language used for the gloss.
+        @return LexicalEntry instance.
+        """
+        related_form = self.get_last_related_form(semantic_relation)
+        if related_form is not None:
+            related_form.create_and_add_form_representation(written_form, language)
+        return self
+    
     def get_form_representations(self):
         """! @brief Get all form representations maintained by the lemma.
         Attribute 'form_representation' is owned by Lemma.
@@ -531,6 +543,22 @@ class LexicalEntry():
         sense.set_gloss(gloss, language)
         return self
 
+    def set_literally(self, literally, language=None):
+        """! @brief Set literally and language.
+        Attributes 'literally' and 'language' are owned by Definition, which is owned by Sense.
+        @param literally Literal meaning.
+        @param language Language of literal meaning.
+        @return LexicalEntry instance.
+        """
+        # Get the last Sense instance if any
+        sense = self.get_last_sense()
+        # If there is no Sense instance, create and add one
+        if sense is None:
+            sense = self.create_sense()
+            self.add_sense(sense)
+        sense.set_literally(literally, language)
+        return self
+
     def set_note(self, note, type=None, language=None):
         """! @brief Set note, type and language.
         Attributes 'note', 'noteType' and 'language' are owned by Statement, which owned by Definition, itself owned by Sense.
@@ -709,6 +737,21 @@ class LexicalEntry():
         for sense in self.get_senses():
             if sense.get_etymology_comment(term_source_language) is not None:
                 return sense.get_etymology_comment(term_source_language)
+
+    def set_term_source_language(self, term_source_language):
+        """! @brief Set etymology language.
+        Attribute 'termSourceLanguage' is owned by Statement, which is owned by Definition, itself owned by Sense.
+        @param term_source_language Etymology language.
+        @return LexicalEntry instance.
+        """
+        # Get the last Sense instance if any
+        sense = self.get_last_sense()
+        # If there is no Sense instance, create and add one
+        if sense is None:
+            sense = self.create_sense()
+            self.add_sense(sense)
+        sense.set_term_source_language(term_source_language)
+        return self
 
     def get_term_source_language(self):
         """! @brief Get language used for the etymology comment.
@@ -989,10 +1032,11 @@ class LexicalEntry():
         sense.add_example(written_form, language, script_name)
         return self
 
-    def set_example_comment(self, comment):
+    def set_example_comment(self, comment, language=None):
         """! @brief Set comment of an existing example.
         Attribute 'comment' is owned by TextRepresentation, which is owned by Context, itself owend by Sense.
         @param comment The comment to set.
+        @param language Language used to write the comment.
         @return LexicalEntry instance.
         """
         # Get the last Sense instance if any
@@ -1001,7 +1045,7 @@ class LexicalEntry():
         if sense is None:
             sense = self.create_sense()
             self.add_sense(sense)
-        sense.set_example_comment(comment)
+        sense.set_example_comment(comment, language)
         return self
 
     def set_semantic_domain(self, semantic_domain, language=None):

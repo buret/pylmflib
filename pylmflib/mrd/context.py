@@ -125,20 +125,22 @@ class Context():
         self.add_text_representation(repr)
         return self
 
-    def set_comment(self, comment):
+    def set_comment(self, comment, language=None):
         """! @brief Set text representation comment.
         Attribute 'comment' is owned by TextRepresentation.
         @param comment The comment to set.
+        @param language Language used to write the comment.
         @return Context instance.
         """
         # Retrieve the previsouly created text representation
         repr = self.get_last_text_representation()
         # Check if there is a comment already
-        if repr is None or repr.get_comment() is not None:
+        if repr is None or repr.get_comment() is not None or repr.get_language() != language:
             # Create a TextRepresentation instance and add it to the list
             repr = self.create_text_representation()
             self.add_text_representation(repr)
         repr.set_comment(comment)
+        repr.set_language(language)
         return self
 
     def get_speakerID(self):

@@ -195,6 +195,34 @@ class Sense():
         instance.set_gloss(gloss, language)
         return self
 
+    def set_literally(self, literally, language=None):
+        """! @brief Set literally and language.
+        These attributes are owned by Definition.
+        @param literally Literal meaning.
+        @param language Language of literal meaning.
+        @return Sense instance.
+        """
+        instance = None
+        # Find if there is a Definition instance with this language without literal meaning
+        for inst in self.get_definitions():
+            if inst.get_language() == language and inst.get_literally() is None:
+                # Found the Definition instance to set
+                instance = inst
+                break
+        if instance is None:
+            # Set first Definition instance that has no literal meaning nor language
+            for inst in self.get_definitions():
+                if inst.get_language() is None and inst.get_literally() is None:
+                    # Found the Definition instance to set
+                    instance = inst
+                    break
+        if instance is None:
+            # Create a Definition instance
+            instance = self.create_definition()
+            self.add_definition(instance)
+        instance.set_literally(literally, language)
+        return self
+
     def set_note(self, note, type=None, language=None):
         """! @brief Set note, note type and language.
         These attributes are owned by Statement, which is owned by Definition.
@@ -404,6 +432,21 @@ class Sense():
         for definition in self.get_definitions():
             if definition.get_etymology_comment(term_source_language) is not None:
                 return definition.get_etymology_comment(term_source_language)
+
+    def set_term_source_language(self, term_source_language):
+        """! @brief Set etymology language.
+        Attribute 'termSourceLanguage' is owned by Statement, which is owned by Definition.
+        @param term_source_language Etymology language.
+        @return Sense instance.
+        """
+        # Get the last Definition instance if any
+        definition = self.get_last_definition()
+        # If there is no Definition instance, create and add one
+        if definition is None:
+            definition = self.create_definition()
+            self.add_definition(definition)
+        definition.set_term_source_language(term_source_language)
+        return self
 
     def get_term_source_language(self):
         """! @brief Get language used for the etymology comment.
@@ -642,10 +685,11 @@ class Sense():
         context.set_written_form(written_form, language, script_name)
         return self
 
-    def set_example_comment(self, comment):
+    def set_example_comment(self, comment, language=None):
         """! @brief Set comment of an existing Context instance.
         Attribute 'comment' is owned by TextRepresentation, which is owned by Context.
         @param comment The comment to set.
+        @param language Language used to write the comment.
         @return Sense instance.
         """
         # Get the last Context instance if any
@@ -653,7 +697,7 @@ class Sense():
         # If there is no Context instance, create and add one
         if context is None:
             context = self.create_and_add_context().set_type("example")
-        context.set_comment(comment)
+        context.set_comment(comment, language)
         return self
 
     def create_and_add_subject_field(self):

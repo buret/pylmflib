@@ -82,7 +82,7 @@ class RelatedForm(Form):
 
     def find_written_forms(self, language):
         """! @brief Find written forms.
-        This attribite is owned by FormRepresentation.
+        This attribute is owned by FormRepresentation.
         @param language The language to consider to retrieve the written forms.
         @return A Python list of found FormRepresentation attributes 'writtenForm'.
         """
