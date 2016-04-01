@@ -1,58 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Configuration for Bambara -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Configuration for Mwotlap -->
 <Config>
     <Language>
         <lang att="vernacular" val="mlv"/>
+        <lang att="regional" val="mlv"/>
+        <lang att="national" val="mlv"/>
         <lang att="English" val="eng"/>
         <lang att="French" val="fra"/>
-        <lang att="national" val="mlv"/>
-        <lang att="regional" val="mlv"/>
     </Language>
     <Font>
         <!-- Output -->
         <!-- Fonts to use in LaTeX format -->
-        <font att="vernacular" var="text">"\ipa{" + text + "}"</font>
-        <font att="English" var="text">text</font>
+        <font att="vernacular" var="text">"\\textbf{" + text + "}"</font>
+        <font att="English" var="text">"\\textit{" + text + "}"</font>
         <font att="French" var="text">text</font>
-        <font att="national" var="text">"\\textbf{" + text + "}"</font>
-        <font att="regional" var="text">"\\textit{" + text + "}"</font>
     </Font>
     <LMF>
         <LexicalResource dtdVersion="16">
             <GlobalInformation>
                 <feat att="languageCode" val="ISO-639-3"/>
-                <feat att="author" val="Alexandre François"/>
+                <feat att="author" val="Alexandre FRANÇOIS, francois@vjf.cnrs.fr"/>
                 <feat att="version" val="0.1"/>
-                <feat att="lastUpdate" val="2015-12-09"/>
+                <feat att="lastUpdate" val="2016-04-05"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
+                <feat att="bibliographicCitation"
+                    val="Mwotlap online dictionary, Alexandre FRANÇOIS, francois@vjf.cnrs.fr, 2016-04-05"/>
                 <feat att="dateCoding" val="ISO-8601"/>
-                <feat att="creationDate" val="2015-12-09"/>
-                <feat att="projectName" val="Mwotlap"/>
-                <feat att="description" val="This is the Mwotlap lexicon."/>
+                <feat att="creationDate" val="2011-04-01"/>
+                <feat att="projectName" val="LACITO-CNRS, France"/>
+                <feat att="description" val="Travail en cours — Work in progress"/>
             </GlobalInformation>
             <Lexicon id="mwotlap">
                 <feat att="language" val="mlv"/>
                 <feat att="languageScript" val=""/>
-                <feat att="label" val="Mwotlap dictionary"/>
-                <feat att="lexiconType" val="dictionary mlv-eng"/>
-                <feat att="entrySource" val="./examples/mwotlap/Mwotlap.lex"/>
-                <!-- Relative path to audio files -->
-                <feat att="localPath" val=""/>
+                <feat att="label" val="A Mwotlap–English–French online dictionary"/>
+                <feat att="lexiconType" val="Mwotlap dictionary"/>
+                <feat att="entrySource" val="./examples/mwotlap/result/Mwotlap-eol-se.lex"/>
+                <!-- Relative path to image files -->
+                <feat att="localPath" val="./examples/mwotlap/img"/>
             </Lexicon>
         </LexicalResource>
     </LMF>
     <MDF>
         <!-- Input -->
         <!-- Mapping from 'ps' MDF marker value to LMF part of speech LexicalEntry attribute value -->
-        <ps_partOfSpeech ps="inter" partOfSpeech="interjection"/>
-        <ps_partOfSpeech ps="adj.pred" partOfSpeech="adjective"/>
-        <ps_partOfSpeech ps="n" partOfSpeech="noun"/>
-        <ps_partOfSpeech ps="vt" partOfSpeech="transitive verb"/>
+        <!-- ps_partOfSpeech ps="" partOfSpeech=""/ -->
         <!-- Mapping from 'pdl' MDF marker value to LMF paradigmLabel Paradigm attribute value -->
         <!-- pdl_paradigmLabel pdl="" paradigmLabel=""/ -->
         <!-- Mapping from MDF markers to LMF attributes -->
-        <mdf_lmf marker="gg" var="gg, lexical_entry">lexical_entry.set_gloss(gg, language="deu")</mdf_lmf>
+        <!-- mdf_lmf marker="" var=""></mdf_lmf -->
         <!-- Output -->
         <!-- Order in which MDF markers must be written -->
         <mdf_order>
@@ -274,7 +271,7 @@
             <dt/>
         </mdf_order>
         <!-- Mapping from LMF attributes to MDF markers -->
-        <lmf_mdf marker="gg" var="sense">sense.find_glosses("deu")</lmf_mdf>
+        <!-- lmf_mdf marker="" var=""></lmf_mdf -->
     </MDF>
     <LaTeX>
         <!-- Path to xelatex binary -->
