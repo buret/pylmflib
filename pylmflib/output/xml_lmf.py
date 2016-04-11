@@ -56,13 +56,12 @@ def build_sub_elements(object, element):
                     feat = SubElement(element, "feat", att=attr_name, val=attr_value)
                     # Handle reserved characters and fonts
                     handle_reserved(feat)
-                    handle_fv(feat)
-                    handle_fn(feat)
-                    handle_font(feat)
+                    handle_styles(feat)
+                    #handle_font(feat)
                     # Special formatting
-                    handle_pinyin(feat)
-                    handle_tones(feat)
-                    handle_caps(feat)
+                    #handle_pinyin(feat)
+                    #handle_tones(feat)
+                    #handle_caps(feat)
 
 ## Functions to process XML/XHTML layout
 
@@ -92,80 +91,108 @@ def handle_reserved(element):
     """
     return element
 
-def handle_fv(element):
-    """Replace 'fv:xxx' and '|fv{xxx}' by '<span class="vernacular">xxx</span>'.
+def get_pattern(style):
+    """ Return regular expression pattern from style.
     """
-    import re
-    # Find text to display in vernacular font
-    pattern = r"(([^:\|]*)fv:([^\s\.,)]*)(.*))|(([^:\|]*)\|fv{([^}]*)}(.*))"
-    result = re.match(pattern, element.attrib["val"])
-    # Initialize loop variables
-    previous_span = None
-    index = 0
-    while result:
-        if result.group(1) is not None:
-            before = result.group(2)
-            vernacular = result.group(3)
-            after = result.group(4)
-        elif result.group(5) is not None:
-            before = result.group(6)
-            vernacular = result.group(7)
-            after = result.group(8)
-        # Handle previous span or element
-        if previous_span is None:
-            element.text = before
-        else:
-            previous_span.tail = before
-        # Create span
-        span = Element("span")
-        span.attrib["class"] = "vernacular"
-        span.text = vernacular
-        # Insert span in element
-        element.insert(index, span)
-        # Update result
-        result = re.match(pattern, after)
-        if not result:
-            span.tail = after
-        # Update loop variables
-        previous_span = span
-        index += 1
-    return element
+    return r"((((?!" + style + ").)*)" + style + ":([^\s\.,)]*)(.*))|((.*)\|" + style + "{([^}]*)}(.*))"
 
-def handle_fn(element):
-    """Replace 'fn:xxx' and '|fn{xxx}' by '<span class="national">xxx</span>'.
+def handle_styles(element):
+    """Replace:
+    - 'fv:xxx' and '|fv{xxx}' by '<span class="vernacular">xxx</span>' ;
+    - 'fn:xxx' and '|fn{xxx}' by '<span class="national">xxx</span>' ;
+    - 'fl:xxx' and '|fl{xxx}' by '<i>xxx</i>' ;
+    - 'fi:xxx' and '|fi{xxx}' by '<i>xxx</i>' ;
+    - 'fr:xxx' and '|fr{xxx}' by '<span class="regional">xxx</span>' ;
+    - 'ax:xxx' and '|ax{xxx}' by '<i>xxx</i>' ;
+    - 'fs:xxx' and '|fs{xxx}' by '<span class="regional">xxx</span>'.
     """
     import re
-    # Find text to display in vernacular font
-    pattern = r"([^:\|]*)((fn:([^\s\.,)]*)|(\|fn{([^}]*)})))(.*)"
-    result = re.match(pattern, element.attrib["val"])
-    # Initialize loop variables
-    previous_span = None
-    index = 0
-    while result:
-        before = result.group(1)
-        if result.group(4) is not None:
-            national = result.group(4)
-        elif result.group(6) is not None:
-            national = result.group(6)
-        after = result.group(7)
-        # Handle previous span or element
-        if previous_span is None:
+    element.text = element.attrib["val"]
+    styles = ["fv", "fn", "fl", "fi", "fr", "ax", "fs"]
+
+    # Initialize loop variable
+    children = dict()
+    for style in styles:
+        # Find text to display in specific font
+        pattern = get_pattern(style)
+        result = re.match(pattern, element.text)
+        while result:
+            if result.group(1) is not None:
+                before = result.group(2)
+                text = result.group(4)
+                after = result.group(5)
+            elif result.group(6) is not None:
+                before = result.group(7)
+                text = result.group(8)
+                after = result.group(9)
+            if style == "fv" or style == "fn" or style == "fr" or style == "fs":
+                # Create span
+                new_element = Element("span")
+                if style == "fv":
+                    new_element.attrib["class"] = "vernacular"
+                elif style == "fn":
+                    new_element.attrib["class"] = "national"
+                else: # "fr" or "fs"
+                    new_element.attrib["class"] = "regional"
+            elif style == "fl" or style == "fi" or style == "ax":
+                new_element = Element("i")
             element.text = before
-        else:
-            previous_span.tail = before
-        # Create span
-        span = Element("span")
-        span.attrib["class"] = "national"
-        span.text = national
-        # Insert span in element
-        element.insert(index, span)
-        # Update result
-        result = re.match(pattern, after)
-        if not result:
-            span.tail = after
-        # Update loop variables
-        previous_span = span
-        index += 1
+            new_element.text = text
+            new_element.tail = after
+            # Add new element to children
+            children[len(before)] = new_element
+            # Update result
+            result = re.match(pattern, element.text)
+
+    for style in styles:
+        # Initialize loop variables
+        index = 0
+        new_element = None
+        has_new_element = True
+        while(has_new_element):
+            # Reset loop variable
+            has_new_element = False
+            if new_element is not None:
+                # Add new element to children
+                children[index] = new_element
+            for key in sorted(children):
+                subelement = children[key]
+                # Find text to display in specific font
+                pattern = get_pattern(style)
+                result = re.match(pattern, subelement.tail)
+                if result:
+                    if result.group(1) is not None:
+                        before = result.group(2)
+                        text = result.group(4)
+                        after = result.group(5)
+                    elif result.group(6) is not None:
+                        before = result.group(7)
+                        text = result.group(8)
+                        after = result.group(9)
+                    if style == "fv" or style == "fn" or style == "fr" or style == "fs":
+                        # Create span
+                        new_element = Element("span")
+                        if style == "fv":
+                            new_element.attrib["class"] = "vernacular"
+                        elif style == "fn":
+                            new_element.attrib["class"] = "national"
+                        else: # "fr" or "fs"
+                            new_element.attrib["class"] = "regional"
+                    elif style == "fl" or style == "fi" or style == "ax":
+                        new_element = Element("i")
+                    subelement.tail = before
+                    new_element.text = text
+                    new_element.tail = after
+                    # Update loop variables
+                    index = key + len(before)
+                    has_new_element = True
+
+    # Insert new elements in element
+    for key in sorted(children):
+        element.append(children[key])
+
+    if element.text == element.attrib["val"]:
+        element.text = ""
     return element
 
 def handle_font(element):

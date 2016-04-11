@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from startup import *
-from output.xml_lmf import xml_lmf_write, build_sub_elements, add_link, handle_reserved, handle_fv, handle_fn, handle_font, handle_pinyin, handle_caps, handle_tones
+from output.xml_lmf import xml_lmf_write, build_sub_elements, add_link, handle_reserved, handle_styles, handle_font, handle_pinyin, handle_caps, handle_tones
 from core.lexical_entry import LexicalEntry
 from morphology.lemma import Lemma
 from utils.xml_format import Element, SubElement, tostring
@@ -78,7 +78,7 @@ class TestXmlLmfFunctions(unittest.TestCase):
         # Create output element and sub-elements
         output = Element("RelatedForm", targets="lx")
         sub = SubElement(output, "a")
-        sub.attrib["href"] = "lx_id1"
+        sub.attrib["href"] = "lx_id"
         # Fill in text
         sub.text = "lx"
         result = add_link(form, input)
@@ -88,7 +88,8 @@ class TestXmlLmfFunctions(unittest.TestCase):
     def test_handle_reserved(self):
         pass
 
-    def test_handle_fv(self):
+    def test_handle_styles(self):
+        # fv
         value1 = "fv:something here and fv:there"
         value2 = "|fv{something here} and fv:there"
         for value in [value1, value2]:
@@ -109,9 +110,8 @@ class TestXmlLmfFunctions(unittest.TestCase):
                 sub1.tail = " and "
             sub2.text = "there"
             sub2.tail = ""
-            self.assertEqual(tostring(handle_fv(input)), tostring(output))
-
-    def test_handle_fn(self):
+            self.assertEqual(tostring(handle_styles(input)), tostring(output))
+        # fn
         value1 = "textfn:this fn:but not this"
         value2 = "textfn:this |fn{and this}"
         for value in [value1, value2]:
@@ -132,7 +132,119 @@ class TestXmlLmfFunctions(unittest.TestCase):
             elif value == value2:
                 sub2.text = "and this"
                 sub2.tail = ""
-            self.assertEqual(tostring(handle_fn(input)), tostring(output))
+            self.assertEqual(tostring(handle_styles(input)), tostring(output))
+        # all
+        value = "bla fs:regional bla ax:i bla fr:regional bla fi:i bla fl:i bla fn:national bla fv:vernacular bla"
+        input = Element("name", val=unicode(value))
+        # Create output element and sub-elements
+        output = Element("name", val=unicode(value))
+        sub1 = SubElement(output, "span")
+        sub1.attrib["class"] = "char_fs"
+        sub2 = SubElement(output, "span")
+        sub2.attrib["class"] = "char_ax"
+        sub3 = SubElement(output, "span")
+        sub3.attrib["class"] = "char_fr"
+        sub4 = SubElement(output, "span")
+        sub4.attrib["class"] = "char_fi"
+        sub5 = SubElement(output, "span")
+        sub5.attrib["class"] = "char_fl"
+        sub6 = SubElement(output, "span")
+        sub6.attrib["class"] = "national"
+        sub7 = SubElement(output, "span")
+        sub7.attrib["class"] = "vernacular"
+        # Fill in text
+        output.text = "bla "
+        sub1.text = "regional"
+        sub1.tail = " bla "
+        sub2.text = "i"
+        sub2.tail = " bla "
+        sub3.text = "regional"
+        sub3.tail = " bla "
+        sub4.text = "i"
+        sub4.tail = " bla "
+        sub5.text = "i"
+        sub5.tail = " bla "
+        sub6.text = "national"
+        sub6.tail = " bla "
+        sub7.text = "vernacular"
+        sub7.tail = " bla"
+        self.assertEqual(tostring(handle_styles(input)), tostring(output))
+        # Mwotlap example
+        value = u"Les fées (fv:na-tbunbun), les ogres (fv:Wotamat, fv:Wetmat), les serpents-de-mer (fv:ne-m̄e), de nombreuses catégories de démons (fv:na-taqat, fv:nō-kōs, fv:na-mgēl, fv:yebek, fv:na-psisgon, etc.), appartiennent à l'ensemble des fv:na-tmat. On les évoque pour effrayer les enfants turbulents, en les menaçant d'être dévorés (fv:kuy), et les enfants eux-mêmes s'en servent comme d'une insulte entre eux."
+        input = Element("name", val=value)
+        # Create output element and sub-elements
+        output = Element("name", val=value)
+        sub1 = SubElement(output, "span")
+        sub1.attrib["class"] = "vernacular"
+        sub2 = SubElement(output, "span")
+        sub2.attrib["class"] = "vernacular"
+        sub3 = SubElement(output, "span")
+        sub3.attrib["class"] = "vernacular"
+        sub4 = SubElement(output, "span")
+        sub4.attrib["class"] = "vernacular"
+        sub5 = SubElement(output, "span")
+        sub5.attrib["class"] = "vernacular"
+        sub6 = SubElement(output, "span")
+        sub6.attrib["class"] = "vernacular"
+        sub7 = SubElement(output, "span")
+        sub7.attrib["class"] = "vernacular"
+        sub8 = SubElement(output, "span")
+        sub8.attrib["class"] = "vernacular"
+        sub9 = SubElement(output, "span")
+        sub9.attrib["class"] = "vernacular"
+        sub10 = SubElement(output, "span")
+        sub10.attrib["class"] = "vernacular"
+        sub11 = SubElement(output, "span")
+        sub11.attrib["class"] = "vernacular"
+        # Fill in text
+        output.text = u"Les fées ("
+        sub1.text = u"na-tbunbun"
+        sub1.tail = u"), les ogres ("
+        sub2.text = u"Wotamat"
+        sub2.tail = u", "
+        sub3.text = u"Wetmat"
+        sub3.tail = u"), les serpents-de-mer ("
+        sub4.text = u"ne-m̄e"
+        sub4.tail = u"), de nombreuses catégories de démons ("
+        sub5.text = u"na-taqat"
+        sub5.tail = u", "
+        sub6.text = u"nō-kōs"
+        sub6.tail = u", "
+        sub7.text = u"na-mgēl"
+        sub7.tail = u", "
+        sub8.text = u"yebek"
+        sub8.tail = u", "
+        sub9.text = u"na-psisgon"
+        sub9.tail = u", etc.), appartiennent à l'ensemble des "
+        sub10.text = u"na-tmat"
+        sub10.tail = u". On les évoque pour effrayer les enfants turbulents, en les menaçant d'être dévorés ("
+        sub11.text = u"kuy"
+        sub11.tail = u"), et les enfants eux-mêmes s'en servent comme d'une insulte entre eux."
+        self.assertEqual(tostring(handle_styles(input)), tostring(output))
+        # Another Mwotlap example
+        value = u"peindre ‹qqch› de façon minutieuse et appliquée (fl:opp. fv:suw), dessiner des motifs, fl:partic. dans l'art des masques sacrés (fv:na-tmat)"
+        input = Element("name", val=value)
+        # Create output element and sub-elements
+        output = Element("name", val=value)
+        sub1 = SubElement(output, "span")
+        sub1.attrib["class"] = "char_fl"
+        sub2 = SubElement(output, "span")
+        sub2.attrib["class"] = "vernacular"
+        sub3 = SubElement(output, "span")
+        sub3.attrib["class"] = "char_fl"
+        sub4 = SubElement(output, "span")
+        sub4.attrib["class"] = "vernacular"
+        # Fill in text
+        output.text = u"peindre ‹qqch› de façon minutieuse et appliquée ("
+        sub1.text = u"opp"
+        sub1.tail = u". "
+        sub2.text = u"suw"
+        sub2.tail = u"), dessiner des motifs, "
+        sub3.text = u"partic"
+        sub3.tail = u". dans l'art des masques sacrés ("
+        sub4.text = u"na-tmat"
+        sub4.tail = u")"
+        self.assertEqual(tostring(handle_styles(input)), tostring(output))
 
     def test_handle_font(self):
         value = "blaA{bla1} blaB {bla2}blaC {bla3}"
