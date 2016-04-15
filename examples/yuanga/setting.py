@@ -1093,26 +1093,38 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                     p.add_run(" ")
                     p.add_run(lexical_entry.get_scientific_name()).italic = True
                     p.add_run(".")
-                # Examples
-                for context in sense.get_contexts():
-                    p = document.add_paragraph()
-                    examples = ""
-                    vernacular_forms = context.find_written_forms(language=config.xml.vernacular)
-                    for example in vernacular_forms:
-                        p.add_run("  ")
-                        p.add_run(example.split('[')[0]).bold = True
-                        for element in example.split('[')[1:]:
-                            p.add_run('[' + element)
-                    try:
-                        fra_forms = context.find_written_forms(language=config.xml.French)
-                        if len(vernacular_forms) != 0 and len(fra_forms) != 0:
-                            p.add_run(" ")
-                        for example in fra_forms:
-                            p.add_run(example)
-                        if len(fra_forms) != 0 and fra_forms[0][-1] != '!' and fra_forms[0][-1] != '?':
-                            p.add_run(".")
-                    except AttributeError:
-                        pass
+                # If current sense corresponds to the current semantic domain, display all information.
+                # Otherwise, just refer to another paragraph.
+                subject_ok = False
+                for subject_field in sense.get_subject_fields():
+                    if current_item[0].decode(ENCODING) == subject_field.get_semanticDomain():
+                        subject_ok = True
+                if not subject_ok and sense is not lexical_entry.sense[0]:
+                    for element in sd_list:
+                        for subject_field in sense.get_subject_fields():
+                            if element[0].decode(ENCODING) == subject_field.get_semanticDomain():
+                                p.add_run(" (cf. " + element[1].decode(ENCODING) + ")")
+                else:
+                    # Examples
+                    for context in sense.get_contexts():
+                        p = document.add_paragraph()
+                        examples = ""
+                        vernacular_forms = context.find_written_forms(language=config.xml.vernacular)
+                        for example in vernacular_forms:
+                            p.add_run("  ")
+                            p.add_run(example.split('[')[0]).bold = True
+                            for element in example.split('[')[1:]:
+                                p.add_run('[' + element)
+                        try:
+                            fra_forms = context.find_written_forms(language=config.xml.French)
+                            if len(vernacular_forms) != 0 and len(fra_forms) != 0:
+                                p.add_run(" ")
+                            for example in fra_forms:
+                                p.add_run(example)
+                            if len(fra_forms) != 0 and fra_forms[0][-1] != '!' and fra_forms[0][-1] != '?':
+                                p.add_run(".")
+                        except AttributeError:
+                            pass
             # Links
             if len(lexical_entry.get_related_forms("simple link")) != 0:
                 p = document.add_paragraph()
@@ -1189,7 +1201,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
             for sense in lexical_entry.get_senses():
                 subject_ok = False
                 for subject_field in sense.get_subject_fields():
-                    if current_item[0].decode(ENCODING) in subject_field.get_semanticDomain():
+                    if current_item[0].decode(ENCODING) == subject_field.get_semanticDomain():
                         subject_ok = True
                 for gloss in sense.find_glosses(language=config.xml.French):
                     if not is_gloss and subject_ok:
