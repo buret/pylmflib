@@ -6010,7 +6010,7 @@ rendre comestible
 \cf huu
 \ce manger (nourriture carnée) + sucreries (PA]
 \cf bije
-\ce mêcher des écorces ou du magnania
+\ce mâcher des écorces ou du magnania
 \cf huli, ual /[PA] whili èm
 \ce manger (canne à sucre)
 \cf kûûni
@@ -9126,7 +9126,7 @@ vers lui (cabòl!), ensuite on crie (a-ò! : pars) pour qu'il la récupère ensuite.
 \cf huu
 \ce manger (nourriture carnée)
 \cf bije
-\ce mêcher des écorces ou du magnania
+\ce mâcher des écorces ou du magnania
 \cf wili
 \ce manger (canne à sucre)
 \cf khûûni
@@ -21189,7 +21189,7 @@ la paille ; plus petites que 'ce-mwa') ;
 \cf huu
 \ce manger (nourriture carnée)
 \cf bije
-\ce mêcher des écorces ou du magnania
+\ce mâcher des écorces ou du magnania
 \cf wili
 \ce manger (canne à sucre)
 \cf kûûni
@@ -71629,7 +71629,7 @@ passer l'eau de l'étage supérieur à l'étage inférieur). Dubois
 \cf huu, huli
 \ce manger (nourriture carnée)
 \cf bije
-\ce mêcher des écorces ou du magnania
+\ce mâcher des écorces ou du magnania
 \cf whizi, w(h)ili
 \ce manger (canne à sucre)
 \cf khûûni
