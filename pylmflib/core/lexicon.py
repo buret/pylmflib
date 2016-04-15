@@ -355,7 +355,7 @@ class Lexicon():
             # Check if the current entry has multiple senses
             if len(lexical_entry.get_senses()) > 2 and not lexical_entry.is_copy():
                 # Keep only the first sense for the current entry
-                senses = [lexical_entry.sense[0], lexical_entry.sense[1]]
+                #senses = [lexical_entry.sense[0], lexical_entry.sense[1]]
                 for i in range (2, len(lexical_entry.get_senses())):
                     # We have to build a separate entry for each sense having a semantic domain
                     duplicate = False
@@ -366,9 +366,13 @@ class Lexicon():
                     if duplicate:
                         new_entry = LexicalEntry(lexical_entry.id, lexical_entry)
                         new_entry.sense = [lexical_entry.sense[0], lexical_entry.sense[i]]
+                        # Add other senses after
+                        for sense_nb in range (1, len(lexical_entry.get_senses())):
+                            if lexical_entry.sense[sense_nb] not in new_entry.sense:
+                                new_entry.sense.append(lexical_entry.sense[sense_nb])
                         self.add_lexical_entry(new_entry)
-                    else:
-                        senses.append(lexical_entry.sense[i])
+                    #else:
+                        #senses.append(lexical_entry.sense[i])
                 # Keep only the non duplicate senses for the current entry
-                lexical_entry.sense = senses
+                #lexical_entry.sense = senses
         return self
