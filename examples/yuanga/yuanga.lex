@@ -6849,6 +6849,7 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure à la 
 \lx bwe- 
 \dialx GOs BO PA
 \ps n (composition)
+\sn 1
 \is corps
 \ge tête de
 \re
