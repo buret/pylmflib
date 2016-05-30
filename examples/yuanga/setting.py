@@ -1068,7 +1068,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                     p.add_run(" ")
                     p.add_run(note)
                 p.add_run("].")
-            for sense in lexical_entry.get_senses():
+            for sense in lexical_entry.get_sorted_senses():
                 # Glosses
                 glosses = ""
                 if sense.get_senseNumber() is not None:

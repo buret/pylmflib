@@ -519,6 +519,14 @@ class LexicalEntry():
         """
         return self.sense
 
+    def get_sorted_senses(self):
+        """! @brief Get all senses maintained by the lexical entry ordered by sense number.
+        @return A Python list of sorted senses.
+        """
+        def get_sense_number(sense):
+            return sense.get_senseNumber(integer=True)
+        return sorted(self.sense, key=get_sense_number)
+
     def get_last_sense(self):
         """! @brief Get the previously registered sense.
         @return The last element of LexicalEntry attribute 'sense'.
