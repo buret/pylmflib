@@ -1003,8 +1003,6 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                         current_item = sort_order[n]
                     # Heading
                     document.add_heading(current_item[1].decode(ENCODING), level=level+1)
-                    # Paragraph
-                    p = document.add_paragraph()
                 except IndexError:
                     # Reached end of list
                     break
@@ -1025,6 +1023,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
             for sense in lexical_entry.get_senses():
                 for usage_note in sense.find_usage_notes(language=config.xml.vernacular):
                     dialect += " [" + usage_note + "]"
+            # Paragraph
             p = document.add_paragraph()
             p.add_run(lexeme).bold = True
             if morph != "":
@@ -1050,7 +1049,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
             p.add_run(".")
             # Note grammaticale
             if len(lexical_entry.find_notes(type="grammar")) != 0:
-                p = document.add_paragraph()
+                p.add_run(EOL)
                 p.add_run("  ")
                 p.add_run("[Note grammaticale :")
                 for note in lexical_entry.find_notes(type="grammar", language=config.xml.regional):
@@ -1072,7 +1071,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 # Glosses
                 glosses = ""
                 if sense.get_senseNumber() is not None:
-                    p = document.add_paragraph()
+                    p.add_run(EOL)
                     p.add_run("  " + sense.get_senseNumber() + ")")
                 for gloss in sense.find_glosses(language=config.xml.vernacular):
                     glosses += " " + gloss + "."
@@ -1087,7 +1086,8 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 glosses = glosses.rstrip(".")
                 if glosses != "" and glosses[-1] != '.' and glosses[-1] != '!' and glosses[-1] != '?':
                     glosses += "."
-                p.add_run(glosses)
+                # Replace normal space by no-break space before semicolon
+                p.add_run(glosses.replace(" ;", u"\u00a0;"))
                 # Scientific name
                 if lexical_entry.get_scientific_name() is not None:
                     p.add_run(" ")
@@ -1107,7 +1107,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 else:
                     # Examples
                     for context in sense.get_contexts():
-                        p = document.add_paragraph()
+                        p.add_run(EOL)
                         examples = ""
                         vernacular_forms = context.find_written_forms(language=config.xml.vernacular)
                         for example in vernacular_forms:
@@ -1127,7 +1127,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                             pass
             # Links
             if len(lexical_entry.get_related_forms("simple link")) != 0:
-                p = document.add_paragraph()
+                p.add_run(EOL)
                 p.add_run("  Voir :").italic = True
                 for related_form in lexical_entry.get_related_forms("simple link"):
                     if related_form.get_lexical_entry() is not None:
@@ -1146,7 +1146,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 p.add_run(".")
             # Notes
             if len(lexical_entry.find_notes(type="general")) != 0:
-                p = document.add_paragraph()
+                p.add_run(EOL)
                 p.add_run("  ")
                 p.add_run("[Note :")
                 for note in lexical_entry.find_notes(type="general"):
@@ -1155,7 +1155,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 p.add_run("].")
             # Note phonologique
             if len(lexical_entry.find_notes(type="phonology")) != 0:
-                p = document.add_paragraph()
+                p.add_run(EOL)
                 p.add_run("  ")
                 p.add_run("[Note phonologique :")
                 for note in lexical_entry.find_notes(type="phonology"):
@@ -1164,7 +1164,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                 p.add_run("].")
             # Note anthropologique
             if len(lexical_entry.find_notes(type="anthropology")) != 0:
-                p = document.add_paragraph()
+                p.add_run(EOL)
                 p.add_run("  ")
                 p.add_run("[Note anthropologique :")
                 for note in lexical_entry.find_notes(type="anthropology"):
@@ -1174,7 +1174,7 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
             # Handle subentries
             for related_form in lexical_entry.get_related_forms("subentry"):
                 if related_form.get_lexical_entry() is not None:
-                    p = document.add_paragraph()
+                    p.add_run(EOL)
                     p.add_run("  ")
                     p.add_run(related_form.get_lexeme().split('[')[0]).bold = True
                     for element in related_form.get_lexeme().split('[')[1:]:
@@ -1193,8 +1193,8 @@ def lmf2doc(lexicon, document, items=lambda lexical_entry: lexical_entry.get_lex
                                 glosses += " " + gloss + "."
                         if glosses == "":
                             glosses = glosses.rstrip(".")
-                        p.add_run(glosses)
-            p.add_run(EOL)
+                        # Replace normal space by no-break space before semicolon
+                        p.add_run(glosses.replace(" ;", u"\u00a0;"))
         else: # reverse
             # French gloss
             is_gloss = False
