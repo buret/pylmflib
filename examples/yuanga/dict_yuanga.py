@@ -19,7 +19,7 @@ from setting import lmf2tex, items, reverse_items, sd_order, sd_errors, compare_
 lexical_resource = pylmflib.read_config(user_path + "yuanga/config.xml")
 
 # Read MDF file and set lexicon identifier
-lexical_resource = pylmflib.read_mdf(id="yuanga", encoding='latin-1')
+lexical_resource = pylmflib.read_mdf(id="yuanga")
 
 # Display global information
 print lexical_resource.get_bibliographic_citation()
