@@ -7,3 +7,6 @@ Cliquer sur le bouton ‘A’ pour changer la couleur.
 
 3) Pour diminuer les interlignes : menu Format > Style… > Normal > Modifier… > Paragraphe…
 Cocher la case “Ne pas ajouter d’espace entre les paragraphes de même style”.
+
+4) Pour gérer l’espace après chaque paragraphe : menu Format > Style… > Titre 1 / … / Titre 5 / Normal > Modifier… > Paragraphe…
+Espacement : Après 6 pt
