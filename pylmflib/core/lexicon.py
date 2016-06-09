@@ -297,7 +297,7 @@ class Lexicon():
                 related_lexeme = related_form.get_lexeme()
                 # Check if there is an homonym number at the end of the related lexeme
                 related_homonym_number = None
-                if related_lexeme[-1] in digits:
+                if related_lexeme[-1] in digits or related_lexeme[-1] in ['A', 'B', 'C', 'D', 'E']:
                     related_homonym_number = related_lexeme[-1]
                     related_lexeme = related_lexeme[:-1]
                 found_entry = self.find_lexical_entries(lambda lexical_entry: lexical_entry.get_lexeme() == related_lexeme)
