@@ -31,7 +31,7 @@ xml_order = pylmflib.read_sort_order(user_path + "sort_order.xml")
 lexical_resource.get_lexicon("mwotlap").sort_lexical_entries(items=items, sort_order=xml_order)
 
 # Write XML LMF file
-pylmflib.write_xml_lmf(lexical_resource, user_path + "result/mwotlap.xml")
+pylmflib.write_xml_lmf(lexical_resource, user_path + "result/dictionary.xml")
 
 # Write LaTeX file
 pylmflib.write_tex(lexical_resource, user_path + "result/mwotlap.tex", preamble=user_path + "preamble.tex", introduction=user_path + "introduction.tex", items=items, sort_order=xml_order)
