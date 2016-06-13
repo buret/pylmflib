@@ -30,23 +30,109 @@ else:
 
 import re
 pattern = r"^\\(\w{2,3}) ?(.*)$"
+
+# Loop variables
 lx = ""
+se = ""
+tmp_buffer = ""
+lx_buffer = ""
+se_buffer = ""
+is_se = False
+
 for line in in_file.readlines():
     result = re.search(pattern, line)
+
     if result:
+
         if result.group(1) == "lx":
+            if is_se is None:
+                # We know now that it was a subentry
+                se_buffer += "\\se " + se + EOL
+                se_buffer += tmp_buffer
+            # Copy entry fields then subentries if any
+            out_file.write(lx_buffer)
+            out_file.write(se_buffer)
+            # Reset loop variables
+            se = ""
+            tmp_buffer = ""
+            se_buffer = ""
+            is_se = False
+            # Start a new main entry
             lx = result.group(2)
-            out_file.write(line)
+            lx_buffer = EOL + line
+
         elif result.group(1) == "se":
+            if is_se is None:
+                # We know now that it was a subentry
+                se_buffer += "\\se " + se + EOL
+                se_buffer += tmp_buffer
+                tmp_buffer = ""
             if result.group(2) == "":
-                # Create a lexeme
-                out_file.write("\\lx " + lx + EOL)
+                # Copy entry fields then subentries if any
+                out_file.write(lx_buffer)
+                out_file.write(se_buffer)
+                # Create a new main entry
+                lx_buffer = EOL + "\\lx " + lx + EOL
+                # Reset loop variables
+                se = ""
+                tmp_buffer = ""
+                se_buffer = ""
+                is_se = False
             else:
-                out_file.write(line)
+                # We do not know yet if it is a subentry or another main entry
+                se = result.group(2)
+                is_se = None
+
+        elif result.group(1) == "wr":
+            if is_se is None:
+                # We knwow now that it is a main entry
+                # Copy entry fields then subentries if any
+                out_file.write(lx_buffer)
+                out_file.write(se_buffer)
+                # \lx <lx>
+                # \lc <se>
+                lx_buffer = EOL + "\\lx " + lx + EOL
+                lx_buffer += "\\lc " + se + EOL
+                lx_buffer += tmp_buffer
+                lx_buffer += line
+                # Reset loop variables
+                se = ""
+                tmp_buffer = ""
+                se_buffer = ""
+                is_se = False
+            elif is_se is True:
+                # This case should not happen
+                raise IOError
+            elif is_se is False:
+                # We already knew that it is a main entry
+                lx_buffer += line
+
+        elif result.group(1) == "sn" or result.group(1) == "el":
+            if is_se is None:
+                # We know now that it was a subentry
+                se_buffer += "\\se " + se + EOL
+                se_buffer += tmp_buffer
+                tmp_buffer = ""
+                is_se = False
+            lx_buffer += line
+
         else:
-            out_file.write(line)
-    else:
-        out_file.write(line)
+            # Copy until next 'lx' / 'se' / 'sn' / 'el'
+            if is_se is True:
+                se_buffer += line
+            elif is_se is None:
+                tmp_buffer += line
+            elif is_se is False:
+                lx_buffer += line
+
+    elif line != EOL:
+        # Copy until next 'lx' / 'se' / 'sn' / 'el'
+        if is_se is True:
+            se_buffer += line
+        elif is_se is None:
+                tmp_buffer += line
+        elif is_se is False:
+            lx_buffer += line
 
 # Do not forget to close files
 in_file.close()
