@@ -186,5 +186,6 @@ class GlobalInformation():
         """! @brief Get global information bibliographic citation.
         @return GlobalInformation attribute 'bibliographicCitation'.
         """
-        self.compute_bibliographicCitation()
+        if self.bibliographicCitation is None:
+            self.compute_bibliographicCitation()
         return self.bibliographicCitation
