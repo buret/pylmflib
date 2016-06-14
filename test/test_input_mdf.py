@@ -41,7 +41,7 @@ class TestMdfFunctions(unittest.TestCase):
         self.assertEqual(lexicon.get_id(), id)
         self.assertEqual(lexicon.get_entrySource(), mdf_filename)
         entry = lexicon.lexical_entry[0]
-        self.assertEqual(entry.get_id(), "hello1")
+        self.assertEqual(entry.get_id(), "hello")
         self.assertEqual(entry.get_lexeme(), "hello")
         self.assertEqual(entry.get_partOfSpeech(), "verb")
         self.assertEqual(entry.get_status(), "noun")

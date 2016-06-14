@@ -95,7 +95,7 @@ class TestLexicalEntryFunctions(unittest.TestCase):
         self.assertIs(self.lexical_entry.get_independentWord(), self.lexical_entry.independentWord)
 
     def test_get_id(self):
-        self.assertEqual(self.lexical_entry.get_id(), self.lexical_entry.id + '1')
+        self.assertEqual(self.lexical_entry.get_id(), self.lexical_entry.id)
 
     def test_set_lexeme(self):
         lexeme = "hello"
@@ -453,13 +453,13 @@ class TestLexicalEntryFunctions(unittest.TestCase):
         nb1 = "1"
         self.assertIs(self.lexical_entry.create_and_add_sense(nb1), self.lexical_entry)
         self.assertEqual(len(self.lexical_entry.sense), 1)
-        self.assertEqual(self.lexical_entry.sense[0].id, "01_1")
+        self.assertEqual(self.lexical_entry.sense[0].id, "0_1")
         # Test with an identifier
         self.lexical_entry.id = "form"
         nb2 = 22
         self.assertIs(self.lexical_entry.create_and_add_sense(nb2), self.lexical_entry)
         self.assertEqual(len(self.lexical_entry.sense), 2)
-        self.assertEqual(self.lexical_entry.sense[1].id, "form1_22")
+        self.assertEqual(self.lexical_entry.sense[1].id, "form_22")
         # Release Sense instances
         del self.lexical_entry.sense[1], self.lexical_entry.sense[0]
 

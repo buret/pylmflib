@@ -119,7 +119,7 @@ class TestTexFunctions(unittest.TestCase):
             "\\newpage" + EOL,
             "\\section*{\\centering- \\textbf{\ipa{H}} \\textbf{\ipa{h}} -}" + EOL,
             #"\\pdfbookmark[1]{\ipa{ H h }}{ H h }" + EOL,
-            "\\paragraph{\\hspace{-0.5cm} \\textbf{\ipa{hello}}} \\hypertarget{01}{}" + EOL,
+            "\\paragraph{\\hspace{-0.5cm} \\textbf{\ipa{hello}}} \\hypertarget{0}{}" + EOL,
             "\markboth{\\textbf{\\ipa{hello}}}{}" + EOL,
             "\\textit{Status:} draft" + EOL,
             "\lhead{\\firstmark}" + EOL,
@@ -148,7 +148,7 @@ class TestTexFunctions(unittest.TestCase):
             "\\newpage" + EOL,
             "\\section*{\\centering- \\textbf{\ipa{H}} \\textbf{\ipa{h}} -}" + EOL,
             #"\\pdfbookmark[1]{\ipa{ H h }}{ H h }" + EOL,
-            "The lexical entry 01 is hello." + EOL,
+            "The lexical entry 0 is hello." + EOL,
             "Its grammatical category is toto." + EOL,
             "Warning: draft version!" + EOL,
             "\lhead{\\firstmark}" + EOL,
@@ -212,14 +212,14 @@ class TestTexFunctions(unittest.TestCase):
     def test_format_uid(self):
         entry = LexicalEntry("link_0")
         entry.set_lexeme("link")
-        expected = "\\hyperlink{link_01}{\\textbf{\ipa{link}}}"
+        expected = "\\hyperlink{link_0}{\\textbf{\ipa{link}}}"
         self.assertEqual(format_link(entry, font), expected)
         del entry
 
     def test_format_link(self):
         entry = LexicalEntry("link_0")
         entry.set_lexeme("link")
-        expected = "\\hyperlink{link_01}{\\textbf{\ipa{link}}}"
+        expected = "\\hyperlink{link_0}{\\textbf{\ipa{link}}}"
         self.assertEqual(format_link(entry, font), expected)
         entry.set_homonymNumber(2)
         expected = "\\hyperlink{link_02}{\\textbf{\ipa{link}} \\textsubscript{2}}"
@@ -229,7 +229,7 @@ class TestTexFunctions(unittest.TestCase):
     def test_format_lexeme(self):
         entry = LexicalEntry()
         entry.set_lexeme("hello")
-        expected = "\\paragraph{\\hspace{-0.5cm} \\textbf{\ipa{hello}}} \\hypertarget{01}{}\n\markboth{\\textbf{\ipa{hello}}}{}\n"
+        expected = "\\paragraph{\\hspace{-0.5cm} \\textbf{\ipa{hello}}} \\hypertarget{0}{}\n\markboth{\\textbf{\ipa{hello}}}{}\n"
         self.assertEqual(format_lexeme(entry, font), expected)
         del entry
 

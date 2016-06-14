@@ -131,6 +131,8 @@ class LexicalEntry():
         @return LexicalEntry instance.
         """
         self.homonymNumber = homonym_number
+        # Update identifier with homonym number
+        self.id += str(self.homonymNumber)
         return self
 
     def get_homonymNumber(self):
@@ -173,10 +175,7 @@ class LexicalEntry():
         """! @brief Get Unique IDentifier.
         @return LexicalEntry attribute 'id' followed by the homonym number.
         """
-        homonymNumber = self.get_homonymNumber()
-        if homonymNumber is None:
-            homonymNumber = 1
-        return self.id + str(homonymNumber)
+        return self.id
 
     def set_lexeme(self, lexeme):
         """! @brief Set lexeme.
