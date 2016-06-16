@@ -8,7 +8,7 @@ from utils.io import ENCODING
 ## To define languages and fonts
 import config
 
-items=lambda lexical_entry: lexical_entry.get_lexeme().replace('[','').replace(']','')
+items=lambda lexical_entry: lexical_entry.get_lexeme().replace('[','').replace(']','').replace('~','').replace('-','')
 
 ## Mapping between 'ps' MDF marker value and LMF part of speech LexicalEntry attribute value (input)
 ps = [
