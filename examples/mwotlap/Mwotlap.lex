@@ -3443,7 +3443,7 @@ fv:bak_yon̄_vagal Ce motif rappelle l'impor^tance rituelle, dans la société a
 cochon tué ; il est égale^ment associé à la guerre.
 \en
 \sd Art
-\pc Expo 1996 p.338, fig.334
+\nt Expo 1996 p.338, fig.334
 \rf AG4-120
 \xv
 \cf
@@ -4292,7 +4292,7 @@ Mwotlap.
 \la ne-bem
 \hm 1
 \ph nɛᵐbɛm
-\pc .G.c:\Alex\photoDico\bem.jpg
+\pc bem.jpg
 \nt .G.c:\Alex\photoDico\bem.jpg;1.2";1.29";JPG
 \ps n
 \sn 1
@@ -7693,7 +7693,7 @@ accompagner les danses
 planche.
 \xn We stand up, and the moment the singing begins, we start hitting the board.
 \wr B
-\pc .G.c:\Alex\photoDico\melepup1.jpg
+\pc melepup1.jpg
 \nt .G.c:\Alex\photoDico\melepup1.jpg;1.15";1.72";JPG
 \ps vt
 \gr
@@ -10743,7 +10743,7 @@ Les langoustes se pêchent la nuit (vl:vahal), à la lumière des torches en pal
 \la na-ga
 \hm 2
 \ph naɣa
-\pc .G.c:\Alex\photoDico\ga.jpg
+\pc ga.jpg
 \nt .G.c:\Alex\photoDico\ga.jpg;1.5";1.73";JPG
 \ps n
 \ge kava
@@ -13873,7 +13873,8 @@ convaincant! Enfin, en G7-10 c'est mieux.
 \la na-gtē
 \ph naɣtɪ
 \a gētē
-\pc .G.c:\Alex\photoDico\gte.jpg;1";.98";JPG
+\pc gte.jpg
+\nt .G.c:\Alex\photoDico\gte.jpg;1";.98";JPG
 \ps n
 \gr nakato
 \ge pagure
@@ -13927,7 +13928,8 @@ disparue ailleurs.
 \la na-gvēg
 \ph naɣβɪɣ
 \a gēvēg
-\pc .G.c:\Alex\photoDico\gveg.jpg;1.31";1.2";JPG
+\pc gveg.jpg
+\nt .G.c:\Alex\photoDico\gveg.jpg;1.31";1.2";JPG
 \ps n
 \gn apple
 \ge pomme
@@ -15664,7 +15666,8 @@ bananes ; 2/ (ce sont) ces bananes.
 \la na-ghōw
 \ph naɣhʊw
 \a gōhōw
-\pc .G.c:\Alex\photoDico\ghow.jpg;.87";1";JPG
+\pc ghow.jpg
+\nt .G.c:\Alex\photoDico\ghow.jpg;.87";1";JPG
 \ps n
 \dr
 \ge rat
@@ -17281,7 +17284,8 @@ fv:hag et fv:hōw.
 \la na-hay
 \hm 4
 \ph nahaj
-\pc .G.c:\Alex\photoDico\nahay3.jpg;2.7";3.21";JPG
+\pc nahay3.jpg
+\nt .G.c:\Alex\photoDico\nahay3.jpg;2.7";3.21";JPG
 \lg La pêche collective à la liane (|vl{na-hay}).
 \ps n
 \gr fishnet
@@ -20199,7 +20203,8 @@ all about it / To put it clearly...
 \lx hōm̄
 \la °na-hōm̄
 \ph nahʊŋ​͡mʷ
-\pc .G.c:\Alex\photoDico\homw.jpg;1.6";.74";JPG
+\pc homw.jpg
+\nt .G.c:\Alex\photoDico\homw.jpg;1.6";.74";JPG
 \ps n
 \de poisson récifal
 \rf AG3-190 ; AG5-80 (Mwesen)
@@ -34485,7 +34490,8 @@ froid intense
 \a motow
 \a na-mtow
 \u nA- mtow[n]
-\pc .G.c:\Alex\photoDico\mtow.jpg;.92";1.4";JPG
+\pc mtow.jpg
+\nt .G.c:\Alex\photoDico\mtow.jpg;.92";1.4";JPG
 \ps n
 \gr navara
 \gn (coconut)
@@ -36356,7 +36362,8 @@ religious scenes in anglican churches
 \lx m̄e
 \la ne-m̄e
 \ph nɛŋ​͡mʷɛ
-\pc .G.c:\Alex\photoDico\mwe.jpg;.95";1.03";JPG
+\pc mwe.jpg
+\nt .G.c:\Alex\photoDico\mwe.jpg;.95";1.03";JPG
 \ps n
 \gr sisnek
 \lg
@@ -40181,7 +40188,8 @@ bas’, soit fv:yow ‘vers l'extérieur’.
 \la °na-ō
 \hm 2
 \ph naʊ
-\pc .G.c:\Alex\photoDico\o.jpg;1.15";.65";JPG
+\pc o.jpg
+\nt .G.c:\Alex\photoDico\o.jpg;1.15";.65";JPG
 \ps n
 \nt /na-o/ G5-117
 \nt ou /na-ô/ ?? P6-41
@@ -41738,7 +41746,8 @@ haches en métal.
 \la ne-qet
 \hm 1
 \ph nɛk​͡pʷɛt
-\pc .G.c:\Alex\photoDico\qet.jpg;1.29";1.81";JPG
+\pc qet.jpg
+\nt .G.c:\Alex\photoDico\qet.jpg;1.29";1.81";JPG
 \ps n
 \gr taro
 \ge taro
@@ -41985,7 +41994,8 @@ marquer la familiarité.
 \la na-qyet
 \ph nak​͡pʷjɛt
 \a qeyet
-\pc .G.c:\Alex\photoDico\qyet.jpg;1.2";.53";JPG
+\pc qyet.jpg
+\nt .G.c:\Alex\photoDico\qyet.jpg;1.2";.53";JPG
 \ps n
 \gr blakbokis
 \ge roussette
@@ -43047,7 +43057,8 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \lx q[ē]yēn̄i
 \la na-qyēn̄i
 \ph nak​͡pʷjɪŋi
-\pc .G.c:\Alex\photoDico\qyengi2.jpg;2.54";1.51";JPG
+\pc qyengi2.jpg
+\nt .G.c:\Alex\photoDico\qyengi2.jpg;2.54";1.51";JPG
 \lg |fv{al ne-vet le-qyēn̄i}, on place les pierres sur le four
 \ps n
 \gr
@@ -46658,7 +46669,8 @@ fl:or the village square fl:or the beach
 \lx sēg
 \la nē-sēg
 \ph nɪsɪɣ
-\pc .G.c:\Alex\photoDico\seg.jpg;1.2";1.4";JPG
+\pc seg.jpg
+\nt .G.c:\Alex\photoDico\seg.jpg;1.2";1.4";JPG
 \ps n
 \sn 1
 \gr nasiko
@@ -46718,7 +46730,7 @@ yah. Yah qēt, kēy tabatbay a la-gayga hoyo.
 Si la marée est basse très tôt le matin (vl:laq), c'est le moment où le coquillage vl:nō-wōsēm monte à la surface (vl:kal). Les femmes marchent sur le récif, penchées en avant (vl:kakal), à la recherche de ces coquillages. Quand elles en ont ramassé (vl:vēl), elles les laissent sécher à la maison, jusqu'à ce qu'ils pourrissent (vl:ti_qōn). Une fois [leur intérieur] pourri, elles taillent (vl:deyen̄) les coquilles avec des pierres, puis les liment (vl:yah); enfin, elles les enfilent (vl:tabay) par centaines le long d'une longue ficelle.
 
 \sn 2
-\pc Expo 1996 p.174, fig.171
+\nt Expo 1996 p.174, fig.171
 \ge
 \re
 \de monnaie traditionnelle: sorte de longue guirlande faite de coquillages (fv:nē-sēm) enfilés
@@ -47242,7 +47254,8 @@ population grew there again].
 \lx siok
 \la ni-siok
 \ph nisiɔk
-\pc .G.c:\Alex\photoDico\siok.jpg;2.9";1.19";JPG
+\pc siok.jpg
+\nt .G.c:\Alex\photoDico\siok.jpg;2.9";1.19";JPG
 \ps n
 \va suok
 \ve petit bateau
@@ -50334,7 +50347,8 @@ ombre; il faut la manier avec prudence.
 \la na-tmat
 \ph natmat
 \a tamat
-\pc .G.c:\Alex\photoDico\tmat.jpg;5.7";1.15";JPG
+\pc tmat.jpg
+\nt .G.c:\Alex\photoDico\tmat.jpg;5.7";1.15";JPG
 \lg La danse des esprits (vl:na-tmat)
 \ps n
 \ge
@@ -52998,7 +53012,8 @@ autrefois des lames d'herminette (fv:na-taqēs).
 \ph natnɛpnʊ
 \wr A
 \ps n
-\pc .G.c:\Alex\photoDico\tnepno.jpg;2.95";1.32";JPG
+\pc tnepno.jpg
+\nt .G.c:\Alex\photoDico\tnepno.jpg;2.95";1.32";JPG
 \lg |fv{na-tnepnō Lahlap}, la place du village à Ngerenigmen
 \a tēlepnō
 \a tēnepnō
@@ -58253,7 +58268,8 @@ plaît’
 \la °na-tō
 \hm 4
 \ph natʊ
-\pc .G.c:\Alex\photoDico\to.jpg;.81";.67";JPG
+\pc to.jpg
+\nt .G.c:\Alex\photoDico\to.jpg;.81";.67";JPG
 \ps n
 \rd
 \ge conque
@@ -58557,7 +58573,8 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 
 \lx tōy
 \ph tʊj
-\pc .G.c:\Alex\photoDico\balayant.jpg;1.36";1.56";JPG
+\pc balayant.jpg
+\nt .G.c:\Alex\photoDico\balayant.jpg;1.36";1.56";JPG
 \ps vt
 \rd tōytōy
 \gr brumum
@@ -63583,7 +63600,8 @@ de venir ; |fl{d'où} faire venir, faire aller qqpart
 \lx vētōy
 \la nē-vētōy
 \ph nɪβɪtʊj
-\pc .G.c:\Alex\photoDico\vetoy.jpg;1.25";.75";JPG
+\pc vetoy.jpg
+\nt .G.c:\Alex\photoDico\vetoy.jpg;1.25";.75";JPG
 \ps n
 \gr
 \sn
@@ -67408,7 +67426,8 @@ losange
 \lx wopyak
 \la no-wopyak
 \ph nɔwɔpjak
-\pc .G.c:\Alex\photoDico\wopyak.jpg;1.1";1.37";JPG
+\pc wopyak.jpg
+\nt .G.c:\Alex\photoDico\wopyak.jpg;1.1";1.37";JPG
 \ps n
 \sn 1
 \gr nalake
@@ -69029,7 +69048,8 @@ tête de narave. ››› CORRECTION : plutôt Womtelo tatoue Anna ??
 \lx w{u}met
 \la nu-wmet
 \ph nuwmɛt
-\pc .G.c:\Alex\photoDico\wUmet.jpg;1.5";.7";JPG
+\pc wUmet.jpg
+\nt .G.c:\Alex\photoDico\wUmet.jpg;1.5";.7";JPG
 \ps n
 \sn 1
 \ge
@@ -71667,7 +71687,8 @@ pierres avec des feuilles
 \la no-yot
 \ph nɔjɔt
 \a
-\pc .G.c:\Alex\photoDico\toitChaumeNB.jpg;1.4";2.1";JPG
+\pc toitChaumeNB.jpg
+\nt .G.c:\Alex\photoDico\toitChaumeNB.jpg;1.4";2.1";JPG
 \lg |fv{Tigitgiy no-yot}, installer le toit de chaume
 \ps n
 \gr natangora
