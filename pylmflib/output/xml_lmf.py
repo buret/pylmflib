@@ -81,7 +81,9 @@ def add_link(object, element):
             # Create link
             a = Element("a")
             a.attrib["href"] = id
-            if element.attrib["targets"][-1] in ['1', '2', '3', '4', '5', 'A', 'B', 'C', 'D', 'E']:
+            if element.attrib["targets"][-2] in ['1', '2', '3', '4', '5']:
+                a.text = element.attrib["targets"][:-2] + " [" + element.attrib["targets"][-2] + element.attrib["targets"][-1] + "]"
+            elif element.attrib["targets"][-1] in ['1', '2', '3', '4', '5', 'A', 'B', 'C', 'D', 'E']:
                 a.text = element.attrib["targets"][:-1] + " [" + element.attrib["targets"][-1] + "]"
             else:
                 a.text = element.attrib["targets"]

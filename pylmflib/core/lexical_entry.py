@@ -130,9 +130,11 @@ class LexicalEntry():
         @param homonym_number The homonym number to set.
         @return LexicalEntry instance.
         """
-        self.homonymNumber = homonym_number
+        if self.homonymNumber is None:
+            self.homonymNumber = ''
+        self.homonymNumber += str(homonym_number)
         # Update identifier with homonym number
-        self.id += str(self.homonymNumber)
+        self.id += str(homonym_number)
         return self
 
     def get_homonymNumber(self):

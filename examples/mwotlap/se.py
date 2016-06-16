@@ -33,6 +33,7 @@ pattern = r"^\\(\w{2,3}) ?(.*)$"
 
 # Loop variables
 lx = ""
+hm = ""
 se = ""
 tmp_buffer = ""
 lx_buffer = ""
@@ -53,6 +54,7 @@ for line in in_file.readlines():
             out_file.write(lx_buffer)
             out_file.write(se_buffer)
             # Reset loop variables
+            hm = ""
             se = ""
             tmp_buffer = ""
             se_buffer = ""
@@ -61,6 +63,10 @@ for line in in_file.readlines():
             lx = result.group(2)
             lx_buffer = EOL + line
 
+        elif result.group(1) == "hm":
+            hm = result.group(2)
+            lx_buffer += line
+    
         elif result.group(1) == "se":
             if is_se is None:
                 # We know now that it was a subentry
@@ -73,6 +79,8 @@ for line in in_file.readlines():
                 out_file.write(se_buffer)
                 # Create a new main entry
                 lx_buffer = EOL + "\\lx " + lx + EOL
+                if hm != "" :
+                    lx_buffer += "\\hm " + hm + EOL
                 # Reset loop variables
                 se = ""
                 tmp_buffer = ""
@@ -93,6 +101,8 @@ for line in in_file.readlines():
                 # \lc <se>
                 lx_buffer = EOL + "\\lx " + lx + EOL
                 lx_buffer += "\\lc " + se + EOL
+                if hm != "":
+                    lx_buffer += "\\hm " + hm + EOL
                 lx_buffer += tmp_buffer
                 lx_buffer += line
                 # Reset loop variables
