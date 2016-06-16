@@ -69,11 +69,16 @@ def remove_char(value):
     """
     return value.replace('^','')
 
+def replace_char(value):
+    """Function to replace "|{~}" characters by an unbreakable space in MDF fields.
+    """
+    return value.replace("|{~}", u"\u00A0")
+
 mdf_lmf.update({
     # To ignore
     "wr"    : lambda wr, lexical_entry: lexical_entry.set_homonymNumber(wr),
 
-    "we"    : lambda we, lexical_entry: lexical_entry.set_note(remove_char(we), type="restriction", language=config.xml.French),
+    "we"    : lambda we, lexical_entry: lexical_entry.set_note(replace_char(remove_char(we)), type="restriction", language=config.xml.French),
     "wn"    : lambda wn, lexical_entry: lexical_entry.set_note(wn, type="restriction", language=config.xml.English),
 
     # Fonction sémantique (Fr)
@@ -84,7 +89,7 @@ mdf_lmf.update({
     "ur"    : lambda ur, lexical_entry: lexical_entry.set_note(ur, type="usage", language=config.xml.French),
     "uv"    : lambda uv, lexical_entry: lexical_entry.set_note(uv, type="usage", language=config.xml.English),
 
-    "nt"    : lambda nt, lexical_entry: lexical_entry.set_note(remove_char(nt), type="general"),
+    "nt"    : lambda nt, lexical_entry: lexical_entry.set_note(replace_char(remove_char(nt)), type="general"),
 
     "lt"    : lambda lt, lexical_entry: lexical_entry.set_literally(remove_char(lt), language=config.xml.French),
     "ll"    : lambda ll, lexical_entry: lexical_entry.set_literally(ll, language=config.xml.English),
@@ -93,7 +98,9 @@ mdf_lmf.update({
     "on"    : lambda on, lexical_entry: lexical_entry.set_example_comment(on, language=config.xml.English),
 
     # Etymological language
-    "el"    : lambda el, lexical_entry: lexical_entry.set_term_source_language(el),
+    "el"    : lambda el, lexical_entry: lexical_entry.set_term_source_language(replace_char(el)),
+    "eg"    : lambda eg, lexical_entry: lexical_entry.set_etymology_gloss(replace_char(eg)),
+    "et"    : lambda et, lexical_entry: lexical_entry.set_etymology(replace_char(et)),
 
     # To ignore
     "dc"    : lambda dc, lexical_entry: None,
@@ -124,7 +131,7 @@ mdf_lmf.update({
     "ue"    : lambda ue, lexical_entry: lexical_entry.set_usage_note(ue, language=config.xml.French),
     "un"    : lambda un, lexical_entry: lexical_entry.set_usage_note(un, language=config.xml.English),
 
-    "ee"    : lambda ee, lexical_entry: lexical_entry.set_encyclopedic_information(remove_char(ee), language=config.xml.French),
+    "ee"    : lambda ee, lexical_entry: lexical_entry.set_encyclopedic_information(replace_char(remove_char(ee)), language=config.xml.French),
     "en"    : lambda en, lexical_entry: lexical_entry.set_encyclopedic_information(remove_char(en), language=config.xml.English),
 
     "sc"    : lambda sc, lexical_entry: lexical_entry.set_scientific_name(remove_char(sc)),
@@ -133,7 +140,7 @@ mdf_lmf.update({
     "tb"    : lambda tb, lexical_entry: None,
     # Table Anglais (n)
     "ta"    : lambda ta, lexical_entry: None,
-    # Table large
+    # Table large (replace_char)
     "tl"    : lambda tl, lexical_entry: None,
     # Table large anglais (n)
     "tn"    : lambda tn, lexical_entry: None,
@@ -164,8 +171,8 @@ mdf_lmf.update({
     "re"    : lambda re, lexical_entry: lexical_entry.set_translation(remove_char(re), language=config.xml.French),
     "rn"    : lambda rn, lexical_entry: lexical_entry.set_translation(rn, language=config.xml.English),
 
-    "xe"    : lambda xe, lexical_entry: lexical_entry.add_example(remove_char(xe), language=config.xml.French),
-    "xn"    : lambda xn, lexical_entry: lexical_entry.add_example(remove_char(xn), language=config.xml.English),
+    "xe"    : lambda xe, lexical_entry: lexical_entry.add_example(replace_char(remove_char(xe)), language=config.xml.French),
+    "xn"    : lambda xn, lexical_entry: lexical_entry.add_example(replace_char(remove_char(xn)), language=config.xml.English),
     "xv"    : lambda xv, lexical_entry: lexical_entry.create_and_add_example(remove_char(xv), language=config.xml.vernacular),
 
     "ve"    : lambda ve, lexical_entry: lexical_entry.set_variant_comment(ve, language=config.xml.French),
