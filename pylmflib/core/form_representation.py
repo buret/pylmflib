@@ -5,6 +5,7 @@
 
 from core.representation import Representation
 from resources.audio import Audio
+from resources.picture import Picture
 from utils.attr import check_attr_type, check_attr_range
 from common.range import type_variant_range
 
@@ -31,6 +32,9 @@ class FormRepresentation(Representation):
         ## Audio instance is owned by FormRepresentation
         # There is zero or one Audio instance per FormRepresentation
         self.audio = None
+        ## Picture instance is owned by FormRepresentation
+        # There is zero or one Picture instance per FormRepresentation
+        self.picture = None
         # Speaker id
         self.targets = None
         ## Pointers to an existing Speaker
@@ -306,6 +310,18 @@ class FormRepresentation(Representation):
         """
         return self.audio
 
+    def create_picture(self):
+        """! @brief Create a Picture instance.
+        @return Picture instance.
+        """
+        return Picture()
+
+    def get_picture(self):
+        """! @brief Get the picture resource maintained by the form representation.
+        @return Picture instance.
+        """
+        return self.picture
+
     def set_audio(self, media_type, file_name, author, quality, start_position, duration, external_reference, audio_file_format):
         """! @brief Set audio resource.
         Attributes 'mediaType', 'fileName', 'author', 'quality', 'startPosition', 'durationOfEffectiveSpeech', 'externalReference', 'audioFileFormat' are owned by Material/Audio.
@@ -338,4 +354,26 @@ class FormRepresentation(Representation):
             self.audio.set_externalReference(external_reference)
         if audio_file_format is not None:
             self.audio.set_audioFileFormat(audio_file_format)
+        return self
+
+    def set_picture(self, media_type, file_name, author, format):
+        """! @brief Set picture resource.
+        Attributes 'mediaType', 'fileName', 'author', 'format' are owned by Material/Audio.
+        @param media_type The media type to set.
+        @param file_name Name of the picture file.
+        @param author Author of the picture.
+        @param format Format of the picture file, e.g. "jpg".
+        @return FormRepresentation instance.
+        """
+        # Create a Picture instance
+        self.picture = self.create_picture()
+        # Set all attributes
+        if media_type is not None:
+            self.picture.set_mediaType(media_type)
+        if file_name is not None:
+            self.picture.set_fileName(file_name)
+        if author is not None:
+            self.picture.set_author(author)
+        if format is not None:
+            self.picture.set_format(format)
         return self

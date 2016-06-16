@@ -394,3 +394,18 @@ class Lemma(Form):
         self.add_form_representation(form_representation)
         form_representation.set_audio(media_type, file_name, author, quality, start_position, duration, external_reference, audio_file_format)
         return self
+
+    def set_picture(self, media_type, file_name, author, format):
+        """! @brief Set picture resource.
+        Attributes 'mediaType', 'fileName', 'author', 'format' are owned by Material/Audio, which is owned by FormRepresentation.
+        @param media_type The media type to set.
+        @param file_name Name of the picture file.
+        @param author Author of the picture.
+        @param format Format of the picture file, e.g. "jpg".
+        @return Lemma instance.
+        """
+        # Create a FormRepresentation instance
+        form_representation = self.create_form_representation()
+        self.add_form_representation(form_representation)
+        form_representation.set_picture(media_type, file_name, author, format)
+        return self

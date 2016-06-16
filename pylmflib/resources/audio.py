@@ -197,7 +197,7 @@ class Audio(Material):
         return self
 
     def get_audioFileFormat(self):
-        """! @brief Get audio file formay.
+        """! @brief Get audio file format.
         @return Audio attribute 'audioFileFormat'.
         """
         return self.audioFileFormat

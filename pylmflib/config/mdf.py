@@ -112,7 +112,7 @@ mdf_lmf = dict({
     "is" : lambda IS, lexical_entry: lexical_entry.set_semantic_domain(IS), # 'is' is a keyword in Python
     "th" : lambda th, lexical_entry: lexical_entry.set_semantic_domain(th),
     "bb" : lambda bb, lexical_entry: lexical_entry.set_bibliography(bb),
-    "pc" : lambda pc, lexical_entry: None,
+    "pc" : lambda pc, lexical_entry: lexical_entry.set_picture(file_name=pc),
     "nt" : lambda nt, lexical_entry: lexical_entry.set_note(nt, type="general"),
     "np" : lambda np, lexical_entry: lexical_entry.set_note(np, type="phonology"),
     "ng" : lambda ng, lexical_entry: lexical_entry.set_note(ng, type="grammar"),

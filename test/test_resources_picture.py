@@ -19,7 +19,7 @@ class TestPictureFunctions(unittest.TestCase):
         self.assertIsNone(self.picture.mediaType)
         self.assertIsNone(self.picture.fileName)
         self.assertIsNone(self.picture.author)
-        self.assertIsNone(self.picture.filename)
+        #self.assertIsNone(self.picture.filename)
         self.assertIsNone(self.picture.reference)
         self.assertIsNone(self.picture.width)
         self.assertIsNone(self.picture.height)

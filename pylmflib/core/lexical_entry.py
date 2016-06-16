@@ -1097,7 +1097,7 @@ class LexicalEntry():
 
     def set_audio(self, media_type="audio", file_name=None, author=None, quality=None, start_position="T00:00:00", duration=None, external_reference=None, audio_file_format=None):
         """! @brief Set audio resource.
-        Attributes 'mediaType', 'fileName', 'author', 'quality', 'startPosition', 'durationOfEffectiveSpeech', 'externalReference', 'audioFileFormat' are owned by Material/Audio, which is owned by FormRepresentation, itself owend by Lemma.
+        Attributes 'mediaType', 'fileName', 'author', 'quality', 'startPosition', 'durationOfEffectiveSpeech', 'externalReference', 'audioFileFormat' are owned by Material/Audio, which is owned by FormRepresentation, itself owned by Lemma.
         @param media_type The media type to set.
         @param file_name Name of the audio file.
         @param author Author of the recording.
@@ -1112,6 +1112,21 @@ class LexicalEntry():
         if self.lemma is None:
             self.lemma = Lemma()
         self.lemma.set_audio(media_type, file_name, author, quality, start_position, duration, external_reference, audio_file_format)
+        return self
+
+    def set_picture(self, media_type="image", file_name=None, author=None, format=None):
+        """! @brief Set picture resource.
+        Attributes 'mediaType', 'fileName', 'author', 'format' are owned by Material/Picture, which is owned by FormRepresentation, itself owned by Lemma.
+        @param media_type The media type to set.
+        @param file_name Name of the picture file.
+        @param author Author of the picture.
+        @param format Format of the audio file, e.g. "jpg".
+        @return LexicalEntry instance.
+        """
+        # Create a Lemma instance if not yet created
+        if self.lemma is None:
+            self.lemma = Lemma()
+        self.lemma.set_picture(media_type, file_name, author, format)
         return self
 
     def is_subentry(self):
