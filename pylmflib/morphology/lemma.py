@@ -409,3 +409,15 @@ class Lemma(Form):
         self.add_form_representation(form_representation)
         form_representation.set_picture(media_type, file_name, author, format)
         return self
+
+    def set_picture_legend(self, written_form, language=None):
+        """! @brief Set picture legend.
+        Attributes 'writtenForm' and 'language' are owned by Statement, wich is owned by Material/Picture, which is owned by FormRepresentation.
+        @param written_form The legend to set.
+        @param language Language used to write the legend.
+        @return Lemma instance.
+        """
+        # Get last created FormRepresentation instance
+        form_representation = self.get_form_representation(-1)
+        form_representation.set_picture_legend(written_form, language)
+        return self

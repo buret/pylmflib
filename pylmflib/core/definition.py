@@ -137,8 +137,8 @@ class Definition():
         return self.statement
 
     def get_first_statement(self):
-        """! @brief Get the previously registered statement.
-        @return The last element of Definition attribute 'statement'.
+        """! @brief Get the first registered statement.
+        @return The first element of Definition attribute 'statement'.
         """
         if len(self.get_statements()) >= 1:
             return self.get_statements()[0]

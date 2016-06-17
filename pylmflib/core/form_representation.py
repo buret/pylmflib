@@ -377,3 +377,14 @@ class FormRepresentation(Representation):
         if format is not None:
             self.picture.set_format(format)
         return self
+
+    def set_picture_legend(self, written_form, language=None):
+        """! @brief Set picture legend.
+        Attributes 'writtenForm' and 'language' are owned by Statement, wich is owned by Material/Picture.
+        @param written_form The legend to set.
+        @param language Language used to write the legend.
+        @return FormRepresentation instance.
+        """
+        # Set attributes
+        self.picture.set_legend(written_form, language)
+        return self

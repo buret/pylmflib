@@ -4,6 +4,7 @@
 """
 
 from material import Material
+from core.statement import Statement
 from common.range import mediaType_range
 from utils.attr import check_attr_type, check_attr_range
 from utils.io import ENCODING
@@ -93,8 +94,54 @@ class Picture(Material):
         self.format = format
         return self
 
-    def get_audioFileFormat(self):
+    def get_format(self):
         """! @brief Get picture file format.
         @return Picture attribute 'format'.
         """
-        return self.audioFileFormat
+        return self.format
+
+    def create_statement(self):
+        """! @brief Create a Statement instance.
+        @return Statement instance.
+        """
+        return Statement()
+
+    def add_statement(self, statement):
+        """! @brief Add a Statement instance to this Picture instance.
+        @param statemement The Statement instance to add to the Picture instance.
+        @return Picture instance.
+        """
+        self.statement.append(statement)
+        return self
+
+    def get_statements(self):
+        """! @brief Get all Statement instances maintained by this Picture instance.
+        @return A Python list of Statement instances.
+        """
+        return self.statement
+
+    def get_last_statement(self):
+        """! @brief Get the previously registered statement.
+        @return The last element of Picture attribute 'statement'.
+        """
+        if len(self.get_statements()) >= 1:
+            return self.get_statements()[-1]
+
+    def set_legend(self, written_form, language=None):
+        """! @brief Set legend.
+        Attributes 'writtenForm' and 'language' are owned by Statement.
+        @param written_form The legend to set.
+        @param language Language used to write the legend.
+        @return Picture instance.
+        """
+        # Get the last Statement instance if any
+        statement = self.get_last_statement()
+        # If there is no Statement instances, create and add one
+        if statement is None:
+            statement = self.create_statement()
+            self.add_statement(statement)
+        if written_form is not None:
+            statement.set_writtenForm(written_form)
+        if language is not None:
+            language.set_language(language)
+        return self

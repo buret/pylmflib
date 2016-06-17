@@ -1129,6 +1129,19 @@ class LexicalEntry():
         self.lemma.set_picture(media_type, file_name, author, format)
         return self
 
+    def set_picture_legend(self, written_form, language=None):
+        """! @brief Set picture legend.
+        Attributes 'writtenForm' and 'language' are owned by Statement, wich is owned by Material/Picture, which is owned by FormRepresentation, itself owned by Lemma.
+        @param written_form The legend to set.
+        @param language Language used to write the legend.
+        @return LexicalEntry instance.
+        """
+        # Create a Lemma instance if not yet created
+        if self.lemma is None:
+            self.lemma = Lemma()
+        self.lemma.set_picture_legend(written_form, language)
+        return self
+
     def is_subentry(self):
         """! @brief Check if this lexical entry is a subentry.
         @return 'True' if it is a subentry, 'False' otherwise.
