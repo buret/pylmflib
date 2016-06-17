@@ -107,8 +107,8 @@ mdf_lmf.update({
 
     "la"    : lambda la, lexical_entry: lexical_entry.set_citation_form(remove_char(la)),
 
-    # Legend (TODO)
-    "lg"    : lambda lg, lexical_entry: None,
+    # Legend
+    "lg"    : lambda lg, lexical_entry: lexical_entry.set_picture_legend(lg),
 
     "ce"    : lambda ce, lexical_entry: lexical_entry.set_last_related_form(remove_char(ce), language=config.xml.French),
     "cn"    : lambda cn, lexical_entry: lexical_entry.set_last_related_form(cn, language=config.xml.English),
