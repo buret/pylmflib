@@ -105,15 +105,18 @@ def handle_styles(element):
     """Replace:
     - 'fv:xxx' and '|fv{xxx}' by '<span class="vernacular">xxx</span>' ;
     - 'fn:xxx' and '|fn{xxx}' by '<span class="national">xxx</span>' ;
-    - 'fl:xxx' and '|fl{xxx}' by '<i>xxx</i>' ;
-    - 'fi:xxx' and '|fi{xxx}' by '<i>xxx</i>' ;
-    - 'fr:xxx' and '|fr{xxx}' by '<span class="regional">xxx</span>' ;
-    - 'ax:xxx' and '|ax{xxx}' by '<i>xxx</i>' ;
-    - 'fs:xxx' and '|fs{xxx}' by '<span class="regional">xxx</span>'.
+    - 'fl:xxx' and '|fl{xxx}' by '<span class="char_fl">xxx</span>' ;
+    - 'fi:xxx' and '|fi{xxx}' by '<span class="char_fi">xxx</span>' ;
+    - 'fr:xxx' and '|fr{xxx}' by '<span class="char_fr">xxx</span>' ;
+    - 'ax:xxx' and '|ax{xxx}' by '<span class="char_ax">xxx</span>' ;
+    - 'fs:xxx' and '|fs{xxx}' by '<span class="char_fs">xxx</span>';
+    - 'vl:xxx' and '|vl{xxx}' by '<span class="char_vl">xxx</span>';
+    - 'fe:xxx' and '|fe{xxx}' by '<span class="char_fe">xxx</span>';
+    - 'hm:xxx' and '|hm{xxx}' by '<span class="char_hm">xxx</span>'.
     """
     import re
     element.text = element.attrib["val"]
-    styles = ["fv", "fn", "fl", "fi", "fr", "ax", "fs"]
+    styles = ["fv", "fn", "fl", "fi", "fr", "ax", "fs", "vl", "fe", "hm"]
 
     # Initialize loop variable
     children = dict()
@@ -130,17 +133,14 @@ def handle_styles(element):
                 before = result.group(7)
                 text = result.group(8)
                 after = result.group(9)
-            if style == "fv" or style == "fn" or style == "fr" or style == "fs":
-                # Create span
-                new_element = Element("span")
-                if style == "fv":
-                    new_element.attrib["class"] = "vernacular"
-                elif style == "fn":
-                    new_element.attrib["class"] = "national"
-                else: # "fr" or "fs"
-                    new_element.attrib["class"] = "regional"
-            elif style == "fl" or style == "fi" or style == "ax":
-                new_element = Element("i")
+            # Create span
+            new_element = Element("span")
+            if style == "fv":
+                new_element.attrib["class"] = "vernacular"
+            elif style == "fn":
+                new_element.attrib["class"] = "national"
+            else:
+                new_element.attrib["class"] = "char_" + style
             element.text = before
             new_element.text = text
             new_element.tail = after
@@ -174,17 +174,14 @@ def handle_styles(element):
                         before = result.group(7)
                         text = result.group(8)
                         after = result.group(9)
-                    if style == "fv" or style == "fn" or style == "fr" or style == "fs":
-                        # Create span
-                        new_element = Element("span")
-                        if style == "fv":
-                            new_element.attrib["class"] = "vernacular"
-                        elif style == "fn":
-                            new_element.attrib["class"] = "national"
-                        else: # "fr" or "fs"
-                            new_element.attrib["class"] = "regional"
-                    elif style == "fl" or style == "fi" or style == "ax":
-                        new_element = Element("i")
+                    # Create span
+                    new_element = Element("span")
+                    if style == "fv":
+                        new_element.attrib["class"] = "vernacular"
+                    elif style == "fn":
+                        new_element.attrib["class"] = "national"
+                    else:
+                        new_element.attrib["class"] = "char_" + style
                     subelement.tail = before
                     new_element.text = text
                     new_element.tail = after
