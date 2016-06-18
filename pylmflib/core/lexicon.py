@@ -325,6 +325,8 @@ class Lexicon():
                                 related_homonym.append(related_entry)
                     if len(related_homonym) != 1:
                         print Warning("Several lexical entries '%s' exist. Please solve this issue by renaming lexical entries correctly or by precising the homonym number." % related_lexeme.encode(ENCODING))
+                        # Save the 1st found lexical entry anyway
+                        related_form.set_lexical_entry(found_entry[0])
                     else:
                         # Save the found lexical entry
                         related_form.set_lexical_entry(related_homonym[0])
