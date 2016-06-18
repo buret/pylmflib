@@ -160,7 +160,7 @@ mdf_lmf.update({
 
     "pl"    : lambda pl, lexical_entry: lexical_entry.set_paradigm(remove_char(pl), grammatical_number=pd_grammaticalNumber["pl"]),
 
-    "a"     : lambda a, lexical_entry: lexical_entry.set_variant_form(remove_char(a), type="phonetics"),
+    "a"     : lambda a, lexical_entry: None,
     "va"    : lambda va, lexical_entry: lexical_entry.set_variant_form(remove_char(va), type="phonetics"),
     "ph"    : lambda ph, lexical_entry: lexical_entry.set_phonetic_form(remove_char(ph)),
 
