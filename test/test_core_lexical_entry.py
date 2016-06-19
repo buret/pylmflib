@@ -696,8 +696,8 @@ class TestLexicalEntryFunctions(unittest.TestCase):
         commentaire = "etymologie"
         langage = "fra"
         self.assertIs(self.lexical_entry.set_etymology_comment(commentaire, term_source_language=langage), self.lexical_entry)
-        self.assertEqual(self.lexical_entry.sense[0].definition[0].statement[0].etymologyComment, commentaire)
-        self.assertEqual(self.lexical_entry.sense[0].definition[0].statement[0].termSourceLanguage, langage)
+        self.assertEqual(self.lexical_entry.sense[0].definition[0].statement[1].etymologyComment, commentaire)
+        self.assertEqual(self.lexical_entry.sense[0].definition[0].statement[1].termSourceLanguage, langage)
 
     def test_get_etymology_comment(self):
         comment = "etymology"

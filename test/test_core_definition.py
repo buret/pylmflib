@@ -309,8 +309,8 @@ class TestDefinitionFunctions(unittest.TestCase):
         commentaire = "etymologie"
         langage = "fra"
         self.assertIs(self.definition.set_etymology_comment(commentaire, term_source_language=langage), self.definition)
-        self.assertEqual(self.definition.statement[0].etymologyComment, commentaire)
-        self.assertEqual(self.definition.statement[0].termSourceLanguage, langage)
+        self.assertEqual(self.definition.statement[1].etymologyComment, commentaire)
+        self.assertEqual(self.definition.statement[1].termSourceLanguage, langage)
 
     def test_get_etymology_comment(self):
         comment = "etymology"
