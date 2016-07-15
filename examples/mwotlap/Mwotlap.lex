@@ -4278,6 +4278,7 @@ Mwotlap.
 \la ne-bem
 \hm 1
 \ph nɛᵐbɛm
+\pf bem.jpg
 \pc .G.c:\Alex\photoDico\bem.jpg
 \nt .G.c:\Alex\photoDico\bem.jpg;1.2";1.29";JPG
 \ps n
@@ -7679,6 +7680,7 @@ accompagner les danses
 planche.
 \xn We stand up, and the moment the singing begins, we start hitting the board.
 \wr B
+\pf melepup1.jpg
 \pc .G.c:\Alex\photoDico\melepup1.jpg
 \nt .G.c:\Alex\photoDico\melepup1.jpg;1.15";1.72";JPG
 \ps vt
@@ -10732,6 +10734,7 @@ Les langoustes se pêchent la nuit (vl:vahal), à la lumière des torches en pal
 \la na-ga
 \hm 2
 \ph naɣa
+\pf ga.jpg
 \pc .G.c:\Alex\photoDico\ga.jpg
 \nt .G.c:\Alex\photoDico\ga.jpg;1.5";1.73";JPG
 \ps n
@@ -13864,6 +13867,7 @@ convaincant! Enfin, en G7-10 c'est mieux.
 \la na-gtē
 \ph naɣtɪ
 \a gētē
+\pf gte.jpg
 \pc .G.c:\Alex\photoDico\gte.jpg;1";.98";JPG
 \ps n
 \gr nakato
@@ -13918,6 +13922,7 @@ disparue ailleurs.
 \la na-gvēg
 \ph naɣβɪɣ
 \a gēvēg
+\pf gveg.jpg
 \pc .G.c:\Alex\photoDico\gveg.jpg;1.31";1.2";JPG
 \ps n
 \gn apple
@@ -15655,6 +15660,7 @@ bananes ; 2/ (ce sont) ces bananes.
 \la na-ghōw
 \ph naɣhʊw
 \a gōhōw
+\pf ghow.jpg
 \pc .G.c:\Alex\photoDico\ghow.jpg;.87";1";JPG
 \ps n
 \dr
@@ -17274,6 +17280,7 @@ fv:hag et fv:hōw.
 \la na-hay
 \hm 4
 \ph nahaj
+\pf nahay3.jpg
 \pc .G.c:\Alex\photoDico\nahay3.jpg;2.7";3.21";JPG
 \lg La pêche collective à la liane (|vl{na-hay}).
 \ps n
@@ -20191,6 +20198,7 @@ all about it / To put it clearly...
 \lx hōm̄
 \la °na-hōm̄
 \ph nahʊŋ​͡mʷ
+\pf homw.jpg
 \pc .G.c:\Alex\photoDico\homw.jpg;1.6";.74";JPG
 \ps n
 \de poisson récifal
@@ -34493,6 +34501,7 @@ froid intense
 \a motow
 \a na-mtow
 \u nA- mtow[n]
+\pf mtow.jpg
 \pc .G.c:\Alex\photoDico\mtow.jpg;.92";1.4";JPG
 \ps n
 \gr navara
@@ -36365,6 +36374,7 @@ religious scenes in anglican churches
 \lx m̄e
 \la ne-m̄e
 \ph nɛŋ​͡mʷɛ
+\pf mwe.jpg
 \pc .G.c:\Alex\photoDico\mwe.jpg;.95";1.03";JPG
 \ps n
 \gr sisnek
@@ -40190,6 +40200,7 @@ bas’, soit fv:yow ‘vers l'extérieur’.
 \la °na-ō
 \hm 2
 \ph naʊ
+\pf o.jpg
 \pc .G.c:\Alex\photoDico\o.jpg;1.15";.65";JPG
 \ps n
 \nt /na-o/ G5-117
@@ -41747,6 +41758,7 @@ haches en métal.
 \la ne-qet
 \hm 1
 \ph nɛk​͡pʷɛt
+\pf qet.jpg
 \pc .G.c:\Alex\photoDico\qet.jpg;1.29";1.81";JPG
 \ps n
 \gr taro
@@ -41994,6 +42006,7 @@ marquer la familiarité.
 \la na-qyet
 \ph nak​͡pʷjɛt
 \a qeyet
+\pf qyet.jpg
 \pc .G.c:\Alex\photoDico\qyet.jpg;1.2";.53";JPG
 \ps n
 \gr blakbokis
@@ -43066,6 +43079,7 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \lx q[ē]yēn̄i
 \la na-qyēn̄i
 \ph nak​͡pʷjɪŋi
+\pf qyengi2.jpg
 \pc .G.c:\Alex\photoDico\qyengi2.jpg;2.54";1.51";JPG
 \lg |fv{al ne-vet le-qyēn̄i}, on place les pierres sur le four
 \ps n
@@ -46679,6 +46693,7 @@ fl:or the village square fl:or the beach
 \lx sēg
 \la nē-sēg
 \ph nɪsɪɣ
+\pf seg.jpg
 \pc .G.c:\Alex\photoDico\seg.jpg;1.2";1.4";JPG
 \ps n
 \sn 1
@@ -47264,6 +47279,7 @@ population grew there again].
 \lx siok
 \la ni-siok
 \ph nisiɔk
+\pf siok.jpg
 \pc .G.c:\Alex\photoDico\siok.jpg;2.9";1.19";JPG
 \ps n
 \va suok
@@ -50358,6 +50374,7 @@ ombre; il faut la manier avec prudence.
 \la na-tmat
 \ph natmat
 \a tamat
+\pf tmat.jpg
 \pc .G.c:\Alex\photoDico\tmat.jpg;5.7";1.15";JPG
 \lg La danse des esprits (vl:na-tmat)
 \ps n
@@ -53023,6 +53040,7 @@ autrefois des lames d'herminette (fv:na-taqēs).
 \ph natnɛpnʊ
 \wr A
 \ps n
+\pf tnepno.jpg
 \pc .G.c:\Alex\photoDico\tnepno.jpg;2.95";1.32";JPG
 \lg |fv{na-tnepnō Lahlap}, la place du village à Ngerenigmen
 \a tēlepnō
@@ -58288,6 +58306,7 @@ plaît’
 \la °na-tō
 \hm 4
 \ph natʊ
+\pf to.jpg
 \pc .G.c:\Alex\photoDico\to.jpg;.81";.67";JPG
 \ps n
 \rd
@@ -58592,6 +58611,7 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 
 \lx tōy
 \ph tʊj
+\pf balayant.jpg
 \pc .G.c:\Alex\photoDico\balayant.jpg;1.36";1.56";JPG
 \ps vt
 \rd tōytōy
@@ -63622,6 +63642,7 @@ de venir ; |fl{d'où} faire venir, faire aller qqpart
 \lx vētōy
 \la nē-vētōy
 \ph nɪβɪtʊj
+\pf vetoy.jpg
 \pc .G.c:\Alex\photoDico\vetoy.jpg;1.25";.75";JPG
 \ps n
 \gr
@@ -67447,6 +67468,7 @@ losange
 \lx wopyak
 \la no-wopyak
 \ph nɔwɔpjak
+\pf wopyak.jpg
 \pc .G.c:\Alex\photoDico\wopyak.jpg;1.1";1.37";JPG
 \ps n
 \sn 1
@@ -69070,6 +69092,7 @@ tête de narave. ››› CORRECTION : plutôt Womtelo tatoue Anna ??
 \lx w{u}met
 \la nu-wmet
 \ph nuwmɛt
+\pf wUmet.jpg
 \pc .G.c:\Alex\photoDico\wUmet.jpg;1.5";.7";JPG
 \ps n
 \sn 1
@@ -71716,6 +71739,7 @@ pierres avec des feuilles
 \la no-yot
 \ph nɔjɔt
 \a
+\pf toitChaumeNB.jpg
 \pc .G.c:\Alex\photoDico\toitChaumeNB.jpg;1.4";2.1";JPG
 \lg |fv{Tigitgiy no-yot}, installer le toit de chaume
 \ps n

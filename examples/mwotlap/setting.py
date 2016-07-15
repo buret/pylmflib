@@ -136,7 +136,7 @@ mdf_lmf.update({
 
     "sc"    : lambda sc, lexical_entry: lexical_entry.set_scientific_name(remove_char(sc)),
 
-    "pc"    : lambda pc, lexical_entry: lexical_entry.set_picture(file_name=pc, format="jpg"),
+    "pf"    : lambda pf, lexical_entry: lexical_entry.set_picture(file_name=pf, format="jpg"),
 
     # TODO
     "tb"    : lambda tb, lexical_entry: None,
