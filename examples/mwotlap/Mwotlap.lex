@@ -1,5 +1,4 @@
 \_sh v3.0  790  MDFAltMwotlap
-\_DateStampHasFourDigitYear
 
 \lx a
 \hm 1
@@ -29,7 +28,7 @@ tandis que (P2), (P1) et (P2)…
 \xv Kē fr:a ni-hig qal van e, na-hō ni-hōhō.
 \xe À peine l'avait-elle touché, que de la fumée en sortit.
 \xn As soon as her finger touched it, smoke came out of it.
-\sn 2
+\sn 3
 \we dépendant d'un nom
 \de relativiseur, introduisant une proposition relative dépendant d'un nom
 \wn depending on a noun
@@ -46,7 +45,7 @@ tandis que (P2), (P1) et (P2)…
 \lf Syn.
 \lv mey a
 \lv mey
-\sn 3
+\sn 4
 \we entre deux noms
 \wn between two NPs
 \de c'est-à-dire, je veux dire
@@ -68,18 +67,13 @@ tandis que (P2), (P1) et (P2)…
 \un Synt
 \en In principle, the noun phrase that follows fv:a may be understood as a predicate, in which case fv:a should be analysed
 as a subordinator (“X, which is N”).
-\se a so
-\ps ptc
-\gr
-\ge
-\de introduit une explication: c'est-à-dire, je veux dire
-\wn
-\dn introduces an explanation: that is, namely
-\mn a so
-
+\lf Cf.
+\lv a so
+\le c'est-à-dire
+\ln that is
 \nt a lê'm alon ; X mey a nehet ; X a nehet ; CF. a-lon / (avwo) / a'mag / atgiy / (aslil) ; Avnô Lav, A'mot, Avay, Aya... Focalisation "inêk a nêk
 me-...!"; répétition
-\sn 3
+\sn 5
 \we Préd1 vl:a Préd1
 \de construction intensive: ax:litt. “(grand) qui est (grand)”, c-à-d. “très (grand)”, extrêmement
 \wn Pred.1 vl:a Pred.1
@@ -87,7 +81,7 @@ me-...!"; répétition
 \rf Mtp.Fille-Diable.119
 \xv Kēy nō-tōy vel qōn̄: na-wawah a na-wawah. 
 \xe They would clean it every day: it was shiningly clean.
-\sn 4
+\sn 6
 \we structure clivée
 \wn cleft construction
 \de focalisateur, précédant le syntagme non-focal dans une construction clivée de type “c'est X qui P”
@@ -104,7 +98,6 @@ subordonnée de type relative. Cette dernière est typiquement marquée comme d�
 \se
 \wr B
 \ps ptc
-\sn 4
 \we
 \wn
 \de focalisateur, précédant le terme focal ou rhématique
@@ -124,7 +117,7 @@ subordonnée de type relative. Cette dernière est typiquement marquée comme d�
 \nt AP9-44 = kê mal hoyo a {ne-||mal} hoyo
 \nq
 \dc 16/Feb/2006
-\dt 13/Aug/2014
+\dt 02/Jul/2016
 
 \lx a
 \hm 2
@@ -132,12 +125,12 @@ subordonnée de type relative. Cette dernière est typiquement marquée comme d�
 \gr
 \sn
 \we
-\de marque facultative de rhème, précédant un locatif spatial ou temporel (que ce locatif soit prédicatif ou circonstant).
-Souvent allongée [|ph{aːː}] et/ou répétée entre chaque mot du syntagme locatif
+\de marque facultative de rhème, précédant un locatif spatial ou temporel (que ce locatif soit prédicatif ou
+circonstant). Souvent allongée [aːː] et/ou répétée entre chaque mot du syntagme locatif
 \wn
 \rn
-\dn optional focus particle introducing a locative phrase (spatial or temporal). Often lengthened [|ph{aːː}] and/or repeated
-between each constituent within the locative phrase
+\dn optional focus particle introducing a locative phrase (spatial or temporal). Often lengthened [aːː]
+and/or repeated between each constituent within the locative phrase
 \rf
 \xv Nē-vētbē vōyō en tō {fr:a antan} {fr:a le-lo siok en}.
 \xe Il y a deux bouteilles là-dessous, à l'intérieur de la pirogue.
@@ -158,9 +151,10 @@ between each constituent within the locative phrase
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 12/Dec/2013
+\dt 02/Jul/2016
 
 \lx a-
+\hm 3
 \la
 \ps pf
 \rd
@@ -222,7 +216,7 @@ between each constituent within the locative phrase
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 21/Nov/2013
+\dt 02/Jul/2016
 
 \lx aa
 \ph aː
@@ -251,7 +245,7 @@ anen !
 Coup-de-Massue, tu vois ? Eh ben c'est là.
 \xn
 \rf AD7-10
-\xv N-et vitwag a# mi gēn gōh en aa, kē n-ēh laptō! 
+\xv N-et vitwag a– mi gēn gōh en aa, kē n-ēh laptō! 
 \oe conte de fantômes
 \xe Mais cet humain qui est parmi nous, là, il est encore vivant !
 \xn
@@ -272,7 +266,7 @@ pas ?
 \lx aē
 \ph aˈɪ
 \wr A
-\ps adv
+\ps loc
 \gr long_hem
 \ge AdvAna
 \re en ; y
@@ -362,10 +356,10 @@ would draw salt water |fs{with them}]
 \xe Qui te l'a enseigné [ax:litt. qui t'a instruit de cela]?
 \xn Who taught you that [ax:lit. about that]?
 \ue
-\ee Si le complément oblique n'est pas anaphorique, il utilise les prépositions fv:be-|hm{2} fl:ou
-fv:le-|hm{3}.
+\ee Si le complément oblique n'est pas anaphorique, il utilise les prépositions fv:be-2 fl:ou
+fv:le-3.
 \en If the oblique complement includes a noun phrase, the prepositions that correspond to this usage of |fv{aē} are 
-fv:be-|hm{2} fl:or fv:le-|hm{3}.
+fv:be-2 fl:or fv:le-3.
 \nt ADV: togtog aê; trad. Utiliser (yusum): lep X tô yapyap aê...; cf. mê; kê mo-boel aê / kê ni-lawlaw aê.../ ni-qti-k me-het aê (ca me rend
 fou); tog dêmdêm aê; no mal van te mu-k aê; Mota AIA.
 \se
@@ -478,7 +472,7 @@ o.s.’) or a permanent property
 \nq
 \dc 2001 ?
 \dc 21/Oct/2007
-\dt 17/Mar/2013
+\dt 02/Jul/2016
 
 \lx ag
 \la n-ag
@@ -546,14 +540,7 @@ fv:na-ge (d'où rad. fv:ge). Ainsi, fv:bE- + fv:age donne fv:be-ge ‘pour la ch
 \de voiture, véhicule à moteur
 \dn car, motor vehicle
 \lf Empr.
-\lv tarak
-\se n-age voyopyot
-\ps n
-\lt objet pour ronger (le bois)
-\de scie; tronçonneuse
-\dn saw; chainsaw
-\lf Empr.
-\lv jenso
+\lv t[a]rak
 \se n-age leplep hohole
 \ps n
 \lt objet pour prendre les paroles
@@ -620,9 +607,9 @@ fv:hap).
 \xe un motalavien [ax:litt. une chose de Motalava]
 \xn a Motalavian [ax:lit. a thing from Motalava]
 \rf
-\xv Nēk n-age ti-ve? # No n-age te-Pnōlap.
-\xe Tu es originaire d'où? # De Vanua-lava.
-\xn Where are you from? # From Vanua Lava
+\xv Nēk n-age ti-ve? – No n-age te-Pnōlap.
+\xe Tu es originaire d'où? – De Vanua-lava.
+\xn Where are you from? – From Vanua Lava
 \rm P5-50
 \xm Kē nage tekelgi.
 \xf Il provient de l'autre côté.
@@ -649,16 +636,16 @@ probable^ment de la valeur étymologique de fv:age.
 \cf akteg
 \ce faire quoi (vb. interrogatif)
 \el ax:Cf.
-\et i|{_}ge
+\et i-ge
 \nt
 \nq
 \dc 16/Dec/2003
 \dc 04/Jul/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx Agō
 \ph aɣʊ
-\ps loc
+\ps top
 \gr Gaua
 \sd Géo
 \he anc
@@ -671,12 +658,12 @@ probable^ment de la valeur étymologique de fv:age.
 \ee Inclut les villages de Nume, Losalava, et la région de l'actuel aéroport.
 \lf
 \el
-\et <°ˌa|{_}ɣaˈua
+\et <°ˌa-ɣaˈua
 \nt
 \nq
 \dc 05/Feb/2007
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx agōh
 \ph aɣʊh
@@ -944,8 +931,7 @@ symboliques)
 \sy tōqō
 \sn 2
 \he partic
-\de faire des fiançailles, réserver ‹une femme› comme future femme, pour soi-même ou pour
-son fils
+\de faire des fiançailles, réserver ‹une femme› comme sa future épouse, pour soi-même ou pour son fils
 \rf
 \xv ak goy na-lqōvēn
 \xe se fiancer avec une femme, se la réserver (en offrant des présents à ses parents)
@@ -956,7 +942,7 @@ son fils
 \nq
 \dc 2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 17/Jun/2016
 
 \lx akē
 \ph akɪ
@@ -969,7 +955,7 @@ son fils
 à un questionne^ment présent dans le contexte: |fl{d'où} ‘en fait’, ‘eh
 bien en vérité’, ‘en réalité c'est que…’
 \dn Presents the utterance as a revelation, fl:or as an unexpected response to a questioning present in
-the context: |fl{thus}'in fact', 'as a matter of fact', 'actually', 'to be honest'...
+the context: |fl{hence}'in fact', 'as a matter of fact', 'actually', 'to be honest'...
 \gn actually
 \rf
 \xv Gēn a etet higap gēn a le-pnō agōh, akē no-qo kuykuy vitwag aē tege kē!
@@ -981,9 +967,9 @@ c'est qu'il y a par ici un cochon géant!
 \xe J'étais justement en train de chercher mon bébé! |fs{En fait} c'était toi qui l'avais pris?
 \xn I was just looking for my baby! |fs{Actually} was it you who took it?
 \rf
-\xv Qele ave? # Ooh ! Akē ne-men. Ne-men liwo.
-\xe Alors, qu'est-ce que c'était? # |fs{Eh bien en fait}, c'est un oiseau. Un immense oiseau.
-\xn So, what was it? # |fs{Actually} it's a bird. An enormous bird.
+\xv Qele ave? – Ooh ! Akē ne-men. Ne-men liwo.
+\xe Alors, qu'est-ce que c'était? – |fs{Eh bien en fait}, c'est un oiseau. Un immense oiseau.
+\xn So, what was it? – |fs{Actually} it's a bird. An enormous bird.
 \rf alx
 \xv Akē na-wyēt!
 \xe |fs{Ça alors! En fait} c'était une pieuvre!
@@ -1005,7 +991,7 @@ c'est qu'il y a par ici un cochon géant!
 \nq
 \dc 13/Feb/2006
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 21/Jun/2016
 
 \lx akmēhteg
 \ph akmɪhtɛɣ
@@ -1051,7 +1037,7 @@ vexé par ‹qqn›
 
 \lx akteg
 \ph aktɛɣ
-\ps int
+\ps interr
 \rd akakteg
 \gr mekwanem
 \sn 1
@@ -1092,9 +1078,9 @@ ou pour faire-quoi encore?]
 \de que se passe-t-il? qu'arrive-t-il?
 \dn what's happening? what's up?
 \rf
-\xv No-yoy het! # M-akteg?
-\xe Mauvaise nouvelle! # Qu'est-ce qui se passe?
-\xn Bad news! # What's going on?
+\xv No-yoy het! – M-akteg?
+\xe Mauvaise nouvelle! – Qu'est-ce qui se passe?
+\xn Bad news! – What's going on?
 \rf
 \xv Nēk so vasem lō qēt van so na-hap ni-akakteg geh.
 \xe Tu dois me raconter chaque chose qui se passe.
@@ -1107,7 +1093,7 @@ ou pour faire-quoi encore?]
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx akvisileg
 \la
@@ -1181,7 +1167,7 @@ ou pour faire-quoi encore?]
 \de la côte, le littoral (en tant que repère spatial)
 \dn the coast, the seashore (as a spatial reference)
 \rf
-\mn le|hm{2}
+\mn le2
 \nt Mota  lau  seaside, beach
 \nt the seaside opp. the inland, the beach as approached from the land
 \el PNCV
@@ -1197,7 +1183,7 @@ ou pour faire-quoi encore?]
 
 \lx alge
 \ph alɣɛ
-\ps adv
+\ps loc
 \gr antap
 \dr
 \sn 1
@@ -1246,7 +1232,7 @@ contexte donné
 \cf tōk
 \ce ciel
 \nt vêykal hag alge ...
-\et <°á|{_}lakáu
+\et <°á-lakáu
 \el ax:Cf.
 \et l[e]ge
 \nt enjamber
@@ -1259,7 +1245,7 @@ contexte donné
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx alkēt
 \la n-alkēt
@@ -1290,7 +1276,7 @@ Vanua Lava (fv:Apnōlap).
 
 \lx Alkon
 \ph alkɔn
-\ps loc
+\ps top
 \gr Gaua
 \sd Géo
 \sn 1
@@ -1318,12 +1304,12 @@ Vanua Lava (fv:Apnōlap).
 \ee
 \lf
 \el
-\et <°ˌa|{_}laˈgona
+\et <°ˌa-laˈgona
 \nt
 \nq
 \dc 05/Feb/2007
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx alveg
 \ph alβɛɣ
@@ -1345,7 +1331,7 @@ faire un geste pour inviter ‹qqn› à s'approcher
 \el Mota
 \et alovag
 \el PNCV
-\et *ʔalo|{_}vi
+\et *ʔalo-vi
 \el POc
 \et *qalo(p)
 \nt
@@ -1384,7 +1370,7 @@ faire un geste pour inviter ‹qqn› à s'approcher
 
 \lx Amnō
 \ph amnʊ
-\ps loc
+\ps top
 \ge Enfers
 \gn Hell
 \de le Monde des Morts, les Enfers, dans le monde ancien
@@ -1418,7 +1404,7 @@ invisible to the eyes of man.
 \et Panoi
 \el PNCV
 \et *banoi
-\eg volcano, volcanic|{~}ash
+\eg volcano, volcanic ash
 \tl |{tab}|fb{Le monde des Morts} £|{tab}[|vl{Amnō}*]
 Après la mort, l'âme (vl:tale~) de chacun était censée migrer vers un pays mysté^rieux, avant de devenir esprit (fl:Cf. vl:tamat). Cet endroit, d'ailleurs rare^ment mentionné aujourd'hui, est décrit comme un pays sans nourriture et sans eau, un désert stérile. Étymologique^ment, le terme fv:Amnō serait lié au volcan: il est fréquent, en Mélanésie, que le monde des Morts soit localisé sous la terre, dans les profondeurs du monde chtonien.
 Aujourd'hui, la croyance en fv:Amnō a été remplacée par les notions chré^tiennes de Ciel (vl:lemya^yawoy), de Paradis (vl:n-ēh_lap), d'Enfer (vl:l-ep).
@@ -1426,7 +1412,7 @@ Aujourd'hui, la croyance en fv:Amnō a été remplacée par les notions chré^ti
 \nq
 \dc 2001
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx amo
 \la °n-amo
@@ -1502,7 +1488,7 @@ personne qui parle
 
 \lx Amwōyig
 \ph amwʊjiɣ
-\ps loc
+\ps top
 \sd Géo
 \ue Étym
 \ee ‘Les petits tamanous’, cf. fv:bōwōy + fv:yig.
@@ -1525,7 +1511,7 @@ personne qui parle
 \nq
 \dc 17/Dec/2003
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx amyō
 \va atmōyō
@@ -1553,7 +1539,7 @@ personne qui parle
 
 \lx am̄ag
 \ph aŋ​͡mʷaɣ
-\ps adv
+\ps loc
 \gr bifo
 \lf Ant.
 \lv atgiy
@@ -1648,9 +1634,9 @@ personne qui parle
 \nt aMag so nêk van me ; na-vap/kaka/ no-hohole t-aMag ; aMag (l'avant de la pirogue...?)
 \nt cf. tig Mag, wotwot-Mag ; na-Me ; (Mota = Moa-i / Fiji mua)
 \nt // atgiy
-\et <°ˌa-mʷoˈa|{_}ɣa
+\et <°ˌa-mʷoˈa-ɣa
 \el Mota
-\et a|{_}m̄oa
+\et a-m̄oa
 \el PNCV
 \et *muʔa
 \eg before, in front, first
@@ -1660,7 +1646,7 @@ personne qui parle
 \nq
 \dc 20/Dec/2003
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx am̄e
 \la n-am̄e
@@ -1739,11 +1725,11 @@ personne qui parle
 \ee Exclamation à la mode en 2005.
 \lf Syn.
 \lv namnan
-\et <°á-m̄oá|{_}i
+\et <°á-m̄oá-i
 \el Mota
-\et m̄oa|{_}i
+\et m̄oa-i
 \eg first, foremost, principal
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et am̄ag
 \nt
 \nq
@@ -1754,7 +1740,7 @@ personne qui parle
 \lx Am̄ot
 \ph aŋ​͡mʷɔt
 \wr A
-\ps loc
+\ps top
 \gr Mota
 \ge Mota
 \re
@@ -1792,11 +1778,11 @@ d'évangélisation par la “Melanesian Mission” anglicane.
 \nq
 \dc 12/Feb/2006
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx Am̄sēn
 \ph aŋ​͡mʷsɪn
-\ps loc
+\ps top
 \gr Mosina
 \sn
 \ge Mosina
@@ -1822,7 +1808,7 @@ village of Sola (fv:Asol)
 \nq
 \dc 12/Feb/2006
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx anen
 \ph anɛn
@@ -1860,7 +1846,7 @@ partout ailleurs).
 
 \lx anēyēh
 \ph anɪjɪh
-\ps adv
+\ps loc
 \gr lastaem
 \nt *qana- + *norisa ?
 \sn 1
@@ -1895,20 +1881,20 @@ dans le passé.
 \el Mota
 \et anarisa
 \el POc
-\et *[qa|{_}]na|{_}waʀisa
+\et *[qa-]na-waʀisa
 \eg day before yesterday
 \et *waʀisa
 \eg two days from today
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et ōyēh
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx anoy
 \ph anɔj
-\ps adv
+\ps loc
 \gr yestedei
 \sn
 \ge hier
@@ -1925,17 +1911,17 @@ dans le passé.
 \el Mota
 \et ananora
 \el POc
-\et *qa|{_}na|{_}ñoʀap
+\et *qa-na-ñoʀap
 \eg
 \nt
 \nq
 \dc 09/Apr/2006
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx an̄ēh
 \ph aŋɪh
-\ps int
+\ps interr
 \gr wotaem
 \ge quand
 \de quand, à quel moment. Interroge sur le passé (fl:opp. |fv{n̄ēh} ‘quand futur’)
@@ -1950,12 +1936,12 @@ dans le passé.
 \nq
 \dc 24/Oct/2003
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx an̄qōn̄
 \ph aŋk​͡pʷʊŋ
 \wr A
-\ps adv
+\ps loc
 \cf qōn̄
 \sn 1
 \gr naet
@@ -2019,7 +2005,7 @@ nuit}) est rare.
 \re au revoir
 \lt la nuit c'est bien
 \he cour
-\de bonne nuit ! # prononcé en se quittant le soir; fl:par_ext. au revoir, adieu #
+\de bonne nuit ! – prononcé en se quittant le soir; fl:par_ext. au revoir, adieu –
 prononcé en se quittant, quelle que soit la circonstance, lorsqu'on pense ne pas se
 revoir dans la même journée
 \gn
@@ -2055,11 +2041,11 @@ n-aNqôN nêwê mino...
 \nt
 \nq
 \dc 13/Sep/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx Apnōlap
 \ph apnʊlap
-\ps loc
+\ps top
 \sd Géo
 \ge Vanua-Lava
 \lt grande île
@@ -2079,7 +2065,7 @@ avec des liens avec ce territoire et sa population. Un grand nombre de contes, d
 de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua Lava.
 \lf
 \se na-Pnōlap
-\ps n
+\ps top
 \he rare
 \de l'île de Vanua Lava elle-même
 \dn the island of Vanua Lava itself
@@ -2103,7 +2089,7 @@ de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua
 \nq
 \dc 05/Feb/2007
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx apol
 \la n-apol
@@ -2139,7 +2125,7 @@ de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua
 
 \lx apwo~
 \ph apwɔ
-\ps prép
+\ps prep
 \a apwē
 \a apwo
 \dr
@@ -2159,9 +2145,9 @@ de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua
 \de qui dépend de, soumis à la décision de ‹qqn›; incombant à
 \dn depending on, subject to ‹s.o's› decision; incumbent to
 \rf AP5-45
-\xv Dō so van? # Apwē !
-\xe On y va ? # Comme tu veux ! [c'est sur toi]
-\xn Shall we go? # As you like! [it's on you]
+\xv Dō so van? – Apwē !
+\xe On y va ? – Comme tu veux ! [c'est sur toi]
+\xn Shall we go? – As you like! [it's on you]
 \rf AP5-45
 \xv Apwondō ēwē!
 \xe Ça ne dépend que de nous deux ! [c'est sur nous seule^ment]
@@ -2171,7 +2157,7 @@ de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua
 \xe Lui et moi on aurait dû y aller, mais cela dépendait de moi (|ax{i.e.} mais je n'ai pas voulu).
 \xn He and I should have gone there, but it was up to me (|ax{i.e.} but I didn't want to).
 \cf
-\et <°ˌa|{_}βaˈwo
+\et <°ˌa-βaˈwo
 \el PNCV
 \et *vavo
 \el POc
@@ -2180,11 +2166,11 @@ de mythes – notamment celui d'|fv{Iqet} – se déroulent dans l'île de Vanua
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx Aqke
 \ph ak​͡pʷkɛ
-\ps loc
+\ps top
 \gr Pakea
 \sn
 \ge Pakea
@@ -2200,11 +2186,11 @@ village |fv{Qan̄lap}
 \nq
 \dc 12/Feb/2006
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx aqyig
 \ph ak​͡pʷjiɣ
-\ps adv
+\ps loc
 \ge aujourd'hui
 \re
 \de aujourd'hui. Désigne la partie déjà écoulée de la journée, l'aujourd'hui passé (fl:opp.
@@ -2214,18 +2200,18 @@ future)
 \gn today
 \rn
 \dn
-\mr a-|hm{2} |fs{+} q[i]yig
+\mr a-2 + q[i]yig
 \un
 \en
 \nt cf A-, localisé / Realis ; uniquement temporel
 \nq
 \dc 2001
 \dc 09/Apr/2006
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx Asol
 \ph asɔl
-\ps loc
+\ps top
 \gr Sola
 \sn
 \ge Sola
@@ -2241,7 +2227,7 @@ centre of the Torba province
 \nq
 \dc 12/Feb/2006
 \dc 04/Apr/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx at
 \ph at
@@ -2316,7 +2302,7 @@ centre of the Torba province
 \xe Sortant la tête par la porte, il s'écria “Hé! Bonjour, toi!”
 \xn Popping his head around the door, he shouted "Hey! Hello there!"
 \rf
-\xv E# misin te, ni-siok vitwag ni-at lō. 
+\xv E– misin te, ni-siok vitwag ni-at lō. 
 \xe Peu après, un navire apparut à l'horizon.
 \xn A little later, a ship appeared on the horizon.
 \cf yay
@@ -2356,7 +2342,7 @@ centre of the Torba province
 \he spéc
 \de suggère une coïncidence entre la référence déictique et le contexte du
 discours: |fl{d'où} (voilà) justement, précisément
-\dn suggests a coincidence between the deictic reference and the speech context: |fl{thus} (there)
+\dn suggests a coincidence between the deictic reference and the speech context: |fl{hence} (there)
 exactly, precisely
 \rf AP9-16
 \xv Ipluk gōh kē no-togtog namun a ate le-pnō a nēk me-leg aē en.
@@ -2366,18 +2352,18 @@ exactly, precisely
 \xv “Takle ingon” ate agōh.
 \xe Le mois d'août, c'est juste^ment mainte^nant.
 \xn The month of August, it's right now.
-\mr at|fs{ + }e
+\mr at + e
 \sy ete
 \el
 \nt
 \nq
 \dc 14/Sep/2002
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx atgiy
 \ph atɣij
-\ps adv
+\ps loc
 \gr bihaen
 \lf Ant.
 \lv am̄ag
@@ -2407,14 +2393,14 @@ exactly, precisely
 \xe Les objets des Blancs ne sont arrivés que bien plus tard.
 \xn The White men's objects arrived much later.
 \et <°á-taɣúru
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *takuʀu
 \eg s.o.'s back
 \nt
 \nq
 \dc 17/Dec/2003
 \dc 30/Mar/2008
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx atmētēl
 \ph atmɪtɪl
@@ -2470,7 +2456,7 @@ exactly, precisely
 \lx ave
 \ph aβɛ
 \wr A
-\ps int
+\ps interr
 \sn 1
 \ge où
 \re où
@@ -2504,10 +2490,10 @@ mey ave itôk? (=lequel?)
 \xn What's the name of this mountain? [ax:lit. where is it?]
 \tl  |{tab}|fb{L'obsession du lieu}  [|vl{ave}*]
 Les questions portant sur la localisation sont extrême^ment fréquentes à Mwotlap, comme dans tout le Pacifique. Les rencontres sur le chemin donnent systémati^que^ment lieu à des formules comme |vl{Nēk ma-van tō ave ?} |fe{D'où viens-tu comme ça ?} ou |vl{Nēk so van ave ?} |fe{Où vas-tu comme ça ?} ; il est générale^ment facile de deviner les activités correspondantes. 
-De toute personne, on se demande d'où elle est originaire (|vl{nage tive ?}), de quel village. Lors d'un mariage, l'origine géographique de l'épouse a bien plus d'importance que son nom: |vl{Kē me-leg ave ? # Kē me-leg Toglag.} |fe{Il s'est marié avec quelqu'un d'où [fl:litt. il s'est marié où] ? # Du village de Toglag}.
+De toute personne, on se demande d'où elle est originaire (|vl{nage tive ?}), de quel village. Lors d'un mariage, l'origine géographique de l'épouse a bien plus d'importance que son nom: |vl{Kē me-leg ave ? – Kē me-leg Toglag.} |fe{Il s'est marié avec quelqu'un d'où [fl:litt. il s'est marié où] ? – Du village de Toglag}.
 Enfin, la plupart des contes et légendes sont riches en toponymes, et ancrés dans des lieux extrême^ment précis: on précise toujours où les personnages ont laissé des traces de leur passage, dans le paysage contemporain.
 \se qele ave
-\ps int
+\ps interr
 \dr olsem wanem
 \lt comme où
 \re
@@ -2516,7 +2502,7 @@ Enfin, la plupart des contes et légendes sont riches en toponymes, et ancrés d
 \sd
 \mn qele ave
 \se mey ave
-\ps int
+\ps interr
 \ge
 \re
 \lt celui qui est où ?
@@ -2534,7 +2520,7 @@ fi:lequel)
 \en
 \sy mey qele ave
 \se
-\ps adv
+\ps loc
 \wr B
 \de quelque part ; où que ce soit. Adverbe de lieu, indéfini non-spécifique (fl:opp. fv:ave-qiyig
 ‘quelque part’ indéfini spécifique)
@@ -2547,7 +2533,7 @@ fi:lequel)
 \et *pea
 
 \dc 14/Sep/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ayme
 \la °n-ayme
@@ -2578,7 +2564,7 @@ tantôt en fv:na-yme (d'où rad. fv:yme)
 
 \lx Ayō
 \ph ajʊ
-\ps loc
+\ps top
 \gr Roua
 \ge Roua
 \de îles Roua fl:ou ‘Reef Is’, auj. inhabitées, au nord-ouest de Mwotlap
@@ -2611,7 +2597,7 @@ celebration requires a huge catch of fish.
 \nq
 \dc 2000
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ba
 \hm 1
@@ -2638,8 +2624,8 @@ savoir)…’
 fv:ba_so. Translates 'yes, but (remains to be seen)...
 \rf
 \xv N-et vitwag hay alon anen; ba so iyē?
-\xe Il y a quelqu'un là-dedans # oui, mais qui cela peut-il bien être?
-\xn There's someone in there # yes, but who might that be?
+\xe Il y a quelqu'un là-dedans – oui, mais qui cela peut-il bien être?
+\xn There's someone in there – yes, but who might that be?
 \rf
 \xv Na-hapqiyig n̄itn̄it no agōh, ba so na-hap?
 \xe Je sens quelque chose qui me picote, mais qu'est-ce que cela peut bien être?
@@ -2690,9 +2676,9 @@ la préposition fv:lE-.
 \dr dei long manis, date
 \sd Tps
 \rf
-\xv Kōyō te-leg la-ba vēvēh ? |{endash} La-ba vōyō.
-\xe Quelle sera la date du mariage ? |{endash} Le deux.
-\xn What day will they get married ? |{endash} The second (day of the month)
+\xv Kōyō te-leg la-ba vēvēh ? – La-ba vōyō.
+\xe Quelle sera la date du mariage ? –Le deux.
+\xn What day will they get married ? – The second (day of the month)
 \ee Empr. au bislama fn:namba (angl. fi:number), lequel a été resegmenté en fv:na-ba, avec
 /b/ prénasalisé. Pour l'énoncé des dates, on a parfois toute une séquence en bislama:
 fn:Julae_namba_fiftin, ‘le 15 juillet’.
@@ -2704,7 +2690,7 @@ fn:Julae_namba_fiftin, ‘le 15 juillet’.
 \nq
 \dc 20/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx baēy
 \ph ᵐbaˈɪj
@@ -3011,7 +2997,7 @@ come.
 \xe J'ai fini de travailler.
 \xn I've finished working.
 \se
-\ps adp
+\ps adv
 \wr C
 \sn 1
 \ge
@@ -3023,7 +3009,7 @@ come.
 \xe J'ai fini de travailler.
 \xn I've finished working.
 \rf
-\xv Kē ni-teteh, te#h; teh bah en, taq bat.
+\xv Kē ni-teteh, te–h; teh bah en, taq bat.
 \oe en récit
 \xe Il se mit à tailler (sa pirogue); lorsqu'il eut fini de tailler, il se cacha.
 \xn He began to cut out (his canoe); once he'd finished carving, he hid himself.
@@ -3039,7 +3025,7 @@ come.
 \xe Ça y est, tu as déjà fait ta toilette?
 \xn You've already washed?
 \se
-\ps adv
+\ps loc
 \wr D
 \gr
 \ge
@@ -3081,7 +3067,7 @@ au magasin}’ = |fv{Nok van fr:bah li-sto} fr:en fl:ou |fv{Nok van li-sto fr:ba
 \nq
 \dc 17/Dec/2003
 \dc 26/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx bahne
 \ph ᵐbahnɛ
@@ -3131,13 +3117,13 @@ au magasin}’ = |fv{Nok van fr:bah li-sto} fr:en fl:ou |fv{Nok van li-sto fr:ba
 \rf
 \lf Ant.
 \lv totogyeg
-\mr bahne|fs{ + }-gi
+\mr bahne + -gi
 \el
 \nt
 \nq
 \dc 15/Oct/2003
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx bak
 \la na-bak
@@ -3287,7 +3273,7 @@ méchante: salaud
 \rn
 \dn hard-shelled, non-edible fish, bsl. fn:Boksfis
 \so Marina
-\rf AP4-15; Récifs #227
+\rf AP4-15; Récifs –227
 \sd Pois
 \sn 2
 \ge valise
@@ -3340,7 +3326,7 @@ tenailler; couper avec des ciseaux (ili~) > humour?; sexuel: serrer
 \et pala
 \eg wattle, take up with/between two sticks...
 \el PNCV
-\et *bala|{_}ti
+\et *bala-ti
 \eg wattled structure
 \nt
 \nq
@@ -3443,7 +3429,7 @@ fv:bak_yon̄_vagal Ce motif rappelle l'impor^tance rituelle, dans la société a
 cochon tué ; il est égale^ment associé à la guerre.
 \en
 \sd Art
-\nt Expo 1996 p.338, fig.334
+\pc Expo 1996 p.338, fig.334
 \rf AG4-120
 \xv
 \cf
@@ -3460,7 +3446,7 @@ cochon tué ; il est égale^ment associé à la guerre.
 \la na-balbe~
 \ph naᵐbalᵐbɛ
 \hm
-\ps nop
+\ps n.poss
 \pdl 1s
 \pdv na-balbe-k
 \pdl 3s
@@ -3531,19 +3517,19 @@ horizontales disposées en colonnes
 \cf vēn̄
 \ce hachurer
 \el
-\et <°ˌbaleˈba|{_}
+\et <°ˌbaleˈba-
 \el ax:Cf.
 \et belem
 \nt
 \nq
 \dc 2000
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx balse~
 \la na-balse~
 \ph naᵐbalsɛ
-\ps nop
+\ps n.poss
 \pdl 1s
 \pdv na-balse-k
 \pdl 3s
@@ -3557,16 +3543,16 @@ horizontales disposées en colonnes
 \sd Anat
 \rf
 \cf
-\et <°ˌbalaˈsa|{_}
+\et <°ˌbalaˈsa-
 \el PNCV
 \et *balase
 \eg jawbone (of pig)
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et balas
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx bastō
 \ph ᵐbastʊ
@@ -3639,7 +3625,7 @@ sister.
 \xe [le signal secret] le mot de passe
 \xn [the secret signal] the password
 \se
-\ps adp
+\ps adv
 \wr B
 \rd batbat
 \gr haed
@@ -3656,7 +3642,7 @@ sister.
 \xe se tenir debout à l'intérieur (de la maison)
 \xn stand up inside (the house)
 \rf
-\xv kal|fs{*} bat
+\xv kal bat
 \xe [avancer vers l'intérieur] entrer
 \xn [go forward towards the interior] enter
 \rf
@@ -3719,7 +3705,7 @@ qqpart
 \nq
 \dc 17/Dec/2003
 \dc 17/Sep/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx baw
 \la na-baw
@@ -3762,7 +3748,7 @@ qqpart
 \rf AG7-4
 \so Edgar + livre Poiss-NC-NH (p.75)
 \nt Edgar appelle ainsi “Lutjanus fulviflamma”, ainsi que (?) “Lutjanus bohar” (p.37)…
-\nt cf. mota "no|{_}salite", a fish
+\nt cf. mota "no-salite", a fish
 \el Mota
 \et pawa
 \eg Serranus
@@ -3782,7 +3768,7 @@ qqpart
 \a bō-
 \a bu-
 \a b-
-\ps prép
+\ps prep
 \ge pour
 \re
 \gn for
@@ -3844,7 +3830,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \xf Ca c'est pour enregistrer nos paroles.
 \xa
 \rm D17-2
-\xm “John kōyō a# Vētiboso, kēy be-leg !”
+\xm “John kōyō a– Vētiboso, kēy be-leg !”
 \ee
 \nt L'emploi verbal passe-t-il par une nominalisation, ou s'agit-il directement du verbe ?
 
@@ -3863,7 +3849,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \xr From wanem ia ?
 \rm
 \xm
-\ee
+\ee 
 
 \sn 4
 \ge
@@ -3936,7 +3922,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \nq
 \dc 02/Sep/2001
 \dc 17/Sep/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx bebe
 \ph ᵐbɛᵐbɛ
@@ -3978,7 +3964,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \rn
 \dn
 \so Moses
-\rf AG4-119; AGRC #308
+\rf AG4-119; AGRC –308
 \sd Pois
 \el Mota
 \et pepeso
@@ -4036,7 +4022,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 
 \lx Bekyepnō
 \ph ᵐbɛkjɛpnʊ
-\ps loc
+\ps top
 \gr Solomon
 \ge
 \re Salomon (îles)
@@ -4055,7 +4041,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \nq
 \dc 07/Feb/2007
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx bel
 \hm 1
@@ -4076,7 +4062,7 @@ père. [même sans consommation; même avec le consentement de la fille]
 ē-gēn.
 \xf Si tu cries le nom d'un ami tout près de cet arbre (fv:na-nay), alors les esprits s'emparent du nom de ton ami.
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (faire V) furtivement, en cachette
@@ -4090,7 +4076,7 @@ père. [même sans consommation; même avec le consentement de la fille]
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx bel
 \la ne-bel
@@ -4112,7 +4098,7 @@ père. [même sans consommation; même avec le consentement de la fille]
 \xe Et c'est de cette façon qu'ils comprirent que l'oiseau qui avait mangé leurs bananes, c'était une Poule
 sultane.
 \xn And this is how they understood that the bird that had eaten their bananas was a Purple Swamphen.
-\nt Son nom lui attribue une réputation de voleur (fv:bel|hm{1}): un conte étiologique explique
+\nt Son nom lui attribue une réputation de voleur (fv:bel1): un conte étiologique explique
 comment cet oiseau volait les bananes d'autrui.
 \en
 \sd Ornith
@@ -4151,7 +4137,7 @@ comment cet oiseau volait les bananes d'autrui.
 \hm 1
 \la °na-mle~
 \ph namlɛ
-\ps nop
+\ps n.poss
 \1s na-mle-k
 \3s na-mla-n
 \sn 1
@@ -4212,7 +4198,7 @@ faire) / ça convient parfaitement!
 \nq sens de Na-MLEK???
 \dc 10/Feb/2006
 \dc 26/Oct/2007
-\dt 31/May/2010
+\dt 02/Jul/2016
 
 \lx b[e]lebiy
 \ph ᵐbɛlɛᵐbij
@@ -4292,7 +4278,7 @@ Mwotlap.
 \la ne-bem
 \hm 1
 \ph nɛᵐbɛm
-\pc bem.jpg
+\pc .G.c:\Alex\photoDico\bem.jpg
 \nt .G.c:\Alex\photoDico\bem.jpg;1.2";1.29";JPG
 \ps n
 \sn 1
@@ -4330,7 +4316,7 @@ dominantes jaunes
 empr.} fv:bōk)
 \sy no-yobem
 
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *bebe
 \eg butterfly; chaetodon, cobblerfish
 \nt
@@ -4579,9 +4565,9 @@ specified by a verb
 \ee
 \nt origine des rivières à Mwotlap > encadré ?
 \lf Syn.
-\lv qoyo bē
-\cf siyip
-\cf qēlēs bē
+\lv na-qyo bē
+\cf s[i]yip
+\cf q[ē]lēs bē
 \sn 3
 \he rare
 \he poét
@@ -4602,11 +4588,11 @@ lymphatic liquid, volcanic lava), or because the name must be avoided
 \xe [l'eau du volcan] la lave
 \xn [water from the volcano] lava
 \rf
-\xv nē-bē |fs{(}qagqag|fs{)} non ige tam̄an
+\xv nē-bē (qagqag) non ige tam̄an
 \xe [l'eau (blanche) des hommes] le sperme (ax:syn. vl:mōy).
 \xn [men's (white) water] sperm (ax:syn. vl:mōy).
 \cf lig
-\cf gili~
+\cf g[i]li~
 \ce jus, liquide, humeur
 \se nē-bē qōnqōn
 \ps n
@@ -4627,7 +4613,7 @@ lymphatic liquid, volcanic lava), or because the name must be avoided
 \nq
 \dc 25/Jun/2002
 \dc 17/Sep/2007
-\dt 26/Aug/2011
+\dt 02/Jul/2016
 
 \lx bē
 \hm 2
@@ -4766,7 +4752,7 @@ taches bicolores (fl:cf. fçs ‘léopard’): tacheté, rayé
 \pdv na-mnē-k
 \pdl 3s
 \pdv na-mne-n
-\ps nop
+\ps n.poss
 \gr hand
 \ge main
 \gn hand
@@ -4859,9 +4845,9 @@ tes pieds "sont mortes dans tes mains!"; vey X = tendre la main ;
 forme rédupliquée fv:bēnēmnē~.
 \lf
 \cf
-\et <°bané|{_}
+\et <°bané-
 \el Mota
-\et pane|{_}i
+\et pane-i
 \el PNCV
 \et *bani
 \eg arm, wing, armlet
@@ -4872,13 +4858,13 @@ forme rédupliquée fv:bēnēmnē~.
 \nq
 \dc 23/Dec/2003
 \dc 17/Sep/2007
-\dt 25/Aug/2011
+\dt 02/Jul/2016
 
 \lx b[ē]nēmnē~
 \la na-mnēmnē~
 \ph namnɪmnɪ
 \hm
-\ps nop
+\ps n.poss
 \pdl 3s
 \pdv na-mnemne-n
 \ge
@@ -4909,7 +4895,7 @@ métaphorique^ment des mains en nombre supérieur à deux
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx bēnwar
 \la nē-bēnwar
@@ -5041,14 +5027,14 @@ aux langues étran^gères, fl:spéc. au pidgin bislama
 \dn mix two languages; fl:esp. introduce borrowings from foreign languages, fl.esp. from bislama
 \rf AP9-25
 \xv Ige yatkelgi kēy vap so ‘nē-plēn’, ba ne-het, veg kēy bigtōw ēwē.
-\xe Certains disent vl:nē-plēn (<|{~}ax:ang. plane), mais ce n'est pas bien, car ils mélangent les langues.
-\xn Some say vl:nē-plēn (<|{~}ax:Eng. plane), but it's not good, because it mixes languages.
+\xe Certains disent vl:nē-plēn (< ax:ang. plane), mais ce n'est pas bien, car ils mélangent les langues.
+\xn Some say vl:nē-plēn (< ax:Eng. plane), but it's not good, because it mixes languages.
 \rf
 \ee
 \el Mota
 \et pig tou
 \eg eat cocoa-nut and almonds together
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et big
 \nt
 \nq
@@ -5170,7 +5156,7 @@ aux langues étran^gères, fl:spéc. au pidgin bislama
 \ur qqn
 \de se joindre à ‹qqn› au cours d'une activité; |fl{d'où} assister, aider,
 rendre un service
-\dn join s.o during an activity; |fl{thus} assist, help, oblige
+\dn join s.o during an activity; |fl{hence} assist, help, oblige
 \rf
 \xv Nēk te-myin̄ vēh no, si?
 \xe Tu peux m'aider, s'il te plaît?
@@ -5188,18 +5174,18 @@ rendre un service
 \xe Ce truc ne sert à rien. [ax:litt. ça n'aide pas l'homme]
 \xn This thing is useless [ax:lit. this doesn't help man]
 \rf
-\xv Vēwē nēk. # Tateh, kē ne-myin̄.
+\xv Vēwē nēk. – Tateh, kē ne-myin̄.
 \oe formule de politesse
-\xe Merci. # De rien; si ça peut rendre service… [ax:litt. Ça aide]
-\xn Thanks. # That's OK; if it's of any help... [ax:lit. That helps]
+\xe Merci. – De rien; si ça peut rendre service… [ax:litt. Ça aide]
+\xn Thanks. – That's OK; if it's of any help... [ax:lit. That helps]
 \lf
 \se biyin̄
 \wr B
-\ps adp
+\ps adv
 \gr
 \de (faire V) pour aider ‹qqn›; (faire V) en se joignant à ‹qqn›, |fl{d'où}
 avec ‹qqn›
-\dn (do V) to help s.o; (do V) by joining s.o, |fl{thus} with s.o
+\dn (do V) to help s.o; (do V) by joining s.o, |fl{hence} with s.o
 \rf AP5-38
 \xv Nok so tēytēy biyin̄ nēk hay?
 \xe Tu veux que je t'aide à rentrer tes affaires? [transporter aider toi]
@@ -5214,7 +5200,7 @@ avec ‹qqn›
 \nq
 \dc 24/Oct/2003
 \dc 04/Apr/2007
-\dt 26/Feb/2011
+\dt 02/Jul/2016
 
 \lx bo
 \ph ᵐbɔ
@@ -5749,7 +5735,7 @@ Après avoir “détaché l'ombilic” (|vl{tuw bōt}*), la tante creuse un trou
 
 \lx bōy
 \ps vi
-\rd #bōybōy
+\rd –bōybōy
 \gr solap
 \sn 1
 \hn
@@ -5808,7 +5794,7 @@ Après avoir “détaché l'ombilic” (|vl{tuw bōt}*), la tante creuse un trou
 \sn 2
 \dn (be ~ become) chubby, in a positive way; fl:hence healthy, well-fed; sturdily built
 \rf
-\xv Na-tayben Vēnvēntey e kē mi-lwo ēgēn, kē mō-lōmgep a hēywē! Kē mō-bōybōy, a# na-tayben mē-wē a mē-wē a
+\xv Na-tayben Vēnvēntey e kē mi-lwo ēgēn, kē mō-lōmgep a hēywē! Kē mō-bōybōy, a– na-tayben mē-wē a mē-wē a
 mē-wē!
 \xe
 \xn Vēnvēntey grew up, and became a young man. He was now a sturdy boy, with a perfect body!
@@ -5903,7 +5889,7 @@ dans la rade!
 \ph nimɣu
 \a bugu
 \a mgu
-\ps nop
+\ps n.poss
 \gr sin
 \dr
 \ge péché
@@ -5929,7 +5915,7 @@ dans la rade!
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 04/Mar/2011
+\dt 02/Jul/2016
 
 \lx bul
 \ph ᵐbul
@@ -5958,9 +5944,9 @@ Especially as a predicate: 'form a group of'
 \xe la Bande des Dix
 \xn the Gang of Ten
 \rf
-\xv Kimi bul vēh? # Kamtēl bul tēl.
-\xe Vous serez combien? # Nous serons trois.
-\xn How many will you be?# There'll be three of us.
+\xv Kimi bul vēh? – Kamtēl bul tēl.
+\xe Vous serez combien? – Nous serons trois.
+\xn How many will you be?– There'll be three of us.
 \rf
 \xv Na-tmat vitwag bah en, me hiy, bul yōnegi.
 \oe numéral ordinal
@@ -5989,9 +5975,9 @@ garçons’.
 \et pul
 \eg prefix with numbers of persons
 \el PNCV
-\et *bulu|{_}ti
+\et *bulu-ti
 \eg sticky stuff, to stick to; be friends with
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et qul
 \nt
 \nq
@@ -6107,7 +6093,7 @@ interdit de prononcer publique^ment le nom de mon fv:bulsal_vogon.
 \el Mota
 \et pun
 \el PNCV
-\et *bunu|{_}ʔi
+\et *bunu-ʔi
 \eg kill, extinguish
 \el POc
 \et *punuq
@@ -6188,7 +6174,7 @@ de l'eau médicinale.
 \el Mota
 \et pupus
 \el PNCV
-\et *bubu|{_}si
+\et *bubu-si
 \eg puff, blow
 \el POc
 \et *pusi
@@ -6223,7 +6209,7 @@ femmes, du fait de sa connotation sexuelle .
 \el PNCV
 \et *bisu
 \eg finger
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et qēt-buhu~
 \nt illustrer
 \nq
@@ -6332,7 +6318,7 @@ Polynésiennes)
 se mouvoir; |fl{d'où} grimper (vers le haut) fl:ou se laisser glisser (vers le
 bas) le long de qqch
 \dn hang on, cling on to something high up (fl:e.g. liana, rope +) to help oneself to move;
-|fl{thus} climb (up) fl:or slide down something 
+|fl{hence} climb (up) fl:or slide down something 
 \rf (alx)
 \xv Damdam egal tog van la-gayga agōh!
 \xe Essaye donc de grimper le long de cette corde.
@@ -6346,7 +6332,7 @@ sol.
 \he métph
 \de ‘se raccrocher’ à qqch devant soi, le prendre comme point de repère pour se
 mouvoir; |fl{d'où} se diriger par rapport à (+Locatif), suivre
-\dn 'hang on' to s.th in front of oneself, take it as a landmark to move; |fl{thus} head for (+
+\dn 'hang on' to s.th in front of oneself, take it as a landmark to move; |fl{hence} head for (+
 locative), follow
 \rf AP9-45
 \xv Tētē nōnōm ma-dam goy na-yn̄ēk.
@@ -6377,7 +6363,7 @@ locative), follow
 \he
 \de se déplacer en prenant ‹qqch› comme point de repère; |fl{d'où} suivre
 ‹qqch›; emprunter ‹chemin, moyen de transport› pour se déplacer
-\dn move away, taking ‹s.th› as a landmark; |fl{thus} follow ‹s.th›; take ‹route, means
+\dn move away, taking ‹s.th› as a landmark; |fl{hence} follow ‹s.th›; take ‹route, means
 of transport› to get about
 \rf
 \rm
@@ -6404,7 +6390,7 @@ in that direction.
 \he
 \de marcher dans les pas de, suivre ‹qqn›; |fl{d'où} venir avec,
 accompagner, se joindre à ‹qqn› dans son déplacement fl:ou son activité
-\dn follow in ‹s.o.'s› footsteps, follow ‹s.o.›; |fl{thus} come with, accompany, join ‹s.o.› in
+\dn follow in ‹s.o.'s› footsteps, follow ‹s.o.›; |fl{hence} come with, accompany, join ‹s.o.› in
 his moves fl:or his activity
 \rf
 \xv So ne-welan so ni-van ave e, kē ni-dam kē.
@@ -6441,7 +6427,7 @@ his moves fl:or his activity
 \nq
 \dc 01/Mar/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx dawdaw
 \ph ⁿdawⁿdaw
@@ -6482,7 +6468,7 @@ his moves fl:or his activity
 \lx day
 \hm 1
 \ph ⁿdaj
-\ps adp
+\ps adv
 \rd
 \gr wet
 \sn
@@ -6522,7 +6508,7 @@ his moves fl:or his activity
 \nq
 \dc 17/Dec/2003
 \dc 04/Apr/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx day
 \la na-day
@@ -6582,7 +6568,7 @@ his moves fl:or his activity
 
 \lx dayday
 \ph ⁿdajⁿdaj
-\ps adp
+\ps adv
 \rd
 \gr
 \sn
@@ -6601,7 +6587,7 @@ his moves fl:or his activity
 \nq
 \dc 17/Dec/2003
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx del
 \ph ⁿdɛl
@@ -6722,7 +6708,7 @@ les dizaines des unités
 \lx den
 \ph ⁿdɛn
 \wr A
-\ps prép
+\ps prep
 \ge Abl
 \re de
 \de Ablatif…
@@ -6750,7 +6736,7 @@ les dizaines des unités
 \nq
 \dc 19/Jun/2002
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx den̄
 \ph ⁿdɛŋ
@@ -6809,7 +6795,7 @@ les dizaines des unités
 
 \lx den̄hel
 \ph ⁿdɛŋhɛl
-\ps adp                                      
+\ps adv                                      
 \re
 \we après V de position, spéc. vl:tig ‘debout’
 \de de travers, de guingois
@@ -6825,12 +6811,12 @@ les dizaines des unités
 \nq
 \dc 14/Sep/2002
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx d[e]ye~
 \la na-nye~
 \ph nanjɛ
-\ps nop
+\ps n.poss
 \3s na-nya-n
 \sn 1
 \he arch
@@ -6851,7 +6837,7 @@ les dizaines des unités
 \dn rust
 \cf tele
 \ce métal
-\et <°ˌna daˈra|{_}
+\et <°ˌna daˈra-
 \el PNCV
 \et *daʀa
 \el POc
@@ -6862,7 +6848,7 @@ les dizaines des unités
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx dēlan̄
 \la nē-dēlan̄
@@ -6893,7 +6879,7 @@ les dizaines des unités
 \u dēln̄e~
 \u dēln̄e~ -(m)
 \a dēln̄a
-\ps nop
+\ps n.poss
 \rd
 \gr sorai
 \nt
@@ -6938,12 +6924,12 @@ les dizaines des unités
 \nq
 \dc 09/Sep/2002
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx d{ē}lo~
 \la nē-nlo~
 \ph nɪnlɔ
-\ps nop
+\ps n.poss
 \1s nē-nlē-k
 \3s nē-nlo-n
 \gr nek
@@ -6972,12 +6958,12 @@ les dizaines des unités
 \nq
 \dc 21/Oct/2003
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx dēlse~
 \la nē-dēlse~
 \ph nɪⁿdɪlsɛ
-\ps nop
+\ps n.poss
 \1s nē-dēlse-k
 \3s nē-dēlsa-n
 \sn 1
@@ -7001,14 +6987,14 @@ les dizaines des unités
 \nq
 \dc 28/Feb/2004
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx dēm
 \ph ⁿdɪm
 \a dēmdēm
 \u dēm (2)
 \ps vt
-\rd dēmdēm|fs{*}
+\rd dēmdēm
 \gr tingting
 \ge penser
 \sn 1
@@ -7058,7 +7044,7 @@ mind
 \nq
 \dc 20/Dec/2003
 \dc 01/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx dēm liwo
 \ph ⁿdɪm liwɔ
@@ -7160,14 +7146,14 @@ mind
 \sy dēm sas
 \an lolqōn̄
 \lf Cf.
-\lv lo~ |ax{[2]}
+\lv lo~2
 \le mémoire
 \el
 \nt
 \nq
 \dc 12/Feb/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx dēm meh
 \ph ⁿdɪm mɛh
@@ -7208,7 +7194,7 @@ mind
 \re
 \de laisser tomber ‹un souci›, passer l'éponge sur ‹une querelle› ; oublier
 volon^taire^ment; |fl{d'où} pardonner
-\dn forget ‹a worry›, wipe the slate clean over ‹a quarrel› ; purposely forget; |fl{thus} forgive
+\dn forget ‹a worry›, wipe the slate clean over ‹a quarrel› ; purposely forget; |fl{hence} forgive
 \rf
 \rf AP5-61
 \xv Nēk galeg a so nēk may dēm veteg na-haphap a kē ma-galeg tō van hiy nēk.
@@ -7231,7 +7217,7 @@ volon^taire^ment; |fl{d'où} pardonner
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 06/Mar/2011
+\dt 21/Jun/2016
 
 \lx dēmap
 \ph ⁿdɪmap
@@ -7252,7 +7238,7 @@ volon^taire^ment; |fl{d'où} pardonner
 \xe De nos jours, on n'accorde plus guère de respect à la tradition.
 \xn These days, hardly anyone respects tradition any more.
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (agir) respectueusement, avec respect
@@ -7282,7 +7268,7 @@ volon^taire^ment; |fl{d'où} pardonner
 \nq
 \dc 12/Feb/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx dēmdēm
 \ph ⁿdɪmⁿdɪm
@@ -7596,7 +7582,7 @@ idiomatic, proper
 \nt étym?
 \se dēwdēw
 \wr B
-\ps adp
+\ps adv
 \gr
 \ge
 \de
@@ -7609,7 +7595,7 @@ idiomatic, proper
 \nq
 \dc 19/Oct/2003 + 05/Aug/2006
 \dc 04/Oct/2007
-\dt 27/Jan/2014
+\dt 02/Jul/2016
 
 \lx d[ē]yē
 \ph ⁿdɪjɪ
@@ -7693,7 +7679,7 @@ accompagner les danses
 planche.
 \xn We stand up, and the moment the singing begins, we start hitting the board.
 \wr B
-\pc melepup1.jpg
+\pc .G.c:\Alex\photoDico\melepup1.jpg
 \nt .G.c:\Alex\photoDico\melepup1.jpg;1.15";1.72";JPG
 \ps vt
 \gr
@@ -7879,15 +7865,15 @@ cette sépara^tion intérieure.
 \rf AP4-53
 \xv Kē mi-diy mat nō-wōqōl hohole mino.
 \oe jeu vl:tōqōl_hohole
-\xe Il a joué-tué (fs:cf. “touché-coulé”) mon cauri-à-parole ! (i.e. il a réussi à atteindre ma bille, si bien
-que je dois me taire maintenant)
-\xn He played-killed (fs:cf. "hit and sink") my talking cauri! (i.e. he succeeded in touching my marble, so
-I must keep quiet now)
+\xe Il a joué-tué (ax:cf. “touché-coulé”) mon cauri-à-parole ! (i.e. il a réussi à atteindre ma bille, si bien que je
+dois me taire maintenant)
+\xn He played-killed (ax:cf. "hit and sink") my talking cauri! (i.e. he succeeded in touching my marble, so I
+must keep quiet now)
 \mt
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 06/Mar/2011
+\dt 21/Jun/2016
 
 \lx diy
 \la °na-diy
@@ -7945,7 +7931,7 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \xn The healer drinks water without swallowing it.
 \cf
 \el PNCV
-\et *dolo|{_}mi
+\et *dolo-mi
 \nt
 \nq
 \dc 31/Mar/2007
@@ -7993,7 +7979,7 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \xf ...
 \lf
 \se doydoy goy
-\ps vi
+\ps vt
 \gr
 \ge
 \lt résonner en retour
@@ -8011,7 +7997,7 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \nq
 \dc 10/Nov/2006
 \dc 31/Mar/2007
-\dt 06/Mar/2011
+\dt 21/Jun/2016
 
 \lx dō
 \la nō-dō
@@ -8074,9 +8060,9 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \rf
 \nt sujet = variante brève dô
 \nt
-\et <°da|{_}rúa
+\et <°da-rúa
 \el PNCV
-\et *kida|{_}rua
+\et *kida-rua
 \eg nous deux
 \nt
 \nq
@@ -8204,9 +8190,9 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \xn While she swept, she began to sing a song in the language of Iqet.
 \tb §TIT§ |fb{Lexique du chant}   [|vl{n-eh}*]
 |{tab}|fv{n-eh}     |{tab}chant, chanson
-|{tab}|fv{na-he~}|hm{2}  |{tab}chant en l'honneur de qqn
+|{tab}fv:na-he~2  |{tab}chant en l'honneur de qqn
 |{tab}|fv{tow}     |{tab}composer
-|{tab}|fv{se}|hm{2}       |{tab}chanter [†]
+|{tab}fv:se2       |{tab}chanter [†]
 |{tab}|fv{qētlen̄}|{tab}chanter [‡]
 |{tab}|fv{hēgeg}  |{tab}entonner
 |{tab}|fv{nō-tōti eh}*|{tab}incipit; genre
@@ -8234,8 +8220,8 @@ fv:na-syē^syē; fv:rōvi^nēvē^sēgme; fv:no-towhiy; fv:vawelop; fv:wōisē^w�
 styles de chants, il faut ajouter les divers styles de danses qui leur corres^pondent (fl:cf.
 fv:laklak).
 \tl |{tab}|fb{Les chants coutumiers} £|{tab}[|vl{n-eh}* |vl{liwo}]
-Reconnaissables à leurs lentes mélodies vibrées et solen^nelles, les chants coutumiers (|vl{n|{_}eh liwo}, |vl{n|{_}eh kastom}) ne sont pas récités en langue mwotlap, mais dans le dialecte littéraire dit langue d'Iqet (fl:cf. |vl{Iqet}*), impéné^trable au commun des mortels. Ils sont composés par des poètes profes^sion^nels, grâce à leur savoir-faire poétique (fl:cf. |vl{towtow}*), et aussi un certain talent surnaturel (|vl{na-man}*).
-Ces chants peuvent être chantés a capella (|vl{qētqēt^len̄}) ou accompa^gnés de percus^sions (fl:ex. |vl{na|{_}wha}*, |vl{no|{_}koy}*); dans ce dernier cas, ce sont plutôt des chants à danser (vl:n-eh_ba-laklak). Certains chants importants durent jusqu'à vingt minutes; c'est notam^ment le cas des odes de prestige, compo^sées en l'honneur d'un notable (fl:cf. |vl{he~}|hm{2}*). Ils sont réservés aux grandes occasions, d'impor^tance religieuse ou politique.
+Reconnaissables à leurs lentes mélodies vibrées et solen^nelles, les chants coutumiers (|vl{n-eh liwo}, |vl{n-eh kastom}) ne sont pas récités en langue mwotlap, mais dans le dialecte littéraire dit langue d'Iqet (fl:cf. |vl{Iqet}*), impéné^trable au commun des mortels. Ils sont composés par des poètes profes^sion^nels, grâce à leur savoir-faire poétique (fl:cf. |vl{towtow}*), et aussi un certain talent surnaturel (|vl{na-man}*).
+Ces chants peuvent être chantés a capella (|vl{qētqēt^len̄}) ou accompa^gnés de percus^sions (fl:ex. |vl{na-wha}*, |vl{no-koy}*); dans ce dernier cas, ce sont plutôt des chants à danser (vl:n-eh_ba-laklak). Certains chants importants durent jusqu'à vingt minutes; c'est notam^ment le cas des odes de prestige, compo^sées en l'honneur d'un notable (fl:cf. vl:he~2). Ils sont réservés aux grandes occasions, d'impor^tance religieuse ou politique.
 
 \se n-eh qētqētlen̄
 \ps n
@@ -8267,7 +8253,7 @@ Au contraire des chants coutumiers, les chansons modernes (|vl{n-eh stirin̄ban}
 musiques tradition^nelles de Mwotlap sont des rythmes à danser; elles sont désignées par
 le terme fv:na-wha, ou par le nom de la danse. Il n'y a pas d'autre terme générique pour
 désigner la ‘musique’.
-\et <°na|{~}ási
+\et <°na ási
 \el Mota
 \et as
 \eg a song
@@ -8457,7 +8443,7 @@ de coco, le coco germé, le pandanus sauvage (fv:nē-gēy), le Barringtonia (fv:
 \xn The two bamboos are [lying] on the ground in the canoe.
 \nt engoy; en tô! enday;
 \se en tō
-\ps adv
+\ps loc
 \we + déictique
 \de en ce moment, dans cette situation
 \dn at the moment, in this situation
@@ -8470,7 +8456,7 @@ de coco, le coco germé, le pandanus sauvage (fv:nē-gēy), le Barringtonia (fv:
 \xe Les choses étant ce qu'elles sont, tu devrais attendre un peu avant de redescendre.
 \xn In these circumstances, you should wait a lilttle before going back down.
 \lf Cf.
-\lv tō|hm{2}
+\lv tō2
 \el PNCV
 \et *ʔeno
 \el POc
@@ -8479,7 +8465,7 @@ de coco, le coco germé, le pandanus sauvage (fv:nē-gēy), le Barringtonia (fv:
 \nq
 \dc 19/Dec/2003
 \dc 05/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx en goy
 \ph ɛn ɣɔj
@@ -8489,7 +8475,7 @@ de coco, le coco germé, le pandanus sauvage (fv:nē-gēy), le Barringtonia (fv:
 \lt être allongé-bloquer
 \de être étendu de manière à empêcher l'accès à ‹qqch› (pour qqn,
 fv:den): |fl{d'où} recouvrir, cacher; faire obstacle
-\dn lying down so as to bar the way to ‹s.th› (s.o, fv:den): |fl{thus} cover, hide; form an obstacle
+\dn lying down so as to bar the way to ‹s.th› (s.o, fv:den): |fl{hence} cover, hide; form an obstacle
 \rf AP5-11
 \xv Na-m̄at m-en goy na-mtehal en.
 \xe Le serpent était allongé en travers de la route.
@@ -8512,7 +8498,7 @@ fv:den): |fl{d'où} recouvrir, cacher; faire obstacle
 \nq
 \dc 17/Oct/2003
 \dc 04/Apr/2007
-\dt 06/Mar/2011
+\dt 21/Jun/2016
 
 \lx en hiy
 \ph ɛn hij
@@ -8530,13 +8516,15 @@ fv:den): |fl{d'où} recouvrir, cacher; faire obstacle
 \xe Les enfants (se) sont déjà couchés.
 \xn The children have already gone to bed.
 \lf Cf.
-\lv hiy|hm{1} |fs{(2)}
+\lv hiy1
+\le (2)
+\ln (2)
 \el
 \nt
 \nq
 \dc 19/Dec/2003
 \dc 03/Apr/2006
-\dt 06/Mar/2011
+\dt 02/Jul/2016
 
 \lx ep
 \la n-ep
@@ -8751,7 +8739,7 @@ indefinite)
 \ge
 \we + (vl:bE- +) nom d'action
 \de personne qui a l'habitude de (faire V); |fl{d'où} forme les noms d'agent
-\dn someone used to (doing V); |fl{thus} forms names of agent
+\dn someone used to (doing V); |fl{hence} forms names of agent
 \rf AP5-61
 \xv Nok et- n-et be-qneqneg te.
 \xe Moi je ne suis pas quelqu'un de jaloux.
@@ -8829,7 +8817,7 @@ position de complément.
 \nq
 \dc 17/Dec/2003
 \dc 06/Jul/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx et
 \hm 2
@@ -8916,7 +8904,7 @@ they like you?]
 \ps vt
 \lt voir enlever
 \de examiner de manière sélective; |fl{d'où} choisir, sélectionner
-\dn examine in a selective manner: |fl{thus} choose, select
+\dn examine in a selective manner: |fl{hence} choose, select
 \rf AP5-31
 \xv Ige lōqōvēn kēy et yak galgalsi na-mtevōn ige tam̄an.
 \xe (en Europe, pour se choisir un mari) Les femmes observent soigneusement le caractère des hommes.
@@ -8925,7 +8913,7 @@ they like you?]
 \nq
 \dc 19/Jun/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx et-
 \hm 3
@@ -8941,13 +8929,13 @@ they like you?]
 \ue Synt
 \ee fv:Et- n'existe pas seul. En revanche, il disparaît parfois (fl:cf. fçs fe:ne dans |fe{ne… pas}).
 \lf Cf.
-\lv tit-|hm{2}
-\le fv:te-|hm{2} + fv:et-|hm{3}
+\lv tit-2
+\le fv:te-2 + fv:et-3
 \tb §TIT§ fb:Morphèmes_discontinus_de_négation
-  fv:et V fv:te|hm{2}|{tab}je ne fais pas / je n'ai pas fait
+  fv:et V fv:te2|{tab}je ne fais pas / je n'ai pas fait
   fv:et V fv:qete|{tab}je n'ai pas encore fait
   fv:et V fv:si fv:te|{tab}je ne fais plus
-  fv:tit V fv:te|hm{2}|{tab}je ne ferai pas [Futur]
+  fv:tit V fv:te2|{tab}je ne ferai pas [Futur]
   fv:tit V fv:vēh-te|{tab}je ne peux pas faire [Pot.]
 
 \se et-… te
@@ -9015,7 +9003,7 @@ the predicative syntagm (verb, noun, etc.), and replace the affirmative aspect m
 \xv Kem et- vanvan si te l-ēm̄yon̄.
 \xe Nous ne fréquentons plus telle^ment l'église.
 \xn We no longer go much to church.
-\ee fv:Si est un allomorphe de fv:se|hm{1} ‘encore’
+\ee fv:Si est un allomorphe de fv:se1 ‘encore’
 \nt
 \nq
 \dc 26/Oct/2007
@@ -9100,7 +9088,7 @@ presque toujours corrélé à un déictique en fin d'énoncé.
 \he spéc
 \de suggère une coïncidence entre la référence déictique et le contexte du
 discours: |fl{d'où} (voilà) justement, précisément
-\dn suggests a coincidence between the deictic reference and the speech context: |fl{thus} (that's)
+\dn suggests a coincidence between the deictic reference and the speech context: |fl{hence} (that's)
 exactly (it), precisely
 \rf
 \xv Ohoo, ete, kē no-togtog van agōh.
@@ -9117,7 +9105,7 @@ exactly (it), precisely
 \nq
 \dc 14/Sep/2002
 \dc 04/Apr/2007
-\dt 08/Mar/2011
+\dt 21/Jun/2016
 
 \lx etet
 \la n-etet
@@ -9216,7 +9204,7 @@ to-M̄otlap en.
 \lt s'occuper grand
 \de prendre soin de ‹enfant› jusqu'à ce qu'il devienne grand, |fl{d'où}
 élever, éduquer
-\dn take care of ‹child› until he becomes an adult, |fl{thus} bring up, educate
+\dn take care of ‹child› until he becomes an adult, |fl{hence} bring up, educate
 \rf
 \rm
 \xm Kōyō m-etgoy liwo kē, dēn̄ a n-ēte nonon son̄wul.
@@ -9245,7 +9233,7 @@ to-M̄otlap en.
 \nq
 \dc 20/Dec/2003
 \dc 26/Oct/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx etsas
 \ph ɛtsas
@@ -9433,13 +9421,13 @@ d'exclamation
 \rf
 \xv
 \xe
-\mr ē-|fs{ + }agōh
+\mr ē- + agōh
 \el
 \nt
 \nq
 \dc 03/Feb/2007
 \dc 31/Mar/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēanen
 \ph ɪanɛn
@@ -9453,13 +9441,13 @@ d'exclamation
 \rf
 \xv
 \xe
-\mr ē-|fs{ + }anen
+\mr ē- + anen
 \el
 \nt
 \nq
 \dc 03/Feb/2007
 \dc 31/Mar/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēg
 \la n-ēg
@@ -9546,7 +9534,7 @@ forme |fv{ē-nōk} est employée en milieu de phrase, ou en fin de question; la 
 |fv{ē-gēn}, beaucoup plus fréquente, l'est en fin d'assertion ou d'exclamation. Cette forme
 |fv{ē-gēn} est prononcée avec une intonation caractéristique (haut + moyen).
 \lf
-\mr ē-|fs{ + }gēn
+\mr ē- + gēn
 \sn 1
 \ge
 \we fonctionnement déictique
@@ -9618,7 +9606,7 @@ came crashing on the coast.
 \nq
 \dc 27/Jan/2007
 \dc 06/Oct/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēglal
 \ph ɪɣlal
@@ -9633,9 +9621,9 @@ came crashing on the coast.
 \dn know, know ‹s.th, s.o.›; know (that, fv:so + Prop.)
 \gn know
 \rf
-\xv Nēk n-ēglal so imam mino ave? # Óòó, nok et-ēglal te.
-\xe Sais-tu où se trouve mon père? # Non, je ne sais pas.
-\xn Do you know where my father is? # No, I don't.
+\xv Nēk n-ēglal so imam mino ave? – Óòó, nok et-ēglal te.
+\xe Sais-tu où se trouve mon père? – Non, je ne sais pas.
+\xn Do you know where my father is? – No, I don't.
 \rm
 \xm Nēk n-ēglal, si nēk et-ēglal te?
 \xf Tu sais, ou tu ne sais pas?
@@ -9685,12 +9673,13 @@ came crashing on the coast.
 \xe Tu comprends?/Tu vois?
 \xn Do you understand?/Do you see?
 \lf Cf.
-\lv lep |fs{[A9]}
+\lv lepA
+\le (9)
 \se
 \ps vi
 \wr B
 \ue Synt
-\ee Avec complément oblique: fv:be|{_}; fl:ou fv:hiy; fl:ou adv. fv:aē.
+\ee Avec complément oblique: fv:be-; fl:ou fv:hiy; fl:ou adv. fv:aē.
 \sn 1
 \de s'y connaître, avoir les idées claires (sur qqch, fv:hiy); être à l'aise sur tel sujet
 \dn know about, have clear ideas (about s.th, fv:hiy); feel at ease about s.th
@@ -9706,7 +9695,7 @@ language of Ikpwet]; then they can compose their song.
 \xf
 \sn 2
 \he rare
-\de avoir l'habitude (de qqch, fv:be|{_})
+\de avoir l'habitude (de qqch, fv:be-)
 \dn be used to (s.th, fv:be{_})
 \rf AP9-56
 \xv No et-ēglal meh te be-mwumwu a haghag misin en.
@@ -9718,7 +9707,7 @@ language of Ikpwet]; then they can compose their song.
 \nq
 \dc 14/Feb/2007
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ēgōh
 \ph ɪɣʊh
@@ -9731,7 +9720,7 @@ language of Ikpwet]; then they can compose their song.
 \ee Le fonctionnement est parallèle aux déictiques spatiaux correspondants (fv:gōh
 fl:vs fv:agōh). La forme |fv{ē-gōh} est employée en milieu de phrase, ou en fin de
 question; la forme |fv{ē-agōh} l'est en fin d'assertion ou d'exclamation.
-\mr ē-|fs{ + }gōh
+\mr ē- + gōh
 \sn 1
 \ge
 \re
@@ -9776,7 +9765,7 @@ question; la forme |fv{ē-agōh} l'est en fin d'assertion ou d'exclamation.
 \nq
 \dc 27/Jan/2007
 \dc 31/Mar/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēh
 \ph ɪh
@@ -10124,7 +10113,7 @@ etc.)
 \ee Le fonctionnement est parallèle aux déictiques spatiaux correspondants (fv:nen
 fl:vs fv:anen). La forme |fv{ē-nen} est employée en milieu de phrase, ou en fin de
 question; la forme |fv{ē-anen} l'est en fin d'assertion ou d'exclamation.
-\mr ē-|fs{ + }nen
+\mr ē- + nen
 \sn 1
 \ge
 \re
@@ -10170,7 +10159,7 @@ sommes mariés)} fl:vs |vl{Ignik ēanen.} |fe{Voici ma femme (je la veux!)}.
 \nq
 \dc 27/Jan/2007
 \dc 31/Mar/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēnōk
 \ph ɪnʊk
@@ -10184,13 +10173,13 @@ d'énoncé
 \rf
 \xv
 \xe
-\mr ē-|fs{ + }nōk
+\mr ē- + nōk
 \el
 \nt
 \nq
 \dc 03/Feb/2007
 \dc 31/Mar/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēntēl
 \ph ɪntɪl
@@ -10220,7 +10209,7 @@ lui/elle
 \xe [ax:litt. nous-trois maman] nous deux avec maman; toi, moi et maman
 \nt forme tonique (i)dêtêl
 \nt
-\et <°ˌida|{_}ˈtolu
+\et <°ˌida-ˈtolu
 \el PNCV
 \et *kida-tolu
 \eg nous trois
@@ -10364,7 +10353,7 @@ avec son ventre}’
 
 \lx ētog
 \ph ɪtɔɣ
-\ps adp
+\ps adv
 \dr
 \ge goûter
 \re
@@ -10380,17 +10369,17 @@ d'un arbre : inaugurer
 \xv gen ētog ni-hnag
 \xe goûter à la nouvelle récolte d'ignames
 \xn taste the new harvest of yams
-\cf lō |fs{(5)}
-\ce être le premier à, inaugurer
-\cn be the first to, inaugurate
+\cf lō1
+\ce (5) être le premier à, inaugurer
+\cn (5) be the first to, inaugurate
 \cf egal
 \ce essayer
 \cn try
-\nt + tog|hm{3} ??
+\nt + tog3 ??
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 08/Mar/2011
+\dt 02/Jul/2016
 
 \lx ēvet
 \la n-ēvet
@@ -10453,7 +10442,7 @@ to accompany dancing.
 \ph nɪwɛ
 \a ēwe
 \a ēwa
-\ps n
+\ps n.poss
 \ge fruit
 \gn fruit
 \3s n-ēwa-n
@@ -10517,7 +10506,7 @@ to accompany dancing.
 \xf (après avoir coupé une bûche et s'y être assis) “J'ai trouvé son fruit !” (i.e. mon derrière)
 \xn
 \el Mota
-\et wia|{_}i
+\et wia-i
 \eg
 \el PNCV
 \et *vua
@@ -10526,7 +10515,7 @@ to accompany dancing.
 \nt
 \nq
 \dc 07/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ēwē
 \ph ɪwɪ
@@ -10557,7 +10546,7 @@ to accompany dancing.
 \ee En fonction d'épithète, ‘bon’ se dit fv:wē fl:ou fv:ēwē; en fonction de prédicat, fv:nēwē
 (analysable en fv:nē-wē ou fv:n-ēwē), ou plus souvent fv:itōk.
 \se
-\ps adp
+\ps adv
 \wr B
 \ge seulement
 \re seulement
@@ -10565,7 +10554,7 @@ to accompany dancing.
 \re juste (simplement)
 \gn only
 \rn
-\nt êwê (rien de plus, jugement) # vêlês / heleg (rien d'autre) ; vôyô woy êwê ; nusu êwê ; nakaka
+\nt êwê (rien de plus, jugement) – vêlês / heleg (rien d'autre) ; vôyô woy êwê ; nusu êwê ; nakaka
 êwê ; tatal êwê ; no mêwêl yak êwê; Etym: wê ? ; dans OU hors du SV.
 \he cour
 \de seule^ment, simple^ment, sans plus. Restrictif qualitatif, orientant
@@ -10608,10 +10597,10 @@ etc.
 \xm No ma-hag qaqa ēwē l-ēm̄.
 \xf Je me suis contenté de rester chez moi sans rien faire [je suis seule^ment resté bête^ment à la maison].
 \rf
-\xv Nēk so van ave? # Ohoo, tateh, nok tatal ēwē.
+\xv Nēk so van ave? – Ohoo, tateh, nok tatal ēwē.
 \oe salutation
-\xe Tu vas où? # Nulle part, je me promène simple^ment, comme ça.
-\xn Where're you going? # Nowhere, I'm just going for a walk.
+\xe Tu vas où? – Nulle part, je me promène simple^ment, comme ça.
+\xn Where're you going? – Nowhere, I'm just going for a walk.
 \rm th-270
 \xm Ne-mgaysēn, ni-hnag gōh no ma-fraenem ēwē.
 \xf Désolé, ce plat d'igname c'est juste une friture (et non cuit au four).
@@ -10632,7 +10621,7 @@ nō-wōh.} ‘|fe{Ils boivent exclusive^ment du lait de coco}’.
 \nq
 \dc 2002
 \dc 07/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ēy
 \la n-ēy
@@ -10743,7 +10732,7 @@ Les langoustes se pêchent la nuit (vl:vahal), à la lumière des torches en pal
 \la na-ga
 \hm 2
 \ph naɣa
-\pc ga.jpg
+\pc .G.c:\Alex\photoDico\ga.jpg
 \nt .G.c:\Alex\photoDico\ga.jpg;1.5";1.73";JPG
 \ps n
 \ge kava
@@ -10831,22 +10820,22 @@ de fi:y
 \xe tes bananes (à manger).
 \xn your bananas (to eat)
 \cf gen
-\nt |{tab}1sg|{tab}ub:kis|{tab}|{tab}mon |{tab}2sg|{tab}ub:gôm|{tab}|{tab}ton
-|{tab}3sg|{tab}fv:gan|{tab}|{tab}son |{tab}1ex-du|{tab}|fv{ga(n)mamyō}|{tab}notre
-|{tab}1ex-tr|{tab}|fv{ga(n)mamtēl}|{tab}notre |{tab}1ex-pl|{tab}|fv{ga(n)mem}|{tab}notre
-|{tab}1in-du|{tab}fv:gandō   |{tab}notre |{tab}1in-tr|{tab}fv:gantēl   |{tab}notre
-|{tab}1in-pl|{tab}fv:gangēn |{tab}notre
-\nt |{tab}2du|{tab}|fv{ga(n)mōyō}|{tab}votre |{tab}2tr|{tab}|fv{ga(n)mētēl}|{tab}votre
-|{tab}2pl|{tab}|fv{ga(n)mi}|{tab}votre |{tab}3du|{tab}fv:gayō|{tab}|{tab}leur
-|{tab}3tr|{tab}fv:gaytēl|{tab}|{tab}leur |{tab}3pl|{tab}fv:gay|{tab}|{tab}leur
-\nt |{tab}1sg|{tab}ub:kis|{tab}my |{tab}2sg|{tab}ub:gôm|{tab}your
-|{tab}3sg|{tab}fv:gan|{tab}his/her |{tab}1ex-du|{tab}|fv{ga(n)mamyō}|{tab}our
-|{tab}1ex-tr|{tab}|fv{ga(n)mamtēl}|{tab}our |{tab}1ex-pl|{tab}|fv{ga(n)mem}|{tab}our
-|{tab}1in-du|{tab}fv:gandō|{tab}our |{tab}1in-tr|{tab}fv:gantēl|{tab}our
-|{tab}1in-pl|{tab}fv:gangēn|{tab}our |{tab}2du|{tab}|fv{ga(n)mōyō}|{tab}your
-|{tab}2tr|{tab}|fv{ga(n)mētēl}|{tab}your |{tab}2pl|{tab}|fv{ga(n)mi}|{tab}your
-|{tab}3du|{tab}fv:gayō|{tab}their |{tab}3tr|{tab}fv:gaytēl|{tab}their
-|{tab}3pl|{tab}fv:gay|{tab}their
+\nt |{tab} 1sg|{tab}ub:kis|{tab}|{tab}mon |{tab} 2sg|{tab}ub:gôm|{tab}|{tab}ton
+|{tab} 3sg|{tab}fv:gan|{tab}|{tab}son |{tab} 1ex-du|{tab}|fv{ga(n)mamyō}|{tab}notre
+|{tab} 1ex-tr|{tab}|fv{ga(n)mamtēl}|{tab}notre |{tab} 1ex-pl|{tab}|fv{ga(n)mem}|{tab}notre
+|{tab} 1in-du|{tab}fv:gandō   |{tab}notre |{tab} 1in-tr|{tab}fv:gantēl   |{tab}notre
+|{tab} 1in-pl|{tab}fv:gangēn |{tab}notre
+\nt |{tab} 2du|{tab}|fv{ga(n)mōyō}|{tab}votre |{tab} 2tr|{tab}|fv{ga(n)mētēl}|{tab}votre
+|{tab} 2pl|{tab}|fv{ga(n)mi}|{tab}votre |{tab} 3du|{tab}fv:gayō|{tab}|{tab}leur
+|{tab} 3tr|{tab}fv:gaytēl|{tab}|{tab}leur |{tab} 3pl|{tab}fv:gay|{tab}|{tab}leur
+\nt |{tab} 1sg|{tab}ub:kis|{tab}my |{tab} 2sg|{tab}ub:gôm|{tab}your
+|{tab} 3sg|{tab}fv:gan|{tab}his/her |{tab} 1ex-du|{tab}|fv{ga(n)mamyō}|{tab}our
+|{tab} 1ex-tr|{tab}|fv{ga(n)mamtēl}|{tab}our |{tab} 1ex-pl|{tab}|fv{ga(n)mem}|{tab}our
+|{tab} 1in-du|{tab}fv:gandō|{tab}our |{tab} 1in-tr|{tab}fv:gantēl|{tab}our
+|{tab} 1in-pl|{tab}fv:gangēn|{tab}our |{tab} 2du|{tab}|fv{ga(n)mōyō}|{tab}your
+|{tab} 2tr|{tab}|fv{ga(n)mētēl}|{tab}your |{tab} 2pl|{tab}|fv{ga(n)mi}|{tab}your
+|{tab} 3du|{tab}fv:gayō|{tab}their |{tab} 3tr|{tab}fv:gaytēl|{tab}their
+|{tab} 3pl|{tab}fv:gay|{tab}their
 
 \sn 2
 \he fig
@@ -10915,7 +10904,7 @@ fv:ga-tqav, fv:ga-sēsē, fv:ga-qiy
 \sd Bot
 \cf gayga
 \ce
-\el North|{_}V
+\el North-V
 \et °ɣa[w]e
 \eg
 \el PNCV
@@ -10965,7 +10954,7 @@ fv:ga-tqav, fv:ga-sēsē, fv:ga-qiy
 \et gapane
 \el PNCV
 \et *kabani
-\eg sail|{~}(n)
+\eg sail (n)
 \nt
 \nq
 \dc 19/Jun/2002
@@ -11251,7 +11240,7 @@ es censé en connaître la réponse’.
 \ps vt
 \de
 \ue
-\ee Lien incertain avec fv:gal|hm{1} ‘mentir’.
+\ee Lien incertain avec fv:gal1 ‘mentir’.
 \sn 1
 \ge
 \re
@@ -11311,7 +11300,7 @@ es censé en connaître la réponse’.
 \lv mōtō
 \se gala
 \wr B
-\ps adp
+\ps adv
 \gr
 \de de la droite vers la gauche
 \dn from right to left
@@ -11324,7 +11313,7 @@ es censé en connaître la réponse’.
 \nq
 \dc 09/Feb/2006
 \dc 31/Mar/2007
-\dt 09/Mar/2011
+\dt 02/Jul/2016
 
 \lx galeg
 \ph ɣalɛɣ
@@ -11464,9 +11453,9 @@ es censé en connaître la réponse’.
 \re
 \lt mentir drôle
 \de jouer la comédie, faire du théâtre pour faire rire le public; fl:par_ext.
-donner une représen^tation théâtrale, comique ou non # fl:ex. à l'église
+donner une représen^tation théâtrale, comique ou non – fl:ex. à l'église
 \dn act, play a part to amuse the public; fl:by_ext. give a comical or serious theatrical performance
-#fl:e.g. in church
+–fl:e.g. in church
 \rf AP9-3
 \xv na-hye galgal m̄aya
 \oe mod
@@ -11495,7 +11484,8 @@ donner une représen^tation théâtrale, comique ou non # fl:ex. à l'église
 \xe Nous parlons à leur insu, nous complotons contre eux.
 \xn We talk behind their backs, we plot against them.
 \lf Cf.
-\lv goy |ax{[13]}
+\lv goy
+\le (13)
 \se
 \ps vt
 \wr B
@@ -11510,11 +11500,11 @@ donner une représen^tation théâtrale, comique ou non # fl:ex. à l'église
 \nq
 \dc 03/Apr/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx galsi
 \ph ɣalsi
-\ps adp
+\ps adv
 \rd galgalsi
 \gr gut
 \ge bien
@@ -11547,7 +11537,7 @@ donner une représen^tation théâtrale, comique ou non # fl:ex. à l'église
 \nq
 \dc 19/Oct/2003
 \dc 08/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx gam
 \ph ɣam
@@ -11720,7 +11710,7 @@ go off for a few days to the local Ayô island to catch hundreds of these fv:na-
 \so Edgar + livre Poiss-NC-NH
 \el Mota
 \et ganase
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kanase
 \nt
 \nq
@@ -11729,7 +11719,7 @@ go off for a few days to the local Ayô island to catch hundreds of these fv:na-
 
 \lx ganwon
 \ph ɣanwɔn
-\ps adp
+\ps adv
 \gr
 \nt AP9-42: *ganwôn
 \sn 1
@@ -11757,7 +11747,7 @@ go off for a few days to the local Ayô island to catch hundreds of these fv:na-
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 09/Jul/2011
+\dt 02/Jul/2016
 
 \lx gap
 \la na-gap
@@ -11874,7 +11864,7 @@ go off for a few days to the local Ayô island to catch hundreds of these fv:na-
 \lf
 \url C:\Alex\Photos\Selections\2003-Tree-album\Plants-album (115).jpg
 \el
-\et <|{~}°ɣa-βaruru
+\et < °ɣa-βaruru
 \eg
 \nt
 \nq
@@ -11987,7 +11977,7 @@ Quasiment chaque individu possède son propre couteau.
 \sd Bot
 \bb Vienne (1982: 578)
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge
@@ -12072,7 +12062,7 @@ Quasiment chaque individu possède son propre couteau.
 \lf Syn.
 \lv lēlēlhiy
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ur après V de parole
@@ -12102,7 +12092,7 @@ Quasiment chaque individu possède son propre couteau.
 \nq
 \dc 10/Feb/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx gatgat
 \ph ɣatɣat
@@ -12166,7 +12156,7 @@ Quasiment chaque individu possède son propre couteau.
 \dn forbid
 \rf
 \lf
-\mr gat|fs{ (fl:cf. fv:gatgat) + }goy|hm{1}
+\mr gat + goy1
 \el Mota
 \et gato goro
 \nt
@@ -12264,7 +12254,7 @@ Quasiment chaque individu possède son propre couteau.
 \rd
 \bb Vienne (1982: 586)
 \ng
-\pdl
+\pdl 
 
 \rn
 \dn
@@ -12304,13 +12294,13 @@ des jougs de raccorde^ment (fv:nē-wtē)
 \dn rocker arm ties (fv:na-sam), fixing the rivets (fv:na-sam), to the extremities of the joining beam (fv:nē-wtē)
 \rf AP9-29
 \lf
-\mr ga-|hm{3}|fs{ + }vil
+\mr ga-3 + vil
 \el
 \nt
 \nq
 \dc 22/Sep/2002
 \dc 10/Feb/2006
-\dt 09/Jul/2011
+\dt 02/Jul/2016
 
 \lx gawol
 \la na-gawol
@@ -12358,7 +12348,7 @@ fl:partic. pour attacher le toit, on préfère la variété fv:na-gaqiy.
 \rf AG4-85
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -12458,7 +12448,7 @@ fl:partic. pour attacher le toit, on préfère la variété fv:na-gaqiy.
 \el Mota
 \et garaqa
 \el PNCV
-\et *kara|{_}bʷa
+\et *kara-bʷa
 \nt
 \nq
 \dc 31/Mar/2007
@@ -12497,7 +12487,7 @@ fl:partic. pour attacher le toit, on préfère la variété fv:na-gaqiy.
 \sc Cordyline terminalis
 \nt Coleus scutellarioides ??
 \rf Walter...
-\ee Ses feuilles sont utilisées comme une ficelle (fv:ga-|hm{3}) pour nouer (fv:yēt) les paquets
+\ee Ses feuilles sont utilisées comme une ficelle (fv:ga-3) pour nouer (fv:yēt) les paquets
 de laplap à cuire au four.
 \en Its leaves are used to tie up (fv:yēt) small packs of pudding (fv:tgop) before cooking them in
 stone oven.
@@ -12584,11 +12574,11 @@ wire, cable, electric wire
 \sd Techn
 \lf Cf.
 \lv ga-
-\et <°ˌɣaro|{_}ˈɣae
+\et <°ˌɣaro-ˈɣae
 \el PNCV
 \et *kaʀo
 \eg vine, rope
-\el North|{_}V
+\el North-V
 \et °ɣa[w]e
 \eg liana, vine, rope
 \nt
@@ -12622,7 +12612,7 @@ mycose)
 \xv Na-gaygay aē mi kē.
 \xe Elle a la teigne.
 \el PNCV
-\et *kaʀa|{_}ti
+\et *kaʀa-ti
 \eg stinging, itchy
 \nt
 \nq
@@ -12661,7 +12651,7 @@ mycose)
 \la na-gayme~
 \ph naɣajmɛ
 \hm
-\ps nop
+\ps n.poss
 \gr tang
 \ge langue
 \sn 1
@@ -12693,7 +12683,7 @@ mycose)
 \rf AG3-105
 \ce
 \se nē-lwo gayme~
-\ps nop
+\ps n.poss
 \ge
 \re
 \lt dents du pistil
@@ -12702,18 +12692,18 @@ mycose)
 \dn villosity situated on some flower pistils; stamen (?)
 \rf AG3-105
 \el Mota
-\et garam̄ea|{_}i
+\et garam̄ea-i
 \el POc
 \et *kaʀamaya
 \nt
 \nq
 \dc 16/Dec/2003
 \dc 31/Mar/2007
-\dt 25/Aug/2011
+\dt 02/Jul/2016
 
 \lx gaymōm
 \ph ɣajmʊm
-\ps adp
+\ps adv
 \gr
 \sn
 \ge
@@ -12735,12 +12725,12 @@ paroles.
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 09/Jul/2011
+\dt 02/Jul/2016
 
 \lx gayte
 \la na-gayte
 \ph naɣajtɛ
-\ps nop
+\ps n.poss
 \gr haf
 \ge moitié
 \re
@@ -12774,7 +12764,7 @@ morceau’.
 \nq
 \dc 15/Sep/2002
 \dc 31/Mar/2007
-\dt 09/Jul/2011
+\dt 02/Jul/2016
 
 \lx ge
 \la °na-ge
@@ -12931,8 +12921,8 @@ same predicate on a parallel, on several referents taken separately
 \xn We don't know all those stories.
 \rf AP9-37
 \xv Iyē geh nen?
-\xe Qui est-ce? Qui sont ces personnes? (quels sont leurs noms aux uns et aux autres?) # ax:Cf. vl:iyē.
-\xn Who is it? Who are these people? (what are their names, of each of them?) # ax:Cf. vl:iyē.
+\xe Qui est-ce? Qui sont ces personnes? (quels sont leurs noms aux uns et aux autres?) – ax:Cf. vl:iyē.
+\xn Who is it? Who are these people? (what are their names, of each of them?) – ax:Cf. vl:iyē.
 \ue
 \ee Du fait de sa valeur de Distributif, la forme en fv:geh s'apparente parfois à une sorte de pluriel.
 \sn 2
@@ -13056,7 +13046,7 @@ Mwotlap en 1998.
 \gn eat
 \rd gengen
 \lf ClPos
-\lv ga~|hm{2}
+\lv ga~2
 \sn 1
 \de manger ‹viande, légume+›
 \dn eat ‹meat, vegetables +›
@@ -13091,7 +13081,7 @@ sand with your hand]
 \de prendre un repas pour célébrer ‹un certain nombre de jours, |fv{nō-qōn̄}*› depuis
 le décès de qqn; |fl{d'où} accomplir une cérémonie familiale en l'honneur d'un mort
 \dn take a meal to celebrate ‹a certain number of days, |fv{nō-qōn}*› since someone died;
-|fl{thus} accomplish a family ceremony to commemorate the deceased 
+|fl{hence} accomplish a family ceremony to commemorate the deceased 
 \sd Ethn
 \rf
 \xv Kem gengen nō-qōn̄ son̄wul nonon ēgēn.
@@ -13107,7 +13097,7 @@ initiatique (|fv{nō-sōq}); |fl{d'où} acquérir ‹tel rang›
 \dn move up the ranks in the initiatory hierarchy. In the course of a secret ceremony, the
 candidate had to eat ‹the contents of an oven›, among the dozen stone ovens
 (|fv{na-qyēni}) corresponding to the dozen ranks of the initiatory course (|fv{nō-sōq});
-|fl{thus} acquire ‹such and such rank›
+|fl{hence} acquire ‹such and such rank›
 \sd Ethn
 \rf
 \xv Kē me-gen nē-tētuw ; kē me-gen na-lan.
@@ -13126,7 +13116,7 @@ représentés dans ‹la maison initiatique fv:na-gmel›; |fl{d'où}
 compléter entière^ment le cursus des grades, atteindre au rang
 suprême
 \dn go through all the steps of the initiatory course |fv{nō-sōq}) represented in the
-‹initiatory house fv:na-gmel›;|fl{thus} move up all the steps of the hierarchy ladder,
+‹initiatory house fv:na-gmel›;|fl{hence} move up all the steps of the hierarchy ladder,
 reach the highest rank
 \rf
 \xv Ma-bah ēgēn. Kē me-gen heylō na-gmel.
@@ -13153,13 +13143,13 @@ reach the highest rank
 \xe Il est mort dans un incendie [le feu l'a mangé-tué].
 \xn He died in a fire [the fire ate-killed him]
 \cf lal
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kani
 \nt
 \nq
 \dc 17/Sep/2002
 \dc 26/Oct/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx gen
 \la ne-gen
@@ -13266,7 +13256,7 @@ reach the highest rank
 \re fête
 \de repas, fl:spéc. repas collectif; |fl{d'où} fête, rassemble^ment autour d'un
 repas collectif
-\dn meal, fl:spec. collective meal;|fl{thus} gathering around a collective meal
+\dn meal, fl:spec. collective meal;|fl{hence} gathering around a collective meal
 \gn lafet
 \rf
 \xv Kēy so galeg ne-gengen liwo.
@@ -13275,13 +13265,13 @@ repas collectif
 \rm
 \cf lavēt
 \el PNCV
-\et *kani|{_}kani
+\et *kani-kani
 \eg occasion of eating (feast, meal); food
 \nt
 \nq
 \dc 19/Jun/2002
 \dc 08/Oct/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx gentel
 \la ne-gentel
@@ -13350,7 +13340,7 @@ Na-dlit. Donc sans doute une erreur.
 \ps vi
 \rd geygey
 \sn 1
-\de évoluer dans l'eau, en touchant le fond ou non; marcher dans l'eau, passer à gué # fl:partic.
+\de évoluer dans l'eau, en touchant le fond ou non; marcher dans l'eau, passer à gué – fl:partic.
 entre la plage de Lahlap et l'îlot d'Aya
 \dn to wade through water; to ford a river (esp. between the Lahlap beach and the Aya
 islet.)
@@ -13446,12 +13436,12 @@ appelle ‘vl:gey_hay’.
 \xm Le-mtap, ige del qēt yow ale, tēy n-ih namuy. Dēyē goy so ne-met ni-hēw: na-tm̄an vitwag ni-tēy
 ni-qti hay, tō kē ni-hēw le-naw. Ni-sil ni-dam kē, na-lqōvēn, na-tm̄an, kēy qēt hēwhēw-hay, a
 kēy gey goy nē-n̄ēlmet. Tekel^gi, nē-hēwgoy: ige hēwhēwgoy van dēn̄ n-et mey a nē-tēy
-nē-qēt-hay, tō yap kal hay me #  lok goy na-hay.
+nē-qēt-hay, tō yap kal hay me –  lok goy na-hay.
 \xm Ne-met so ni-yak en, tō so wēhēy ēgēn. Nō-mōmō wo mo-gon e, ige tam̄an kēy kay mi n-ih; ige
 lōqōvēn kēy didi goy, ba yeye, tō tabatbay nō-mōmō a la-gayga. Wuh yosveg nō-mōmō, tō
 ni-bah.
 \tl |{tab}|fb{La pêche collective à la liane} £|{tab}[|vl{gey hay}*]
-Le matin, tout le monde descend sur la plage, muni d'arcs. Lorsque la marée commence à baisser, un homme prend l'extrémité de la liane, et descend en mer. Emboîtant le pas, hommes et femmes tirent la liane (vl:hēwhēw_hay) et font le tour du récif. À l'autre bout, on réceptionne (vl:nē-hēwgoy): on rejoint celui qui tient la tête de la liane (vl:nē-qēt-hay), et on la ramène sur la plage # la boucle est bouclée.
+Le matin, tout le monde descend sur la plage, muni d'arcs. Lorsque la marée commence à baisser, un homme prend l'extrémité de la liane, et descend en mer. Emboîtant le pas, hommes et femmes tirent la liane (vl:hēwhēw_hay) et font le tour du récif. À l'autre bout, on réceptionne (vl:nē-hēwgoy): on rejoint celui qui tient la tête de la liane (vl:nē-qēt-hay), et on la ramène sur la plage – la boucle est bouclée.
 Lorsque la marée est basse, c'est le moment de resserrer la liane (vl:wēhēy). Dès que du poisson se retrouve prisonnier sur le platier corallien, les hommes l'abattent à coups de flèches (vl:kay); les femmes, elles, frappent l'eau (vl:di, vl:wosdi), attrapent le poisson à la main (vl:ye), et l'enfilent (vl:tabay) sur des cordons. Quand on a tué beaucoup de poissons, c'est fini.
 
 \nt
@@ -13462,6 +13452,7 @@ Lorsque la marée est basse, c'est le moment de resserrer la liane (vl:wēhēy).
 
 \lx g[e]yeh
 \ph ɣɛjɛh
+\wr A
 \a geyeh
 \a gyegyeh
 \u gyeh (2)
@@ -13511,7 +13502,7 @@ board (fv:nē-qēt-geyeg^yeh)
 \ec vérifier POc
 \nq
 \dc 28/Oct/2007
-\dt 28/Mar/2010
+\dt 18/Jun/2016
 
 \lx gēl
 \ph ɣɪl
@@ -13752,7 +13743,7 @@ pour conclure), soit juste après (fr. ‘voici’, pour introduire la suite)
 \xn This is how traditional weddings go [ax:lit. it's like this]: ...
 \rf
 \rm
-\xm e tō kē ni-lep na-tmalte tō# ni-mōk veteg hōw a meteēm̄. (Meteēm̄, qele gēn)
+\xm e tō kē ni-lep na-tmalte tō– ni-mōk veteg hōw a meteēm̄. (Meteēm̄, qele gēn)
 \nt
 \nq
 \dc 17/Feb/2007
@@ -13762,7 +13753,7 @@ pour conclure), soit juste après (fr. ‘voici’, pour introduire la suite)
 \lx gēpne~
 \la nē-gēpne~
 \ph nɪɣɪpnɛ
-\ps nop
+\ps n.poss
 \dr
 \ge aisselle
 \re
@@ -13773,14 +13764,14 @@ pour conclure), soit juste après (fr. ‘voici’, pour introduire la suite)
 \sd Anat
 \rf
 \cf gēpnah
-\et <°káviná|{_}
+\et <°káviná-
 \el PNCV
-\et *ʔavi|{_}ŋa
+\et *ʔavi-ŋa
 \eg armpit
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx gēt
 \hm 1
@@ -13873,8 +13864,7 @@ convaincant! Enfin, en G7-10 c'est mieux.
 \la na-gtē
 \ph naɣtɪ
 \a gētē
-\pc gte.jpg
-\nt .G.c:\Alex\photoDico\gte.jpg;1";.98";JPG
+\pc .G.c:\Alex\photoDico\gte.jpg;1";.98";JPG
 \ps n
 \gr nakato
 \ge pagure
@@ -13918,7 +13908,7 @@ disparue ailleurs.
 \el Mota
 \et gatou
 \eg
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *katou
 \nq
 \dc 31/Mar/2007
@@ -13928,8 +13918,7 @@ disparue ailleurs.
 \la na-gvēg
 \ph naɣβɪɣ
 \a gēvēg
-\pc gveg.jpg
-\nt .G.c:\Alex\photoDico\gveg.jpg;1.31";1.2";JPG
+\pc .G.c:\Alex\photoDico\gveg.jpg;1.31";1.2";JPG
 \ps n
 \gn apple
 \ge pomme
@@ -14003,7 +13992,7 @@ disparue ailleurs.
 \cn
 \el Mota
 \et gire
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kiʀe
 \eg Pandanus tectorius
 \nq
@@ -14036,8 +14025,8 @@ disparue ailleurs.
 \la
 \ps adj
 \ph ɣɪjmɛt
-\de variante longue de |fv{met}|hm{2}
-\dn long variant of |fv{met}|hm{2}
+\de variante longue de fv:met2
+\dn long variant of fv:met2
 \sn 1
 \ur noix, amandes
 \de mûr
@@ -14049,7 +14038,7 @@ disparue ailleurs.
 \xn The Barringtonia nuts are ready.
 \ue
 \lf Cf.
-\lv met|hm{2}
+\lv met2
 \lf
 \sn 2
 \he métph
@@ -14069,7 +14058,7 @@ disparue ailleurs.
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 24/Dec/2013
+\dt 01/Jul/2016
 
 \lx -gi
 \ph ɣi
@@ -14133,7 +14122,7 @@ disparue ailleurs.
 \lx g[i]li~
 \la ni-gli~
 \ph niɣli
-\ps nop
+\ps n.poss
 \3s nē-glē-n
 \sn 1
 \ge jus
@@ -14159,7 +14148,7 @@ disparue ailleurs.
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 09/Mar/2011
+\dt 02/Jul/2016
 
 \lx gin
 \ph ɣin
@@ -14202,7 +14191,7 @@ décompter les jours
 \xn Stop tickling her!
 \rf AP5-66
 \el PNCV
-\et *kini|{_}ti
+\et *kini-ti
 \eg pinch, nip
 \el POc
 \et *ŋkinit
@@ -14246,13 +14235,13 @@ immense repas pour tout le monde.
 \rf
 \xv Na-tamn̄a en, gēn te-vet yosveg vēh lō-qōn̄ vitwag woy ēwē, yakhagyeh a
 bi-gismamat be-leg.
-\xe Les nattes, il arrive qu'on en tresse un grand nombre en une seule journée # en particulier lors
+\xe Les nattes, il arrive qu'on en tresse un grand nombre en une seule journée – en particulier lors
 des préparatifs d'un mariage.
-\xn Sometimes we weave a large number of mats in a single day # especially when we prepare for a
+\xn Sometimes we weave a large number of mats in a single day – especially when we prepare for a
 wedding.
 \el Mota
 \et gismamate
-\eg get ready beforehand, prepare|{~}overnight
+\eg get ready beforehand, prepare overnight
 \nt
 \nq
 \dc 14/Feb/2006
@@ -14282,7 +14271,7 @@ wedding.
 \de morpion
 \dn crab louse
 \rf AP5-31
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kutu
 \nt
 \nq
@@ -14340,7 +14329,7 @@ wedding.
 \nt Wheatley 253 appelle no-gog, je corrige d'après mes recherches dans Ross 2008 etc.
 \rf
 \url C:\Alex\Photos\Selections\2003-Tree-album\Plants-album (23).jpg
-\el PNCV,|{~}PEO
+\el PNCV, PEO
 \et *koka
 \eg Bischofia sp.
 \nt
@@ -14366,7 +14355,7 @@ wedding.
 \se nē-qēt-gogoh
 \ps n
 \el PNCV
-\et *koso|{_}mi
+\et *koso-mi
 \eg to husk a coconut
 \el POc
 \et *kojom
@@ -14601,8 +14590,8 @@ simple accrochage)
 \xv Gon goy galsi na-mteēm̄ !
 \xe Verrouille bien la porte !
 \xn Bolt the door properly !
-\cf goy|hm{1} |fs{(5)}
-\ce en refermant
+\cf goy1
+\ce (5) en refermant
 \cn
 \cf tabeg
 \ce fermer
@@ -14628,7 +14617,7 @@ erected (fv:vētgiy), e.g. when building a house
 \nq
 \dc 26/Oct/2007
 \dc 17/Sep/2002
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx gongon
 \ph ɣɔnɣɔn
@@ -14650,7 +14639,7 @@ erected (fv:vētgiy), e.g. when building a house
 \xe J'aimerais bien qu'on travaille tous les deux, mais je n'ai pas le temps.
 \xn I'd like us to work together, but I don't have the time.
 \ee Souvent remplacé par l'emprunt fv:bisi < angl. fi:busy.
-\cf gon|hm{2}
+\cf gon2
 \ce bloqué
 \cn
 \se no-gongon
@@ -14674,7 +14663,7 @@ erected (fv:vētgiy), e.g. when building a house
 
 \lx gonteg
 \ph ɣɔntɛɣ
-\ps adp
+\ps adv
 \dr
 \ge (certifier)
 \re
@@ -14693,7 +14682,7 @@ erected (fv:vētgiy), e.g. when building a house
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx gop
 \la °na-gop
@@ -14739,7 +14728,7 @@ erected (fv:vētgiy), e.g. when building a house
 \lx goy
 \hm 1
 \ph ɣɔj
-\ps adp
+\ps adv
 \rd
 \ge (sur) ; (contre)
 \re couvrir ; recouvrir
@@ -14804,10 +14793,10 @@ its opening.
 \xe Elle s'est ceinte d'une jupe (vl:bey).
 \xn She put a skirt around her (fv:bey).
 \rm
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:geay, fv:bey, fv:hey|hm{2}, fv:luw, fv:tetey,
-fv:talvip, fv:vet|hm{3}, fv:wēdē.
-\en fl:Cf. [V+|fv{goy}] with V: fv:geay, fv:bey, fv:hey|hm{2}, fv:luw, fv:tetey,
-fv:talvip, fv:vet|hm{3}, fv:wēdē.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:geay, fv:bey, fv:hey2, fv:luw, fv:tetey,
+fv:talvip, fv:vet3, fv:wēdē.
+\en fl:Cf. [V+|fv{goy}] with V: fv:geay, fv:bey, fv:hey2, fv:luw, fv:tetey,
+fv:talvip, fv:vet3, fv:wēdē.
 
 \sn 3
 \ge
@@ -14852,8 +14841,8 @@ avec le sujet (A). fl:Cf. prépos. fr. fi:sur
 \xe Les gens traversent la rue.
 \rm
 \xm deldel magamgaysēn goy na-ngo-mi
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:gay, fv:hey|hm{1}, fv:hin̄yeg, fv:yō|hm{1}, fv:yoq.
-\en fl:Cf. [V+|fv{goy}] with V: fv:gay, fv:hey|hm{1}, fv:hin̄yeg, fv:yō|hm{1}, fv:yoq.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:gay, fv:hey1, fv:hin̄yeg, fv:yō1, fv:yoq.
+\en fl:Cf. [V+|fv{goy}] with V: fv:gay, fv:hey1, fv:hin̄yeg, fv:yō1, fv:yoq.
 
 \sn 5
 \ge
@@ -14883,10 +14872,10 @@ avec le sujet (A). fl:Cf. prépos. fr. fi:sur
 \xv Kē ni-yam goy lok me.
 \xe Elle règle sa dette envers moi.
 \xn She pays back her debt to me.
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:tabeg, fv:vēhbeg, fv:gon|hm{2}, fv:qul|hm{1}, fv:won,
-fv:lok|hm{2}, fv:qal, fv:yam.
-\en fl:Cf. [V+|fv{goy}] with V: fv:tabeg, fv:vēhbeg, fv:gon|hm{1}, fv:qul|hm{1}, fv:won,
-fv:lok|hm{2}, fv:qal, fv:yam.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:tabeg, fv:vēhbeg, fv:gon2, fv:qul1, fv:won,
+fv:lok2, fv:qal, fv:yam.
+\en fl:Cf. [V+|fv{goy}] with V: fv:tabeg, fv:vēhbeg, fv:gon1, fv:qul1, fv:won,
+fv:lok2, fv:qal, fv:yam.
 
 \sn 6
 \ge
@@ -14925,10 +14914,10 @@ occupy, monopolise; hide (stg), preserve, protect (stg) (from, against: fv:den) 
 \xa Protect your legs against mosquitos!
 \rm
 \xm
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:en|hm{2}, fv:hag|hm{2}, fv:tig, fv:vay|hm{1}, fv:hal|hm{1},
-fv:qoy, fv:myuw, fv:ōy, fv:vay|hm{1}, fv:vlōl.
-\en fl:Cf. [V+|fv{goy}] with V: fv:en|hm{2}, fv:hag|hm{2}, fv:tig, fv:vay|hm{1}, fv:hal|hm{1},
-fv:qoy, fv:myuw, fv:ōy, fv:vay|hm{1}, fv:vlōl.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:en2, fv:hag2, fv:tig, fv:vay1, fv:hal1,
+fv:qoy, fv:myuw, fv:ōy, fv:vay1, fv:vlōl.
+\en fl:Cf. [V+|fv{goy}] with V: fv:en2, fv:hag2, fv:tig, fv:vay1, fv:hal1,
+fv:qoy, fv:myuw, fv:ōy, fv:vay1, fv:vlōl.
 \sn 7
 \ge
 \re réserver (se) ; tabou ; consacrer ; s'approprier ; bénir
@@ -15026,10 +15015,10 @@ fv:mitiy.
 \rm AP9-45
 \xm Tētē nōnōm ma-dam goy na-yn̄ēk.
 \xf Ton bébé s'accroche à mes jambes (il me suit partout).
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:van|hm{1}, fv:gityak, fv:at, fv:sōyteg, fv:dam, fv:tatag, fv:yow|hm{2} ;
-fv:daeva, fv:munuw, fv:tvēy ; fv:vēhge, fv:yav|hm{1}.
-\en fl:Cf. [V+|fv{goy}] with V: fv:van|hm{1}, fv:gityak, fv:at, fv:sōyteg, fv:tatag, fv:yow|hm{2};
-fv:daeva, fv:mnuw, fv:tvēy; fv:vēhge, fv:yav|hm{1}.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:van1, fv:gityak, fv:at, fv:sōyteg, fv:dam, fv:tatag, fv:yow2 ;
+fv:daeva, fv:munuw, fv:tvēy ; fv:vēhge, fv:yav1.
+\en fl:Cf. [V+|fv{goy}] with V: fv:van1, fv:gityak, fv:at, fv:sōyteg, fv:tatag, fv:yow2;
+fv:daeva, fv:mnuw, fv:tvēy; fv:vēhge, fv:yav1.
 \lf
 \sn 10
 \ge
@@ -15053,10 +15042,10 @@ fv:daeva, fv:mnuw, fv:tvēy; fv:vēhge, fv:yav|hm{1}.
 \xn Wotlôlan always looks after his coconut trees [by weeding around them, vl:dowdow]
 \rm
 \xm
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:hag|hm{2}, fv:en|hm{2}, fv:vkasteg, fv:tatag, fv:wow|hm{1},
-fv:et|hm{2}.
-\en fl:Cf. [V+|fv{goy}] with V: fv:hag|hm{2}, fv:en|hm{2}, fv:vkasteg, fv:tatag, fv:wow|hm{1},
-fv:et|hm{2}.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:hag2, fv:en2, fv:vkasteg, fv:tatag, fv:wow1,
+fv:et2.
+\en fl:Cf. [V+|fv{goy}] with V: fv:hag2, fv:en2, fv:vkasteg, fv:tatag, fv:wow1,
+fv:et2.
 \lf
 \cf etgoy
 \ce faire attention à, prendre soin de
@@ -15186,8 +15175,8 @@ sens “empêcher”
 \xv Tateh age het ni-van goy me.
 \xe Pas de problème ! [Aucun ennui qui survienne].
 \xn No problem ! [nothing bad coming].
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:wow|hm{1}, fv:siseg, fv:wlēg, fv:luwyeg ; fv:qal, fv:van.
-\en fl:Cf. [V+|fv{goy}] with V: fv:wow|hm{1}, fv:siseg, fv:wlēg, fv:luwyeg; fv:qal, fv:van.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:wow1, fv:siseg, fv:wlēg, fv:luwyeg ; fv:qal, fv:van.
+\en fl:Cf. [V+|fv{goy}] with V: fv:wow1, fv:siseg, fv:wlēg, fv:luwyeg; fv:qal, fv:van.
 \cf siseg goy
 \ce se jouer de
 \cn play around
@@ -15220,10 +15209,10 @@ main^tenant) !
 \xv Dō ma-kaka gatay tō en, et-misin goy qete en!
 \xe Mais on vient |fi{tout juste} d'en parler! [ax:litt. nous en avons parlé, |fi{il
 ne s'est pas encore écoulé longtemps depuis}]
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:qōn̄, fv:ēte, fv:wōl|hm{2}, fv:misin,
-fv:van|hm{1}.
-\en fl:Cf. [V+|fv{goy}] with V: fv:qōn̄, fv:ēte, fv:wōl|hm{2}, fv:misin,
-fv:van|hm{1}.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:qōn̄, fv:ēte, fv:wōl2, fv:misin,
+fv:van1.
+\en fl:Cf. [V+|fv{goy}] with V: fv:qōn̄, fv:ēte, fv:wōl2, fv:misin,
+fv:van1.
 \sn 16
 \we A,(B),(C),‘D’
 \de faire qqch (V) par réaction à un événe^ment, réagir ; faire une action pour
@@ -15255,10 +15244,10 @@ or the mouth itself (B)
 \xa hold up a house (from above)
 \rm
 \xm
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:in, fv:gen|hm{1}, fv:tig ; fv:mōkheg, fv:en|hm{2}, fv:mtiy, fv:yap|hm{1} ;
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:in, fv:gen1, fv:tig ; fv:mōkheg, fv:en2, fv:mtiy, fv:yap1 ;
 fv:tēngeg.
-\en fl:Cf. [V+|fv{goy}] with V: fv:in, fv:gen|hm{1}, fv:tig; fv:mōkheg, fv:en|hm{2}, fv:mtiy,
-fv:yav|hm{1}; fv:tēngeg.
+\en fl:Cf. [V+|fv{goy}] with V: fv:in, fv:gen1, fv:tig; fv:mōkheg, fv:en2, fv:mtiy,
+fv:yav1; fv:tēngeg.
 \sn 17
 \ge
 \re
@@ -15303,8 +15292,8 @@ once only or repeatedly
 \xm Kēy hole goy qele ave ?
 \xf Que répondent-ils ?
 \xa What do they answer ?
-\ee fl:Cf. [V+|fv{goy}] avec V: fv:hole, fv:vlu, fv:ēleg, fv:yav|hm{1} ; fv:tēy, fv:vēl.
-\en fl:Cf. [V+|fv{goy}] with V: fv:hole, fv:vlu, fv:ēleg, fv:yav|hm{1}; fv:tēy, fv:vēl.
+\ee fl:Cf. [V+|fv{goy}] avec V: fv:hole, fv:vlu, fv:ēleg, fv:yav1 ; fv:tēy, fv:vēl.
+\en fl:Cf. [V+|fv{goy}] with V: fv:hole, fv:vlu, fv:ēleg, fv:yav1; fv:tēy, fv:vēl.
 \cf v[u]lu goy
 \ce répondre
 \cn answer
@@ -15371,7 +15360,7 @@ elle-même répétitive (fl:Cf. Rédup.) ; |fl{d'où} valeur de répétition
 \nq
 \dc Jan/2000
 \dc 26/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx goy
 \hm 2
@@ -15666,8 +15655,7 @@ bananes ; 2/ (ce sont) ces bananes.
 \la na-ghōw
 \ph naɣhʊw
 \a gōhōw
-\pc ghow.jpg
-\nt .G.c:\Alex\photoDico\ghow.jpg;.87";1";JPG
+\pc .G.c:\Alex\photoDico\ghow.jpg;.87";1";JPG
 \ps n
 \dr
 \ge rat
@@ -15768,7 +15756,7 @@ bananes ; 2/ (ce sont) ces bananes.
 \u gōyi~ (2)
 \a gōygōyē
 \u gōyi~ (2)
-\ps nop
+\ps n.poss
 \rd nō-gōygōyi~
 \gr rus
 \ge racine
@@ -15819,18 +15807,18 @@ bananes ; 2/ (ce sont) ces bananes.
 \cf gagi~
 \ce ventouse
 \cn sucker
-\et <°kúarí|{_} (?)
+\et <°kúarí- (?)
 \el Mota
-\et gari|{_}u
+\et gari-u
 \el PNCV
-\et *kawa|{_}ri
+\et *kawa-ri
 \eg root
 \el POc
 \et *wakaʀ
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 09/Mar/2011
+\dt 02/Jul/2016
 
 \lx g[ō]yōw
 \la na-gyōw
@@ -15920,8 +15908,8 @@ l'eau+›
 \ge en_haut
 \re
 \gn up
-\nt paradigme hag # hôw ; kal / hag / alge ; hatig hag, etc. ; sal hag ; hag avwon ; vav hag
-hiy ige...; malig se hag (âge, nombre...) ; l'Est, parallèle à la côte : hag # hôw / hay / yow
+\nt paradigme hag – hôw ; kal / hag / alge ; hatig hag, etc. ; sal hag ; hag avwon ; vav hag
+hiy ige...; malig se hag (âge, nombre...) ; l'Est, parallèle à la côte : hag – hôw / hay / yow
 ; hag Vila, levnô liwo ; lok hag me ; vatag hag
 \de en haut, vers le haut
 \dn up, upwards
@@ -16120,8 +16108,8 @@ face aux alizés du sud-est, c'était ‘monter au vent’.
 \xn Where's mum? - In the house over there (on the south-east side).
 \ue Rem
 \ee En l'absence d'opposition droite/gauche, le mwotlap emploie un système d'orientation géocentrique. fv:Hag
-s'oppose non seule^ment à fv:hōw, mais aussi à fv:hay|hm{1} (vers l'intérieur des terres) et à
-fv:yow|hm{1} (vers l'extérieur, vers la mer). 
+s'oppose non seule^ment à fv:hōw, mais aussi à fv:hay1 (vers l'intérieur des terres) et à
+fv:yow1 (vers l'extérieur, vers la mer). 
 \el POc
 \et *sake
 \nt
@@ -16232,7 +16220,7 @@ impact of heat (fl: e.g. coconut milk into cream)
 \re
 \lt s'asseoir-bloquer
 \de être assis de manière à empêcher l'accès à ‹qqch› (à qqn, fv:den): |fl{d'où} couvrir, cacher, garder
-\dn be seated in such a way as to bar (s.o. fv:den) access to ‹s.th›: |fl{thus} cover, hide,
+\dn be seated in such a way as to bar (s.o. fv:den) access to ‹s.th›: |fl{hence} cover, hide,
 keep
 \rf
 \xv Nēk ma-hag goy ni-vidio den no.
@@ -16255,14 +16243,14 @@ keep
 \nq
 \dc 17/Oct/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx hag hiy
 \ph haɣ hij
 \ps vi
 \gr staon
 \rd haghag hiy
-\mr hag|hm{2}|fs{ + }hiy|hm{1}
+\mr hag2 + hiy1
 \sn 1
 \ge s'asseoir
 \re *
@@ -16282,7 +16270,7 @@ nous asseyons.
 \sn 2
 \he spéc
 \de siéger, assister à une réunion; |fl{d'où} [réunion] prendre place, avoir lieu
-\dn be in session, attend a meeting; |fl{thus} [meeting] take place
+\dn be in session, attend a meeting; |fl{hence} [meeting] take place
 \rf AP9-44
 \xv Iyē geh ni-haghag hiy bō-yōstiwag nan?
 \xe Qui est-ce qui siège dans ce conseil?
@@ -16303,7 +16291,7 @@ nous asseyons.
 \nq
 \dc 13/Sep/2002
 \dc 19/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hag yoy
 \ph haɣ jɔj
@@ -16389,7 +16377,7 @@ endroit›, surveiller, s'occuper de
 \rf
 \lf
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ge
@@ -16410,6 +16398,7 @@ endroit›, surveiller, s'occuper de
 \nq
 \dc 15/Oct/2003
 \dc 19/Oct/2007
+\dt 02/Jul/2016
 
 \lx hal
 \hm 1
@@ -16461,7 +16450,7 @@ endroit›, surveiller, s'occuper de
 \de flotter en l'air, |fl{d'où} évoluer dans les airs en gardant une
 position stable: voler, planer (flopp. fv:gap ‘voler en battant des
 ailes’)
-\dn float in the air,|fl{thus} move in the air in a stable position: fly, glide (flopp. fv:gap 'fly
+\dn float in the air,|fl{hence} move in the air in a stable position: fly, glide (flopp. fv:gap 'fly
 flapping wings'
 \gn fly
 \dn fly in the air without flapping wings, glide
@@ -16534,6 +16523,7 @@ altogether.
 \nq
 \dc 2001
 \dc 26/Oct/2007
+\dt 21/Jun/2016
 
 \lx hal
 \la na-hal
@@ -16683,7 +16673,7 @@ la sagaie.
 \lx han
 \la na-han
 \ph nahan
-\ps int
+\ps interr
 \gr wanem
 \ge quel
 \re quel, quelle
@@ -16742,7 +16732,7 @@ périphrase fv:mey_ave ‘celui d'où ?’, même sans valeur spatiale
 \nq
 \dc Feb/2001
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx han̄
 \la na-han̄
@@ -16764,7 +16754,7 @@ périphrase fv:mey_ave ‘celui d'où ?’, même sans valeur spatiale
 \xe Iqet a gratté (magique^ment) ce poteau, et nous sommes tous rentrés à l'intérieur.
 \xn Iqet scratched this post (magically), and we all went inside.
 \rm
-\xm Mo-tot nē-qētēnge b-ēm̄ del. Tot nō-bōs, tot qēt # na-han̄.
+\xm Mo-tot nē-qētēnge b-ēm̄ del. Tot nō-bōs, tot qēt – na-han̄.
 \ee Outre les piliers situés à chaque coin de la maison, on peut en trouver égale^ment, à
 intervalles réguliers, sur les côtés des édifices longs, soutenant les sablières (fv:no-soso).
 \sy bet
@@ -16817,7 +16807,7 @@ fv:na-han̄); fl:norm. situated above each main entrance
 \u nA- hap[n]
 \a haphap
 \u hap[n] (2)
-\ps int
+\ps interr
 \sn 1
 \ge
 \re
@@ -16946,7 +16936,7 @@ indirect questions
 \de tout
 \dn everything, all
 \rf
-\xv Ige in na-ga, tō gengen yēpyep e tō # na-hap del ni-bah.
+\xv Ige in na-ga, tō gengen yēpyep e tō – na-hap del ni-bah.
 \xe On boit du kava, puis on dîne, et voilà, fs:tout est terminé.
 \xn We drink kava, then we eat, and then it's all over.
 \rf
@@ -16956,7 +16946,7 @@ indirect questions
 \nq
 \dc 17/Sep/2002
 \dc 28/Jul/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hatig
 \ph hatiɣ
@@ -17022,7 +17012,7 @@ ou assise)
 \he cour
 \we en récit, |vl{hatig} (vl:hag) + proposition P2
 \de annonce le début d'une nouvelle action; |fl{d'où} et ensuite, alors; aussitôt, soudain
-\dn announces the beginning of a new action;|fl{thus} and then; immediately after,
+\dn announces the beginning of a new action;|fl{hence} and then; immediately after,
 suddenly
 \rf
 \xv Kēy hatig hag tō wuh mat kē.
@@ -17046,7 +17036,7 @@ déplace^ment spatial.
 \nq
 \dc 17/Sep/2002
 \dc 20/Oct/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx hawhaw
 \la na-hawhaw
@@ -17271,7 +17261,7 @@ fv:hag et fv:hōw.
 \xe Ils t'empoisonnent, et tu rends ton dernier souffle.
 \xn They poison you, and you render your last breath.
 \ue Étym
-\ee Lien avec fv:hay|hm{2} ‘déchirer’?
+\ee Lien avec fv:hay2 ‘déchirer’?
 \lf
 \el
 \nt
@@ -17284,8 +17274,7 @@ fv:hag et fv:hōw.
 \la na-hay
 \hm 4
 \ph nahaj
-\pc nahay3.jpg
-\nt .G.c:\Alex\photoDico\nahay3.jpg;2.7";3.21";JPG
+\pc .G.c:\Alex\photoDico\nahay3.jpg;2.7";3.21";JPG
 \lg La pêche collective à la liane (|vl{na-hay}).
 \ps n
 \gr fishnet
@@ -17359,7 +17348,7 @@ with home-made harpoons and sharpened sticks.
 \so http://www.fijilive.com/fijimagic/view.php?mlx=1&st=4
 \el Mota
 \et saro
-\eg a string of coco-nut fronds used in|{~}shooting fish
+\eg a string of coco-nut fronds used in shooting fish
 \nt AG6-74 + AG8-35
 \nq
 \dc 20/Dec/2003
@@ -17387,7 +17376,7 @@ with home-made harpoons and sharpened sticks.
 \mn
 \sd Bot
 \bb Vienne (1982: 582)
-\cf hay|hm{2}
+\cf hay2
 \ce déchirer
 \cn tear
 \cf vagal
@@ -17408,7 +17397,7 @@ with home-made harpoons and sharpened sticks.
 \sn 1
 \de qui correspond bien à autre chose, |fl{d'où} égal, équivalent,
 semblable, analogue
-\dn that corresponds to something else, |fl{thus} equal, equivalent, similar, analagous
+\dn that corresponds to something else, |fl{hence} equal, equivalent, similar, analagous
 \rf
 \xv Kōyō haytēyēh vēlēs.
 \xe Ils sont exactement identiques, c'est exactement la même chose.
@@ -17417,7 +17406,7 @@ semblable, analogue
 \ge convenir
 \gn suit
 \de qui correspond bien à un besoin, |fl{d'où} suffisant, adéquat
-\dn that corresponds to a need |fl{thus} sufficient, adequate, enough
+\dn that corresponds to a need |fl{hence} sufficient, adequate, enough
 \rf
 \xv Nō-mōmō mal haytēyēh.
 \xe Nous avons déjà suffisam^ment de poisson.
@@ -17440,7 +17429,7 @@ semblable, analogue
 \re
 \de qui correspond bien aux convenances, |fl{d'où} correct, convenable,
 bon
-\dn respectful of conventions, |fl{thus} correct, suitable, good
+\dn respectful of conventions, |fl{hence} correct, suitable, good
 \rf alx
 \xv Et-haytēyēh te nen.
 \xe Ça ne se fait pas, ça n'est pas bien (d'agir comme ça).
@@ -17486,7 +17475,7 @@ quantité.
 \nt
 \nq
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx hayveg
 \ph hajβɛɣ
@@ -17524,7 +17513,7 @@ quantité.
 \he spéc
 \ur canine de cochon
 \de entrer dans la bouche, |fl{d'où} former un cercle complet
-\dn go inside the mouth, |fl{thus} form a complete circle
+\dn go inside the mouth, |fl{hence} form a complete circle
 \rf cf. AP5-64
 \xv Nē-lēw nonon mal kalō, mal hayveg.
 \xe Sa canine est déjà sortie et rentrée (elle a fait un tour complet).
@@ -17532,12 +17521,12 @@ quantité.
 \el Mota
 \et sarovag
 \eg to enter, draw into
-\el ax:Cf.|{~}Mtp
-\et hay|hm{1}
+\el ax:Cf. Mtp
+\et hay1
 \nt
 \nq
 \dc 28/Oct/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx he
 \hm 1
@@ -17579,7 +17568,7 @@ quantité.
 \la °na-he~
 \hm 2
 \ph nahɛ
-\ps nop
+\ps n.poss
 \gr nem
 \ge nom
 \sn 1
@@ -17602,9 +17591,9 @@ quantité.
 \xn Picasso is a famous man [his name is high].
 \lf Syn.
 \lv yoyo~
-\et <°ná sasá|{_}
+\et <°ná sasá-
 \el Mota
-\et sasa|{_}i
+\et sasa-i
 \el PNCV
 \et *asa
 \el POc
@@ -17612,13 +17601,13 @@ quantité.
 \nq
 \dc 10/Feb/2001
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx he~
 \la °na-he~
 \hm 3
 \ph nahɛ
-\ps nop
+\ps n.poss
 \nt /b-ahe/ chez Serel BD01-28
 \gr
 \sn 1
@@ -17650,13 +17639,13 @@ Le chant lui-même n'est pas composé en langue mwotlap, mais dans la langue d'I
 \sd Mus
 \lf
 \el ax:Cf.
-\et he~|hm{1}|fs{ (?)}
+\et he~1|fs{ (?)}
 \et eh|fs{ (?)}
 \nt
 \nq terminer texte
 \dc 16/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx he hiy
 \ph hɛ hij
@@ -17748,7 +17737,7 @@ vl:nē-mlag [fl:cf. fv:bĒlag], qui jette en arrière ses longues pattes.
 
 \lx heleg
 \ph hɛlɛɣ
-\ps adp
+\ps adv
 \gr nomo
 \sn
 \ge
@@ -17768,11 +17757,11 @@ minorés
 \nq
 \dc 19/Oct/2003
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx helm̄ēt
 \ph hɛlŋ​͡mʷɪt
-\ps adp
+\ps adv
 \sn 1
 \ge
 \de (faire V) en s'arrêtant à mi-chemin
@@ -17795,7 +17784,7 @@ minorés
 \nq
 \dc 21/Dec/2003
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx hep
 \ph hɛp
@@ -17822,7 +17811,7 @@ minorés
 \xn The size (of the monster) was bigger than this cave.
 \lf
 \se
-\ps adp
+\ps adv
 \wr B
 \sn 1
 \de (faire V) au-delà de la limite
@@ -17850,7 +17839,7 @@ minorés
 \nq
 \dc 19/Dec/2003
 \dc 28/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx het
 \ph hɛt
@@ -17964,7 +17953,7 @@ minorés
 \ce faire une offrande magique
 \sy manheg
 \tl   |{tab}|fb{Comment jeter un mauvais sort} £|{tab}[|vl{hew}*]
-Ce type d'empoisonne^ment, disparu récemment à Mwotlap, était mis en œuvre par des sorciers (vl:ige_hewhew). Il ne s'agissait pas de faire absorber à la victime un aliment toxique, mais de jeter magique^ment (fl:cf. vl:man|hm{1}) un mauvais sort sur un objet qui lui était associé: un de ses cheveux, ses vête^ments, son portrait, l'empreinte de ses pas ou encore son ombre (fl:cf. vl:tmalte 'pierre magique').
+Ce type d'empoisonne^ment, disparu récemment à Mwotlap, était mis en œuvre par des sorciers (vl:ige_hewhew). Il ne s'agissait pas de faire absorber à la victime un aliment toxique, mais de jeter magique^ment (fl:cf. vl:man1) un mauvais sort sur un objet qui lui était associé: un de ses cheveux, ses vête^ments, son portrait, l'empreinte de ses pas ou encore son ombre (fl:cf. vl:tmalte 'pierre magique').
 \se n-et hewhew
 \ps n
 \pl ige hewhew
@@ -18110,7 +18099,7 @@ Ce type d'empoisonne^ment, disparu récemment à Mwotlap, était mis en œuvre p
 \lx h[e]ye~
 \la na-hye~
 \ph nahjɛ
-\ps nop
+\ps n.poss
 \gr ples
 \pdl 1s
 \pdv na-hye-k
@@ -18196,7 +18185,7 @@ Quatre-Yeux (vl:Mat-vēvet)
 \nq
 \dc 23/Dec/2003
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx h[e]ye-tmat
 \la na-hye-tmat
@@ -18241,7 +18230,7 @@ initiatory house fv:na-gmel›
 \xe Il a accompli la ‘maison’ initiatique tout comme moi.
 \xn He has accomplished the initiatory 'house' just like me.
 \se
-\ps adp
+\ps adv
 \wr B
 \dr
 \ge à_travers
@@ -18274,7 +18263,7 @@ complet
 \xn He won the elections. [ax:lit. he went as far as his seat]
 \nt
 \se heylō hiy
-\ps prép
+\ps prep
 \he fig
 \de par le moyen de, à l'occasion de
 \dn by means of, on the occasion of
@@ -18287,11 +18276,11 @@ France.
 \nt
 \nq
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hē
 \ph hɪ
-\ps int
+\ps interr
 \dr
 \ge qui
 \re
@@ -18315,7 +18304,7 @@ France.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx hēgal
 \ph hɪɣal
@@ -18327,7 +18316,7 @@ France.
 \he rare
 \re
 \de feindre de (frapper, lapider+), |fl{d'où} menacer
-\dn feign, pretend to (hit, lapidate+), |fl{thus} threaten
+\dn feign, pretend to (hit, lapidate+), |fl{hence} threaten
 \rf AP5-51
 \lf Cf.
 \lv gal
@@ -18336,7 +18325,7 @@ France.
 \nq
 \dc 16/Dec/2003
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 21/Jun/2016
 
 \lx h[ē]gēl
 \ph hɪɣɪl
@@ -18390,7 +18379,7 @@ flowers, fl: spec. in preparation of a ceremony or festive event
 \xn Who (by his name) will embellish my song?
 \sd Mus
 \tl |{tab}|fb{Clore une ode en beauté} £|{tab}[|vl{hēgēl goy}] 
-Dans un chant de type ‘ode de prestige’ (|vl{he~}|hm{2}*) où sont cités plusieurs noms de personnes, c'est un grand honneur d'être cité en dernier, dans la coda (vl:ēleg). L'individu qui reçoit ce privilège est souvent une figure partiarcale, homme âgé et respecté, soit dans la famille du poète, soit dans celle du mécène destinataire de l'ode. On dit alors que son nom vient ‘clore en beauté’ (vl:hēgēl_goy) le chant.
+Dans un chant de type ‘ode de prestige’ (vl:he~2) où sont cités plusieurs noms de personnes, c'est un grand honneur d'être cité en dernier, dans la coda (vl:ēleg). L'individu qui reçoit ce privilège est souvent une figure partiarcale, homme âgé et respecté, soit dans la famille du poète, soit dans celle du mécène destinataire de l'ode. On dit alors que son nom vient ‘clore en beauté’ (|vl{hēgēl goy}) le chant.
 \nt
 \nq
 \dc 06/Aug/2006
@@ -18418,7 +18407,7 @@ Dans un chant de type ‘ode de prestige’ (|vl{he~}|hm{2}*) où sont cités pl
 \el Mota
 \et sagera
 \eg perch, roosting-place of birds, flying-foxes
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et hag
 \eg sit
 \nt
@@ -18537,9 +18526,9 @@ passive^ment’)
 \lf Syn.
 \lv qōnqōn
 \el Mota
-\et so|{_}man
+\et so-man
 \eg put the nose to, smell
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et mdi~
 \nt
 \nq
@@ -18714,7 +18703,7 @@ passive^ment’)
 \de descendre avec ‹qqch›; (fl:partic.) lors de la pêche collective (fv:gey* fv:hay), désigne l'activité d'un premier groupe qui
 descend vers la mer en tirant derrière lui ‹la liane de pêche fv:na-hay›; |fl{d'où} commencer la pêche à la liane
 \dn go down with ‹s.th›; (fl:partic.) during group fishing (fv:gey* fv:hay), designates the activity of a first group moving
-down towards the sea dragging behind them a ‹fishing rope fv:na-hay›; |fl{thus} start rope fishing 
+down towards the sea dragging behind them a ‹fishing rope fv:na-hay›; |fl{hence} start rope fishing 
 \rf
 \xv Kēy tē-hēw qiyig na-hay.
 \xe Aujourd'hui ils vont descendre la liane. (|ax{i.e.} ils vont faire une pêche collective)
@@ -18744,7 +18733,7 @@ second'.
 \nq
 \dc 17/Dec/2003
 \dc 30/Mar/2008
-\dt 21/May/2011
+\dt 21/Jun/2016
 
 \lx hēy
 \la nē-hēy
@@ -18797,8 +18786,8 @@ alors!’
 \dn marks agreement: 'oh, OK'; fl:sometimes with amazement 'oh, really?'
 \rf
 \xv “Na-hek Womtelo.” Wo “Oo, hēywē.”
-\xe “Je m'appelle Womtelo. # Ah bon, d'accord.” [ax:litt. Oui, vraiment]
-\xn "My name's Womtelo. # Oh, OK" [ax:lit. Yes, really]
+\xe “Je m'appelle Womtelo. – Ah bon, d'accord.” [ax:litt. Oui, vraiment]
+\xn "My name's Womtelo. – Oh, OK" [ax:lit. Yes, really]
 \cf itōk
 \ce oui, d'accord
 \sn 3
@@ -18822,7 +18811,7 @@ alors!’
 \xe Incroyable [ax:litt. Vrai], le bateau!
 \xn Incredible [ax:lit. True], that boat!
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ge
@@ -18860,12 +18849,12 @@ tone']
 \nq
 \dc 12/Sep/2002
 \dc 06/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx higap
 \ph hiɣap
 \a higap
-\ps adp
+\ps adv
 \rd
 \gr mestem
 \ge rater
@@ -18883,12 +18872,12 @@ tone']
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx h[i]gi~
 \la ni-hgi~
 \ph nihɣi
-\ps nop
+\ps n.poss
 \pdl 1s
 \pdv ni-hgi-k
 \pdl 3s
@@ -18937,7 +18926,7 @@ tone']
 \nt <sugu~??
 \nq
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx higoy
 \ph hiɣɔj
@@ -18962,7 +18951,7 @@ tone']
 \xe Je me bouche les oreilles.
 \xn I put my fingers in my ears
 \lf Cf.
-\lv goy|hm{1}
+\lv goy1
 \le (3)
 \ln
 \cf qosos
@@ -18995,7 +18984,7 @@ arrêter ‹qqn› dans son élan
 \xa
 \ee
 \lf Cf.
-\lv goy|hm{1} (13)
+\lv goy1 (13)
 \cf tig goy
 \ce
 \sn 4
@@ -19180,7 +19169,7 @@ valeur symbolique
 \hm 1
 \ph hij
 \wr A
-\ps adp
+\ps adv
 \dr
 \de indique qu'une action V s'effectue selon un mouve^ment d'application
 (fl:partic. en direction de qqch)
@@ -19274,10 +19263,10 @@ mentale^ment
 \ue Rem
 \ee Lorsque fv:hiy oriente un verbe intransitif vers un objet précis, il peut parfois le
 rendre transitif.
-\cf aē
+\cf aēA
 \ce y, là
 \cn there
-\cf van|hm{2}
+\cf van2
 \ce Itif
 \sn 4
 \ge
@@ -19300,9 +19289,9 @@ exclusively on its purpose
 \ue Synt
 \ee Lorsqu'il est inanimé, l'objet du syntagme verbal peut être repris par anaphore zéro.
 \en
-\sy van|hm{2}
+\sy van2
 \se
-\ps adv
+\ps loc
 \wr B
 \sn 1
 \we après directionnel spatial
@@ -19326,7 +19315,7 @@ dead.
 \sn 2
 \he fig
 \de en continuant dans la même direction, |fl{d'où} davantage, encore plus
-\dn continuing in the same direction, |fl{thus} more, even more
+\dn continuing in the same direction, |fl{hence} more, even more
 \gn
 \rf AG4-63
 \xv Nok so ēglal m̄ōleg van hiy no-hohole anen.
@@ -19353,7 +19342,7 @@ speaker
 \xe après-après-demain, un de ces jours
 \xn the day after tomorrow, some day
 \se
-\ps prép
+\ps prep
 \wr C
 \de indique un élément périphérique sur lequel porte l'action
 \dn indicates a peripheral element concerning an action
@@ -19478,7 +19467,7 @@ France.
 \nq
 \dc 30/Mar/2008
 \dc 14/Sep/2002
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hiy
 \la ni-hiy
@@ -19527,7 +19516,7 @@ France.
 \u nA- hyi~ -(m)
 \a hiyi
 \a hēyē
-\ps nop
+\ps n.poss
 \re os
 \sn 1
 \ge
@@ -19541,7 +19530,7 @@ France.
 \xe squelette ; osse^ments humains
 \xn skeleton; human bones
 \sd Anat
-\mn hiy|hm{2}
+\mn hiy2
 \sn 2
 \ge
 \re
@@ -19613,7 +19602,7 @@ tiebeams (fv:na-salwolwol) to the ridge beam (fv:nē-qēthi~)
 \nt
 \nq
 \dc 06/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx h[i]yip
 \ph hijip
@@ -19631,7 +19620,7 @@ poing fermé
 \xe Il arracha ainsi les feuilles de banian, qui furent aussitôt emportées par le vent.
 \xn He tore off the banyan leaves, which the wind immediately swept away.
 \lf Cf.
-\lv hap|hm{1}
+\lv hap1
 \le cueillir
 \el
 \nt
@@ -19662,14 +19651,14 @@ exploitée sous forme de jardins
 \xv Kēy qētqēt hiyle so totot han̄, n-ēvet, tiwag mi na-gayga.
 \xe Ils se rendent tous en basse brousse pour couper des poutres, des bambous et des lianes.
 \xn They all go to the low bush to cut timber, bamboo and vines.
-\mr hiy|fs{ + }le|hm{2}
+\mr hiy + le2
 \el Mota
-\et sur|{_}lau
+\et sur-lau
 \eg to follow the beach
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx hog
 \ph hɔɣ
@@ -19788,7 +19777,6 @@ the woman's family, either in the presence of the future husband or not
 \dn noun derived from vb fv:hole
 \rf
 \nt
-\nt
 \sn 1
 \de le langage, le fait de parler
 \dn language, the act of speaking
@@ -19851,7 +19839,7 @@ traditional songs.
 \nt P5-58: no-hohole = signification
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 18/Jun/2016
 
 \lx hohōw
 \la no-hohōw
@@ -20005,7 +19993,7 @@ interrompre ‹qqn›
 \a hlo
 \a hlē
 \a holo
-\ps nop
+\ps n.poss
 \1s na-hlē-k
 \3s na-hlo-n
 \gr bol
@@ -20026,14 +20014,14 @@ interrompre ‹qqn›
 \sy wōtiltil
 \cf lah
 \nt wot = châtrer
-\et (<°l[o]ho|{_}) <°lasó|{_}
-\el PNCV,|{~}POc
+\et (<°l[o]ho-) <°lasó-
+\el PNCV, POc
 \et *laso
 \ec métathèse *nalhon > nahlon
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx h[o]yo
 \ph hɔjɔ
@@ -20088,7 +20076,7 @@ interrompre ‹qqn›
 \xf Cela a pris beaucoup de temps.
 \se hoyo
 \wr B
-\ps adp
+\ps adv
 \sn 1
 \he concret
 \de longue^ment, en longueur
@@ -20124,7 +20112,7 @@ all about it / To put it clearly...
 \nt
 \nq
 \dc 07/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hō
 \hm 1
@@ -20203,8 +20191,7 @@ all about it / To put it clearly...
 \lx hōm̄
 \la °na-hōm̄
 \ph nahʊŋ​͡mʷ
-\pc homw.jpg
-\nt .G.c:\Alex\photoDico\homw.jpg;1.6";.74";JPG
+\pc .G.c:\Alex\photoDico\homw.jpg;1.6";.74";JPG
 \ps n
 \de poisson récifal
 \rf AG3-190 ; AG5-80 (Mwesen)
@@ -20251,12 +20238,12 @@ all about it / To put it clearly...
 
 \lx hōn
 \ph hʊn
-\ps adp
+\ps adv
 \sn 1
 \ge réussir
 \re
 \de (pêcher, chasser) avec succès; |fl{d'où} attraper ‹proie›
-\dn (fish, hunt) successfully;|fl{thus} catch ‹prey› 
+\dn (fish, hunt) successfully;|fl{hence} catch ‹prey› 
 \rf AP5-22
 \xv Wō nēk ma-galeg hōn?
 \oe à la pêche
@@ -20295,7 +20282,7 @@ all about it / To put it clearly...
 \nq
 \dc 19/Oct/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx hōw
 \ph hʊw
@@ -20311,9 +20298,9 @@ all about it / To put it clearly...
 ‘|fe{en bas de ton côté}’, etc.
 \un
 \en
-\nt têqêl / hôw / antan ; môk hôw ; l'Ouest, hôw # hag / hay / yow hôw Mwotlap ; hêw ; malig hôw
+\nt têqêl / hôw / antan ; môk hôw ; l'Ouest, hôw – hag / hay / yow hôw Mwotlap ; hêw ; malig hôw
 (âge, nombre, vigueur) ; vav hôw ; lok hôw me...
-\an hag|hm{1}
+\an hag1
 \sn 1
 \ge
 \re
@@ -20406,9 +20393,9 @@ secrètes.
 \xm Ikē kē ne-tmayge malig hōw.
 \xf Lui, il est encore plus vieux [il est vieux encore plus bas].
 \sn 3
-\de qualifie toute action tendant à l'immobilité, l'interruption (fl:opp. fv:hag|hm{1}, suggérant
+\de qualifie toute action tendant à l'immobilité, l'interruption (fl:opp. fv:hag1, suggérant
 le démarrage d'une action)
-\dn qualifies any action leading to immobility, interruption (fl:opp. fv:hag|hm{1},
+\dn qualifies any action leading to immobility, interruption (fl:opp. fv:hag1,
 suggesting the start of an action)
 \rf AD5-16
 \xv Mahē ni-qōn̄ hōw nen e...
@@ -20431,7 +20418,7 @@ suggesting the start of an action)
 \rm K10-5
 \xm Kē so ni-tityēn te hōw e, tateh ! 
 \xf Il essaye de lui refuser, mais rien n'y fait.
-\cf hiy|hm{1}
+\cf hiy1
 \sn 4
 \de orienté vers la suite, la fin d'un processus
 \dn tending towards the continuation, the end of a process
@@ -20464,11 +20451,11 @@ suggesting the start of an action)
 \sn 5
 \ge
 \we directionnel géocentrique
-\de vers le nord-ouest, vers le nord et/ou vers l'ouest (fl:opp. fv:hag|hm{1}). fl:Partic. dans
+\de vers le nord-ouest, vers le nord et/ou vers l'ouest (fl:opp. fv:hag1). fl:Partic. dans
 l'île de Mwotlap : en suivant l'île dans sa longueur, d'|fi{est} en |fi{ouest}. Dans d'autres
 îles : |fl{en gén.} en longeant les côtes, du |fi{sud-est} au |fi{nord-ouest}. Entre les îles :
 |fv{hōw} réfère aux îles du nord-ouest (Roua, Ureparapara, Torres, Salomon)
-\dn north-westwards, north and/or westwards (fl:opp. fv:hag|hm{1}). fl:Partic. in the
+\dn north-westwards, north and/or westwards (fl:opp. fv:hag1). fl:Partic. in the
 island of Mwotlap : following the island lengthwise from|fi{east} to |fi{west}. In other
 islands : |fl{gen.} following the coastline, from |fi{south-east} to |fi{north-west}.
 Between the islands: |fv{hōw} refers to islands of the northwest (Roua, Ureparapara,
@@ -20528,10 +20515,10 @@ dans le sens du vent’.
 \xf c'est celui qui est debout côté ouest...
 \ue Rem
 \ee En l'absence d'opposition droite/gauche, le mwotlap emploie un système d'orientation géocentrique.
-fv:Hōw s'oppose non seule^ment à fv:hag|hm{1}, mais aussi à fv:hay|hm{1} (vers l'intérieur des terres) et
-à fv:yow|hm{1} (vers l'extérieur, vers la mer). 
+fv:Hōw s'oppose non seule^ment à fv:hag1, mais aussi à fv:hay1 (vers l'intérieur des terres) et
+à fv:yow1 (vers l'extérieur, vers la mer). 
 \un
-\el North|{_}V
+\el North-V
 \et *suw[e,o]
 \el POc
 \et *sipo
@@ -20648,15 +20635,15 @@ referring to a definite group)
 \xe Ne le dis à personne! [ax:litt. ne le dis pas aux gens]
 \xn Don't tell anyone! [ax:lit. don't tell people]
 \rf alx
-\xv Iyē ma-vap tō hiy nēk? # Ige.
-\xe Qui te l'a dit? # Des gens.
-\xn Who told you? # Some people.
+\xv Iyē ma-vap tō hiy nēk? – Ige.
+\xe Qui te l'a dit? – Des gens.
+\xn Who told you? – Some people.
 \rf
 \xv Nēk so taq bat, ige tiple ekas nēk.
 \xe Cache-toi, de peur qu'on ne te voie.
 \xn Hide yourself, someone might see you.
 \ue Rem
-\ee La même valeur indéfinie est parfois assurée par le singulier fv:n-et (fl:cf. fv:et|hm{3}).
+\ee La même valeur indéfinie est parfois assurée par le singulier fv:n-et (fl:cf. fv:et3).
 \sn 2
 \he
 \we suivi d'un qualificatif: adjectif, quantifieur, etc.
@@ -20727,33 +20714,34 @@ plurielle
 pour le singulier)
 \dn plural article for human referent names (fl:opp. fv:na- ou fi:zero for the singular)
 \rf
-\xv welan |fe{le chef,} ige welan
+\xv ige welan
 \xe les chefs
 \xn chiefs
 \rf
-\xv ithi-k |fe{mon frère,} ige yathithi-k
+\xv ige yathithi-k
 \xe mes frères
 \xn my brothers
 \rf
-\xv na-lqōvēn |fe{la femme,} ige lōqōvēn
+\xv ige lōqōvēn
 \xe les femmes
 \xn women
 \rf
-\xv nō-mōmō |fe{le poisson,} ige mōmō
+\xv ige mōmō
 \oe animal anthropomorphisé dans un conte
 \xe les Poissons
-\xn fish
+\on animal, anthropomorphic in a story
+\xn the Fish
 \rm AP9-51
 \xm ige kaskas del
 \xf toutes les fleurs
 \ue Synt
 \ee Dans cette structure, c'est plutôt le nom qui est la tête du syntagme, tandis que le Collectif fonctionne
-comme un article
+comme un article.
 \nt
 \nq
 \dc 19/Jun/2002
 \dc 07/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx igni~
 \ph iɣni
@@ -20823,7 +20811,7 @@ comme un article
 \lx ili~
 \la n-ili~
 \ph nili
-\ps nop
+\ps n.poss
 \1s n-ili-k
 \3s n-ēlē-n
 \gr hea
@@ -20872,7 +20860,7 @@ comme un article
 \nq
 \dc 17/Dec/2003
 \dc 07/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ilil
 \ph ilil
@@ -20888,8 +20876,8 @@ comme un article
 sacrés (fv:na-tmat)
 \dn paint ‹s.th› meticulously and carefully (fl:opp. fv:suw), draw patterns, fl:esp. in the art of sacred masks (fv:na-tmat)
 \rf
-\ee Les moyens tradition^nels utili^sés dans la peinture sont le charbon (fv:na-vay|hm{3},
-fv:na-malvay) pour le noir (fv:ne-met|hm{1}) ; le calcaire (fv:n-ow) pour le blanc ; la sève de
+\ee Les moyens tradition^nels utili^sés dans la peinture sont le charbon (fv:na-vay3,
+fv:na-malvay) pour le noir (fv:ne-met1) ; le calcaire (fv:n-ow) pour le blanc ; la sève de
 certains fruits pour le rouge (fv:ne-me).
 \sy lem̄eh
 \sy benem
@@ -21371,7 +21359,7 @@ neveu..., certains oncles
 \rf
 \nt
 \el Mota
-\et valu|{_}i
+\et valu-i
 \eg match, fellow, mate
 \el ax:Cf.
 \et vl:vulu
@@ -21448,7 +21436,7 @@ fv:non_Iqet |fe{Iqet's N, from Iqet's time}
 \bb
 \tl  |{tab}|fb{La langue d'Iqet} £ |{tab}[|vl{no-hohole non Iqet}]
 Nettement distincte du mwotlap, la langue poétique de Mwotlap, dite “langue d'Iqet”, est employée exclusive^ment dans les chants tradition^nels (vl:n-eh_t-am̄ag, fl:opp. chansons populaires, en mwotlap); elle est associée à des contextes poétiques et solennels, comme les cérémonies coutumières, les danses (vl:na-mapto, vl:no-yon̄^yep), les chants insérés dans les contes (vl:na-vap_t-am̄ag).
-Cette langue nette^ment archaïsante se serait transmise depuis les temps de l'origine, d'où son nom # allusion au dieu créateur des îles Banks, vl:Iqet. Comparable au latin médiéval pour les langues romanes, la langue d'Iqet reste large^ment ésotérique pour les gens de Mwotlap, qui générale^ment ne la comprennent pas ; seuls quelques érudits savent encore l'utiliser pour composer leurs chansons (vl:towtow_eh). Souvent présentée comme un vestige d'une ancienne langue commune aux îles Banks, il s'agit, en réalité, d'une fi:koinè littéraire conventionnelle, que l'on retrouve d'une île à l'autre sous diverses formes.
+Cette langue nette^ment archaïsante se serait transmise depuis les temps de l'origine, d'où son nom – allusion au dieu créateur des îles Banks, vl:Iqet. Comparable au latin médiéval pour les langues romanes, la langue d'Iqet reste large^ment ésotérique pour les gens de Mwotlap, qui générale^ment ne la comprennent pas ; seuls quelques érudits savent encore l'utiliser pour composer leurs chansons (vl:towtow_eh). Souvent présentée comme un vestige d'une ancienne langue commune aux îles Banks, il s'agit, en réalité, d'une fi:koinè littéraire conventionnelle, que l'on retrouve d'une île à l'autre sous diverses formes.
 \sn 3
 \ge
 \re Dieu
@@ -21661,8 +21649,8 @@ soient parallèles ou croisés
 \dn good, well
 \ue Synt
 \ee Prédicat direct, sans préfixe aspecto-modal. Pour se combiner aux marques TAM, fv:itōk
-est remplacé par le radical supplétif fv:wē: |fv{Ne-telefon itōk? # Et-wē qete, ba tē-wē
-qiyig.} |fe{Le téléphone marche? # Il ne marche pas encore, mais il marchera bientôt}.
+est remplacé par le radical supplétif fv:wē: |fv{Ne-telefon itōk? – Et-wē qete, ba tē-wē
+qiyig.} |fe{Le téléphone marche? – Il ne marche pas encore, mais il marchera bientôt}.
 \lf ‡
 \lv m̄isi
 \lf Ant.
@@ -21715,17 +21703,17 @@ qiyig.} |fe{Le téléphone marche? # Il ne marche pas encore, mais il marchera b
 \de c'est bon, c'est d'accord; oui; soit, tant pis, admettons
 \dn OK, I agree; yes; very well, too bad, if you like
 \rf
-\xv Dō ak-vayge bah tusu! # Itōk.
-\xe Si nous prenions d'abord notre repas. # D'accord.
-\xn Supposing we had our meal first. # OK.
+\xv Dō ak-vayge bah tusu! – Itōk.
+\xe Si nous prenions d'abord notre repas. – D'accord.
+\xn Supposing we had our meal first. – OK.
 \rf
-\xv No et-eksas te kē. # Itōk.
-\xe Je ne l'ai pas trouvé. # Bon, tant pis.
-\xn I can't find it. # Oh well, never mind.
+\xv No et-eksas te kē. – Itōk.
+\xe Je ne l'ai pas trouvé. – Bon, tant pis.
+\xn I can't find it. – Oh well, never mind.
 \rf
-\xv Inti may qelen̄. # De? Itōk.
-\xe Ton fils a disparu. # Ah bon? D'accord.
-\xn Your son has disappeared. # Really? OK.
+\xv Inti may qelen̄. – De? Itōk.
+\xe Ton fils a disparu. – Ah bon? D'accord.
+\xn Your son has disappeared. – Really? OK.
 \sn 4
 \ge
 \re
@@ -21733,10 +21721,10 @@ qiyig.} |fe{Le téléphone marche? # Il ne marche pas encore, mais il marchera b
 \de être en bonne santé, aller bien
 \dn to be in good health, feel good
 \rf
-\xv Nēk itōk, si ne-het? # Ino itōk vēlēs, ba inēk?
-\xe Tu vas bien [ou non]? # Moi je vais très bien, et toi?
-\xn Do you feel alright [or not]? # I'm OK, how about you?
-\xm Bōbō itōk? # Ohoo, kē et-wē meh te…
+\xv Nēk itōk, si ne-het? – Ino itōk vēlēs, ba inēk?
+\xe Tu vas bien [ou non]? – Moi je vais très bien, et toi?
+\xn Do you feel alright [or not]? – I'm OK, how about you?
+\xm Bōbō itōk? – Ohoo, kē et-wē meh te…
 \sn 5
 \de
 \re
@@ -21788,7 +21776,7 @@ qiyig.} |fe{Le téléphone marche? # Il ne marche pas encore, mais il marchera b
 
 \lx iyē
 \ph ijɪ
-\ps int
+\ps interr
 \gr huia
 \ge qui
 \de qui. Forme tonique de fv:yē, fl:spéc. en fonction de prédicat
@@ -21812,9 +21800,9 @@ qiyig.} |fe{Le téléphone marche? # Il ne marche pas encore, mais il marchera b
 \ue Rem
 \ee Pour plus d'une personne, on emploie la forme |vl{iyē geh}: |fv{Iyē geh nen?} |fe{Qui est-ce (ces gens)?}
 fl:Cf. fv:geh
-\mr i-|fs{ + }yē
+\mr i- + yē
 \se iyē geh
-\ps int
+\ps interr
 \we valeur plurielle mais accord au singulier
 \lt qui chacun
 \de question ‘Qui?’ portant sur plusieurs personnes en même temps, mais
@@ -21839,7 +21827,7 @@ people seen as a group)
 \nq
 \dc 11/Feb/2006
 \dc 15/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -k
 \ph k
@@ -21967,14 +21955,14 @@ appré^hendé dans sa longueur (fl:opp. fv:no-hohole ‘phrase, mot, parole brè
 \lt causerie d'autre^fois
 \de conversa^tion historique, rela^tant des faits considérés comme
 authen^tiques, |fl{d'où} mythe, légende
-\dn historic conversation, relating facts considered as authentic |fl{thus} myth, legend
+\dn historic conversation, relating facts considered as authentic |fl{hence} myth, legend
 \rf
 \xv Na-kaka t-am̄ag. Veg ma-van tabay me.
 \xe C'est ce qu'on appelle l'Histoire, car ç'a été transmis de généra^tion en généra^tion (ax:cf. vl:tabay).
 \xn That's what we call History, because it's been handed down from generation to generation (ax:cf.
 vl:tabay).
 \rf
-\xv na-kaka |fs{(}t-am̄ag|fs{)} non Iqet
+\xv na-kaka (t-am̄ag) non Iqet
 \xe le mythe d'Iqet (démiurge)
 \xn the legend of Iqet (demiurge)
 \rf
@@ -22004,6 +21992,7 @@ actors...)
 \nq
 \dc 16/Sep/2002
 \dc 30/Mar/2008
+\dt 02/Jul/2016
 
 \lx kakal
 \ph kakal
@@ -22121,7 +22110,7 @@ gibberish supposedly spoken by these creatures.
 \dn go out
 \mn kalō
 \se
-\ps adp
+\ps adv
 \wr B
 \gr antap
 \ge monter
@@ -22133,7 +22122,7 @@ gibberish supposedly spoken by these creatures.
 \nq
 \dc 24/Oct/2003
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx kal bat
 \ph kal ᵐbat
@@ -22173,7 +22162,7 @@ gibberish supposedly spoken by these creatures.
 \ue Rem
 \ee La forme se comporte, phonétiquement et syntaxiquement, comme s'il s'agissait d'un verbe simple, d'où
 l'orthographe possible fv:kalō (rédup. fv:kakalō)
-\mr kal |fs{+} lō
+\mr kal + lō
 \sn 1
 \re
 \de sortir (de, fv:den), fl:spéc. d'un lieu fermé de type maison
@@ -22245,8 +22234,8 @@ alors une immense cité.
 \xn As soon as she touched (the fruit) with her finger, a cloud of smoke rose, and a Demon appeared.
 \rf
 \xv “Ba ignik ave?” Kē wo “Sisqet kē ni-kalō me.”
-\xe “Mais où donc est mon mari? # Il va bientôt apparaître (|ax{i.e.} tu vas bientôt le voir).”
-\xn "But where's my husband? # He'll soon appear (|ax{i.e.} you'll soon see him)."
+\xe “Mais où donc est mon mari? – Il va bientôt apparaître (|ax{i.e.} tu vas bientôt le voir).”
+\xn "But where's my husband? – He'll soon appear (|ax{i.e.} you'll soon see him)."
 \rf
 \xv Kē ni-et yow qele kē, ni-siok vitwag ni-kal lō.
 \xe Il regarda vers la mer, et vit apparaître [ax:litt. vit sortir] un bateau.
@@ -22292,7 +22281,7 @@ demi-cercle
 \nq
 \dc 11/Mar/2006
 \dc 15/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx kalō
 \ph kalʊ
@@ -22500,7 +22489,7 @@ garden, etc.
 \xe Picasso est un homme célèbre [son nom est haut].
 \xn Picasso is a famous man [his name is high].
 \se
-\ps adp
+\ps adv
 \wr B
 \de (faire V) en hauteur, haut verticalement
 \dn (do V) high up, vertically
@@ -22524,7 +22513,7 @@ garden, etc.
 \nq
 \dc 19/Oct/2003
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx key
 \ph kɛj
@@ -22686,18 +22675,13 @@ neutral proximal deictic)
 \xm Kē ma-galeg qele gōskē e tō…
 \ue Synt
 \ee La combi^naison |fv{agōh kē} n'existe pas.
-\se qele kē
-\ps adv
-\lt comme ceci, ainsi
-\de soudain, et voilà que
-\dn suddenly, just then
 \rf
 \mn qele kē
 \nt
 \nq
 \dc 20/Dec/2003
 \dc 18/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx kē
 \hm 2
@@ -22742,7 +22726,7 @@ Complément), les référents non-humains donnent lieu à une anaphore zéro (sa
 |fv{Mal bah.} |fe{C'est fini.}; |fv{Nēk may et?} |fe{Tu as vu?}; |fv{No ma-van me veg.}
 |fe{Je suis venu pour ça}. En position adverbiale, l'anaphorique non-humain est fv:aē.
 \el ax:Cf.
-\et kē|hm{1}
+\et kē1
 \nt
 \nq
 \dc 20/Dec/2003
@@ -22806,7 +22790,7 @@ Complément), les référents non-humains donnent lieu à une anaphore zéro (sa
 \lx kēkse~
 \la nē-kēkse~
 \ph nɪkɪksɛ
-\ps nop
+\ps n.poss
 \1s nē-kēkse-k
 \3s nē-kēksa-n
 \sn
@@ -22858,7 +22842,7 @@ protection chaleureuse
 \nq
 \dc 25/Jul/2006
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx k{ē}lan
 \la nē-klan
@@ -22894,7 +22878,7 @@ protection chaleureuse
 \ph nɪklɛ
 \wr A
 \hm
-\ps nop
+\ps n.poss
 \gr baksaed
 \1s nē-kle-k
 \3s nē-kla-n
@@ -22964,9 +22948,9 @@ qqs expressions temporelles
 \xe soit l'an prochain, soit dans deux ans [ax:litt. dans le ‘dos’ de deux ans]
 \xn either next year, or the year after [ax:lit. in the 'back' of two years]
 \ue
-\nt En général, ‘après’ sera rendu par une coordination de deux propositions, de type /P|hm{1}
-fv:tō P|hm{2}/ ou /P|hm{1} fv:bah_en (fv:tō) P|hm{2}/: |fv{Nok in ub:bah na-ga ub:en, ub:tō
-nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
+\nt En général, ‘après’ sera rendu par une coordination de deux propositions, de type /P1
+fv:tō P2/ ou /P1 fv:bah_en (fv:tō) P2/: |fv{Nok in ub:bah na-ga ub:en, ub:tō
+nok gengen.} |fe{Je mangerai} (P2) |fe{après avoir bu le kava} (P1).
 \cf itan
 \ce prochain
 \cf atgiy
@@ -22975,11 +22959,11 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \nq
 \dc 17/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx kēlē
 \ph kɪlɪ
-\ps adp
+\ps adv
 \sn
 \ge
 \re
@@ -22997,7 +22981,7 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \nq
 \dc 15/Oct/2003
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 02/Jul/2016
 
 \lx kēmtēl
 \ph kɪmtɪl
@@ -23061,7 +23045,7 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \xe [au bout des îles] les îles Salomon
 \xn [at the end of the islands] Solomon Islands
 \el Mota
-\et kere|{_}i
+\et kere-i
 \nt
 \nq
 \dc 31/Mar/2007
@@ -23226,7 +23210,9 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \xe Nous prions que Dieu veuille tous nous réconforter en ce moment de deuil.
 \xn We pray that God gives us all shelter in this time of mourning.
 \lf Cf.
-\lv goy|hm{1} |ax{[10]}
+\lv goy1
+\le (10)
+\ln (10)
 \el Mota
 \et kokom̄ag
 \eg keep carefully; faithful
@@ -23234,7 +23220,7 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \nq
 \dc 25/Jul/2006
 \dc 04/Apr/2007
-\dt 19/Oct/2014
+\dt 02/Jul/2016
 
 \lx kokoym̄eg
 \ph kɔkɔjŋ​͡mʷɛɣ
@@ -23623,7 +23609,7 @@ growth stage
 \el Mota
 \et lago
 \eg to step, stretch the legs
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *lako
 \eg step, walk
 \nt
@@ -23686,7 +23672,7 @@ understand
 \xm Van me, lah !
 \cf ēkēh
 \cf lageh
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *laso
 \eg testicles
 \nt
@@ -23767,14 +23753,14 @@ calmer, couver
 \rn smoulder
 \rn burn
 \uv fire, fv:n-ep
-\dn smoulder: burn normally, without large flames nor smoke; |fl{thus} |ax{(fire)} go down
+\dn smoulder: burn normally, without large flames nor smoke; |fl{hence} |ax{(fire)} go down
 \rf AG6-41
 \rf
 \xv N-ep so ni-lal en, tō kēy qoyo se na-tgop hōw aē.
 \xe Quand le feu se sera stabilisé, on posera dessus le laplap.
 \xn When the fire smoulders down, we'll put the laplap on it.
 \ee On attend que le feu brûle ainsi pour retirer (fv:al) les pierres chauffées, et déposer
-(fv:se|hm{3}) les aliments dans le four.
+(fv:se3) les aliments dans le four.
 \nq = se3 ?? "mettre dans le four"
 \cf ep
 \nt G4-77 = feu sans fumée, mais flammes.
@@ -23797,7 +23783,7 @@ calmer, couver
 \nq
 \dc 12/Dec/20047
 \dc 31/Mar/2007
-\dt 22/Aug/2011
+\dt 21/Jun/2016
 
 \lx lalm̄eg
 \ph lalŋ​͡mʷɛɣ
@@ -23815,7 +23801,7 @@ calmer, couver
 
 \lx laln̄e
 \ph lalŋɛ
-\ps prép
+\ps prep
 \gr ananit
 \dr
 \ge sous
@@ -23832,12 +23818,12 @@ calmer, couver
 \et (la)lan̄ai
 \eg the underpart or side
 \el PNCV
-\et *laŋa|{_}i
+\et *laŋa-i
 \eg lift flat object from surface
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lam̄
 \ph laŋ​͡mʷ
@@ -23886,7 +23872,7 @@ fl:ex. lanière; onduler
 \el Mota
 \et lam̄asag
 \eg to beat upon
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et lam̄
 \nt
 \nq
@@ -23925,7 +23911,7 @@ fl:ex. lanière; onduler
 \xn
 \ee Peut-être allusion à un toponyme : fv:t-Anō.
 \en
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *laŋo
 \eg fly
 \nt
@@ -23975,7 +23961,7 @@ cacher
 \eg to lift up, turn up..., as the edge of a mat, the sole of foot,
 leaf from the end
 \el PNCV
-\et *laŋa|{_}i
+\et *laŋa-i
 \eg lift flat object from surface
 \el POc
 \et *laŋa
@@ -24033,11 +24019,11 @@ leaf from the end
 \lf Cf.
 \lv vasem
 \le révéler
-\mr lan̄|hm{3} |fs{+} lō
+\mr lan̄3 + lō
 \nt
 \dc 19/Jun/2002
 \dc 31/Mar/2007
-\dt 17/Jul/2011
+\dt 02/Jul/2016
 
 \lx lan̄vēn
 \la na-lan̄vēn
@@ -24080,7 +24066,7 @@ leaf from the end
 \nt PRéD = kê laptô ; kê laptô hôw en ; 
 \nt ADP = nok dêmdêm lapgetô aê...; cf. LAP (ni-hag lap)+ TÔ ?? *ni-sMal lapgetô
 \se
-\ps adp
+\ps adv
 \wr B
 \ge encore
 \de encore, toujours
@@ -24118,7 +24104,7 @@ leaf from the end
 \nq
 \dc 25/Oct/2003
 \dc 22/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx laskoy
 \ph laskɔj
@@ -24167,7 +24153,7 @@ animal dans un buisson
 \ph lat
 \a lalat
 \u lat (2)
-\ps adp
+\ps adv
 \rd lalat
 \gr katem
 \ge en-deux
@@ -24186,6 +24172,7 @@ animal dans un buisson
 \nt
 \nq
 \dc 27/Apr/2000
+\dt 02/Jul/2016
 
 \lx law
 \ph law
@@ -24416,7 +24403,7 @@ tire légère^ment sur sa paupière inférieure (fl:Cf. “mon œil” en fçs).
 \lx le-
 \hm 3
 \va lV-
-\ps prép
+\ps prep
 \ge Loc
 \gn in
 \de préfixe locatif
@@ -24509,7 +24496,7 @@ mer’, avec prép. vl:le-naw ‘à la mer’.
 \xf Les femmes accrochent les poissons à leurs cordons.
 \rm
 \ue
-\tl |{tab}|fb{Les syntagmes locatifs}   [|vl{le-}|hm{3}*]
+\tl |{tab}|fb{Les syntagmes locatifs}   [vl:le-3]
 Le sens de fv:le- est celui d'un locatif, sans plus de précision sémantique: |fl{ex.} |vl{l-ēm̄} ‘à la maison’. Pour des relations spatiales plus spécifiques, on emploie soit d'autres prépositions qui se substituent à fv:le- (fl:ex. |vl{lelo ēm̄} ‘dans la maison’; |vl{apwo ēm̄} ‘au-dessus de la m.’; |vl{sili ēm̄} ‘à côté de la m.’…), soit le syntagme en fv:le- précédé d'un directionnel et/ou suivi d'un adverbe. fl:Ex. (vl:hay) |vl{l-ēm̄ alon} ‘à l'intérieur de la maison’; (vl:hag) |vl{l-ēm̄ alge} ‘en haut de la m.’; (vl:yow) |vl{l-ēm̄ aslil} ‘en dehors de la m.’; |vl{isqet} (vl:van) |vl{l-ēm̄} ‘près de la m.’…
 \sn 2
 \he
@@ -24539,13 +24526,13 @@ Le sens de fv:le- est celui d'un locatif, sans plus de précision sémantique: |
 \xm Kē ta-van lok me la-ba tēvēlēm.
 \xf Elle reviendra le 5 (du mois).
 \rf
-\xv |fr{La}-han qōn̄? # |fr{Le}-Mei, |fr{la}-ba tēvēlēm.
-\xe Ce sera quel jour? # Ce sera en mai, le cinq.
-\xn It'll be what day? # It'll be in May, on the fifth.
+\xv |fr{La}-han qōn̄? – |fr{Le}-Mei, |fr{la}-ba tēvēlēm.
+\xe Ce sera quel jour? – Ce sera en mai, le cinq.
+\xn It'll be what day? – It'll be in May, on the fifth.
 \rf
-\xv |fr{Le}-lo vēvēh ? # |fr{Le}-lo vētēl na-gaytegi.
-\xe À quelle heure ? # À trois heures et demie.
-\xn At what time? # At half past three.
+\xv |fr{Le}-lo vēvēh ? – |fr{Le}-lo vētēl na-gaytegi.
+\xe À quelle heure ? – À trois heures et demie.
+\xn At what time? – At half past three.
 \sn 3
 \he métph
 \de introduit des circonstants qui ne sont spatiaux que métaphoriquement
@@ -24610,10 +24597,12 @@ by the action, and appears as a Locative, accompanied by fv:van
 \xv |vl{Kē mo-tot nē-qētēnge.}
 \oe objet entière^ment affecté
 \xe Il a taillé l'arbre (en deux...)|fs{, mais}
+\on object entirely affected
 \xn He chopped the tree (in two...)|fs{, but}
 \xv Kē mo-tot van |fr{lē}-qētēnge.
 \oe objet partielle^ment affecté
 \xe Il a taillé “dans” l'arbre (ex. Il y a creusé une pirogue)
+\on object partially affected
 \xn He carved "into" the tree (e.g. He hollowed out a canoe)
 \rf AD5-16
 \xv Qasvay ni-van me, ni-wuh van la-han̄ en ; wuh van le-tno tamge en, tateh.
@@ -24624,7 +24613,8 @@ ennemi), mais en vain.
 \xv Kēy me-mwumwu van lo-yot.
 \oe construction d'une maison
 \xe Ils travaillent fs:au toit.
-\xn They are working fs:on the roof.
+\on building of house
+\xn They are working fs:at the roof.
 \lf Cf.
 \lv van |ax{[B4]}
 \a la-
@@ -24639,6 +24629,7 @@ ennemi), mais en vain.
 \nq
 \dc 17/Sep/2002
 \dc 31/Jul/2007
+\dt 02/Jul/2016
 
 \lx leg
 \ph lɛɣ
@@ -24716,7 +24707,7 @@ ennemi), mais en vain.
 \xv na-ga be-leg
 \xe le kava réservé pour la cérémonie du mariage
 \xn kava reserved for the wedding ceremony
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *laki
 \nt
 \nq
@@ -24726,7 +24717,7 @@ ennemi), mais en vain.
 
 \lx lege
 \ph lɛɣɛ
-\ps adp
+\ps adv
 \rd legelge
 \gr antap
 \sn 1
@@ -24764,7 +24755,7 @@ ennemi), mais en vain.
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 17/Jul/2011
+\dt 02/Jul/2016
 
 \lx leh
 \la ne-leh
@@ -24893,7 +24884,7 @@ ennemi), mais en vain.
 \sn 3
 \de changer le titulaire d'un poste de pouvoir, |fl{d'où} élire, procéder à des
 élections
-\dn change the holder of an administrative post, |fl{thus} elect, organise an election
+\dn change the holder of an administrative post, |fl{hence} elect, organise an election
 \rf AP5-17
 \xv Gēn te-leh presiden lō-wōl itan.
 \xe Nous élirons [ax:litt. changerons] le Président de la République le mois prochain.
@@ -24934,7 +24925,7 @@ ennemi), mais en vain.
 \xf
 \xm mat leh ni-mgu sil
 \se
-\ps adp
+\ps adv
 \wr D
 \gr
 \sn 1
@@ -24972,7 +24963,7 @@ I'm composing) through his comments.
 \nq
 \dc 10/Feb/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx leh
 \hm 4
@@ -24999,7 +24990,7 @@ I'm composing) through his comments.
 
 \lx Lehalirōp
 \ph lɛhalirʊp
-\ps loc
+\ps top
 \gr Lehalurup
 \ge Lehalurup
 \re *
@@ -25014,7 +25005,7 @@ I'm composing) through his comments.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lel
 \la ne-lel
@@ -25103,7 +25094,7 @@ I'm composing) through his comments.
 
 \lx leln̄oln̄o-mtap
 \ph lɛlŋɔlŋɔmtap
-\ps adv
+\ps loc
 \dr long eli moning
 \ge aube
 \re
@@ -25125,11 +25116,11 @@ I'm composing) through his comments.
 \nq
 \dc 19/Dec/2003
 \dc 31/Mar/2007
-\dt 17/Jul/2011
+\dt 02/Jul/2016
 
 \lx lelo
 \ph lɛlɔ
-\ps prép
+\ps prep
 \gr insaed
 \sn
 \ge dans
@@ -25179,7 +25170,7 @@ de’: comparer |fv{na-lo ēm̄} |fe{l'intérieur de la maison} et |fv{le-lo ēm
 \nq
 \dc 16/Mar/2006
 \dc 22/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lem
 \ph lɛm
@@ -25218,7 +25209,7 @@ de’: comparer |fv{na-lo ēm̄} |fe{l'intérieur de la maison} et |fv{le-lo ēm
 \lx lemtap
 \ph lɛmtap
 \a lemtap
-\ps adv
+\ps loc
 \rd
 \dr long moning
 \ge
@@ -25237,7 +25228,7 @@ de’: comparer |fv{na-lo ēm̄} |fe{l'intérieur de la maison} et |fv{le-lo ēm
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lemyayawoy
 \ph lɛmjajawɔj
@@ -25282,7 +25273,7 @@ ciel.
 \lx lemyēpyep
 \ph lɛmjɪpjɛp
 \a lemyēpyep
-\ps adv
+\ps loc
 \rd
 \gr aftenun
 \ge après-midi
@@ -25295,12 +25286,12 @@ ciel.
 \xv Lemyēpyep nēwē !
 \xe Bonjour (l'après-midi).
 \xn Good afternoon.
-\mn myēpyep
+\mn m[ē]yēpyep
 \nt
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx l[e]m̄eh
 \ph lɛŋ​͡mʷɛh
@@ -25333,7 +25324,7 @@ objet dur, tatouer’)
 \el Mota
 \et lam̄as
 \eg to strike with drawing strokes
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et lam̄
 \nt
 \nq
@@ -25429,7 +25420,7 @@ objet dur, tatouer’)
 \la na-ln̄e~
 \ph nalŋɛ
 \hm
-\ps nop
+\ps n.poss
 \1s na-ln̄e-k
 \3s na-ln̄a-n
 \nt naln̄ek ; naln̄e ten̄ten̄, naln̄e qo... ; LALn̄E / *leln̄e tak ; 
@@ -25571,7 +25562,7 @@ du poète.
    fv:towoh|{tab}f. un b. d'explosion sourde
  §TIT§ [fl:NB: “|fi{f. un b.}”: ‘faire un bruit…’]
 \el POc
-\et *qaliŋa|{_}
+\et *qaliŋa-
 \eg voice
 \el
 \a ln̄e
@@ -25590,7 +25581,7 @@ du poète.
 \nq
 \dc 18/Mar/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lep
 \ph lɛp
@@ -25640,7 +25631,7 @@ du poète.
 \sn 2
 \he spéc
 \de prendre ‹qqch› sans autorisation, |fl{d'où} voler
-\dn take ‹s.th.› without authorization, |fl{thus} rob
+\dn take ‹s.th.› without authorization, |fl{hence} rob
 \rf
 \xv Gēn van sok a ne-men a leplep n-ēwe tētēnge agōh.
 \xe Il nous faut trouver quel est cet oiseau qui nous vole [nous prend] nos fruits.
@@ -25704,7 +25695,7 @@ in my song]
 \nt + adjoint OU directionnel!  /lep hay/…
 \de prendre ‹qqch› en l'orientant dans telle direction, |fl{d'où} apporter,
 déplacer ‹qqch›
-\dn take ‹s.th.› and place it in a certain direction, |fl{thus} bring, displace ‹s.th.›
+\dn take ‹s.th.› and place it in a certain direction, |fl{hence} bring, displace ‹s.th.›
 \rf
 \xv Ni-siok liwo nen kē mi-vil bah en, kē ni-lep yow le-naw.
 \xe Lorsqu'il eut fini d'assembler sa pirogue, il la descendit [prit] jusqu'en mer.
@@ -25734,7 +25725,7 @@ déplacer ‹qqch›
 \we +Directionnel personnel (vl:me, vl:van)
 \de prendre ‹qqch› en l'orientant vers qqn, |fl{d'où} donner, offrir,
 tendre ‹qqch› (à qqn, fv:hiy)
-\dn take ‹s.th.› directing it towards s.o.|fl{thus} give, offer, tender ‹s.th.› (to s.o. fv:hiy)
+\dn take ‹s.th.› directing it towards s.o.|fl{hence} give, offer, tender ‹s.th.› (to s.o. fv:hiy)
 \rf
 \xv Lep me!
 \xe Donne-le moi!
@@ -25788,7 +25779,7 @@ borrowed›
 \xe Les trois épreuves que je t'avais imposées, tu les as toutes réussies [tu les as prises].
 \xn The three tests I imposed on you were all successful [you took them].
 \rm
-\xm kēy lep na-ln̄e tamat en den kē tō# van tēy tō# ak na-tmat weywey aē ēgēn.
+\xm kēy lep na-ln̄e tamat en den kē tō– van tēy tō– ak na-tmat weywey aē ēgēn.
 \sn 8
 \he rare
 \de mettre en marche, faire fonctionner ‹qqch›
@@ -25803,7 +25794,7 @@ borrowed›
 \de se mettre en chemin, partir
 \dn set off, leave
 \rf
-\xv Kōmyō lep na-mtehal e kōmyō van tō# mōkheg ēgēn.
+\xv Kōmyō lep na-mtehal e kōmyō van tō– mōkheg ēgēn.
 \xe Allons, mettez-vous en route, et allez vous reposer.
 \xn Come on, off you go, and take a rest.
 \rm
@@ -25814,11 +25805,11 @@ borrowed›
 \he fig
 \de acquérir par l'esprit, |fl{d'où} réussir à comprendre ‹problème,
 explications+›
-\dn acquire through one's mind, |fl{thus} understand ‹problem, explanations+›
+\dn acquire through one's mind, |fl{hence} understand ‹problem, explanations+›
 \rf
-\xv Nēk me-lep nē-dēmdēm a qele no ma-vap tō van hiy nēk en? # Oo, no me-lep.
-\xe Tu as compris [ax:litt. tu as pris] l'explication que je viens de te donner? # Oui, j'ai compris.
-\xn Do you understand [ax:lit. you took] the explanation I've just given you? # Yes, I understand.
+\xv Nēk me-lep nē-dēmdēm a qele no ma-vap tō van hiy nēk en? – Oo, no me-lep.
+\xe Tu as compris [ax:litt. tu as pris] l'explication que je viens de te donner? – Oui, j'ai compris.
+\xn Do you understand [ax:lit. you took] the explanation I've just given you? – Yes, I understand.
 \rf
 \xv Kē et-lep qete van a so kē mal mat en.
 \xe Elle n'avait toujours pas compris qu'il était décédé.
@@ -25969,7 +25960,7 @@ mené à bien
 \xe Ne perdons pas [ax:litt. ne prenons pas] trop de temps avec ça.
 \xn Don't let's lose [ax:lit. don't let's take] too much time with that.
 \rm
-\xm qētēg a le-myēpyep a ige so mitimtiy, nok lep dēn̄ a# le-mtap en.
+\xm qētēg a le-myēpyep a ige so mitimtiy, nok lep dēn̄ a– le-mtap en.
 \xf ?????
 \se
 \ps vi
@@ -25994,7 +25985,7 @@ mené à bien
 \nq
 \dc 13/Nov/2004
 \dc 30/Mar/2008
-\dt 14/Nov/2011
+\dt 21/Jun/2016
 
 \lx lep bat
 \ph lɛp ᵐbat
@@ -26172,7 +26163,7 @@ en lui souhaitant la bienvenue
 \xe Retire le voile de son visage.
 \xn Take the veil off his face.
 \rm
-\xm Nō-qōn̄ levetēl, ne-beg ni-myen̄ qēt, tō # nēk lepyak.
+\xm Nō-qōn̄ levetēl, ne-beg ni-myen̄ qēt, tō – nēk lepyak.
 \xf Après huit jours, quand les fruits-à-pain sont complète^ment déshydratés, tu les enlèves (du four).
 \rm
 \xm Nēk hel ne-beg, nēk lepyak n-ēlon.
@@ -26263,7 +26254,7 @@ en lui souhaitant la bienvenue
 \et <°lésa
 \el Mota
 \et lisa
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *lisa
 \eg
 \ec Pb de voyelle ; mais /e/ est confirmé par Edgar & Womayok.
@@ -26272,9 +26263,9 @@ en lui souhaitant la bienvenue
 \dc 31/Jul/2007
 \dt 28/Mar/2010
 
-\lx le-tkel-lo
+\lx letkelo
 \ph lɛtkɛlɔ
-\ps adv
+\ps loc
 \re
 \lt de l'autre côté du soleil
 \de en début d'après-midi, au moment où le soleil commence à redescendre (de 13h à 16h30
@@ -26284,14 +26275,16 @@ approximately)
 \ll beyond the sun
 \dn
 \rf AP6-05, Mary-0Léa
-\xv Letkello bah en, tō lemyēpyep.
-\xe Après le vl:letkello (début d'après-midi), on passe au vl:lemyēpyep (fin d'après-midi, début de soirée).
-\xn After the vl:letkello  (early afternoon), it's vl:lemyēpyep (end of the afternoon, early evening).
-\cf myēpyep
+\xv Letkelo bah en, tō lemyēpyep.
+\xe Après le vl:letkelo (début d'après-midi), on passe au vl:lemyēpyep (fin d'après-midi, début de soirée).
+\xn After the vl:letkelo (early afternoon), it's vl:lemyēpyep (end of the afternoon, early evening).
+\cf m[ē]yēpyep
 \ce après-midi
 \ec
-\mr tkel |fs{+} lo
+\mr t[e]kel
+\mr lo
 \dc 22/Nov/2007
+\dt 02/Jul/2016
 
 \lx lē
 \la nē-lē
@@ -26309,7 +26302,7 @@ approximately)
 \rf
 \cf
 \el Mota
-\et lia|{_}
+\et lia-
 \eg hollow in or under a rock, cave, den
 \el PNCV
 \et *lia
@@ -26325,7 +26318,7 @@ approximately)
 \lx lē
 \hm 2
 \ph lɪ
-\ps adp
+\ps adv
 \gr
 \ge
 \re
@@ -26348,7 +26341,7 @@ approximately)
 \nq
 \dc 14/Sep/2002
 \dc 31/Mar/2007
-\dt 17/Jul/2011
+\dt 02/Jul/2016
 
 \lx lēg
 \ph lɪɣ
@@ -26368,7 +26361,7 @@ approximately)
 \ce nouer
 \cn
 \el PNCV
-\et *liko|{_}ti
+\et *liko-ti
 \eg tie up, tether, strangle, hang
 \el POc
 \et *liko
@@ -26423,7 +26416,7 @@ the groom) exchanging a wife for possessions
 
 \lx lēlēge
 \ph lɪlɪɣɛ
-\ps adp
+\ps adv
 \va lēlēgē
 \we précédé de V rédupliqué
 \sn 1
@@ -26476,11 +26469,11 @@ essayait de s'endormir, mais il n'y réussissait pas}.
 \nq
 \dc 19/Dec/2003
 \dc 25/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lēlwomyen
 \ph lɪlwɔmjɛn
-\ps adv
+\ps loc
 \rd
 \ge midi
 \re
@@ -26503,21 +26496,21 @@ essayait de s'endormir, mais il n'y réussissait pas}.
 \xe Le repas de midi, le déjeuner.
 \xn Lunch, midday meal.
 \se lēlwomyen til
-\ps adv
+\ps loc
 \ge
 \re
-\de à midi pile: lorsque le soleil est solide^ment “ancré” (fv:til|hm{1}) à sa place
-\dn at 12 noon: when the sun is well "in place"(fv:til|hm{1}) 
+\de à midi pile: lorsque le soleil est solide^ment “ancré” (fv:til1) à sa place
+\dn at 12 noon: when the sun is well "in place"(fv:til1) 
 \gn
 \rn
 \lf
-\cf na-lo tighiy |fs{<} fv:lo|hm{1}
+\cf na-lo tighiy
 \el Mota
 \et liwomaran
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 17/Jul/2011
+\dt 02/Jul/2016
 
 \lx lēm̄lēm̄ nēbē
 \la nē-lēm̄lēm̄ nēbē
@@ -26693,7 +26686,7 @@ tatouages)
 \lx lēs
 \hm 2
 \ph lɪs
-\ps adp
+\ps adv
 \gr
 \sn
 \ge bien
@@ -26735,7 +26728,7 @@ connotation positive
 \nq
 \dc 06/Feb/2006
 \dc 31/Jul/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lēt
 \hm 1
@@ -26828,7 +26821,7 @@ lui.
 \rf AG3-134!
 \tl |{tab}|fb{La recette du gâteau} vl:nē-lēt
 On commence par râper l'ingrédient principal (fl:gén. fruit à pain, vl:ne-beg); la pâte obtenue est enveloppée en portions dans des feuilles (|vl{m̄on}), et cuite au four (|vl{qan̄yis}). Une fois la pâte cuite, trois ou quatre personnes s'assoient en cercle autour d'un grand plat en bois, plan et circulaire (|vl{na-tbē}). On ouvre les portions (|vl{ōw}), puis on se met à battre la pâte (|vl{qōs nē-lēt}) à l'aide de lourds pilons (|vl{nē-qēt-lēt}); on la pétrit (|vl{quleg}, fl:litt. ‘balancer’) puis on la tasse (vl:qen̄) à l'aide d'écorces de noix de coco (|vl{ni-vin-qen̄qen̄}). 
-Une fois étalé sur le plat, le gâteau est arrosé de lait de coco (fl:cf. vl:woy) ou d'huile d'amandes (vl:ni-sim) et saupoudré d'amandes pilées (|vl{na-n̄ey}). Le gâteau ainsi obtenu est découpé et servi, en portions égales, à l'aide d'un grand couteau en bois (|vl{na-mtemah}). Chacun de ces éléments de bois # plat, pilon, couteau # fait l'objet d'un riche artisa^nat dans toutes les îles Banks.
+Une fois étalé sur le plat, le gâteau est arrosé de lait de coco (fl:cf. vl:woy) ou d'huile d'amandes (vl:ni-sim) et saupoudré d'amandes pilées (|vl{na-n̄ey}). Le gâteau ainsi obtenu est découpé et servi, en portions égales, à l'aide d'un grand couteau en bois (|vl{na-mtemah}). Chacun de ces éléments de bois – plat, pilon, couteau – fait l'objet d'un riche artisa^nat dans toutes les îles Banks.
 \el Mota
 \et lot
 \eg a mash of bread-fruit
@@ -27006,7 +26999,7 @@ importants
 \lx l{ē}wo~
 \la nē-lwo~
 \ph nɪlwɔ
-\ps nop
+\ps n.poss
 \1s nē-lwē-k
 \3s nē-lwo-n
 \gr tut
@@ -27049,7 +27042,7 @@ importants
 \ur végétal
 \de villosités, qu'elles soient nocives ou non : fl:ex. poils irritants de l'ortie (fv:na-hlat)
 \se nē-lwo gayme ~
-\ps nop
+\ps n.poss
 \ge
 \re
 \lt dents du pistil
@@ -27060,7 +27053,7 @@ importants
 \ce langue, pistil
 \cn
 \el Mota
-\et liwo|{_}i
+\et liwo-i
 \eg tooth; pincer of crab, spider...
 \el PNCV
 \et *livo
@@ -27070,11 +27063,11 @@ importants
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lēwomyen
 \ph lɪwɔmjɛn
-\ps adp
+\ps adv
 \ge
 \re déjeûner
 \he rare
@@ -27085,14 +27078,14 @@ importants
 \xv Kamyō et-gengen lēwomyen qete.
 \xe Nous n'avons pas encore déjeûné.
 \xn
-\ee Ne subsiste plus aujourd'hui que dans l'adverbe |fv{lēlwomyen} (<|{~}|fv{lE-} +
+\ee Ne subsiste plus aujourd'hui que dans l'adverbe |fv{lēlwomyen} (< |fv{lE-} +
 |fv{lēwomyen}).
 \el Mota
 \et liwomaran
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lik
 \ph lik
@@ -27134,7 +27127,7 @@ farfouiller dans un arbuste
 \el Mota
 \et lin̄
 \eg to pour gently
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *liŋi
 \eg pour
 \nt
@@ -27180,7 +27173,7 @@ farfouiller dans un arbuste
 \xe [le prix est trop grand] C'est trop cher.
 \xn [the price is too big]It's too expensive.
 \lf Intsf.
-\lv len̄|hm{1}
+\lv len̄1
 \lv telen̄len̄
 \sn 2
 \ur qqch
@@ -27217,7 +27210,7 @@ farfouiller dans un arbuste
 \ur qqn
 \de jouissant d'un pouvoir social ou politique, |fl{d'où} chef
 \uv s.o.
-\dn enjoying social or political power, |fl{thus} chief
+\dn enjoying social or political power, |fl{hence} chief
 \rf
 \xv mayanag liwo
 \xe grand chef
@@ -27250,7 +27243,7 @@ farfouiller dans un arbuste
 \xn the ghost chief
 \sy welan
 \se
-\ps adp
+\ps adv
 \wr B
 \de abondam^ment, forte^ment, beaucoup
 \dn abundantly, strongly, very much
@@ -27286,7 +27279,7 @@ farfouiller dans un arbuste
 \nq
 \dc 19/Sep/2002
 \dc 30/Mar/2008
-\dt 24/Dec/2013
+\dt 02/Jul/2016
 
 \lx l{i}wo goy
 \la ni-lwo goy
@@ -27369,13 +27362,13 @@ counted the "suns"
 \dn
 \sd Tps
 \rf
-\xv Na-lo vēvēh ēnōk ? |{endash} Na-lo vētēl ē-gēn.
-\xe Quelle heure est-il ? |{endash} Il est trois heures.
-\xn What's the time?  |{endash} It's three o'clock.
+\xv Na-lo vēvēh ēnōk ? – Na-lo vētēl ē-gēn.
+\xe Quelle heure est-il ? – Il est trois heures.
+\xn What's the time?  – It's three o'clock.
 \rf
-\xv Kē ta-van me le-lo vēvēh |fs{(/}la-han lo|fs{)} ? |{endash} Le-lo liviyō.
-\xe Il va venir à quelle heure ? |{endash} À sept heures.
-\xn What time will he come? |{endash} At seven.
+\xv Kē ta-van me le-lo vēvēh |fs{(/}la-han lo|fs{)} ? – Le-lo liviyō.
+\xe Il va venir à quelle heure ? – À sept heures.
+\xn What time will he come? – At seven.
 \on
 \ue Rem
 \ee Pour traduire la durée (“pendant une heure”), on utilise l'emprunt fv:awa.
@@ -27396,7 +27389,7 @@ counted the "suns"
 \nq
 \dc 2000
 \dc 25/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lo~
 \la °na-lo~
@@ -27407,7 +27400,7 @@ counted the "suns"
 \a lē-k
 \u lo~ -k
 \a lo
-\ps nop
+\ps n.poss
 \ge intérieur
 \re dedans ; intérieur
 \gn inside
@@ -27438,7 +27431,7 @@ counted the "suns"
 \cn in
 \ms lolo-gi
 \se le-lo
-\ps prép
+\ps prep
 \ge
 \re
 \de à l'intérieur de. Suivi du radical nominal, sans article
@@ -27483,30 +27476,30 @@ locuteurs eux-mêmes.
 \lv lol-
 \le esprit
 \ln mind
-\cf qōn̄|hm{2}
+\cf qōn̄2
 \ce
-\cf m[e]yen|hm{2}
+\cf m[e]yen2
 \ce
-\et <°loló|{_}
+\et <°loló-
 \el Mota
-\et lolo|{_}i
+\et lolo-i
 \eg inside, the inward part of man, heart, affections
 \el PNCV
-\et *lolo|{_}
+\et *lolo-
 \eg inside; heart, seat of feelings and thoughts
 \el POc
-\et *lolo|{_}
+\et *lolo-
 \nt
 \nq
 \dc 23/Dec/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lok
 \hm 1
 \ph lɔk
 \wr A
-\ps adp
+\ps adv
 \gr bakegen
 \sn 1
 \ge encore
@@ -27562,7 +27555,7 @@ locuteurs eux-mêmes.
 \xn Each time he ate one of those (magic) apples, he looked younger.
 \rm
 \se
-\ps adv
+\ps loc
 \wr B
 \ge côté
 \re
@@ -27591,7 +27584,7 @@ locuteurs eux-mêmes.
 \nq
 \dc 18/Sep/2002
 \dc 25/Nov/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lok
 \hm 2
@@ -27618,7 +27611,7 @@ fl:spéc. boucler ‹la liane de pêche fv:na-hay›
 \xf boucler la boucle du filet (le filet fait le tour du récif, chaque extrémité se trouvant sur la plage)
 \xa close the circle of the fishing net
 \rf
-\xv Kēy a mo-lok goy, ma-yap kal qēt na-hay a# mē-dēn̄ hay aslil.
+\xv Kēy a mo-lok goy, ma-yap kal qēt na-hay a– mē-dēn̄ hay aslil.
 \xe Ils ont refermé (la liane), et l'on tirée jusqu'à la plage.
 \ee Quand les deux extrémités de la liane fv:na-hay ont rejoint la plage, on peut commencer à la remonter
 (fv:wēhēy) pour emprisonner le poisson.
@@ -27652,7 +27645,7 @@ fl:spéc. boucler ‹la liane de pêche fv:na-hay›
 \lx lok se
 \ph lɔk sɛ
 \wr A
-\ps adp
+\ps adv
 \ge encore
 \re
 \he cour
@@ -27710,7 +27703,7 @@ tog?} |fe{Tu peux répéter?}.
 \nq
 \dc 17/Sep/2002
 \dc 02/Dec/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lokveg
 \ph lɔkβɛɣ
@@ -27747,18 +27740,18 @@ intelligents}’. Les termes en fv:lol- reflètent donc d'anciens syntagmes à i
 sujet.
 \un
 \en
-\cf lo~|hm{2}
+\cf lo~2
 \ce intérieur, esprit
 \cn
-\et <°lólo|{_}
+\et <°lólo-
 \el Mota
-\et lolo|{_}i
+\et lolo-i
 \eg inside, the inward part of man, heart, affections
 \el PNCV
-\et *lolo|{_}
+\et *lolo-
 \eg inside; heart, seat of feelings and thoughts
 \el POc
-\et *lolo|{_}
+\et *lolo-
 \nt
 \nq
 \dc 04/Apr/2007
@@ -27807,7 +27800,7 @@ me souviens" ; Syn. mÊnay ; n-et lolmeyen vitwag... ; nok soksok lolmeyen lept�
 \et loloso
 \eg to swim, bathe, have a shower
 \el PNCV
-\et *loso|{_}vi
+\et *loso-vi
 \eg to bathe, wash
 \nt
 \nq
@@ -27860,7 +27853,7 @@ me souviens" ; Syn. mÊnay ; n-et lolmeyen vitwag... ; nok soksok lolmeyen lept�
 \xv Na-vap te-Vlōw en, kēy mal qētēg lolqōn̄.
 \xe La langue d'Aplôw (Valuwa), ils ont déjà commencé à l'oublier.
 \xn
-\ee On emploie ordinaire^ment la tournure en fv:na-lo~ + fv:qōn̄, ex. |fv{Na-lē|{_}k mô-qôn̄ X}
+\ee On emploie ordinaire^ment la tournure en fv:na-lo~ + fv:qōn̄, ex. |fv{Na-lē-k mô-qôn̄ X}
 |fe{J'ai oublié X}.
 \cf lol-
 \ce intérieur
@@ -27947,9 +27940,9 @@ sans arrêt).
 \dt 28/Mar/2010
 
 \lx lō
+\hm 1
 \ph lʊ
-\wr A
-\ps adp
+\ps adv
 \rd lōlō
 \ge dehors
 \re
@@ -27960,7 +27953,7 @@ ang. fi:out)
 \rn
 \dn
 \ue Sém
-\ee Comme pour les autres termes ayant la même orientation (fl:cf. fv:kal_lō, fv:yow|hm{1},
+\ee Comme pour les autres termes ayant la même orientation (fl:cf. fv:kal_lō, fv:yow1,
 fv:aslil), l'extérieur est défini par opposition à un contenant: le plein air (fl:opp. une
 maison), la forêt (fl:opp. le village), l'île (fl:opp. la mer), etc.
 \un
@@ -28008,7 +28001,7 @@ jardin fleuri.
 \we avec V transitif
 \de implique que c'est l'Objet qui sort : |fl{d'où} valeur causative : faire sortir (fl:cf. ang.
 fi:pull_out)
-\dn implies that the Object comes out : |fl{thus} causative value : pull out
+\dn implies that the Object comes out : |fl{hence} causative value : pull out
 \rf chanson
 \xv Lep lō yow ne-qen mahay.
 \oe chanson
@@ -28037,7 +28030,7 @@ village.
 \he fig
 \we avec V intransitif
 \de sortir de l'ombre ou du néant, |fl{d'où} apparaître
-\dn come out of the shade or out of nowhere |fl{thus} appear 
+\dn come out of the shade or out of nowhere |fl{hence} appear 
 \nt ... |fl{par ext.} idée de commencement
 \rf
 \xv Kē ni-et yow qele kē a : ni-siok nonon ni-at lō.
@@ -28058,7 +28051,7 @@ village.
 \he fig
 \we avec V transitif
 \de faire sortir de l'ombre ou du néant, |fl{d'où} faire apparaître, révéler
-\dn come out of the shade or out of nowhere |fl{thus} appear , reveal
+\dn come out of the shade or out of nowhere |fl{hence} appear , reveal
 \gn
 \rf AD10-4
 \xv Tō kēy vap lō no-yoy, so no-qo kuykuy yow a-Yō en mal mat ēgēn.
@@ -28112,12 +28105,26 @@ chose que l'on inaugure par cette action (ex. “boire vl:lō le harpon”).
 \cf ētog
 \ce goûter, inaugurer (les premiers fruits)
 \nt
+\et <°lúe ~ °lúa (?)
+\el Mota
+\et lue
+\eg out, through
+\el PNCV
+\et *lua
+\eg out, away (postverbal)
+\el POc
+\et *lua
+\nt fiche écrite 2 déc 2000
+\nq
+\dc 02/Dec/2000
+\dc 26/Oct/2007
+\dt 02/Jul/2016
 
-\se
+\lx lō
+\la
+\hm 2
+\ph lʊ
 \ps adv
-\wr B
-\ge
-\re
 \we suivi de Direc. + Cpt de Lieu
 \sn 1
 \ge
@@ -28129,9 +28136,9 @@ chose que l'on inaugure par cette action (ex. “boire vl:lō le harpon”).
 \xe Le vent souffla sur Mwotlap, puis tourna du côté d'Urepara^para.
 \xn The wind blew over Mwotlap, then turned towards Ureparapara.
 \rf
-\xv Nēk ma-van lō me ave? # No ma-van lō a yow lē-vēthiyle.
-\xe Tu es passé par où (pour venir, vl:me) ? # Je suis passé par le côté plage, là-bas.
-\xn How did you get here (vl:me) ? # I came that way via the beach.
+\xv Nēk ma-van lō me ave? – No ma-van lō a yow lē-vēthiyle.
+\xe Tu es passé par où (pour venir, vl:me) ? – Je suis passé par le côté plage, là-bas.
+\xn How did you get here (vl:me) ? – I came that way via the beach.
 \rf AD10-4
 \xv Ohoo, (van) lō me hay agōh !
 \xe Non, (passe) plutôt par ici !
@@ -28146,8 +28153,8 @@ chose que l'on inaugure par cette action (ex. “boire vl:lō le harpon”).
 \xn The girl had entered (under the ground) through the inside of an immense cave. 
 \rf Mika
 \xv Kē ni-soksok gan, so kē to-sok lō ave?
-\xe Elle partait en quête de nourriture # mais de quel côté [ax:litt. par où] allait-elle bien pouvoir chercher ?
-\xn She went off to find food # but in which direction [ax:lit. where] was she to look?
+\xe Elle partait en quête de nourriture – mais de quel côté [ax:litt. par où] allait-elle bien pouvoir chercher ?
+\xn She went off to find food – but in which direction [ax:lit. where] was she to look?
 \rm D14-1
 \xm Kē a me-qlen̄ hōw nen e, kēy et-ēal te so kē ma-van lō ave.
 \xf Il avait soudain disparu, sans que personne ne sache par où il avait bien pu passer.
@@ -28174,24 +28181,15 @@ come from?"
 passée pour venir (jusqu'à nous)]
 \xn The women don't know the origin of this sacred voice. [they don't know "where" this voice went to get
 here (as far as us)]
-\et <°lúe ~ °lúa (?)
-\el Mota
-\et lue
-\eg out, through
-\el PNCV
-\et *lua
-\eg out, away (postverbal)
-\el POc
-\et *lua
-\nt fiche écrite 2 déc 2000
+\el
+\nt
 \nq
-\dc 02/Dec/2000
-\dc 26/Oct/2007
-\dt 28/Mar/2010
+\dc 24/Dec/2013
+\dt 02/Jul/2016
 
 \lx lōlhiy
 \ph lʊlhij
-\ps adp
+\ps adv
 \gr folem
 \sn 1
 \ge suivant
@@ -28223,7 +28221,7 @@ following it closely].
 \de en suivant précisément toutes les étapes, en ayant à
 l'esprit tous les détails de ‹qqch›; (|fl{d'où})
 scrupuleusement, méthodiquement
-\dn following each step precisely, keeping in mind every detail; (|fl{thus})
+\dn following each step precisely, keeping in mind every detail; (|fl{hence})
 scrupulously, methodically
 \rf
 \xv Kē ni-vēhge lōlhiy van: tateh et so ni-byin̄ kē.
@@ -28275,7 +28273,7 @@ est différente.
 \nq
 \dc 12/Feb/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lōlō
 \ph lʊlʊ
@@ -28369,7 +28367,7 @@ est différente.
 \xn "No, not at all!" They hid the truth from him.
 
 \se
-\ps adp
+\ps adv
 \wr B
 \ge
 \re
@@ -28388,7 +28386,7 @@ out of a secret
 \nq
 \dc 18/Dec/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx lōp
 \ph lʊp
@@ -28559,7 +28557,7 @@ out of a secret
 \rf
 \cf
 \el PNCV
-\et *lugu|{_}ni
+\et *lugu-ni
 \eg fold, bend (esp. limbs)
 \nt
 \nq
@@ -28579,7 +28577,7 @@ out of a secret
 \rf
 \nt ou v.i.?
 \sn
-\ge
+\ge 
 
 \se luw goy
 \ps vt
@@ -28623,7 +28621,7 @@ pour s'en débarrasser
 \ce jeter
 \se luwluwyeg
 \wr B
-\ps adp
+\ps adv
 \he
 \we
 \de au point de se déverser au dehors, de déborder; |fl{d'où} à ras
@@ -28641,7 +28639,7 @@ dehors].
 \nq
 \dc 09/Sep/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -(m)
 \ps spp
@@ -28653,7 +28651,7 @@ dehors].
 \ge
 \re
 \sd Gram
-\de Comme tout suffixe de ce type, |fv{(|{_}m)} concerne à la fois les lexèmes directe^ment
+\de Comme tout suffixe de ce type, |fv{(-m)} concerne à la fois les lexèmes directe^ment
 possessibles (ex. fv:na-mtevu~), et les classificateurs possessifs (ex. fv:mu~).
 \rf
 \ee
@@ -28662,11 +28660,11 @@ possessibles (ex. fv:na-mtevu~), et les classificateurs possessifs (ex. fv:mu~).
 \de En tant que tel, le /-m/ segmental ne subsiste plus que dans deux formes archaïques de
 classificateur possessif : fv:nō-nō-m (fl:Cf. fv:no~), et fv:na-gō-m (fl:Cf. fv:ga~). Partout
 ailleurs, /-m/ s'est amuï, sans laisser d'autre trace que la fermeture de la voyelle radicale
-qui précédait. En réalité, cette fermeture (fl:Cf. |fv{|{_}k}) caractérise égale^ment la forme
+qui précédait. En réalité, cette fermeture (fl:Cf. |fv{-k}) caractérise égale^ment la forme
 nue des lexèmes possessibles (marquée ici par fv:~). Ainsi, dans la pratique, on aura
 presque toujours homonymie entre (a) la forme nue du radical, apparaissant devant
 possesseur non-humain : fv:ni-qti_tamat |fe{la tête du diable] |{endash} et (b) la forme
-possédée à 2sg, après chute du (|fv{|{_}m}) : fv:ni-qti |fe{ta tête}.
+possédée à 2sg, après chute du (|fv{-m}) : fv:ni-qti |fe{ta tête}.
 \rf
 \xv
 \xe
@@ -28679,8 +28677,8 @@ possédée à 2sg, après chute du (|fv{|{_}m}) : fv:ni-qti |fe{ta tête}.
 
 \rm
 \xm
-\ee Cette règle souffre une exception : lorsque la voyelle du radical nu est /|{_}o/,  2sg
-présentent un /|{_}ê/. Ainsi, fv:na-ngo_tamat |fe{le visage du diable}, mais fv:na-ngē |fe{ton
+\ee Cette règle souffre une exception : lorsque la voyelle du radical nu est /-o/,  2sg
+présentent un /-ê/. Ainsi, fv:na-ngo_tamat |fe{le visage du diable}, mais fv:na-ngē |fe{ton
 visage}.
 \sy
 \cf
@@ -28837,15 +28835,15 @@ s.o.
 \xe Désolé, tu ne peux pas venir avec moi.
 \xn Sorry, you can't come with me.
 \rf
-\xv Na-yn̄ēk me-mday. # De? Ne-mgay^sēn!
-\xe Je saigne à la jambe. # Vraiment? Désolé (pour toi).
-\xn My leg is bleeding. # Really? I'm sorry (for you).
+\xv Na-yn̄ēk me-mday. – De? Ne-mgay^sēn!
+\xe Je saigne à la jambe. – Vraiment? Désolé (pour toi).
+\xn My leg is bleeding. – Really? I'm sorry (for you).
 \se
 \ps vt
 \wr B
 \gr
 \de être triste pour ‹qqn›, plaindre ‹qqn›; |fl{d'où} prendre pitié de
-\dn be sad for ‹s.o.›; |fl{thus} take pity on, feel sorry for
+\dn be sad for ‹s.o.›; |fl{hence} take pity on, feel sorry for
 \rf
 \xv Kem ne-mgay^sēn nēk a ni-lwo.
 \xe Nous sommes vraiment désolés pour toi.
@@ -28856,11 +28854,11 @@ s.o.
 \xn Take pity / Forgive me!
 \se magaysēn
 \wr C
-\ps adp
+\ps adv
 \gr
 \sn 1
 \de (faire V) en étant triste, penaud, déçu ; |fl{d'où} pauvre de moi, hélas
-\dn (do V) while sad, sheepish, disappointed; |fl{thus} poor me, alas
+\dn (do V) while sad, sheepish, disappointed; |fl{hence} poor me, alas
 \rf
 \xv Kē me-ten̄ magaysēn.
 \xe Il pleure triste^ment, parce qu'il est triste.
@@ -28924,7 +28922,7 @@ s.o.
 \nq
 \dc 22/Sep/2002
 \dc 30/Mar/2008
-\dt 29/Apr/2015
+\dt 02/Jul/2016
 
 \lx magtō
 \la na-magtō
@@ -29024,7 +29022,7 @@ s.o.
 \rf
 \nt PB: mah / mamah
 \nt toy mamah = tousser ; gengen mamah = jeûner [Hosea]; muwumwu mamah = gratuitement
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *mamasa
 \eg
 \nt
@@ -29467,7 +29465,7 @@ rang (fv:welan) lors des cérémonies (fv:no-kolkol)
 \lx mali~
 \la na-mali~
 \ph namali
-\ps nop
+\ps n.poss
 \rd malmali~
 \sn 1
 \gr waelwan
@@ -29538,7 +29536,7 @@ walls.
 \nq
 \dc 19/Jun/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mali n̄ey
 \la na-mali n̄ey
@@ -29599,8 +29597,8 @@ distance spatiale
 \xv Hag malig van.
 \xe Pousse-toi un peu s'il te plaît.
 \rf
-\xv Ne-qe gōh? # Ohoo, malig hōw me.
-\xe C'est cette étagère-ci? # Non, un peu plus bas.
+\xv Ne-qe gōh? – Ohoo, malig hōw me.
+\xe C'est cette étagère-ci? – Non, un peu plus bas.
 \sn 2
 \de pour atténuer une comparaison: un peu (plus), légèrement (plus)
 \rf
@@ -29612,7 +29610,7 @@ distance spatiale
 \nq
 \dc 19/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx malmal
 \la na-malmal
@@ -29693,7 +29691,7 @@ papyrifera
 \xe Ça alors! Il s'est mis tout nu!
 \lf
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \sn 1
@@ -29721,7 +29719,7 @@ papyrifera
 \nq
 \dc 05/Mar/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx malqon
 \la na-malqon
@@ -29942,7 +29940,7 @@ habités ou cultivés
 \xe de la viande sans sauce
 \xn meat without gravy
 \el Mota
-\et mamasa|{_}iga
+\et mamasa-iga
 \eg dry, very dry
 \nt
 \nq
@@ -30214,7 +30212,7 @@ pour cette raison
 \xv Na-valme, kē na-manman.
 \xe Le Pterois est un poisson toxique.
 \xn
-\ee Réduplication de fv:man|hm{2} ‘empoisonner’.
+\ee Réduplication de fv:man2 ‘empoisonner’.
 \un
 \en
 \nt
@@ -30334,11 +30332,13 @@ Takes its name from its many mango trees
 \nt
 \sn
 \ge
-\cf
-\ce
+\el Eng.
+\et must
+\bw
 \nt
 \nq
 \dc 03/Apr/2006
+\dt 02/Jul/2016
 
 \lx mat
 \ph mat
@@ -30389,7 +30389,7 @@ langue ne t'offre plus de résistance).
 offers you any resistance).
 \nt ??
 \se
-\ps adp
+\ps adv
 \wr B
 \gr ded
 \sn 1
@@ -30397,7 +30397,7 @@ offers you any resistance).
 \we après V transitif
 \de agir sur ‹humain, animal› de façon qu'il meure, |fl{d'où} tuer. Le verbe V indique la
 manière de tuer
-\dn act on a ‹human, animal› such that he/it dies, |fl{thus} kill. The verb V indicates the
+\dn act on a ‹human, animal› such that he/it dies, |fl{hence} kill. The verb V indicates the
 way to kill
 \rf
 \xv wuh mat
@@ -30470,11 +30470,11 @@ vais massacrer tous vos maris, les uns après les autres!}.
 \xm Kē mē-yēyē mat kē aē ē-gēn!
 \xf Ça la fait mourir de rire !
 \xn
-\xa
+\xa 
 
 \se matmat
 \wr C
-\ps adp
+\ps adv
 \ge
 \re tranquille
 \lt en faisant le mort
@@ -30504,11 +30504,12 @@ vais massacrer tous vos maris, les uns après les autres!}.
 \un
 \cf yoyon̄
 \ce silencieux
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *mate
 \nt
 \nq
 \dc 30/Mar/2008
+\dt 02/Jul/2016
 
 \lx mat
 \la na-mat
@@ -30585,7 +30586,9 @@ dans l'île voisine Vanua Lava (fv:Apnōlap).
 \xn He's a grown-up.
 \lf Syn.
 \lv (gēy)met
-\lv liwo |fs{(3)}
+\lv l{i}wo
+\le (3)
+\ln (3)
 \url
 \el POc
 \et *mataq
@@ -30593,7 +30596,7 @@ dans l'île voisine Vanua Lava (fv:Apnōlap).
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 24/Dec/2013
+\dt 02/Jul/2016
 
 \lx matag
 \ph mataɣ
@@ -30644,7 +30647,7 @@ paire ; un trio / triplet...
 \nt
 \se matam̄e
 \wr B
-\ps adp
+\ps adv
 \gr
 \ge
 \re
@@ -30678,7 +30681,7 @@ paire ; un trio / triplet...
 \nq
 \dc 09/Dec/2000
 \dc 31/Jan/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[a]tap
 \ph matap
@@ -30726,7 +30729,7 @@ paire ; un trio / triplet...
 \ce jour
 \cn day
 \se le-mtap qōn̄qōn̄
-\ps adv
+\ps loc
 \ge
 \re
 \lt le matin-nuit
@@ -30734,7 +30737,7 @@ paire ; un trio / triplet...
 \dn very early in the morning, at dawn
 
 \se le-ln̄oln̄o-mtap
-\ps adv
+\ps loc
 \rd
 \ge
 \re
@@ -30746,7 +30749,7 @@ paire ; un trio / triplet...
 \xn They're going to kill Jesus tonight, or (tomorrowà at daybreak.
 \rm chanson de Konstan
 \xm Le-ln̄oln̄o-mtap na-lo ni-halyak tiwag mi nēk...
-\ee
+\ee 
 
 \se tot-matap
 \ps adj
@@ -30767,7 +30770,7 @@ paire ; un trio / triplet...
 \nq
 \dc 19/Jun/2002
 \dc 31/Jan/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx matbē
 \ph matᵐbɪ
@@ -30781,7 +30784,7 @@ paire ; un trio / triplet...
 \dn be blind
 \rf
 \lf Cf.
-\lv bē|hm{2}
+\lv bē2
 \sn 2
 \de cligner des yeux (fl:norm. les deux yeux simultanément)
 \dn blink (fl:norm. both eyes simultaneously)
@@ -30833,7 +30836,7 @@ paire ; un trio / triplet...
 \de un mort, un cadavre
 \dn a dead man, a corpse
 \rf
-\sy mete|hm{1}
+\sy mete1
 \sy tamat
 \sn 3
 \ge
@@ -31008,7 +31011,7 @@ yow} ‘|fe{Il se réveilla (et sortit) dehors}’, etc.
 \lx mawlō~
 \la na-mawlō~
 \ph namawlʊ
-\ps nop
+\ps n.poss
 \1s na-mawlō-k
 \3s na-mawlō-n
 \gr memori
@@ -31039,7 +31042,7 @@ moi [auteur].
 \nq
 \dc 24/Jul/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx may
 \hm 1
@@ -31261,10 +31264,10 @@ fv:veg)
 \rm
 \xm Nok maygay veg…
 \el PNCV
-\et *maro + *kaʀa|{_}ti
+\et *maro + *kaʀa-ti
 \eg hunger bites
 \ec cf. explication de Clark 2000: 56, [hunger bites me]
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et may
 \nt
 \nq
@@ -31340,7 +31343,7 @@ fv:veg)
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -31406,7 +31409,7 @@ français), etc.
 \rf
 \nt van me ; lep me; hêw me, hayveg me; me gôh ; vatag me anen ; 
 \nt < *mai 'venir'
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *mai
 \eg come
 \nt
@@ -31475,7 +31478,7 @@ utilisé en teinture et en peinture corporelle
 \lf Ant.
 \lv towoyig
 \se
-\ps adp
+\ps adv
 \wr B
 \gr tumas
 \sn 1
@@ -31550,7 +31553,7 @@ utilisé en teinture et en peinture corporelle
 \nq
 \dc 18/Mar/2006
 \dc 31/Jan/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[e]leh
 \la na-mleh
@@ -31570,7 +31573,7 @@ utilisé en teinture et en peinture corporelle
 \xn
 \cf timleh
 \el Mota
-\et malasi|{_}u
+\et malasi-u
 \el PNCV
 \et *malazi
 \eg mouldy, leftover food
@@ -31629,7 +31632,7 @@ utilisé en teinture et en peinture corporelle
 \nt Vulg.
 
 \se
-\ps adp
+\ps adv
 \wr B
 \ge
 \re violent
@@ -31666,14 +31669,14 @@ Valeur d'intensif pour certains verbes
 \ce
 \et <°ˈmeme
 \el PNCV
-\et *meme|{_}re
+\et *meme-re
 \el POc
 \et *mimiʀ
 \nt
 \nq
 \dc 10/Feb/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -mem
 \ph mɛm
@@ -31744,7 +31747,7 @@ classificators (e.g. fv:ga~) ; in this latter case, one often finds a variant fv
 \xm No me-memeh no aē, ba kimi et-vēwē te no aē!
 \xf Je me suis démené (pour vous), et vous ne me remerciez pas
 \se
-\ps adp
+\ps adv
 \wr C
 \gr tumas
 \ge
@@ -31761,7 +31764,7 @@ classificators (e.g. fv:ga~) ; in this latter case, one often finds a variant fv
 \xn He gets angry too often [he's irascible).
 \ue Mrph
 \ee Rédupl. de fv:meh ‘trop’.
-\lf
+\lf 
 
 \se ne-memeh
 \wr D
@@ -31779,7 +31782,7 @@ classificators (e.g. fv:ga~) ; in this latter case, one often finds a variant fv
 \nq
 \dc 17/Oct/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx men
 \la
@@ -31979,7 +31982,7 @@ tirées au lance-pierres; balles tirées à l'arme à feu)
 \sd
 \bb Bregulla p.104
 \se ne-Vet Men Tagde
-\ps loc
+\ps top
 \de “le Rocher aux Frégates”, nom d'un îlot désert situé à 50 km au nord de Mwotlap
 \dn
 \rf
@@ -31987,7 +31990,7 @@ tirées au lance-pierres; balles tirées à l'arme à feu)
 \nt
 \nq
 \dc 10/Feb/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx men te-le-lam
 \la ne-men telelam
@@ -32151,7 +32154,7 @@ tirées au lance-pierres; balles tirées à l'arme à feu)
 \lx m[e]ne~
 \la na-mne~
 \ph namnɛ
-\ps nop
+\ps n.poss
 \3s na-mna-n
 \gr tes
 \sn
@@ -32175,7 +32178,7 @@ fv:namnan ‘délicieux; excellent, super, génial’
 \nq
 \dc 24/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx menteq
 \la ne-menteq
@@ -32241,7 +32244,7 @@ sacrés (fv:na-tmat) ; fl:cf. fv:ow ‘blanc’
 \et *maʔeto
 \eg black
 \el POc
-\et *ma|{_}qetom
+\et *ma-qetom
 \eg
 \nt
 \nq
@@ -32268,10 +32271,10 @@ sacrés (fv:na-tmat) ; fl:cf. fv:ow ‘blanc’
 \xn The Canarium almonds are ready.
 \ue
 \ee Le terme s'emploie particulièrement pour les noix de type |vl{na-n̄ey}, |vl{na-wtag}, |vl{ne-vel}. Pour les
-fruits plus tendres, on emploie |fv{men}.
+fruits plus tendres, on emploie fv:men1.
 \un
 \en The term is used with nuts of the type |vl{na-n̄ey}, |vl{na-wtag}, |vl{ne-vel}. For softer fruit, one uses
-[fv{men}|hm{1}.
+fv:men1.
 \lf Syn.
 \lv gēymet
 \lv m[a]ta
@@ -32289,11 +32292,11 @@ fruits plus tendres, on emploie |fv{men}.
 \lv m[a]ta
 \url
 \el ax:Cf.
-\et met|hm{1} (?)
+\et met1 (?)
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 24/Dec/2013
+\dt 25/Jun/2016
 
 \lx met
 \la ne-met
@@ -32383,17 +32386,17 @@ after five days)
 \a mte
 \a mete
 \a mte
-\u mte~[nop] -(m)
+\u mte~[n.poss] -(m)
 \a na-mte
-\u nA- mte~[nop] -(m)
-\u nA- mte~[nop]
+\u nA- mte~[n.poss] -(m)
+\u nA- mte~[n.poss]
 \a na-mta
-\u nA- mte~[nop]
+\u nA- mte~[n.poss]
 \a mete
-\u mte~[nop] -(m)
+\u mte~[n.poss] -(m)
 \a mta
 \a mata
-\ps nop
+\ps n.poss
 \3s na-mtan
 \sn 1
 \gr ae
@@ -32475,7 +32478,7 @@ constallations). fl: esp. designates a geometrical pattern
 \nq
 \dc 2000
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[e]te-
 \la na-mte-
@@ -32537,7 +32540,7 @@ constallations). fl: esp. designates a geometrical pattern
 \le trou (en général)
 
 \se na-mte-tē~
-\ps nop
+\ps n.poss
 \de anus
 \dn anus
 \lt trou des excréments (fv:te-n)
@@ -32545,15 +32548,15 @@ constallations). fl: esp. designates a geometrical pattern
 \mn metetē~
 
 \se na-mte-tmat
-\ps nop
+\ps n.poss
 \de “salières de Vénus”: fossettes dans le creux des reins
 \dn “dimples of Venus”: small symmetrical hollows in o.’s lower back
 \lt creux du démon / des Morts
 \ll ghost spot / spot of the Dead
-\mn
+\mn 
 
 \se na-mte-vu~
-\ps nop
+\ps n.poss
 \de caractère, comporte^ment
 \dn character, behaviour
 \lt œil de l'esprit (?)
@@ -32562,13 +32565,13 @@ constallations). fl: esp. designates a geometrical pattern
 
 \el POc
 \et *mata
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et mete~
 
 \nq
 \dc 14/Feb/2000
 \dc 31/Mar/2007
-\dt 21/Apr/2014
+\dt 02/Jul/2016
 
 \lx m[e]tehal
 \la na-mtehal
@@ -32688,7 +32691,7 @@ Vanuatu?
 \xm Na-mtehal ne et, a so no ma-van lō me ave.
 \xf L'origine des gens, la généalogie.
 \rm
-\xm me a la-halgoy nongēn gōh etō wa# na-mtehal nan, kē ma-van lō me qele gēn.
+\xm me a la-halgoy nongēn gōh etō wa– na-mtehal nan, kē ma-van lō me qele gēn.
 \rm
 \xm qele ave so gēn m-ekas na-tmat e, kē mo-wot me qele ave? ba ikē ma-van me, ma-kal lō me hiy gēn le-mtehal qele gēn.
 \rm
@@ -32746,7 +32749,7 @@ Vanuatu?
 solennels.
 \en
 \lf Syn.
-\lv lo|hm{1}
+\lv lo1
 \cf Womtelo
 \ms maranag ta le mete lo
 \el
@@ -32761,7 +32764,7 @@ solennels.
 \ph namtɛmtɛ
 \a metemte
 \a mtemte
-\ps nop
+\ps n.poss
 \sn 1
 \de regard avide de, affamé (+Obj.)
 \rf
@@ -32792,11 +32795,11 @@ solennels.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx metemten
 \ph mɛtɛmtɛn
-\ps adp
+\ps adv
 \ge gentiment
 \re
 \de |fl{Uniq. dans l'expression} fv:hohole_metemten ‘parler volontiers aux
@@ -32810,12 +32813,12 @@ gens, être de bonne compagnie’
 \nq
 \dc 19/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[e]tetē~
 \la na-mtetē~
 \ph namtɛtɪ
-\ps nop
+\ps n.poss
 \gr
 \1s na-mtetēk
 \3s na-mteten
@@ -32826,18 +32829,18 @@ gens, être de bonne compagnie’
 \rf AP5-58 + AP9-38
 \lf Syn.
 \lv na-wut
-\mr m[e]te-|fs{ + }tē~
+\mr m[e]te- + tē~
 \el
 \nt
 \nq
 \dc 17/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[e]tevu~
 \la na-mtevu~
 \ph namtɛβu
-\ps nop
+\ps n.poss
 \3s na-mtevōn
 \gr fasin
 \ge caractère
@@ -32855,7 +32858,7 @@ gens, être de bonne compagnie’
 \nq
 \dc 24/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[e]tewot
 \ph mɛtɛwɔt
@@ -32908,7 +32911,7 @@ gens, être de bonne compagnie’
 \rf AP9-48
 \xv
 \lf Syn.
-\lv wōl|hm{3}
+\lv wōl3
 \el
 \nt
 \nq
@@ -33067,7 +33070,7 @@ nehey. mey gôh, mey nen, mey tekelgi lok me hag gên...
 \xn A week later, once the breadfruit is completely dry, then you take it.
 \ce asséché
 \nt
-\et <|{~}*maraŋu
+\et < *maraŋu
 \el PEO
 \et *(ma)Raŋ(ou)
 \nt
@@ -33201,9 +33204,9 @@ nehey. mey gôh, mey nen, mey tekelgi lok me hag gên...
 \lv qēyqey
 \se mēlēg
 \wr B
-\ps adp
+\ps adv
 \de (faire V) dans le noir, dans l'obscurité ; |fl{d'où} à tâtons
-\dn (do V) in the dark; |fl{thus} grope about
+\dn (do V) in the dark; |fl{hence} grope about
 \rf
 \xv tan̄tan̄ mēlēg
 \xe tâtonner dans l'obscurité
@@ -33224,12 +33227,12 @@ nehey. mey gôh, mey nen, mey tekelgi lok me hag gên...
 \eg cloud
 \el PNCV
 \et *maliŋgo
-\eg cloud,|{~}dark
+\eg cloud, dark
 \nt
 \nq
 \dc 12/Feb/2002
 \dc 05/Feb/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[ē]lēglēg
 \ph mɪlɪɣlɪɣ
@@ -33263,7 +33266,7 @@ nehey. mey gôh, mey nen, mey tekelgi lok me hag gên...
 \ur qqn
 \de à la peau foncée; Noir, Mélanésien; |fl{d'où} indigène (fl:opp. fv:qagqag
 ‘Blanc, Européen’)
-\dn dark skinned; Black, Melanesian; |fl{thus} native (fl:opp. fv:qagqag 'White,
+\dn dark skinned; Black, Melanesian; |fl{hence} native (fl:opp. fv:qagqag 'White,
 European')
 \rf alx
 \xv Ige t-Afrika kēy ne-mlēmlēg yeh den kimi.
@@ -33290,7 +33293,7 @@ European')
 \rf
 \se mēlēglēg
 \wr B
-\ps adp
+\ps adv
 \we après Adj de couleur
 \de foncé
 \dn dark
@@ -33298,17 +33301,17 @@ European')
 \xv Nō-mōmō nen kē na-lawlaw mēlēglēg.
 \xe Ce poisson est rouge foncé.
 \xn This fish is dark red.
-\nt <|{~}°malíkolíko
+\nt < °malíkolíko
 \el ax:Cf.
 \et mēlēg
 \el PNCV
 \et *maliŋgo
-\eg cloud,|{~}dark
+\eg cloud, dark
 \nt
 \nq
 \dc 14/Oct/2003
 \dc 05/Feb/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[ē]lēt
 \la na-mlēt
@@ -33363,7 +33366,7 @@ European')
 \sd Bot
 \cf bak
 \nq ou nê-mênmah ??
-\pdl
+\pdl 
 
 \se nē-mēn m̄ah
 \ps n
@@ -33443,7 +33446,7 @@ correctement (j'ai du mal à me concentrer).
 \de surnom pour qqn d'intelli^gent: “le sage”
 \dn nickname for s.o. intelligent: "the wise man"
 \rf AP9-23
-\mr wo-|fs{ + }mĒnay
+\mr wo- + mĒnay
 \el Mota
 \et menaro
 \eg skilful, clever
@@ -33451,12 +33454,12 @@ correctement (j'ai du mal à me concentrer).
 \nq
 \dc 12/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mēne~
 \la nē-mēne~
 \ph nɪmɪnɛ
-\ps nop
+\ps n.poss
 \1s nē-mēne-k
 \3s nē-mēna-n
 \sn
@@ -33478,7 +33481,7 @@ l'intelligence
 \nq = sens anatomique??
 \dc 11/Feb/2006
 \dc 31/Mar/2007
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx m[ē]nēg
 \la na-mnēg
@@ -33741,12 +33744,12 @@ horizon^tales (fv:nē-wtē) qui le relient à la coque
 \nt gengen yêpyep < MR m- + yêpyep ;
 \sn
 \ms revrev
-\mr m- |fs{+} yēpyep
+\mr yēpyep
 \nt
 \nq
 \dc 14/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[ē]yēpyēp
 \la °ne-myēpyēp
@@ -33772,7 +33775,7 @@ horizon^tales (fv:nē-wtē) qui le relient à la coque
 \lx mi
 \hm 1
 \ph mi
-\ps prép
+\ps prep
 \ge avec
 \re
 \gn with
@@ -33786,7 +33789,7 @@ MÊ; nêsêm te-mê-gên / ti-mi-gên ; kê mi Moses ; mi no-lolwon ; wuluk mi E
 \nt
 \nq
 \dc 19/Jun/2002
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx -mi
 \hm 2
@@ -33967,7 +33970,7 @@ pas encore écoulé longtemps après cela}]
 nouveau enceinte.
 \xn Shortly after his birth [ax:lit. he was born, and without delay], his mother became pregnant again.
 \se
-\ps adp
+\ps adv
 \wr B
 \de (faire V) pendant longtemps
 \dn (do V) for a long time
@@ -33985,7 +33988,7 @@ nouveau enceinte.
 \nq
 \dc 26/Oct/2003
 \dc 05/Feb/2008
-\dt 25/Feb/2011
+\dt 02/Jul/2016
 
 \lx m[i]tig
 \la na-mtig
@@ -34002,7 +34005,7 @@ nouveau enceinte.
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \sn
 \rf
@@ -34207,7 +34210,7 @@ somme
 \lx m[i]yo~
 \la ni-myo~
 \ph nimjɔ
-\ps nop
+\ps n.poss
 \1s ni-myē-k
 \3s ni-myo-n
 \gr
@@ -34250,7 +34253,7 @@ vl:ēnen)
 \xn
 \rf AG5-125
 \xv Ni-myomi be-mtimtiy taq ēnen!
-\oe reproche explicite, avec vl:be|{_}
+\oe reproche explicite, avec vl:be-
 \xe Bien fait pour vous! Vous aviez qu'à pas faire la grasse matinée comme ça!
 \xn Too bad for you! You shouldn't have had such a long lie-in!
 \rf AG5-125
@@ -34274,14 +34277,14 @@ fait pour toi!”
 \lf Cf.
 \lv lewe~
 \el
-\et <°muro|{_}
+\et <°muro-
 \el ax:Cf.
 \et mōy
 \nt
 \nq
 \dc 05/Feb/2007
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[o]koko
 \ph mɔkɔkɔ
@@ -34341,7 +34344,7 @@ fait pour toi!”
 \rf
 \nt dêw ; cf. sens fig. "pas sérieux..."
 \cf
-\et <°má|{_}maráʔa
+\et <°má-maráʔa
 \el PNCV
 \et *maraʔa
 \eg light (in weight)
@@ -34418,9 +34421,9 @@ froid intense
 \lf Cf.
 \lv gom
 \ln sick
-\et <|{~}°ˌmamaˈriri
+\et < °ˌmamaˈriri
 \el POc
-\et *ma|{_}(d)ridriŋ
+\et *ma-(d)ridriŋ
 \eg cold
 \nt
 \nq
@@ -34455,7 +34458,7 @@ froid intense
 \xf En ouvrant le four, ils s'écrièrent: “Parfait! C'est cuit!”
 \se monog
 \wr B
-\ps adp
+\ps adv
 \gr
 \de [faire V] de façon à faire cuire ‹qqch›
 \dn [do V] so as to cook ‹s.th›
@@ -34474,14 +34477,14 @@ froid intense
 \lv qan̄yis
 \le cuire à l'étouffée
 \nt
-\el PNCV,|{~}POc
-\et *ma|{_}noka
+\el PNCV, POc
+\et *ma-noka
 \eg cooked
 \nt
 \nq
 \dc 14/Feb/2007
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[o]tow
 \la na-mtow
@@ -34490,8 +34493,7 @@ froid intense
 \a motow
 \a na-mtow
 \u nA- mtow[n]
-\pc mtow.jpg
-\nt .G.c:\Alex\photoDico\mtow.jpg;.92";1.4";JPG
+\pc .G.c:\Alex\photoDico\mtow.jpg;.92";1.4";JPG
 \ps n
 \gr navara
 \gn (coconut)
@@ -34505,7 +34507,7 @@ froid intense
 \ee
 \sd Bot
 \sy
-\cf motow|hm{1}
+\cf motow1
 \ce croître
 
 \rn
@@ -34560,7 +34562,7 @@ froid intense
 \xe Il écrasa du pied le récipient de bambou, qui se fendit/se brisa.
 \xn He crushed the bamboo recipient with his foot, and it split/broke. 
 \lf Cf.
-\lv woy|hm{3}
+\lv woy3
 \sn 2
 \he en gén
 \de se briser, être détruit
@@ -34577,7 +34579,7 @@ froid intense
 \lv m̄ēt
 \se mowoy
 \wr B
-\ps adp
+\ps adv
 \gr
 \de [agir sur qqch] en sorte qu'il se brise; briser qqch en faisant telle action
 \dn [act on s.th]so that it breaks; break s.th by doing something specific
@@ -34590,13 +34592,13 @@ froid intense
 \xe Attention à mes lunettes, tu vas finir par les casser [faire brisé].
 \xn Be careful of my glasses, you'll end up breaking them [do broken].
 \lf Syn.
-\lv woy|hm{3}
+\lv woy3
 \el
 \nt *mawoRa
 \nq
 \dc 15/Oct/2003
 \dc 07/Feb/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[o]woy
 \la °na-mwoy
@@ -34673,7 +34675,7 @@ froid intense
 \lx mōkhe~
 \la nō-mōkhe~
 \ph nʊmʊkhɛ
-\ps nop
+\ps n.poss
 \gr smel
 \pdl 3s
 \pdv nō-mōkha-n
@@ -34727,7 +34729,7 @@ froid intense
 \nq môkhe~ ou Môkhe~ ??
 \dc 15/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mōkheg
 \ph mʊkhɛɣ
@@ -34797,7 +34799,7 @@ froid intense
 \xe Ils avaient du mal à respirer.
 \xn They could hardly breathe.
 \se
-\ps adp
+\ps adv
 \wr B
 \we
 \de (faire V) pour se reposer, en guise de repos
@@ -34821,13 +34823,13 @@ froid intense
 \et m̄apsag
 \eg breathe, take rest
 \el PNCV
-\et *mabu|{_}si
+\et *mabu-si
 \eg
 \nt
 \nq
 \dc 15/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mōmō
 \la nō-mōmō
@@ -34957,7 +34959,7 @@ au harpon (fv:kay, fv:daeva), à la liane de pêche (fv:gey_hay), etc.
 \ee
 \sd Bot
 \url C:\Alex\Photos\Selections\2003-Tree-album\Plants-album (75).jpg
-\sy tayaymōt |fl{(?)}
+\sy t[a]yaymōt
 \se na-malmali mōmōg
 \ps n
 \gr namalaos
@@ -34976,7 +34978,7 @@ au harpon (fv:kay, fv:daeva), à la liane de pêche (fv:gey_hay), etc.
 \nt
 \nq
 \dc 25/Mar/2010
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mōrsurqōn̄
 \ph mʊrsurk​͡pʷʊŋ
@@ -35067,7 +35069,7 @@ dépassée par la situation (|fl{cf. infra})
 \dn injurious term, used to make fun of someone who is obviously overtaken by the
 situation 
 \ue Étym
-\ee Emploi argotique, sémantique^ment obscur, de |fv{mōy}|hm{1} ‘sperme’ (fl:cf. frs
+\ee Emploi argotique, sémantique^ment obscur, de fv:mōy1 ‘sperme’ (fl:cf. frs
 ‘jean-foutre’). S'explique peut-être par association avec l'état psychologique d'une personne en
 état de jouissance physique
 \sn 1
@@ -35110,7 +35112,7 @@ branleurs!
 \le paresseux
 \se mōymōy
 \wr B
-\ps adp
+\ps adv
 \gr
 \ge
 \de (faire V) de façon à rendre ‹qqn› ridicule, ou à lui donner le sentiment qu'il
@@ -35161,7 +35163,7 @@ anything; be melancholic
 \xe J'en ai ras-le-bol, de la politique.
 \xn I'm sick of politics.
 \lf Cf.
-\lv wōl|hm{2}
+\lv wōl2
 \le lasser
 \se nagōm su mōy!
 \ps excl
@@ -35175,21 +35177,21 @@ qqch
 savouring s.th with relish (fl:Cf. fv:womnes), who is looking at a pretty girl
 lasciviously, or who is struck with admiration before s.th
 \rf alx
-\xv Awē, na-madap gōh ne-neneh a ne-neneh! # Ēt! Nagōm su mōy!
-\xe Ouh là là, qu'est-ce qu'il est délicieux cet ananas! # Eh ben dis donc, tu prends ton pied, à ce
+\xv Awē, na-madap gōh ne-neneh a ne-neneh! – Ēt! Nagōm su mōy!
+\xe Ouh là là, qu'est-ce qu'il est délicieux cet ananas! – Eh ben dis donc, tu prends ton pied, à ce
 que je vois!
-\xn Ummm, this pineapple is really delicious! # Well, you're over the moon, so I see!
+\xn Ummm, this pineapple is really delicious! – Well, you're over the moon, so I see!
 \ue Rem
-\ee L'expression, particulièrement vulgaire (du fait notamment de la connexion avec |fv{mōy}|hm{1}), est
+\ee L'expression, particulièrement vulgaire (du fait notamment de la connexion avec fv:mōy1), est
 souvent atténuée à l'aide d'un euphémisme pour remplacer fv:nō-mōy, fl:spéc. fv:gēlēge ou fv:age
 ‘chose’, |fl{d'où les expr. équiv.} |vl{Nagōm su age!} fl:ou |vl{Nagōm su gēlēge!}
 \el ax:Cf.
-\et mōy|hm{1}
+\et mōy1
 \nt
 \nq
 \dc 17/Feb/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -mōyō
 \ph mʊjʊ
@@ -35324,7 +35326,7 @@ lēt.
 \lf
 \se mōyōs
 \wr B
-\ps adp
+\ps adv
 \he rare
 \we après prédicat
 \de conformément au désir, ‘à souhait’
@@ -35334,7 +35336,7 @@ lēt.
 \xe Elle est orgueilleuse à souhait. [elle est fière à aimer]
 \xn She is incredibly proud. [she is proud to love]
 \lf Syn.
-\lv lēs|hm{2}
+\lv lēs2
 \le
 \se na-myōs
 \wr C
@@ -35382,13 +35384,13 @@ paraphrase courante de la tournure verbale |fv{No ne-myōs (so van)} |fe{Je voud
 \un
 \cf
 \nt fiche écrite Nov 2000
-\nt <|{~}°marosi
+\nt < °marosi
 \el Mota
 \et maros
 \nq
 \dc 20/Nov/2000
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx mōyvilil
 \ph mʊjβilil
@@ -35596,14 +35598,14 @@ avec d'autres participants (fl:ex. |fv{Vap te mu-k tog me.} |fe{Raconte-moi à m
 \nt
 \nq
 \el Mota
-\et m̄o|{_}
-\el North|{_}V
-\et °m[aɣ]u|{_}
+\et m̄o-
+\el North-V
+\et °m[aɣ]u-
 \eg general possessive classifier
 \el
 \dc 18/Dec/2003 + 08/Mar/2006
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m[u]lumlum
 \ph mulumlum
@@ -35614,7 +35616,7 @@ avec d'autres participants (fl:ex. |fv{Vap te mu-k tog me.} |fe{Raconte-moi à m
 \de
 \rf
 \nt
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *malumu
 \eg soft, gentle, weak
 \nt
@@ -35738,7 +35740,7 @@ champs.
 \de fonctionner, travailler
 \dn function, work
 \rf
-\xv Nok hatig e tō# dēmdēm mino e ni-mwumwu ēgēn.
+\xv Nok hatig e tō– dēmdēm mino e ni-mwumwu ēgēn.
 \xe Dès le lever, ma réflexion commence à fonctionner.
 \xn As soon as I get up, my mind starts to function.
 \rf
@@ -35905,7 +35907,7 @@ main-forte
 \rd
 \bb Vienne (1982: 588)
 \ng
-\pdl
+\pdl 
 
 \nt
 \nq
@@ -36145,14 +36147,15 @@ jeunesse, qui précèdent le mariage et la maternité.
 \rf AG4-117
 \ee
 \sd Bot
-\sy na-malmali ey |fl{(?); }na-malmali mōmōg
+\sy na-malmali ey
+\sy na-malmali mōmōg
 \lf
 \el Mota
 \et m̄am̄alau
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄at
 \la na-m̄at
@@ -36278,7 +36281,7 @@ chantent la comptine du serpent "|fv{teltel i m̄atm̄at}"
 \xe Elles sont aussi drôles l'une que l'autre.
 \xn They are both as funny as each other.
 \se
-\ps adp
+\ps adv
 \wr B
 \ge
 \re
@@ -36340,7 +36343,7 @@ religious scenes in anglican churches
 \nq
 \dc 2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄[a]yayay
 \ph ŋ​͡mʷajajaj
@@ -36362,8 +36365,7 @@ religious scenes in anglican churches
 \lx m̄e
 \la ne-m̄e
 \ph nɛŋ​͡mʷɛ
-\pc mwe.jpg
-\nt .G.c:\Alex\photoDico\mwe.jpg;.95";1.03";JPG
+\pc .G.c:\Alex\photoDico\mwe.jpg;.95";1.03";JPG
 \ps n
 \gr sisnek
 \lg
@@ -36794,7 +36796,7 @@ willing to be seduced
 \xe Le téléphone est coupé.
 \xn The telephone's cut off.
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \sn 1
@@ -36842,7 +36844,7 @@ action V
 \nq
 \dc 09/Sep/2002
 \dc 03/Apr/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄ēt
 \la nē-m̄ēt
@@ -36948,7 +36950,7 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 
 \lx M̄ēyig
 \ph ŋ​͡mʷɪjiɣ
-\ps loc
+\ps top
 \gr
 \sn
 \ge
@@ -36962,7 +36964,7 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 \nq
 \dc 16/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄[i]lig
 \la na-m̄lig
@@ -37062,7 +37064,7 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 \xe un lieu ombragé
 \xn a shady spot
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (faire V) à l'ombre
@@ -37088,7 +37090,7 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 \nq
 \dc 25/Oct/2003
 \dc 03/Apr/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄on
 \ph ŋ​͡mʷɔn
@@ -37116,7 +37118,7 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 \lx M̄otlap
 \ph ŋ​͡mʷɔtlap
 \wr A
-\ps loc
+\ps top
 \gr Motalava
 \sd Géo
 \sn 1
@@ -37197,7 +37199,7 @@ instants.
 \nq
 \dc 05/Feb/2006
 \dc 03/Apr/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄oto
 \la no-m̄oto
@@ -37265,10 +37267,10 @@ amandes (fv:na-n̄ey) ou le sucre, des fourmis et autres prédateurs
 \xe Rentre chez toi!
 \xn Go home!
 \rf
-\xv M̄ōlm̄ōl me ēnōk? # M̄ōlm̄ōl me ēgēn!
+\xv M̄ōlm̄ōl me ēnōk? – M̄ōlm̄ōl me ēgēn!
 \oe salutations de bienvenue
-\xe Alors, on est de retour (à la maison)? # On est de retour!
-\xn So, you're back (home)? # We're back!
+\xe Alors, on est de retour (à la maison)? – On est de retour!
+\xn So, you're back (home)? – We're back!
 \rf
 \xv M̄ōl me ee!
 \oe quand qqn éternue
@@ -37292,7 +37294,7 @@ qqpart
 \nt m̄ôlhiy = diminuer...
 \nt *kê ni-m̄ôl i m̄ôl en = car MÔL est ponctuel !! donc = "partir"
 \se
-\ps adp
+\ps adv
 \wr B
 \de (faire V) sur le chemin du retour, pour rentrer chez soi
 \dn (do V) on the way back, to go back home
@@ -37325,7 +37327,7 @@ qqpart
 \nq
 \dc 20/Dec/2003
 \dc 03/Apr/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄ōleg
 \ph ŋ​͡mʷʊlɛɣ
@@ -37351,7 +37353,7 @@ qqpart
 \xv So m̄ōleg galsi van hiy nēk en…
 \xe Si tu veux que je t'explique mieux…
 \se
-\ps adp
+\ps adv
 \wr C
 \de de manière claire, lucide, précise, clairvoyante
 \rf
@@ -37362,7 +37364,7 @@ qqpart
 \nq
 \dc 10/Feb/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx m̄ōlhiy
 \ph ŋ​͡mʷʊlhij
@@ -37458,13 +37460,12 @@ son dos
 \sn 2
 \ge
 \re
-\de Il importe de distinguer les deux structures où entre fv:-n, suffixe possessif de 3ème
-personne : (a) en fonction d'|uc{anaphorique}, fv:-n renvoie à tout terme déjà construit,
-qu'il s'agisse d'un humain singulier, ou d'un non-humain : |fv{Nō-mōmō gōh, nēk n-ēglal
-na-ha-|ub{n} ?}, |fi{Ce poisson, tu connais son nom ?} ; (b) dans son emploi
-|uc{cataphorique}, fv:-n précède directe^ment un substantif (nom muni de son article),
-lequel renvoie obligatoire^ment à un terme humain référentiel, mais pas nécessaire^ment
-singulier.
+\de Il importe de distinguer les deux structures où entre fv:-n, suffixe possessif de 3ème personne : (a) en
+fonction d'|fi{anaphorique}, fv:-n renvoie à tout terme déjà construit, qu'il s'agisse d'un humain
+singulier, ou d'un non-humain : |fv{Nō-mōmō gōh, nēk n-ēglal na-ha-|ub{n} ?}, |fi{Ce poisson, tu
+connais son nom ?} ; (b) dans son emploi |fi{cataphorique}, fv:-n précède directe^ment un substantif
+(nom muni de son article), lequel renvoie obligatoire^ment à un terme humain référentiel, mais pas
+nécessaire^ment singulier.
 \sd Synt
 
 \rf
@@ -37472,34 +37473,33 @@ singulier.
 \xe
 \xn
 \rf
-\xv na-he mōmō gōh (*Na-ha-|ub{n} nō-mōmō)
-\xe le nom de ce (ces) poisson(s) |ax{[+réf, |{_}hum]}
+\xv na-he mōmō gōh (*Na-ha-|fr{n} nō-mōmō)
+\xe le nom de ce (ces) poisson(s) |ax{[+réf, –hum]}
 \xn
 \rf
 \xv na-he lōqōvēn
-\xe un nom de femme |ax{[|{_}réf, +hum]}
+\xe un nom de femme |ax{[–réf, +hum]}
 \xn
 \rf
-\xv na-ha-|ub{n} (*na-he) intik
+\xv na-ha-|fr{n} (*na-he) intik
 \xe le nom de mon fils |ax{[+réf, +hum, +sg]}
 \xn
 \rf
-\xv na-ha-|ub{n} ige yantintik
-\xe les noms de mes enfants |ax{[+réf, +hum, |{_}sg]}
+\xv na-ha-|fr{n} ige yantintik
+\xe les noms de mes enfants |ax{[+réf, +hum, –sg]}
 \xn
 \rf
-\ee Ces règles s'appliquent à tous les lexèmes possessibles (NOP), ainsi qu'au classificateur
-fv:no~ ; les trois autres (fv:ga~, fv:ma~, fv:mu~) traitent les non-humains de la même
-manière que les humains. |fv{N-ēm̄ no-|ub{n} i-nti-k} |fi{la maison de mon fils}, vs.
-|fv{n-ēm̄ ne tutu} |fi{la maison des poules} ; mais |fv{na-rais na-ga-|ub{n} nu-tutu} |fi{le riz
-des poules}.
+\ee Ces règles s'appliquent à tous les lexèmes possessibles (NOP), ainsi qu'au classificateur fv:no~ ; les trois
+autres (fv:ga~, fv:ma~, fv:mu~) traitent les non-humains de la même manière que les humains. |fv{N-ēm̄
+no-}|fr{n} |fv{i-nti-k} |fi{la maison de mon fils}, vs. |fv{n-ēm̄ ne tutu} |fi{la maison des poules} ; mais
+|fv{na-rais na-ga-|fr{n} nu-tutu} |fi{le riz des poules}.
 \lf
 \cf
 \ce
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx nA-
 \ph na
@@ -37669,7 +37669,7 @@ des unités
 \de lagon d'eau de mer qui entoure l'île, acces^sible aux activités humaines (baignade, pêche,
 etc.) ; |fl{d'où} mer (fl:opp. fv:na-lam ‘haute mer, océan’)
 \dn sea lagoon surrounding the island, accessible for human activities (swimming, fishing,
-etc.); |fl{thus} sea (fl:opp. fv:na-lam 'high sea, ocean')
+etc.); |fl{hence} sea (fl:opp. fv:na-lam 'high sea, ocean')
 \gn sea
 \rf xx
 \xv Kēy no-togtog la-maltow den na-naw.
@@ -37719,12 +37719,12 @@ naw... ; nanaw lôqôvên ; yow lenaw
 |{tab}|fv{ne-met}|{tab} la marée
 |{tab}|fv{nē-yēm}|{tab} la vague
 |{tab}|fv{ni-lilip}|{tab} le raz-de-marée
-|{tab}|fv{goy}|hm{2}|{tab} (mer) déferler
+|{tab}fv:goy2|{tab} (mer) déferler
 |{tab}|fv{malat}|{tab} (mer) se briser
 |{tab}|fv{nawnaw}|{tab} (mer) agitée
-|{tab}|fv{tay}|hm{1}|{tab} (mer) calme, bonace
+|{tab}fv:tay1|{tab} (mer) calme, bonace
 
-\nt
+\nt 
 |{tab}|fv{na-myomyos}|{tab}écume
 \nq et les vaguelettes?
 \sn 4
@@ -37809,7 +37809,7 @@ with the sea or the coast (fl:opp. fv:tē-hēyēt 'from inside the island')
 \nq
 \dc 2002
 \dc 08/Aug/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx nay
 \la na-nay
@@ -38127,10 +38127,10 @@ temps, en un prédicat de qualité.
 \re
 \de il n'y a pas, il n'y a rien: Prédicatif existentiel négatif; (|fl{d'où}) non. Équiv.
 de fv:tateh
-\dn there isn't, there's nothing: negative existential predicative; (|fl{thus}) no. Equiv. of
+\dn there isn't, there's nothing: negative existential predicative; (|fl{hence}) no. Equiv. of
 fv:tateh
 \rf
-\mr ne- |fs{+} t[a]hap
+\mr ne- + t[a]hap
 \sn 2
 \we excl
 \de ‘tant pis!’, ça ne fait rien, ce n'est pas grave
@@ -38139,11 +38139,13 @@ fv:tateh
 \xm Ohoo, kēy lololwon hiy m̄alm̄al a ēntē-y en, veg a kē so ni-leg yak den kēy ēgēn.  Ba
 nethap, ige tapēva qiyig van hiy yoge be-leg e tō kēy ak muhuy kēy den ne-ten̄ten̄.
 \rf alx -- Cf. AP9-47
-\xv Na-sm̄al t-ak hethet vēste qiyig? # Ba nethap!
-\xe Et ça ne se risque pas de s'abîmer s'il pleut? # Aucune importance!
-\xn It won't get damaged if it rains? # Never mind!
-\rf Cf.
-\xv tateh |fs{(7)}
+\xv Na-sm̄al t-ak hethet vēste qiyig? – Ba nethap!
+\xe Et ça ne se risque pas de s'abîmer s'il pleut? – Aucune importance!
+\xn It won't get damaged if it rains? – Never mind!
+\lf Cf.
+\lv tateh
+\le (7)
+\ln (7)
 \sn 3
 \we + (vl:a) vl:so + Aor.
 \de il ne faudrait pas que; ce serait dommage que; attention à ce que… ne pas
@@ -38174,9 +38176,9 @@ mess of it!
 \xe Tu dois détourner cet ouragan! fs:Sinon, on va tous mourir!
 \xn You must divert this hurricane: fs:Otherwise we're all going to die!
 \rf alx
-\xv Sowo kē mē-wēl no, itōk. # Ba so nethap?
-\xe S'il me paye, c'est parfait. # Et sinon?
-\xn If he pays me, that's perfect. # And if not?
+\xv Sowo kē mē-wēl no, itōk. – Ba so nethap?
+\xe S'il me paye, c'est parfait. – Et sinon?
+\xn If he pays me, that's perfect. – And if not?
 \rf
 \xv Na-m̄alm̄al gōskē wun nō-kōs? Sowo nethap, na-tmat.
 \xe Cette fille est sans doute un spectre? |fs{Sinon / Ou alors}, c'est un démon!
@@ -38192,7 +38194,7 @@ mess of it!
 \nq
 \dc 12/Feb/2006
 \dc 26/Apr/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx netnet
 \ph nɛtnɛt
@@ -38248,7 +38250,7 @@ mess of it!
 
 \lx nēte
 \ph nɪtɛ
-\ps adv
+\ps loc
 \gr longtaem
 \dr longtaem finis
 \ge
@@ -38275,7 +38277,7 @@ probablement de la grammaticalisation de fv:n-ēte ‘année’.
 \nq
 \dc 09/Apr/2006
 \dc 09/Dec/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx nētge
 \la nē-nētge
@@ -38334,7 +38336,7 @@ petit’, |fv{ige susu} ‘les petits’.
 \lf
 \el
 \et <°nátu-m̄éra
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *natu
 \eg child
 \el PNCV
@@ -38477,12 +38479,12 @@ his/her child (instead of calling him/her by name)
 \sd Parenté
 \lf †
 \lv inti~
-\mr inti~|fs{ + }-gi
+\mr inti~ + -gi
 \nt
 \nq
 \dc 09/Feb/2006
 \dc 09/Dec/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx nitog
 \ph nitɔɣ
@@ -38673,14 +38675,14 @@ sans référence à un devoir ou à une norme.
 dans le syntagme nominal.
 \nt La forme nue de fv:no~, devant possesseur inanimé, est fv:ne (fl:cf. fv:ne, fv:nan) ; les autres
 classificateurs sont dépourvus de forme nue.
-\nt  \tb  |{tab}1sg|{tab}ub:mino|{tab}mon |{tab}2sg|{tab}ub:nôm|{tab}ton
-|{tab}3sg|{tab}fv:non|{tab}son |{tab}1ex-du|{tab}fv:nonmamyō|{tab}notre
-|{tab}1ex-tr|{tab}fv:nonmamtēl|{tab}notre |{tab}1ex-pl|{tab}fv:nonmem|{tab}notre
-|{tab}1in-du|{tab}fv:nondō|{tab}notre |{tab}1in-tr|{tab}fv:nontēl|{tab}notre
-|{tab}1in-pl|{tab}fv:nongēn|{tab}notre |{tab}2du|{tab}fv:nonmōyō|{tab}votre
-|{tab}2tr|{tab}fv:nonmētēl|{tab}votre |{tab}2pl|{tab}fv:nonmi|{tab}votre
-|{tab}3du|{tab}fv:noyō|{tab}leur |{tab}3tr|{tab}fv:noytēl|{tab}leur
-|{tab}3pl|{tab}fv:noy|{tab}leur
+\nt  \tb  |{tab} 1sg|{tab}ub:mino|{tab}mon |{tab} 2sg|{tab}ub:nôm|{tab}ton
+|{tab} 3sg|{tab}fv:non|{tab}son |{tab} 1ex-du|{tab}fv:nonmamyō|{tab}notre
+|{tab} 1ex-tr|{tab}fv:nonmamtēl|{tab}notre |{tab} 1ex-pl|{tab}fv:nonmem|{tab}notre
+|{tab} 1in-du|{tab}fv:nondō|{tab}notre |{tab} 1in-tr|{tab}fv:nontēl|{tab}notre
+|{tab} 1in-pl|{tab}fv:nongēn|{tab}notre |{tab} 2du|{tab}fv:nonmōyō|{tab}votre
+|{tab} 2tr|{tab}fv:nonmētēl|{tab}votre |{tab} 2pl|{tab}fv:nonmi|{tab}votre
+|{tab} 3du|{tab}fv:noyō|{tab}leur |{tab} 3tr|{tab}fv:noytēl|{tab}leur
+|{tab} 3pl|{tab}fv:noy|{tab}leur
 \nq
 \dc 2000 + 23/Feb/2006
 \dc 09/Dec/2008
@@ -38693,7 +38695,7 @@ classificateurs sont dépourvus de forme nue.
 \a nogo
 \a ngē
 \u ngo~ -(m)
-\ps nop
+\ps n.poss
 \rd
 \gr fes
 \ge visage
@@ -38709,7 +38711,7 @@ classificateurs sont dépourvus de forme nue.
 \dn face
 \sd Anat
 \se le-ngo sil
-\ps adv
+\ps loc
 \ge
 \re
 \lt à la face des gens
@@ -38743,7 +38745,7 @@ classificateurs sont dépourvus de forme nue.
 \nt
 \nq
 \dc 09/Dec/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx nogolgē
 \ph nɔɣɔlɣɪ
@@ -38794,7 +38796,7 @@ mariage (fl:cf. fv:leg)’
 
 \lx nowmat
 \ph nɔwmat
-\ps adp
+\ps adv
 \gr rere
 \de indique que le prédicat atteint directe^ment son effet maximal
 \dn indicates that the predicate reaches its maximal effect directly
@@ -38802,7 +38804,7 @@ mariage (fl:cf. fv:leg)’
 \ge
 \de (faire V) de façon à être prêt pour une action ultérieure ; |fl{d'où}
 efficace^ment, complète^ment, sans perdre de temps
-\dn (act V) so as to be ready for a later action; |fl{thus} efficiently, completely, without
+\dn (act V) so as to be ready for a later action; |fl{hence} efficiently, completely, without
 losing time
 \rf
 \xv Kē ni-teh nowmat n-ih namun ; gal now^mat van na-gabak namun ; votog nowmat
@@ -38877,7 +38879,7 @@ arrows.
 \nq
 \dc 10/Sep/2002
 \dc 22/Dec/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx nōk
 \ph nʊk
@@ -38919,7 +38921,7 @@ arrows.
 \lx Nōybaybay
 \ph nʊjᵐbajᵐbaj
 \a
-\ps loc
+\ps top
 \rd
 \gr Ureparapara
 \ge Ureparapara
@@ -38933,7 +38935,7 @@ arrows.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -ntēl
 \ph ntɪl
@@ -38961,7 +38963,7 @@ fv:ēntēl)
 \rf
 \sd Gram
 \el
-\et <°|{_}da|{_}ˈtolu
+\et <°-da-ˈtolu
 \nt
 \nq
 \dc 12/Sep/2002
@@ -39008,7 +39010,7 @@ s'essuyer les mains (|fv{men̄}).
 \dn
 \rf ??
 \cf
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *ŋado
 \nt
 \nq
@@ -39072,7 +39074,7 @@ combustible
 \rf
 \ee
 \en
-\mn qul|hm{2}
+\mn qul2
 \et <°aŋári
 \el PNCV
 \et *ʔaŋaʀi
@@ -39165,7 +39167,7 @@ combustible
 \xv Kōyō vēy tekel n̄eye en.
 \xe Ils franchissent le cap.
 \xn They made the turning point.
-\ee Emploi exceptionnel, sans possesseur, du nom inal. fv:n̄eye~|hm{2} |ax{[5]}.
+\ee Emploi exceptionnel, sans possesseur, du nom inal. fv:n̄eye~2 |ax{[5]}.
 \sd Géo
 \nt
 \dc 2002
@@ -39182,7 +39184,7 @@ combustible
 \a n̄aya
 \a n̄ye
 \u n̄ye~ -(m)
-\ps nop
+\ps n.poss
 \pdl 1s
 \pdv na-n̄ye-k
 \pdl 3s
@@ -39205,8 +39207,8 @@ visage
 \ce visage
 \se ni-vinvin n̄eye~
 \ps n
-\1s # n̄eyek
-\3s # n̄aya-n
+\1s – n̄eyek
+\3s – n̄aya-n
 \re lèvres
 \he rare
 \de lèvres
@@ -39219,7 +39221,7 @@ visage
 \he rare
 \de la bouche en tant que siège de la parole ; |fl{d'où} façon de parler,
 caractère
-\dn the mouth as seat of speech ; |fl{thus} manner of speaking. 
+\dn the mouth as seat of speech ; |fl{hence} manner of speaking. 
 \rf feuille 24-12-97
 \xv Na-gatgat to-M̄otlap mal mat le-n̄ye!
 \xe La langue mwotlap succombe dans ta bouche ! (Tu la parles parfaite^ment)
@@ -39286,7 +39288,7 @@ fl:Metph.  prominent tip of an object fl:e.g. on a statuette
 \ee Entre dans de nom^breux toponymes relatifs à des promon^toires, souvent préfixés par
 l'article honori^fique fv:wo- (fl:Cf. fv:Wo-n̄ye-it, fv:Wo-n̄ye-skey, fv:Wo-n̄yanit).
 Exception^nelle^ment, cet emploi de fv:n̄ye~ peut apparaître sans possesseur (fl:Cf.
-fv:n̄eye|hm{1}).
+fv:n̄eye1).
 \ms n̄ere
 \el Mota
 \et n̄ere
@@ -39294,7 +39296,7 @@ fv:n̄eye|hm{1}).
 \nq
 \dc 17/Sep/2002
 \dc 14/Aug/2009
-\dt 21/Oct/2014
+\dt 02/Jul/2016
 
 \lx n̄[e]yeg
 \ph ŋɛjɛɣ
@@ -39321,7 +39323,7 @@ fv:n̄eye|hm{1}).
 \la na-n̄yen̄ye~
 \ph naŋjɛŋjɛ
 \hm
-\ps nop
+\ps n.poss
 \gr maot
 \ge bec
 \de gueule, bec, bouche (fl:Cf. fv:n̄eye~), remarquables pour leur forme
@@ -39341,7 +39343,7 @@ fv:n̄eye|hm{1}).
 \nt
 \dc 2001
 \dc 14/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx n̄eyn̄ey
 \ph ŋɛjŋɛj
@@ -39369,7 +39371,7 @@ fv:n̄eye|hm{1}).
 \lx n̄ē
 \la nē-n̄ē
 \ph nɪŋɪ
-\ps nop
+\ps n.poss
 \gr
 \sn
 \ge
@@ -39382,12 +39384,12 @@ fv:n̄eye|hm{1}).
 \nq 3s =  nên̄ên ????
 \dc 04/Feb/2007
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx n̄ēh
 \ph ŋɪh
 \wr A
-\ps int
+\ps interr
 \gr wotaem
 \ge quand
 \de quand ‘futur’: interroge sur l'avenir (fl:opp. |fv{an̄ēh} ‘quand passé’)
@@ -39400,7 +39402,7 @@ fv:n̄eye|hm{1}).
 \xn When must you go back?
 \cf
 \se
-\ps adv
+\ps loc
 \wr B
 \de un jour, (si) jamais: adverbe indéfini portant sur l'avenir, fl:norm. dans
 les protases hypothétiques ou temporelles
@@ -39416,7 +39418,7 @@ hypothetical or temporal protases
 \xn If ever you steal his eggs, this snake will get angry with you.
 \rf
 \el Mota
-\et a|{_}n̄aisa
+\et a-n̄aisa
 \el PNCV
 \et *ŋaʔisa
 \el POc
@@ -39425,7 +39427,7 @@ hypothetical or temporal protases
 \nq
 \dc 24/Oct/2003
 \dc 14/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx n̄ēhlaw
 \la nē-n̄ēhlaw
@@ -39656,7 +39658,7 @@ faire un ballot.
 \lx n̄[i]li~
 \la ni-n̄li~
 \ph niŋli
-\ps nop
+\ps n.poss
 \dr
 \ge bout
 \re
@@ -39670,7 +39672,7 @@ faire un ballot.
 \xn
 \cf
 \el Mota
-\et n̄oli|{_}u
+\et n̄oli-u
 \eg top shoot of a plant
 \el PNCV
 \et *ŋoli
@@ -39678,7 +39680,7 @@ faire un ballot.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx n̄it
 \ph ŋit
@@ -39788,7 +39790,7 @@ generally on the man's chest
 \dn
 \rf
 \cf
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *ŋora
 \eg snore, grunt, breathe
 \nt
@@ -39802,7 +39804,7 @@ generally on the man's chest
 \a n̄uyun̄yu
 \a n̄yun̄yu
 \va nu-gyugyu~
-\ps nop
+\ps n.poss
 \3s nu-n̄yun̄yu-n
 \3s nō-n̄yōn̄yō-n
 \ge groin
@@ -39837,7 +39839,7 @@ generally on the man's chest
 \nt Edgar confirme en G7-18, après hésitation; mais en G7-5 = appelle ainsi le Napoléon.
 \nq
 \dc 14/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx oel
 \la n-oel
@@ -40188,8 +40190,7 @@ bas’, soit fv:yow ‘vers l'extérieur’.
 \la °na-ō
 \hm 2
 \ph naʊ
-\pc o.jpg
-\nt .G.c:\Alex\photoDico\o.jpg;1.15";.65";JPG
+\pc .G.c:\Alex\photoDico\o.jpg;1.15";.65";JPG
 \ps n
 \nt /na-o/ G5-117
 \nt ou /na-ô/ ?? P6-41
@@ -40273,13 +40274,13 @@ representations
 \br pour une version anglaise, peut être parler des 'tags' 
 \sd Gram
 \rf
-\xv Nēk so van te mu ba-lavēt? # Ave ōk?
-\xe Toi aussi tu iras à la fête? # Où fs:ça? [tu veux dire où?]
-\xn You'll be going to the fair too? # Where? [where do you mean?]
+\xv Nēk so van te mu ba-lavēt? – Ave ōk?
+\xe Toi aussi tu iras à la fête? – Où fs:ça? [tu veux dire où?]
+\xn You'll be going to the fair too? – Where? [where do you mean?]
 \rf
-\xv Nok so boel kē. # Ba-hap ōk?
-\xe Je lui en veux. # Et pourquoi fs:donc / pourquoi fs:ça?
-\xn I'm angry with him. # Why? / why's that?
+\xv Nok so boel kē. – Ba-hap ōk?
+\xe Je lui en veux. – Et pourquoi fs:donc / pourquoi fs:ça?
+\xn I'm angry with him. – Why? / why's that?
 \rf
 \xv Nēk so wēl na-hap ōk?
 \xe Qu'est-ce que tu veux acheter, |fs{au juste}?
@@ -40289,9 +40290,9 @@ representations
 \xe Et comment fs:donc s'y prennent-ils?
 \xn And how do they go about it, then?
 \rf
-\xv Kamyō Devēt. # Iyē ōk? Devēt tō-Wōvet ōk?
-\xe J'étais avec David. # Qui fs:ça? David de Wovet [tu veux dire]?
-\xn I was with David. # Who ? David from Wovet [do you mean]?
+\xv Kamyō Devēt. – Iyē ōk? Devēt tō-Wōvet ōk?
+\xe J'étais avec David. – Qui fs:ça? David de Wovet [tu veux dire]?
+\xn I was with David. – Who ? David from Wovet [do you mean]?
 \rf
 \xv N-age geh nen en, so wēl na-lqōvēn aē ōk?
 \xe Et tout ça, ça sert à acheter une épouse [tu veux dire]?
@@ -40524,7 +40525,7 @@ dans le panier.
 \xe À peine Wotwé eut-il lancé l'ordre “Tapez sur l'eau!”, qu'elles se mirent toutes à taper sur l'eau.
 \xn The moment Wotwé shouted the order "Strike the water!", they all started to strike the water.
 \rf
-\xv Tita nonoy imam nonoy kēy qeleqlen̄ # wa tō kēy ōl vayēg van hiy ige magtō en, so
+\xv Tita nonoy imam nonoy kēy qeleqlen̄ – wa tō kēy ōl vayēg van hiy ige magtō en, so
 “Magtō, kem van ēgēn, ba ige susu hag tō, etet goy kēy van !”
 \xe Au moment de s'en aller, les parents donnent leurs instructions aux vieilles du village: “Mémé,
 nous allons partir, mais les enfants restent: occupe-toi bien d'eux!”
@@ -40629,7 +40630,7 @@ musique jouée par le percussionniste (fv:n-et_ba-lam̄lam̄_vētōy).
 
 \lx ōyēh
 \ph ʊjɪh
-\ps adv
+\ps loc
 \ge après-demain
 \re
 \de après-demain; un jour indéfini dans l'avenir, un jour prochain
@@ -40653,7 +40654,7 @@ musique jouée par le percussionniste (fv:n-et_ba-lam̄lam̄_vētōy).
 \nq
 \dc 2001
 \dc 20/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ōynem
 \la n-ōynem
@@ -40805,7 +40806,7 @@ Mélanésien’)
 \ur qqch
 \de occidental, d'origine européenne; |fl{d'où} moderne (|fl{opp.} |fv{timigēn} fl:ou
 |fv{nongēn} ‘traditionnel, de chez nous’) 
-\dn western, of European origin; |fl{thus} modern (|fl{opp.} |fv{timigēn}
+\dn western, of European origin; |fl{hence} modern (|fl{opp.} |fv{timigēn}
 \rf
 \xv no-hohole non ige qagqag
 \xe les langues européennes (fl:spéc. français, anglais)
@@ -40825,7 +40826,7 @@ Mélanésien’)
 \nq
 \dc 13/Feb/2006
 \dc 20/Aug/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx qal
 \ph k​͡pʷal
@@ -40898,7 +40899,7 @@ Mélanésien’)
 \he spéc
 \ur désir amoureux
 \de être dirigé sur ‹qqn›; |fl{d'où} tomber amoureux de ‹qqn›
-\dn be led towards ‹s.o›; |fl{thus} fall in love with ‹s.o›
+\dn be led towards ‹s.o›; |fl{hence} fall in love with ‹s.o›
 \rf
 \xv Vētmahē ige m̄alm̄al a kēy m-et kē van en, na-myōs nonoy ma-qal qēt kē.
 \xe Dès que les jeunes filles l'aperçurent, elles en tombèrent toutes amoureuses. [leur désir le toucha]
@@ -40920,7 +40921,7 @@ Mélanésien’)
 \xe [ax:litt. Le vent a atteint en bas] Le cyclône nous a touchés.
 \xn [ax:lit. The wind has reached the ground] The cyclone has reached us.
 \se
-\ps adp
+\ps adv
 \wr C
 \de (faire V) de façon à toucher, atteindre ‹qqch›
 \dn (get V) to touch, reach ‹s.o›
@@ -40970,7 +40971,7 @@ du tout
 \nq
 \dc 23/Mar/2003
 \dc 20/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qal goy
 \ph k​͡pʷal ɣɔj
@@ -41030,8 +41031,8 @@ du tout
 \rf
 \cf hafmat
 \ce débile
-\cf qōn̄|fs{ (B2)}
-\ce sénile
+\cf qōn̄B
+\ce (2) sénile
 \sn 2
 \ge
 \re
@@ -41066,7 +41067,7 @@ strong emotion (fl: esp. anger, drunkenness, excitement)
 \xe Laisse-la tomber, elle est stupide.
 \xn Forget her, she's stupid.
 \se
-\ps adp
+\ps adv
 \wr B
 \sn 1
 \ge
@@ -41107,7 +41108,7 @@ strong emotion (fl: esp. anger, drunkenness, excitement)
 \nq
 \dc 04/Jun/2001
 \dc 20/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qaqay
 \ph k​͡pʷak​͡pʷaj
@@ -41148,7 +41149,7 @@ these spirits.
 \lx qaqaye~
 \la na-qaqaye~
 \ph nak​͡pʷak​͡pʷajɛ
-\ps nop
+\ps n.poss
 \1s na-qaqaye-k
 \3s na-qaqaya-n
 \ge flanc
@@ -41168,7 +41169,7 @@ these spirits.
 \nq
 \dc 17/Oct/2003
 \dc 20/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qas
 \ph k​͡pʷas
@@ -41189,7 +41190,7 @@ these spirits.
 \el Mota
 \et qasa
 \el PNCV
-\et *bʷasa|{_}i
+\et *bʷasa-i
 \eg end, tip
 \nt
 \nq
@@ -41453,7 +41454,7 @@ et qele te ... ; suvay qele...
 \ce
 \cn
 \se qele kē
-\ps adv
+\ps loc
 \ge
 \lt comme ceci
 \we fl:stt après V ‘voir’, ‘enten^dre’, ‘aller’
@@ -41476,7 +41477,7 @@ figuier.
 \rm
 \xm yon̄teg van qele kē...
 \se qele gēn
-\ps adv
+\ps loc
 \gr
 \lt comme ceci
 \de de cette façon, comme ceci (fl:cf. fv:gēn). fl:Parf. particule énonciative: ‘pour ainsi dire’, ‘je veux dire’
@@ -41489,7 +41490,7 @@ figuier.
 \nq
 \dc 17/Feb/2007
 \dc 14/Sep/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx q[e]len̄
 \ph k​͡pʷɛlɛŋ
@@ -41517,7 +41518,7 @@ figuier.
 \xe (Leurs parents) s'étaient tous absentés pour travailler aux jardins.
 \xn (Their parents) had all gone out to work in the gardens.
 \rm
-\xm Na-bago ni-mnuw tēqēl tō# ni-qlen̄ ēgēn.
+\xm Na-bago ni-mnuw tēqēl tō– ni-qlen̄ ēgēn.
 \sn 2
 \ge
 \re
@@ -41547,7 +41548,7 @@ haches en métal.
 \xn Their language is about to disappear.
 \se qelen̄
 \wr B
-\ps adp
+\ps adv
 \sn 1
 \ge
 \re
@@ -41603,7 +41604,7 @@ haches en métal.
 \nq
 \dc 09/Sep/2002
 \dc 26/Oct/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qen
 \la ne-qen
@@ -41701,7 +41702,7 @@ haches en métal.
 \cf qen
 \ce filet
 \cn net
-\et <°|{_}talá(w)a
+\et <°-talá(w)a
 \el PNCV
 \et *(ta)lawa
 \eg spider, spiderweb
@@ -41718,7 +41719,7 @@ haches en métal.
 \ph nak​͡pʷsɛ
 \a qse
 \a qsa
-\ps nop
+\ps n.poss
 \dr
 \ge (tête)
 \re
@@ -41732,22 +41733,21 @@ haches en métal.
 \xv na-qse tēq
 \cf tēq
 \el Mota
-\et qasa|{_}i
+\et qasa-i
 \eg rounded, enlarged, part at top, head of pin...
 \el PNCV
-\et *bʷasa|{_}i
+\et *bʷasa-i
 \eg end, tip
 \nt
 \nq
 \dc 21/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qet
 \la ne-qet
 \hm 1
 \ph nɛk​͡pʷɛt
-\pc qet.jpg
-\nt .G.c:\Alex\photoDico\qet.jpg;1.29";1.81";JPG
+\pc .G.c:\Alex\photoDico\qet.jpg;1.29";1.81";JPG
 \ps n
 \gr taro
 \ge taro
@@ -41835,7 +41835,7 @@ correct rhythm for the footwork
 \de danser le fv:ne-qet
 \dn dance it fv:ne-qet
 \rf
-\cf vay|hm{1}
+\cf vay1
 \nt
 \nq
 \dc 21/Aug/2009
@@ -41852,9 +41852,9 @@ correct rhythm for the footwork
 \we annoncé par vl:et-
 \re pas encore ; encore (pas) ; Négation
 \de (ne)... pas encore: deuxième élément de la négation à morphème
-discontinu fv:et-… fv:qete (fl:Cf. fv:et-|hm{3})
+discontinu fv:et-… fv:qete (fl:Cf. fv:et-3)
 \dn not yet: second element of a discontinued morpheme negation fv:et-… fv:qete (fl:Cf.
-fv:et-|hm{3})
+fv:et-3)
 \gn not_yet
 \rn yet (not)
 \rf AP5-75
@@ -41994,8 +41994,7 @@ marquer la familiarité.
 \la na-qyet
 \ph nak​͡pʷjɛt
 \a qeyet
-\pc qyet.jpg
-\nt .G.c:\Alex\photoDico\qyet.jpg;1.2";.53";JPG
+\pc .G.c:\Alex\photoDico\qyet.jpg;1.2";.53";JPG
 \ps n
 \gr blakbokis
 \ge roussette
@@ -42097,7 +42096,7 @@ concerning names
 
 \lx qēlge~
 \ph k​͡pʷɪlɣɛ
-\ps nop
+\ps n.poss
 \gr paliga
 \1s qēlgek
 \3s qēlgan
@@ -42141,7 +42140,7 @@ fl:ou |fv{yoge qēlgek} [mes deux gendres] ‘mon gendre’.
 \nt Qêlêg ! = ancien terme d'adresse pour l'épouse ??
 \nq
 \dc 21/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēqēl
 \la nē-qēqēl
@@ -42185,12 +42184,12 @@ making a noise')
 \xv Kē mē-qēsdi hōw nen e ma-mat.
 \xe Elle a fait une chute, et a rendu l'âme.
 \xn She fell, and passed away.
-\mr qēs|fs{ + }di
+\mr qēs + di
 \nt cf. mangues, personnes ; cf. qês...
 \nt
 \nq
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt
 \hm 1
@@ -42206,7 +42205,7 @@ making a noise')
 \nt ADP= complètement ; kêy may wêl qêt bah.; qêt // bah, selon l'objet.; 
 \nt V.I.= na-ga tale qêt DEN dôyô ; mal qêt ! ; 
 \se
-\ps adp
+\ps adv
 \wr B
 \ge finir
 \re complète^ment ; entière^ment ; tout
@@ -42218,7 +42217,7 @@ making a noise')
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-
 \la nē-qēt-
@@ -42264,7 +42263,7 @@ making a noise')
 \rm
 \xm nē-qēt-buhu-k
 \xf un doigt
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *bʷatu
 \eg head
 \nt
@@ -42284,7 +42283,7 @@ making a noise')
 \de branche, bâton. Préfixe
 \dn branch, stick. Prefix
 \rf
-\cf qēt-|hm{2}
+\cf qēt-2
 \ce
 \cn
 \el Mota
@@ -42318,7 +42317,7 @@ prepare it for new yam plants (fl:cf. fv:yuw)
 \lf
 \et <°bʷatu-aso
 \el ax:Cf.
-\et qēt|{_}|hm{3}
+\et qēt-3
 \el POc
 \et *waso
 \eg digging stick
@@ -42330,7 +42329,7 @@ prepare it for new yam plants (fl:cf. fv:yuw)
 
 \lx qētbuhu~
 \ph k​͡pʷɪtᵐbuhu
-\ps nop
+\ps n.poss
 \va qētqēt^buhu~
 \1s -buhu-k
 \3s -buhō-n / -bōhō-n
@@ -42353,7 +42352,9 @@ bah, mal qētēg kuy !
 \xf Elle palpe la main de son enfant, et s'aperçoit qu'il n'a plus de doigts, qu'ils ont été
 dévorés (par l'Ogre)!
 \lf Cf.
-\lv bēnē~ |fs{(2)}
+\lv bēnē~
+\le (2)
+\ln (2)
 \sn 2
 \ur crustacé
 \de pattes les plus fines (fl:opp. pinces, fl:cf. |fv{lēwo~})
@@ -42363,7 +42364,7 @@ dévorés (par l'Ogre)!
 \xe On ramasse des crabes, et on en casse les pattes.
 \xn We pick up the crabs, then we break their claws.
 \el ax:Cf.
-\et qēt-|hm{2}
+\et qēt-2
 \el PNCV
 \et *bisu
 \eg finger, toe, nail
@@ -42371,7 +42372,7 @@ dévorés (par l'Ogre)!
 \nq
 \dc 12/Feb/2006
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx q[ē]tēg
 \ph k​͡pʷɪtɪɣ
@@ -42425,7 +42426,7 @@ dévorés (par l'Ogre)!
 \lv yak
 \se qētēg
 \wr C
-\ps adv
+\ps loc
 \gr
 \de en commençant par, à partir de
 \dn beginning with, from.... onwards
@@ -42451,32 +42452,11 @@ dévorés (par l'Ogre)!
 \oe Anat.
 \xe l'épaule [le début du bras]
 \xn shoulder [beginning of the arm]
-\se na-qtēqtēg
-\wr E
-\ps n
-\sn 1
-\de début, commencement
-\dn start, beginning
-\rf
-\lf Syn.
-\lv tōti~
-\sn 2
-\he spéc
-\ur chant+
-\nt début, commence^ment; fl:partic. (chanson, poème) 
-\de début, incipit
-\dn beginning, incipit
-\rf
-\xv Na-wlēwlē liwo, na-qtēqtēg nan : “O ie o ee”.
-\xe Le genre |vl{na-wlēwlē liwo} a pour incipit “O ie o ee”.
-\xn The genre |vl{na-wlēwlē liwo} has as incipit “O ie o ee”.
-\lf Syn.
-\lv tōti~
 \nt
 \nq
 \dc 19/Dec/2003
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qētēgok
 \ph k​͡pʷɪtɪɣɔk
@@ -42636,6 +42616,35 @@ morceau de bois, fl:spéc. utile; |fl{d'où} bâton (lf:Cf. fv:qēt-), poutre, e
 \dc 22/Aug/2009
 \dt 28/Mar/2010
 
+\lx q[ē]tēqtēg
+\la na-qtēqtēg
+\ps n
+\de nom verbal de fv:qētēg
+\dn verbal noun of fv:qētēg
+\sn 1
+\de début, commencement
+\dn start, beginning
+\rf
+\lf Syn.
+\lv tōti~
+\sn 2
+\he spéc
+\ur chant+
+\nt début, commence^ment; fl:partic. (chanson, poème) 
+\de début, incipit
+\hn esp
+\uv song+
+\dn beginning, incipit
+\rf
+\xv Na-wlēwlē liwo, na-qtēqtēg nan : “O ie o ee”.
+\xe Le genre |vl{na-wlēwlē liwo} a pour incipit “O ie o ee”.
+\xn The genre |vl{na-wlēwlē liwo} has as incipit “O ie o ee”.
+\el
+\nt
+\nq
+\dc 24/Dec/2013
+\dt 02/Jul/2016
+
 \lx qēt-hay
 \la nē-qēt-hay
 \ph nɪk​͡pʷɪthaj
@@ -42656,12 +42665,12 @@ pour la réceptionner.
 \xn A man goes (into the water) with the tip end of the scareline, whilst on the other side, someone is
 ready on the receiving end.
 \ee fl:Cf. encadré à fv:gey_hay.
-\mr qēt-|hm{2} |fs{+} hay|hm{3}
+\mr qēt-2 + hay3
 \nt
 \nq
 \dc 17/Sep/2002
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēthēlēn̄
 \la nē-qēthēlēn̄
@@ -42697,7 +42706,7 @@ ready on the receiving end.
 \lx qēthi~
 \la nē-qēthi~
 \ph nɪk​͡pʷɪthi
-\ps nop
+\ps n.poss
 \va nē-qēthu~
 \3s nē-qēthō-n
 \ge faîte
@@ -42722,21 +42731,21 @@ elle-même soutenue par des piliers médians (|fv{na-han̄ yogyēn}) ou des poin
 (fv:no-yot)
 \dn light purlin, placed above rafters, on which sits the roof of leaves (fv:no-yot) 
 \rf AP3-62
-\nt <|{~}°na qatusu-
+\nt < °na qatusu-
 \el Mota
 \et qatsuna
 \nt
 \nq
 \dc 2003
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-hiyi~
 \la nē-qēthiyi~
 \ph nɪk​͡pʷɪthiji
 \a qēthiyi
 \a qēthēyē
-\ps nop
+\ps n.poss
 \rd
 \ge
 \re
@@ -42757,11 +42766,11 @@ elle-même soutenue par des piliers médians (|fv{na-han̄ yogyēn}) ou des poin
 \nt
 \nq
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-lam̄lam̄-n̄ey
-\la nē-qēt|{_}l.n̄.
-\ph nɪk​͡pʷɪt|{_}l.ŋ.
+\la nē-qēt-l.n̄.
+\ph nɪk​͡pʷɪt-l.ŋ.
 \ps n
 \ge
 \re Aglaia eleagnoidea
@@ -42904,14 +42913,14 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \ee
 \en
 \sy qētwon
-\cf galeg nē-qtē-n |fs{(<}qti~|fs{)}
+\cf galeg nē-qtē-n
 \ce n'en faire qu'à sa tête
 \cn go his own way
 \rf AG4-121
 \nt
 \nq
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-meh
 \la nē-qētmeh
@@ -42929,12 +42938,12 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \xn Remedy for headaches.
 \ee Stricte^ment équivalant à la périphrase |fv{ni-qti-ge memeh} ‘mal à la tête’.
 \en
-\mr qēt-|hm{2}|fs{ + }meh
+\mr qēt-2 + meh
 \cf
 \nt
 \nq
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-men
 \la nē-qētmen
@@ -43029,13 +43038,13 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \xv Kē mu-su-qētsew.
 \xe Elle fait un peu de fièvre.
 \xn She's a bit feverish.
-\mr qēt-|hm{2}|fs{ + }sew
+\mr qēt-2 + sew
 \el
 \nt
 \nq
 \dc 19/Dec/2003
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qēt-yayah-sēm
 \la nē-qēt-yayah-sēm
@@ -43057,8 +43066,7 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \lx q[ē]yēn̄i
 \la na-qyēn̄i
 \ph nak​͡pʷjɪŋi
-\pc qyengi2.jpg
-\nt .G.c:\Alex\photoDico\qyengi2.jpg;2.54";1.51";JPG
+\pc .G.c:\Alex\photoDico\qyengi2.jpg;2.54";1.51";JPG
 \lg |fv{al ne-vet le-qyēn̄i}, on place les pierres sur le four
 \ps n
 \gr
@@ -43084,7 +43092,7 @@ fv:na-lan̄vēn, etc.) associées à chaque chanson traditionnelle.
 \re
 \de appuyer avec le doigt, fl:spéc. sur un bouton, un interrupteur; |fl{d'où} allumer,
 éteindre ‹un appareil électrique›
-\dn press with one's finger, fl:esp. on a button, a switch; |fl{thus} turn on, off ‹an electric
+\dn press with one's finger, fl:esp. on a button, a switch; |fl{hence} turn on, off ‹an electric
 appliance›
 \rf AP9-11
 \xv Qēyēt lawlaw nu-qul.
@@ -43103,7 +43111,7 @@ appliance›
 \nq
 \dc 04/Apr/2007
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx q[i]gi~
 \la ni-qgi~
@@ -43112,7 +43120,7 @@ appliance›
 \a qigi
 \a qgē
 \a qēgē
-\ps nop
+\ps n.poss
 \3s nē-qgē-n
 \dr
 \ge hanche
@@ -43126,7 +43134,7 @@ appliance›
 \ce cuisse
 \cn thigh
 \el Mota
-\et pugi|{_}u
+\et pugi-u
 \eg hip-joints
 \el PNCV
 \et *buku
@@ -43136,7 +43144,7 @@ appliance›
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx q[i]ti~
 \la ni-qti~
@@ -43145,7 +43153,7 @@ appliance›
 \a qtē
 \a qiti
 \a qētē
-\ps nop
+\ps n.poss
 \1s ni-qti-k
 \3s nē-qtē-n
 \gr hed
@@ -43173,7 +43181,7 @@ appliance›
 \xv ne-meresin bi-qti-ge memeh
 \xe médicament contre le mal de tête
 \xn remedy for headache
-\cf qēt-|hm{2}
+\cf qēt-2
 \sn 2
 \ge
 \re
@@ -43193,19 +43201,19 @@ appliance›
 \xe On a du kava: j'en ai cueilli un pied [ax:litt. une tête] ce matin.
 \xn We've got some kava: I picked a plant [ax:lit. a head] this morning.
 \el Mota
-\et qatu|{_}i
-\el PNCV,|{~}POc
+\et qatu-i
+\el PNCV, POc
 \et *bʷatu
 \nt
 \nq
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qiyig
 \hm 1
 \ph k​͡pʷijiɣ
 \wr A
-\ps adv
+\ps loc
 \sn 1
 \ge aujourd'hui ; bientôt
 \re
@@ -43282,7 +43290,7 @@ ta-vav qiyig, ba talôw
 \nq
 \dc 20/Oct/2003
 \dc 22/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx -qiyig
 \hm 2
@@ -43525,7 +43533,7 @@ fv:no-qo_na-gōm), fv:mu~ for those who win it
 \et <°bʷóna
 \el Mota
 \et qona
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *bune (?)
 \eg fruit dove
 \nt
@@ -43878,10 +43886,10 @@ later
 \xv ige qoywon susu
 \xe les enfants sourds
 \xn deaf children
-\cf won|hm{2} |fs{[C]}
+\cf won2C
 \el Mota
-\et qoro|{_}wono
-\nt qoro|{_}i  'ear'
+\et qoro-wono
+\nt qoro-i  'ear'
 \el PNCV
 \et *bʷero
 \eg ear
@@ -43889,7 +43897,7 @@ later
 \nq
 \dc 05/Feb/2001
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qōn
 \ph k​͡pʷʊn
@@ -43908,7 +43916,7 @@ later
 \he spéc
 \ur cadavre
 \de puer, entrer en décomposi^tion, |fl{d'où} être mort depuis long^temps
-\dn stink, start to decompose, |fl{thus} be dead for a long time
+\dn stink, start to decompose, |fl{hence} be dead for a long time
 \rf
 \xv Kē mal mat, mal qētēg qōn.
 \xe Il est mort, il est même déjà entré en putréfac^tion.
@@ -43936,13 +43944,13 @@ later
 \el Mota
 \et puna
 \el PNCV
-\et *bo|{_}ni
+\et *bo-ni
 \eg smell, have a smell; smell, scent, odour
 \nt
 \nq
 \dc 17/Sep/2002
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx qōnqōn
 \ph k​͡pʷʊnk​͡pʷʊn
@@ -44029,7 +44037,7 @@ later
 \xe Alors Iqet découpa la Nuit (le ciel nocturne) dans toute sa longueur.
 \xn And so Iqet cut the Night (the night sky) lengthwise.
 \se lē-vētne qōn̄
-\ps adv
+\ps loc
 \va lē-tne qōn̄
 \ge
 \re minuit
@@ -44059,7 +44067,7 @@ the day
 \cf myen
 \ce jour, journée (fl:opp. nuit)
 \se taval qōn̄
-\ps adv
+\ps loc
 \ge
 \re lendemain
 \de le lendemain. Parfois associé au directionnel fv:hag ‘vers le haut / vers l'Est’
@@ -44102,7 +44110,7 @@ the day
 \rm
 \xm lō-qōn̄ tegha...
 \se vel qōn̄
-\ps adv
+\ps loc
 \ge
 \re
 \de tous les jours, chaque jour ; toujours, à chaque fois
@@ -44110,7 +44118,7 @@ the day
 \rf
 \mn velqōn̄
 \se yatkel qōn̄
-\ps adv
+\ps loc
 \de certains jours, parfois
 \dn some days, sometimes
 \lf Cf.
@@ -44302,7 +44310,7 @@ days later: on each occasion one "eats (fv:gen) the deceased's days"
 \lt jours d'un mort
 \de période de deuil
 \dn mourning period
-\mn mte|hm{1}
+\mn mte1
 \cf
 \sn 7
 \he par ext
@@ -44346,7 +44354,7 @@ avec ça.
 \re esprits (perdre ses) ; conscience (perdre) ; évanouir (s')
 \lt l'intérieur (de qqn) se fait nuit
 \he expr
-\we Suj. vl:na-lo~|hm{2} ‘(for) intérieur, conscience’
+\we Suj. vl:na-lo~2 ‘(for) intérieur, conscience’
 \we possesseur humain
 \de perdre conscience, perdre ses esprits, s'évanouir ; perdre la mémoire ; perdre sa lucidité
 \dn love consciousness, take leave of one's senses, faint; lose one's memory; lose one's
@@ -44364,7 +44372,7 @@ lucidity
 \lv mat m̄ōl
 \le s'évanouir
 \ln faint
-\cf lo~|hm{2}
+\cf lo~2
 \ce intérieur
 \lf Ant.
 \lv meyen
@@ -44375,7 +44383,7 @@ lucidity
 \re omettre ; oublier
 \lt
 \he trans
-\we Suj. vl:na-lo~|hm{2} ‘(for) intérieur, conscience’
+\we Suj. vl:na-lo~2 ‘(for) intérieur, conscience’
 \we possesseur humain
 \de oublier ‹qqch›
 \gn forget
@@ -44420,14 +44428,14 @@ lucidity
 \cf yak veteg
 \ce laisser derrière soi (qqch)
 \se
-\ps adp
+\ps adv
 \wr C
 \ge
 \re journée (toute la)
-\de (faire une action V|hm{1}) toute la journée, jusqu'à la tombée de la nuit. V|hm{2} fv:qōn̄
-en position de vb résultatif: “faire V|hm{1} si bien qu'il finisse par faire nuit”
-\dn (do something V|hm{1}) all day long, until nightfall V|hm{2} fv:qōn̄ as a resulting vb:
-"do V|hm{1} such that it ended up by getting dark"
+\de (faire une action V1) toute la journée, jusqu'à la tombée de la nuit. V2 fv:qōn̄
+en position de vb résultatif: “faire V1 si bien qu'il finisse par faire nuit”
+\dn (do something V1) all day long, until nightfall V2 fv:qōn̄ as a resulting vb:
+"do V1 such that it ended up by getting dark"
 \rf
 \xv hag qōn̄ l-ēm̄
 \xe rester toute la journée chez soi.
@@ -44455,7 +44463,7 @@ en position de vb résultatif: “faire V|hm{1} si bien qu'il finisse par faire 
 \nq
 \dc 17/Sep/2000
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qōn̄ goy
 \ph k​͡pʷʊŋ ɣɔj
@@ -44466,10 +44474,10 @@ en position de vb résultatif: “faire V|hm{1} si bien qu'il finisse par faire 
 \sn 1
 \we Suj. vl:mahē ‘l'endroit’
 \de faire nuit sur ‹qqn› ; (la nuit) tomber sur, surprendre ‹qqn›, fl:partic. au cours d'une
-activité nécessitant plutôt la clarté du jour. Transitivation de fv:qōn̄|hm{2} au moyen de
+activité nécessitant plutôt la clarté du jour. Transitivation de fv:qōn̄2 au moyen de
 fv:goy, à valeur détrimentale
 \dn darken on ‹s.o› ; (night) fall upon, surprise ‹s.o›, fl:esp. during an activity requiring
-daylight. Transitivation of fv:qōn̄|hm{2} using fv:goy, of detrimental value
+daylight. Transitivation of fv:qōn̄2 using fv:goy, of detrimental value
 \rf
 \xv Mahē mō-qōn̄ goy kemem.
 \xe Nous avons continué (à jouer, etc.) même après la tombée de la nuit.
@@ -44488,12 +44496,12 @@ hindered by the dark
 \lv meyen goy
 \le le jour se lève sur (qqn)
 \ln day is dawning on (s.o)
-\cf goy|hm{1}
+\cf goy1
 \ce (16)
 \sn 2
 \ge
 \re
-\we Suj. vl:lo~|hm{2} ‘(for) intérieur, conscience’
+\we Suj. vl:lo~2 ‘(for) intérieur, conscience’
 \we possesseur humain
 \de oublier régulière^ment, oublier à chaque fois, fl:partic. de façon gênante
 \dn regularly forget, forget each time, fl:esp. in an embarassing way
@@ -44501,7 +44509,7 @@ hindered by the dark
 \xv Nēk vavap me, ba na-lēk qōn̄qōn̄ goy.
 \xe Bien que tu me le répètes, j'oublie à chaque fois.
 \xn Even though you repeat it to me, I forget each time.
-\cf goy|hm{1}
+\cf goy1
 \ce (19)
 \nt
 \nq
@@ -44550,12 +44558,12 @@ hindered by the dark
 \rf
 \ee
 \sd
-\sy sil|hm{3}
+\sy sil3
 \cf qōn̄
 \ce nuit
 \cn night
 \se le-mtap qōn̄qōn̄
-\ps adv
+\ps loc
 \ge
 \re
 \de le matin très tôt, avant l'aube, quand il fait encore noir
@@ -44581,7 +44589,7 @@ hindered by the dark
 \nt
 \nq
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qōn̄qōn̄lo
 \la nō-qōn̄qōn̄lo
@@ -44666,7 +44674,7 @@ que les individus connaissent leur propre âge.
 du gâteau fv:nē-lēt, à l'aide du pilon fv:nē-qēt-lēt, sur le plat
 fv:na-tbē; |fl{d'où} préparer ‹le gâteau fv:nē-lēt›
 \dn beat ‹the dough, ax:esp. of breadfruit› in the preparation of the cake fv:nē-lēt, using
-a pestle fv:nē-qēt-lēt, on the dish fv:na-tbē; |fl{thus} prepare ‹the cake fv:nē-lēt›
+a pestle fv:nē-qēt-lēt, on the dish fv:na-tbē; |fl{hence} prepare ‹the cake fv:nē-lēt›
 \rf AP5-06
 \xv Kēy qōsqōs nē-lēt.
 \xe Ils sont en train de préparer le gâteau vl:nē-lēt.
@@ -44680,7 +44688,7 @@ a pestle fv:nē-qēt-lēt, on the dish fv:na-tbē; |fl{thus} prepare ‹the cake
 \nq
 \dc 15/Oct/2003
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx qōs
 \la nō-qōs
@@ -44819,7 +44827,7 @@ witness’)
 \lx qu~
 \la nu-qu~
 \ph nuk​͡pʷu
-\ps nop
+\ps n.poss
 \1s nu-qu-k
 \3s nō-qō-n
 \gr ni
@@ -44834,14 +44842,14 @@ witness’)
 \rf
 \cf
 \el Mota
-\et qau|{_}i
+\et qau-i
 \el PNCV
 \et *bʷau
 \eg knee
 \nt
 \nq
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qug
 \la nu-qug
@@ -44912,7 +44920,8 @@ large stone
 \cf qulqul
 \cf vēt-qul
 \nt ______________________________________
-\se nu-qul
+\se
+\lc nu-qul
 \wr B
 \ps n
 \sn 1
@@ -45016,7 +45025,7 @@ occasions
 \et pul
 \ec cf. mota: pulsal / pulpul
 \el PNCV
-\et *bulu|{_}ti
+\et *bulu-ti
 \eg sticky stuff, to stick to ; be friends with
 \el POc
 \et *bulit
@@ -45025,7 +45034,7 @@ occasions
 \nq
 \dc 21/Oct/2003
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 12/Apr/2016
 
 \lx qul tiwag
 \ph k​͡pʷul tiwaɣ
@@ -45068,7 +45077,7 @@ solidaires!)
 \xn This Malay apple tree has given a lot of fruit.
 \cf ō
 \ce fructifier
-\mr qul|fs{ + }n̄i
+\mr qul + n̄i
 \se nu-quln̄i
 \wr B
 \ps n
@@ -45089,7 +45098,7 @@ solidaires!)
 \nq
 \dc 09/Sep/2002
 \dc 24/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx qulqul
 \ph k​͡pʷulk​͡pʷul
@@ -45114,7 +45123,7 @@ solidaires!)
 \rf AP5-60
 \ue
 \ee Implique une relation plus intime que fv:bulsal ‘ami’.
-\cf qul|hm{1}
+\cf qul1
 \ce coller
 \cn glue
 \se nu-qulqul
@@ -45440,7 +45449,7 @@ dancing
 \rf
 \nt placer, poser, griller...; salgoy = rendre tabou
 \sn
-\ge
+\ge 
 
 \se sal goy
 \ps vt
@@ -45488,7 +45497,7 @@ numéral seul (préfixé en fv:vĒ-): fl:ex. |fv{n-et |fr{salak}-vet} = |fv{n-et
 \lf Cf.
 \lv bul
 \se salak-yō
-\ps adp
+\ps adv
 \gr
 \ge
 \de par deux, en binôme
@@ -45499,14 +45508,14 @@ numéral seul (préfixé en fv:vĒ-): fl:ex. |fv{n-et |fr{salak}-vet} = |fv{n-et
 \xn seated two by two
 \cf vōvōyō
 \ce deux par deux
-\el ax:Cf.|{~}Mota
+\el ax:Cf. Mota
 \et sorako
 \eg at a time
 \nt
 \nq
 \dc 27/Jan/2007
 \dc 25/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx s[a]lak
 \hm 2
@@ -45770,7 +45779,7 @@ ces dernières sont fixées au flotteur avec des chevilles en bois (fv:nē-mtot,
 \lx sas
 \hm 1
 \ph sas
-\ps adp
+\ps adv
 \ge trouver
 \re
 \we après verbe V
@@ -45826,6 +45835,7 @@ ces dernières sont fixées au flotteur avec des chevilles en bois (fv:nē-mtot,
 \nq
 \dc 19/Jun/2002
 \dc 26/Aug/2009
+\dt 02/Jul/2016
 
 \lx sas
 \hm 2
@@ -45948,7 +45958,7 @@ les poser sur un lieu (arbre, maison..., cf. fv:sal_goy) pour en interdire l'acc
 \u lok[adp][encore] se[adp] tog[mod][Suggest]
 \a si te
 \u se[adp] te[mod]
-\ps adp
+\ps adv
 \ge aussi
 \re
 \nt si tô, si te // lok se
@@ -45958,7 +45968,7 @@ les poser sur un lieu (arbre, maison..., cf. fv:sal_goy) pour en interdire l'acc
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx se
 \hm 2
@@ -46061,9 +46071,9 @@ fois que le feu s'est stabilisé (fv:lal)
 \ge
 \re
 \lt chanter inaugurer
-\de inaugurer ‹un chant de prestige, ax:cf. |vl{he~}|hm{2}*› en l'interpré^tant pour la
+\de inaugurer ‹un chant de prestige, ax:cf. vl:he~2› en l'interpré^tant pour la
 première fois en public
-\dn inaugurate ‹a prestigious song, ax:cf. |vl{he~}|hm{2}*›  by interpreting it for the first
+\dn inaugurate ‹a prestigious song, ax:cf. vl:he~2›  by interpreting it for the first
 time in public
 \rf
 \xv No ne-myōs a so na-hek, te-se lō a li-Diseba.
@@ -46080,8 +46090,8 @@ they want to.
 \sd Mus
 \lf
 \tl |{tab}|fb{L'inauguration d'un chant} £|{tab}[|vl{se lō}*]
-Quand le poète a fini de composer (vl:tow) l'ode de prestige (vl:na-he-k, ax:cf. |vl{he~}|hm{2}*) qui lui a été commandée (vl:ti), il l'enseigne en secret à une trentaine de personnes, hommes et femmes. Puis, à la date convenue, le commanditaire de l'ode invite les chanteurs dans sa propriété, pour une cérémonie solennelle et publique, qui durera toute la journée: c'est alors que le chant est officiellement inauguré, ‘chanté pour la première fois’ (vl:se_lō).
-On commence d'abord par ‘ouïr le chant’ (|vl{yon̄|{_}eh}): chaque membre de la famille du commanditaire, dès qu'il entend son propre nom cité au cours de ce long poème, se lève pour verser une obole au poète (env. 500 vt). Puis l'ode est reprise en boucle jusqu'au soir, en chœur et |fi{a|{~}capella}. La fête se termine lorsque l'on ‘comble le chant’ (|vl{won|{_}eh}): le commanditaire offre aux chanteurs des présents coutumiers (kava, ignames, cochons) ainsi qu'un gâteau de légumes (vl:na-tgop), sur lequel il dépose une forte somme d'argent (env. 20|{~}000 vt). On paye ainsi son ode de prestige selon les mêmes rituels que l'on achète une femme lors du mariage (ax:cf. vl:woslēgē).
+Quand le poète a fini de composer (vl:tow) l'ode de prestige (vl:na-he-k, ax:cf. vl:he~2) qui lui a été commandée (vl:ti), il l'enseigne en secret à une trentaine de personnes, hommes et femmes. Puis, à la date convenue, le commanditaire de l'ode invite les chanteurs dans sa propriété, pour une cérémonie solennelle et publique, qui durera toute la journée: c'est alors que le chant est officiellement inauguré, ‘chanté pour la première fois’ (vl:se_lō).
+On commence d'abord par ‘ouïr le chant’ (|vl{yon̄-eh}): chaque membre de la famille du commanditaire, dès qu'il entend son propre nom cité au cours de ce long poème, se lève pour verser une obole au poète (env. 500 vt). Puis l'ode est reprise en boucle jusqu'au soir, en chœur et |fi{a capella}. La fête se termine lorsque l'on ‘comble le chant’ (|vl{won-eh}): le commanditaire offre aux chanteurs des présents coutumiers (kava, ignames, cochons) ainsi qu'un gâteau de légumes (vl:na-tgop), sur lequel il dépose une forte somme d'argent (env. 20 000 vt). On paye ainsi son ode de prestige selon les mêmes rituels que l'on achète une femme lors du mariage (ax:cf. vl:woslēgē).
 
 \nt
 \el
@@ -46339,7 +46349,7 @@ récif)
 \xv No-hohole nōnōm m-ak sewsew no.
 \xn Your words have comforted me.
 \el
-\et <|{~}°*sawu
+\et < °*sawu
 \el PNCV
 \et *savu(a)
 \eg steam, moist heat
@@ -46391,8 +46401,8 @@ suitable
 \et <°sari
 \el Mota
 \et sar
-\eg opposite, equal; match, suit, be|{~}suitable+
-\el ax:Cf.|{~}Mtp
+\eg opposite, equal; match, suit, be suitable+
+\el ax:Cf. Mtp
 \et haytēyēh
 \nt
 \nq
@@ -46470,7 +46480,7 @@ immédiat : fl:opp. fv:vdin, stocker (un liquide) dans un contenant qui sera fer
 \xe Les lits que tu vois ici réunis sont serrés les uns contre les autres.
 \xn The beds you see here are close to each other.
 \se
-\ps adp
+\ps adv
 \wr B
 \gr hipimap
 \ge entasser
@@ -46561,7 +46571,7 @@ fl:e.g. pick up, collect
 \nq
 \dc 02/Déc/2000
 \dc 26/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx seyap
 \ph sɛjap
@@ -46669,8 +46679,7 @@ fl:or the village square fl:or the beach
 \lx sēg
 \la nē-sēg
 \ph nɪsɪɣ
-\pc seg.jpg
-\nt .G.c:\Alex\photoDico\seg.jpg;1.2";1.4";JPG
+\pc .G.c:\Alex\photoDico\seg.jpg;1.2";1.4";JPG
 \ps n
 \sn 1
 \gr nasiko
@@ -46697,7 +46706,7 @@ fl:or the village square fl:or the beach
 \el Mota
 \et sigo
 \eg kingfisher
-\nt ‹Br 12-4› n'existe pas dans le Nord.
+\nt <Br 12-4> n'existe pas dans le Nord.
 \nq
 \dc 31/Mar/2007
 \dt 28/Mar/2010
@@ -46724,13 +46733,13 @@ fl:or the village square fl:or the beach
 \so G3-145
 \rm
 \xm Ne-met so ni-laq tot-matap, tō nō-wōsēm ni-kal me. Ige lōqōvēn van yow wōn̄ēlmet, tō kakal
-sosok nō-wōsēm en. Vēlvēl bah, ti qōn l|{_}ēm̄. Kē so ni-qōn en, kēy deyen̄ mi ne-vet, tō kēy
+sosok nō-wōsēm en. Vēlvēl bah, ti qōn l-ēm̄. Kē so ni-qōn en, kēy deyen̄ mi ne-vet, tō kēy
 yah. Yah qēt, kēy tabatbay a la-gayga hoyo.
 \tl |{tab}|fb{Fabriquer la monnaie} vl:nē-sēm
 Si la marée est basse très tôt le matin (vl:laq), c'est le moment où le coquillage vl:nō-wōsēm monte à la surface (vl:kal). Les femmes marchent sur le récif, penchées en avant (vl:kakal), à la recherche de ces coquillages. Quand elles en ont ramassé (vl:vēl), elles les laissent sécher à la maison, jusqu'à ce qu'ils pourrissent (vl:ti_qōn). Une fois [leur intérieur] pourri, elles taillent (vl:deyen̄) les coquilles avec des pierres, puis les liment (vl:yah); enfin, elles les enfilent (vl:tabay) par centaines le long d'une longue ficelle.
 
 \sn 2
-\nt Expo 1996 p.174, fig.171
+\pc Expo 1996 p.174, fig.171
 \ge
 \re
 \de monnaie traditionnelle: sorte de longue guirlande faite de coquillages (fv:nē-sēm) enfilés
@@ -46789,7 +46798,7 @@ traditionnelle.
 \so G6-54
 \tl |{tab}|fb{Du bon usage de la monnaie} vl:nē-sēm
 La monnaie traditionnelle concernait princi^pale^ment les transactions économiques (vl:wēl) à haute valeur symbolique: acquisition d'une épouse lors du mariage (fl:cf. vl:leg), de rangs honorifiques (vl:na-tmat) lors de l'initiation (vl:nō-sōq), achat de cochons (vl:no-qo, vl:na-yaw) et de dents de cochons (vl:nē-lwo_qo), recours à des intervenants dotés de pouvoirs magiques (vl:na-man): guérisseur (vl:tēytēy^bē), sorcier (fl:cf. |vl{vēgēl}), poète (fl:cf. |vl{towtow eh}), etc.
-Pour les biens de faible valeur # nourriture, objets d'artisanat… # le troc était de rigueur (vl:vēy-leleh).
+Pour les biens de faible valeur – nourriture, objets d'artisanat… – le troc était de rigueur (vl:vēy-leleh).
 
 \sn 3
 \ge
@@ -46985,7 +46994,7 @@ Pour les biens de faible valeur # nourriture, objets d'artisanat… # le troc é
 \lx s[i]di~
 \la ni-sdi~
 \ph nisⁿdi
-\ps nop
+\ps n.poss
 \gr as
 \sn 1
 \ge cul
@@ -47017,7 +47026,7 @@ Pour les biens de faible valeur # nourriture, objets d'artisanat… # le troc é
 \nq
 \dc 24/Sep/2002
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx s[i]gig
 \la na-sgig
@@ -47036,7 +47045,7 @@ Pour les biens de faible valeur # nourriture, objets d'artisanat… # le troc é
 \ee
 \sd Bot
 \sy
-\cf tētē|hm{2}
+\cf tētē2
 \ce
 \ec
 \ms
@@ -47114,7 +47123,7 @@ population grew there again].
 \xe Il y a plein de monde là-bas, près de l'église.
 \xn There's a crowd of people over there, next to the church.
 \se
-\ps adp
+\ps adv
 \wr B
 \we après vl:togtog ‘vivre’
 \de en communauté
@@ -47130,7 +47139,7 @@ population grew there again].
 \nq
 \dc 13/Sep/2002
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sil
 \hm 3
@@ -47204,7 +47213,7 @@ population grew there again].
 
 \lx sili
 \ph sili
-\ps prép
+\ps prep
 \ge
 \re
 \we + nom nu
@@ -47231,6 +47240,7 @@ population grew there again].
 \nq
 \dc 25/Sep/2002
 \dc 27/Aug/2009
+\dt 02/Jul/2016
 
 \lx s{i}men
 \la ni-smen
@@ -47254,8 +47264,7 @@ population grew there again].
 \lx siok
 \la ni-siok
 \ph nisiɔk
-\pc siok.jpg
-\nt .G.c:\Alex\photoDico\siok.jpg;2.9";1.19";JPG
+\pc .G.c:\Alex\photoDico\siok.jpg;2.9";1.19";JPG
 \ps n
 \va suok
 \ve petit bateau
@@ -47275,13 +47284,13 @@ people to go fishing or navigating up and down the coasts
 \xe [ax:litt. lier la pirogue] mettre la dernière main à la construc^tion de la pirogue, en fixant les attaches du
 flotteur (ax:cf. vl:vil)
 \xn [ax:lit. tie the canoe] put the final touches to building a canoe, by fixing the float's ties
-\xv yap |fs{(}lō|fs{)} ni-siok
+\xv yap (lō) ni-siok
 \xe traîner la pirogue sur la plage (pour prendre la mer)
 \xn drag the canoe on to the beach (to take to sea)
 \xv yem ketket hag li-siok
 \xe grimper dans la pirogue
 \xn climb into the canoe
-\xv tēm|fs{ / }tēngeg |fs{(}lō|fs{)} ni-siok
+\xv tēm|fs{ / }tēngeg (lō) ni-siok
 \xe pousser la pirogue (en mer)
 \xn push the canoe (at sea)
 \br pousser pour aller à la mer ou une fois dessus?
@@ -47295,7 +47304,7 @@ flotteur (ax:cf. vl:vil)
 \xe Ohé, une voile à l'horizon! [ax:litt. une pirogue approche en faisant voile, vl:gam].
 \xn Ahoy, a sailing boat on the horizon! [ax:lit. a canoe is sailing towards us,  vl:gam]. 
 \ee
-\mr su|hm{2}|fs{ + }ok
+\mr su2 + ok
 \tb |fb{Les éléments de la pirogue} §TIT§ £ [|vl{ni-siok}*]
   fv:na-taqn̄ē-n|{tab}   coque  (fl:litt. son corps)
   fv:na-tqa-n  |{tab}   coque  (fl:litt. son ventre)
@@ -47314,7 +47323,7 @@ flotteur (ax:cf. vl:vil)
 \nq
 \dc 2003
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sis
 \hm 1
@@ -47337,7 +47346,7 @@ flotteur (ax:cf. vl:vil)
 \xe se baisser soudain pour se cacher
 \xn bend down suddenly to hide
 \lf Syn.
-\lv taq |fs{(}hiy|fs{)}
+\lv taq hiy
 \le se courber
 \ln
 \sn 2
@@ -47350,7 +47359,7 @@ flotteur (ax:cf. vl:vil)
 \xn Straighten up !
 \sy
 \cf
-\ce
+\ce 
 
 \se sis den
 \ps vt
@@ -47361,10 +47370,11 @@ flotteur (ax:cf. vl:vil)
 \rm G3-133
 \xm Nēk mi-sis den no.
 \el Mota
-\et sis|hm{5}
+\et sis5
 \nt
 \nq
 \dc 27/Aug/2009
+\dt 02/Jul/2016
 
 \lx sis
 \hm 2
@@ -47421,7 +47431,7 @@ flotteur (ax:cf. vl:vil)
 \sy met-yō
 \an met-mah
 \el Mota
-\et sis|hm{4}
+\et sis4
 \nt
 \nq
 \dc 2002
@@ -47444,7 +47454,7 @@ flotteur (ax:cf. vl:vil)
 \cf wul
 \ce peler (un légume)
 \el Mota
-\et sis|hm{3}
+\et sis3
 \nt
 \nq
 \dc 27/Aug/2009
@@ -47487,7 +47497,7 @@ jeune fille.
 \de certains objets dont la forme évoque celle du sein, fl:ex. la pupille de l'œil
 \dn certain objects the shape of which look like breasts, fl:e.g. pupils
 \se sis mete~
-\ps nop
+\ps n.poss
 \ge
 \re
 \lt mamelon de l'œil
@@ -47540,7 +47550,7 @@ jeune fille.
 \nq
 \dc 10/Dec/2000
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sis mete qo
 \ph sis mɛtɛ k​͡pʷɔ
@@ -47563,12 +47573,12 @@ himself.
 \sd Art
 \st Tabou
 \mn
-\cf sis4
+\cf sis4A
 \ce (2)
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx siseg
 \ph sisɛɣ
@@ -47607,7 +47617,7 @@ himself.
 \lf Syn.
 \lv galeg
 \se
-\ps adp
+\ps adv
 \wr C
 \de (faire V) par jeu, pas sérieusement
 \dn (do V) for fun, not seriously
@@ -47628,7 +47638,7 @@ himself.
 \nq
 \dc 24/Oct/2003
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sisgoy
 \ph sisɣɔj
@@ -47773,9 +47783,9 @@ himself.
 \xe Va t'asseoir près du pommier.
 \xn Go and sit near the apple tree.
 \rf
-\xv Yeh si sisqet? # Sisqet ēwē!
-\xe C'est loin ou c'est proche? # C'est juste à côté.
-\xn Is it far or near? # It's close by.
+\xv Yeh si sisqet? – Sisqet ēwē!
+\xe C'est loin ou c'est proche? – C'est juste à côté.
+\xn Is it far or near? – It's close by.
 \ue Synt
 \ee Le complément est soit construit directement (|fv{sisqet n-ēm̄} ‘près de la maison’), soit
 construit comme un locatif, précédé d'un directionnel (|fv{sisqet van l-ēm̄}, même sens).
@@ -47816,8 +47826,8 @@ construit comme un locatif, précédé d'un directionnel (|fv{sisqet van l-ēm̄
 sisqet gên...
 \nt ADJ = le-pnô sisqet ?
 \rf
-\se sisqet |fs{(}a|fs{)}gōh
-\ps adv
+\se sisqet (a)gōh
+\ps loc
 \he cour
 \lt proche ici
 \de maintenant, immédiate^ment, sur-le-champ
@@ -47830,7 +47840,7 @@ sisqet gên...
 \nq
 \dc 17/Dec/2003
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx s{i}to
 \la ni-sto
@@ -47952,8 +47962,8 @@ Traduit par les verbes ‘dire’, ‘demander’, ‘répondre’, etc.
 verbs 'say', 'ask', 'answer', etc.
 \rf
 \xv Tō kē so “Nēk m-eksas kē ?” Kē so “Mmm !” So “Itōk.”
-\xe Aussitôt elle lui demanda: “Tu l'as trouvé? # Oui, dit-il. # C'est parfait”, répondit-elle.
-\xn She immediately asked him: "Did you find it? # Yes, he said # Perfect", she answered.
+\xe Aussitôt elle lui demanda: “Tu l'as trouvé? – Oui, dit-il. – C'est parfait”, répondit-elle.
+\xn She immediately asked him: "Did you find it? – Yes, he said – Perfect", she answered.
 \rf
 \xv Na-vasig nan so : “Maligōw naslam”…
 \xe Le second couplet, ça donne: “Maligow naslam”…
@@ -47971,17 +47981,17 @@ tiers), et que l'on répète à celui qui ne l'a pas entendue
 \dn introduces words already pronounced (by the speaker himself fl:or by a third party),
 that are repeated to someone who hadn't heard them
 \rf
-\xv Kē vap qele ave? # So ‘tateh bē’.
-\xe Qu'est-ce qu'il a dit? # [il a dit] ‘Y a pas d'eau’.
-\xn What did he say? # [he said] 'There's no water'.
+\xv Kē vap qele ave? – So ‘tateh bē’.
+\xe Qu'est-ce qu'il a dit? – [il a dit] ‘Y a pas d'eau’.
+\xn What did he say? – [he said] 'There's no water'.
 \rf
 \xv So qele ave?
 \xe [ax:litt. disant comment?] Hein, qu'est-ce que tu dis?
 \xn [ax:lit. saying what?] Eh, what's that you say?
 \ue Rem
 \ee La forme fv:so seule, avec intonation interrogative, consiste ainsi à faire répéter une phrase
-que l'on n'a pas entendue (fl:cf. frs ‘hein?’, ‘quoi?’): fl:ex. |fv{Tita mo-gom. # |fr{So}? # So
-‘tita mo-gom’.} |fe{Maman est malade. # Hein? # [Il dit ~ Je dis] ‘Maman est malade’}.
+que l'on n'a pas entendue (fl:cf. frs ‘hein?’, ‘quoi?’): fl:ex. |fv{Tita mo-gom. – |fr{So}? – So
+‘tita mo-gom’.} |fe{Maman est malade. – Hein? – [Il dit ~ Je dis] ‘Maman est malade’}.
 \sn 2
 \he d'où
 \de marque la phrase comme non assumée par l'énonciateur, à la manière d'un
@@ -47989,9 +47999,9 @@ médiatif: il paraît que, on dirait que, je crois que; apparemment
 \dn indicates a speaker's unassumed phrase, like a mediative: it appears that, it looks like,
 I think that; apparently
 \rf th-873
-\xv Ave Vijinia? # Ēt, isi! So kē Wōvet.
-\xe Où est Virginie? # Eh, j'en sais rien, moi! Elle doit être à Wovet. / Il paraît qu'elle est à Wovet.
-\xn Where's Virginia? # Eh, I've no idea! She must be in Wovet. /Apparently she's in Wovet.
+\xv Ave Vijinia? – Ēt, isi! So kē Wōvet.
+\xe Où est Virginie? – Eh, j'en sais rien, moi! Elle doit être à Wovet. / Il paraît qu'elle est à Wovet.
+\xn Where's Virginia? – Eh, I've no idea! She must be in Wovet. /Apparently she's in Wovet.
 \lf Cf.
 \lv qe so
 \le on dirait que
@@ -48217,9 +48227,9 @@ tuions].
 \de pour, afin de (faire): tournure infinitive, exprimant le but
 \dn for, in order to (do): infinitive turn of phrase, expressing aim
 \rf th-863
-\xv Kē me-lep no-yomtig en, so akteg? # So vet na-tamn̄a.
-\xe Elle a pris une palme de coco, (c'est) pour quoi faire? # Pour tresser une natte.
-\xn She took a coconut palm, what for? # To weave a mat.
+\xv Kē me-lep no-yomtig en, so akteg? – So vet na-tamn̄a.
+\xe Elle a pris une palme de coco, (c'est) pour quoi faire? – Pour tresser une natte.
+\xn She took a coconut palm, what for? – To weave a mat.
 \rf alx
 \xv Nēk ma-vap qēt hiy kē so akteg?!
 \xe Tu lui as tout dit pour quoi faire? (|ax{i.e.} Mais qu'est-ce qui t'a pris de tout lui révéler?!)
@@ -48276,7 +48286,7 @@ tuions].
 \ue Rem
 \ee fv:So se trouve alors placé soit juste avant, soit juste après le sujet du verbe. Dans cet usage,
 fv:so alterne (voire se combine) avec fv:wo et fv:sowo : fl:cf. encadré à |fv{sowo}*. À noter:
-la séquence {|{~}sujet + fv:so + Aoriste|{~}} se confond alors avec le Prospectif à valeur
+la séquence { sujet + fv:so + Aoriste } se confond alors avec le Prospectif à valeur
 conditionnelle (fl:cf. |fv{so ni-} |ax{[10]}).
 \se a so
 \ps conj
@@ -48310,10 +48320,10 @@ il n'y a qu'à…
 \xe Il vaudrait mieux que je reste debout, non?
 \xn I'd better remain standing, shouldn't I?
 \rf
-\xv Na-madap en, itōk? # Awē, namnan! # … Ba so vah!
+\xv Na-madap en, itōk? – Awē, namnan! – … Ba so vah!
 \oe plaisanterie
-\xe Alors, il est bon, cet ananas? # Oh là là, délicieux! # … Eh ben t'as qu'à en planter!
-\xn Is it nice, that pineapple? # oh yes, delicious! # ... Then just plant some!
+\xe Alors, il est bon, cet ananas? – Oh là là, délicieux! – … Eh ben t'as qu'à en planter!
+\xn Is it nice, that pineapple? – oh yes, delicious! – ... Then just plant some!
 \ue Rem
 \ee Alors que la marque du Prospectif proprement dit (|fv{so… ni-}) est une forme finie du verbe
 (paradigme aspecto-modal, marquage personnel), la tournure non-finie en {fv:so + radical
@@ -48388,17 +48398,17 @@ fi:zéro ailleurs). fl:Ex. |vl{Nok fv:so mitiy} ‘|fe{Je vais dormir}’; |vl{K
 \xe Vous voulez venir avec nous?
 \xn Do you want to come with us?
 \rf
-\xv Kimi so m̄ōl ēnōk? # Oo! Kem so m̄ōl ēgēn.
-\xe Vous voulez partir maintenant? # Oui, on veut partir maintenant
-\xn Do you want to leave now? # Yes, we want to go now.
+\xv Kimi so m̄ōl ēnōk? – Oo! Kem so m̄ōl ēgēn.
+\xe Vous voulez partir maintenant? – Oui, on veut partir maintenant
+\xn Do you want to leave now? – Yes, we want to go now.
 \rf
-\xv Nēk so van ave? # Nok so van yow en.
+\xv Nēk so van ave? – Nok so van yow en.
 \oe salutation
-\xe Tu vas où? # Je vais là-bas (côté plage)..
-\xn Where're you going? # I'm going over there (to the beach)..
+\xe Tu vas où? – Je vais là-bas (côté plage)..
+\xn Where're you going? – I'm going over there (to the beach)..
 \ue
 \ee Pour la négation, on utilise fv:buste, forme négative du verbe fv:mōyōs ‘vouloir’. fl:Ex. |fv{Nēk
-so wēl, si nēk et-buste? # Ohoo, buste!} ‘|fe{Tu veux l'acheter, ou tu ne veux pas? # Non,
+so wēl, si nēk et-buste? – Ohoo, buste!} ‘|fe{Tu veux l'acheter, ou tu ne veux pas? – Non,
 j'ai pas envie.}’
 \lf Cf.
 \lv mōyōs
@@ -48442,7 +48452,7 @@ van hiy tita…} = |vl{No fv:mas van hiy tita…} ‘|fe{Je dois aller voir ma m
 \xe Harrison! (Il faudrait) que tu m'apportes mon sac (s'il te plaît).
 \xn Harrison! (You must) bring me my bag (please).
 \ue Rem
-\ee Les autres formes d'ordre atténué utilisent fv:tog|hm{3} ou fv:tō|hm{2}.
+\ee Les autres formes d'ordre atténué utilisent fv:tog3 ou fv:tō2.
 \lf
 \sn 4
 \he
@@ -48455,9 +48465,9 @@ van hiy tita…} = |vl{No fv:mas van hiy tita…} ‘|fe{Je dois aller voir ma m
 \xe (Tu veux) que je chante une chanson?
 \xn (Do you want) me to sing a song?
 \rf
-\xv Kōyō so m̄ōl? # Oo! Kōyō so m̄ōl.
-\xe (Faut-il) qu'ils s'en aillent? # Oui, (il vaut mieux) qu'ils s'en aillent.
-\xn (Should) they go away? # Yes, (it would be better) that they went.
+\xv Kōyō so m̄ōl? – Oo! Kōyō so m̄ōl.
+\xe (Faut-il) qu'ils s'en aillent? – Oui, (il vaut mieux) qu'ils s'en aillent.
+\xn (Should) they go away? – Yes, (it would be better) that they went.
 \br or "they'd better go" 
 \rf
 \xv Nok so wēl na-hap?
@@ -48468,8 +48478,8 @@ van hiy tita…} = |vl{No fv:mas van hiy tita…} ‘|fe{Je dois aller voir ma m
 \xe (Tu veux) que nous allions?/ Si on allait danser avec eux?
 \xn (Do you want) us to go?/ Supposing we went dancing with them?
 \ue
-\ee La négation correspondante est le Prohibitif fv:nitog. fl:Ex. |fv{Nok so biyin̄ nēk, so nitog? #
-Ohoo: nitog!} ‘|fe{(Tu veux) que je t'aide, ou bien non? # Non, non, laisse tomber!}’.
+\ee La négation correspondante est le Prohibitif fv:nitog. fl:Ex. |fv{Nok so biyin̄ nēk, so nitog? –
+Ohoo: nitog!} ‘|fe{(Tu veux) que je t'aide, ou bien non? – Non, non, laisse tomber!}’.
 \lf
 \sn 5
 \he
@@ -48514,7 +48524,7 @@ circumstance
 imminent fl:ou visé (par l'agent ou un autre sujet), mais n'ayant pas abouti:
 |fl{d'où} avoir essayé de; avoir failli; il s'en est fallu de peu que…
 \dn introduces retrospectively an event as having been imminent fl:or aimed at (by the
-agent or another subject), but that did not come off: |fl{thus} tried to; almost; came
+agent or another subject), but that did not come off: |fl{hence} tried to; almost; came
 close to, nearly...
 \rf
 \xv Magtō so ni-lam̄ kē, kē m-akak lēlēge.
@@ -48533,7 +48543,7 @@ close to, nearly...
 lieu: il aurait fallu; il n'y avait qu'à. |fl{D'où} valeur de regret (j'aurais dû…)
 fl:ou de reproche (tu aurais dû…)
 \dn introduces retrospectively a desired event that did not occur: ought to; should have.
-|fl{thus} regret value (I should have...) fl:or reproach (you should have...)
+|fl{hence} regret value (I should have...) fl:or reproach (you should have...)
 \rf
 \xv Nok so tēy vēli ni-ḡilas.
 \xe J'aurais dû pencher davantage le verre.
@@ -48547,7 +48557,7 @@ fl:ou de reproche (tu aurais dû…)
 \xe Vous n'aviez qu'à venir plus tôt!
 \xn You should have come sooner!
 \ue Rem
-\ee L'équivalent impersonnel est {fv:so + infinitif}: fl:cf. fv:so|hm{2} |ax{[E2]}. fl:Ex. fv:So|vl{
+\ee L'équivalent impersonnel est {fv:so + infinitif}: fl:cf. fv:so2 |ax{[E2]}. fl:Ex. fv:So|vl{
 vap me hiy no!} ‘|fe{Il suffisait de me le dire}’ vs |vl{Kē |fv{so ni}-vap me hiy no!} ‘|fe{Elle
 n'avait qu'à me le dire}’.
 \sn 9
@@ -48596,12 +48606,12 @@ tuions].
 prédicats modaux (fl:ex. il serait bon que…); dans les subordonnées de but (fl:ex. afin
 que…); dans certaines propositions dépendant d'un prédicat négatif (fl:ex. il n'y a personne
 qui…), etc. Dans ce type de propositions subjonctives, le verbe est soit à l'Aoriste, soit au
-Prospectif. fl:Voir les conjonctions |fv{so}|hm{2} |ax{[D2-3-4]} et |fv{tō}|hm{1} |ax{[3]}.
+Prospectif. fl:Voir les conjonctions fv:so2 |ax{[D2-3-4]} et fv:tō1 |ax{[3]}.
 \sn 10
 \he
 \we en protase conditionnelle, avec ou sans conjonction
 \de présente un événement comme hypothétique: |fl{d'où} si; fl:parf. quand
-\dn introduces an event as hypothetical: |fl{thus} if; fl:sometimes when
+\dn introduces an event as hypothetical: |fl{hence} if; fl:sometimes when
 \rf
 \xv Nēk so gēlqaqa, nēk ganganoy.
 \xe Si/Quand tu dis des gros mots, tu commets un péché.
@@ -48617,12 +48627,12 @@ Prospectif. fl:Voir les conjonctions |fv{so}|hm{2} |ax{[D2-3-4]} et |fv{tō}|hm{
 \xn It would be  good if you went to see the chief [ax:lit. That you go to the chief is good].
 \ue Synt
 \ee Cet emploi conditionnel du Prospectif peut également s'analyser comme la combinaison de
-l'Aoriste avec la conjonction fv:so ‘si’: fl:cf. |fv{so}|hm{2} |ax{[D6]}.
+l'Aoriste avec la conjonction fv:so ‘si’: fl:cf. fv:so2 |ax{[D6]}.
 \nt
 \nq
 \dc 04/Apr/2006
 \dc 03/Jul/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx sok
 \ph sɔk
@@ -48646,7 +48656,7 @@ l'Aoriste avec la conjonction fv:so ‘si’: fl:cf. |fv{so}|hm{2} |ax{[D6]}.
 \nt soksok = VT / sosok = ADP dêmdêm sosok n-eh ; 
 \nt nê-sêm mino suvay sok [vient à manquer = P7-42]
 \se
-\ps adp
+\ps adv
 \wr B
 \rd sosok
 \rm Melani
@@ -48658,7 +48668,7 @@ l'Aoriste avec la conjonction fv:so ‘si’: fl:cf. |fv{so}|hm{2} |ax{[D6]}.
 \nq
 \dc 30/Apr/2001
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx soldun̄
 \ph sɔlⁿduŋ
@@ -48771,7 +48781,7 @@ fv:Iqet).
 \nt cf. manger par terre, etc. > SBÔY !!
 \se soloteg
 \wr B
-\ps adp
+\ps adv
 \sn 1
 \de en abondance, un peu partout
 \dn plentiful, almost everywhere
@@ -48815,7 +48825,7 @@ comment
 \xv
 \dc 14/Oct/2003
 \dc 27/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx solyak
 \ph sɔljak
@@ -48904,7 +48914,7 @@ chevrons (fv:nō-qōs).
 \nt cf. Larousse "sablière", "panne"
 \cf veyet
 \el Mota
-\et soasoa|{_}i
+\et soasoa-i
 \eg parts of a composite whole (…), of a house
 \nt
 \nq
@@ -49069,8 +49079,8 @@ to-M̄otlap en.
 \xn But if it's as bitter as that (kava), why drink it?
 \rf
 \xv Na-m̄alm̄al gōskē wun nō-kōs? Sowo nethap, na-tmat.
-\xe Cette jeune femme doit être un fantôme # ou sinon, un esprit?
-\xn This young woman must be a ghost # or else, a spirit?
+\xe Cette jeune femme doit être un fantôme – ou sinon, un esprit?
+\xn This young woman must be a ghost – or else, a spirit?
 \rf
 \xv N-eh sowo na-he, sowo no mo-tow na-he : kemem tit-se vēh te a so nēk aē.
 \xe Si le chant est un chant pour toi, si je t'ai composé un chant, alors nous n'avons pas le droit de
@@ -49139,12 +49149,12 @@ everything's perfect.
 elles-mêmes marquées comme s'il s'agissait d'une proposition conditionnelle: fl:ex. ‘si tu veux que je
 vienne’ se dit ‘|fe{si tu veux si je viens}’; ‘si tu ressens que tu as mal’ se dit ‘|fe{si tu ressens si tu as
 mal}’.
-\mr so |fs{+} wo
+\mr so + wo
 \nt
 \nq
 \dc 14/Mar/2006
 \dc 28/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx soy
 \la no-soy
@@ -49247,7 +49257,7 @@ mal}’.
 \xe Ne nous précipitons pas.
 \xn Don't let's be too hasty.
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ge
@@ -49265,7 +49275,7 @@ mal}’.
 \nq
 \dc 22/Dec/2003
 \dc 28/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sōn̄teg
 \ph sʊŋtɛɣ
@@ -49359,7 +49369,7 @@ mal}’.
 \la nō-swō~
 \hm 2
 \ph nʊswʊ
-\ps nop
+\ps n.poss
 \3s nō-swō-n
 \ge graine
 \ur fruit
@@ -49375,7 +49385,7 @@ mal}’.
 \nq
 \dc 18/Dec/2003
 \dc 28/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx sōyteg
 \ph sʊjtɛɣ
@@ -49576,7 +49586,7 @@ les verbes
 \ps ptc
 \ee Particule procli^tique invariable précédant le radical des noms et verbes, fl:parf. adjectifs
 (fl:v._aussi fv:suvay). 
-\mr su|hm{1}
+\mr su1
 \sn 1
 \we devant un nom
 \de Diminutif, indiquant une petite taille ou un bas âge
@@ -49733,7 +49743,7 @@ ne veux pas manger un petit morceau?}
 \ee Réduplica^tion de fv:su ‘petit’.
 \mn su
 \se
-\ps adp
+\ps adv
 \wr B
 \gr smosmol
 \sn 1
@@ -49766,6 +49776,7 @@ ne veux pas manger un petit morceau?}
 \nq
 \dc 16/Sep/2002
 \dc 28/Aug/2009
+\dt 02/Jul/2016
 
 \lx susuy
 \ph susuj
@@ -49990,7 +50001,7 @@ ritual
 \gn
 \hn freq
 \rn
-\dn have a bath to wash; fl:hence wash, take a shower
+\dn bathe to wash (o.’s body); fl:hence wash, take a shower
 \rf
 \xv Nēk mal suwsuw bah ēnōk?
 \xe Tu as pris ta douche?
@@ -50038,7 +50049,7 @@ powers; take a magical ointment
 \rf Mtp.Metesayig.156
 \xv Nēk et na-man gōh? Inēk so suwsuw aē.
 \xe Vois-tu cette potion magique? Tu vas t'en enduire le corps.
-\xn Do you see this magical potion? You will apply it onto yourself.
+\xn Do you see this magic potion? You will apply it onto yourself.
 \rm
 \xm Na-vap non Iqet, kēy suwsuw aē?
 \lf Cf.
@@ -50088,7 +50099,7 @@ powers; take a magical ointment
 \nq
 \dc 27/Feb/2000
 \dc 03/Apr/2006
-\dt 08/Mar/2014
+\dt 21/Mar/2016
 
 \lx s[u]wuy
 \ph suwuj
@@ -50204,7 +50215,7 @@ disperse, scatter
 \lx talōw
 \ph talʊw
 \hm
-\ps adv
+\ps loc
 \gr tumoro
 \ge demain
 \re demain ; lendemain
@@ -50229,7 +50240,7 @@ disperse, scatter
 \nq
 \dc 19/Dec/2003
 \dc 28/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tam
 \hm 1
@@ -50347,8 +50358,7 @@ ombre; il faut la manier avec prudence.
 \la na-tmat
 \ph natmat
 \a tamat
-\pc tmat.jpg
-\nt .G.c:\Alex\photoDico\tmat.jpg;5.7";1.15";JPG
+\pc .G.c:\Alex\photoDico\tmat.jpg;5.7";1.15";JPG
 \lg La danse des esprits (vl:na-tmat)
 \ps n
 \ge
@@ -50384,7 +50394,7 @@ disappear.
 \rm
 \ee
 \ee
-\cf m[e]te|hm{1}
+\cf m[e]te1
 \sn 2
 \ge diable
 \re *
@@ -50412,9 +50422,9 @@ opposition au monde civilisé et diurne du village.
 \sn 3
 \ge
 \re
-\de démon, esprit, monstre ; fl:opp. être humain (fv:n-et|hm{3}) ; ogre, dans les contes ; nom
+\de démon, esprit, monstre ; fl:opp. être humain (fv:n-et3) ; ogre, dans les contes ; nom
 générique de tout être surnaturel, doué de pouvoirs supra-humains et fl:génér. maléfiques
-\dn devil, spirit, monster; fl:opp. living being (fv:n-et|hm{3}); ogre in stories; generic name
+\dn devil, spirit, monster; fl:opp. living being (fv:n-et3); ogre in stories; generic name
 for any supernatural being, doted with supra-human and fl:gen. evil powers 
 \rf AG3-119
 \xv Na-nay wuswōm̄el en ne-het: na-tmat nan aē.
@@ -50508,7 +50518,7 @@ dancing  (fv:no-kolkol)
 \el Mota
 \et tamate
 \el PNCV
-\et *ʔata|{_}mate
+\et *ʔata-mate
 \eg dead person, ghost
 \nt
 \nq
@@ -50550,7 +50560,7 @@ percussion instrument (fl:cf. fv:woh) of the spirits (fv:na-tmat)
 \rf AG2-21 ; AG3-145
 \cf
 \tl   |{tab}|fb{Le tambour du diable} £|{tab}[|vl{na-tmat-woh}*]
-Cet instrument prestigieux de percussion, qui ne fait pas partie de l'orchestre classique de Mwotlap (vl:na-wha) n'est utilisé que rare^ment # deux ou trois fois par décennie # pour accompagner un type particulier de danse, le |vl{na-wha titi}. 
+Cet instrument prestigieux de percussion, qui ne fait pas partie de l'orchestre classique de Mwotlap (vl:na-wha) n'est utilisé que rare^ment – deux ou trois fois par décennie – pour accompagner un type particulier de danse, le |vl{na-wha titi}. 
 La fabrication du |vl{na-tmat-woh} est normale^ment secrète, réservée aux hommes initiés. On évide un tronc d'arbre au bois tendre, le sagoutier (vl:no-yot), afin d'obtenir un cylindre long de 2m env., diamètre 40 cm, épaisseur des parois 15 mm. L'extrémité inférieure du tambour est taillée en pointes, afin d'être fiché en terre. L'autre extrémité est recouverte (vl:vil) d'une membrane de feuilles de pandanus (vl:na-gavag, vl:nō-yōpdēge) entières et tressées en natte: c'est cette membrane que les musiciens frapperont du plat de la main.
 \nt
 \nq
@@ -50607,7 +50617,7 @@ La fabrication du |vl{na-tmat-woh} est normale^ment secrète, réservée aux hom
 \oe chanson
 \xe L'amour que j'avais pour toi, tu l'as foulé aux pieds !
 \xn You've ridden roughshod my love for you !
-\cf tam|hm{2}
+\cf tam2
 \cf mōyōs
 \cn
 \sn 2
@@ -50820,7 +50830,7 @@ husband's descendants.
 \dt 28/Mar/2010
 
 \lx taple
-\la taple
+\la
 \ph taplɛ
 \va tale
 \va teple
@@ -50875,9 +50885,9 @@ fv:taple.
 y aurait le risque que P
 \dn beware that ...not P; we must make sure that P; I'm afraid that P; otherwise P might
 \rf
-\xv Lep na-gayga! # Ohoo, kē tile m̄ēt.
-\xe Prends donc cette ficelle! # Non, j'ai peur que/elle risquerait de se briser.
-\xn Take this string! # No, I'm afraid it might break.
+\xv Lep na-gayga! – Ohoo, kē tile m̄ēt.
+\xe Prends donc cette ficelle! – Non, j'ai peur que/elle risquerait de se briser.
+\xn Take this string! – No, I'm afraid it might break.
 \rf
 \xv Nēk tale gom!
 \xe Tu risques de tomber malade. (|fl{donc} ne sors pas…)
@@ -50893,7 +50903,7 @@ y aurait le risque que P
 \nq
 \dc 20/Dec/2003
 \dc 31/Aug/2009
-\dt 28/Mar/2010
+\dt 20/Jun/2016
 
 \lx tapsey
 \ph tapsɛj
@@ -51035,7 +51045,7 @@ y aurait le risque que P
 \xe Ils sifflotent l'air, pour le garder en mémoire [ax:litt. de façon qu'il demeure en eux].
 \xn They whistle the tune, to keep it in mind [ax:lit. so that it stays inside them]
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (faire V) en étant recroquevillé fl:ou penché vers l'avant
@@ -51056,7 +51066,7 @@ y aurait le risque que P
 \nt
 \el Mota
 \et taqa
-\eg lie forward, be|{~}prone+
+\eg lie forward, be prone+
 \el PNCV
 \et *tabʷa
 \eg lie flat (on)
@@ -51064,7 +51074,7 @@ y aurait le risque que P
 \nq
 \dc 09/Sep/2002
 \dc 31/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[a]qal
 \la na-tqal
@@ -51227,7 +51237,7 @@ distracted: absent-minded, scatterbrain, featherbrain
 \lf †
 \lv taq hiy
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (faire V) en étant penché vers l'avant et vers le bas
@@ -51245,21 +51255,22 @@ distracted: absent-minded, scatterbrain, featherbrain
 \xe Ils s'arrêtèrent debout (ax:cf. |vl{tig hiy}).
 \xn They stopped, and stood (ax:cf. |vl{tig hiy}).
 \ue
-\ee Forme littéraire de fv:hiy|hm{1}.
+\ee Forme littéraire de fv:hiy1.
 \el
 \nt
 \nq
 \dc 08/Sep/2002
 \dc 31/Aug/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx taqn̄ē~
 \la na-taqn̄ē~
 \va taqm̄ē~
 \ph natak​͡pʷŋɪ
 \ph natak​͡pʷŋ​͡mʷɪ
-\ps nop
-\3s na-taqn̄ēn|fs{ ~ }na-taqn̄en
+\ps n.poss
+\3s na-taqn̄ēn
+\3s na-taqn̄en
 \gr bodi
 \sn 1
 \ge corps
@@ -51303,16 +51314,16 @@ distracted: absent-minded, scatterbrain, featherbrain
 \nq
 \dc 24/Oct/2003
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx taqtaq
 \ph tak​͡pʷtak​͡pʷ
 \ps adj
 \he
 \ur le temps vl:mahē
-\de se couvrir, s'assombrir # à cause d'un orage, d'une éclipse, ou simplement du
+\de se couvrir, s'assombrir – à cause d'un orage, d'une éclipse, ou simplement du
 soir qui tombe
-\dn become overcast, darken # because of a storm, an elipse, or simply because night is
+\dn become overcast, darken – because of a storm, an elipse, or simply because night is
 falling
 \rf AP9-48
 \rf AP9-8
@@ -51325,7 +51336,7 @@ falling
 \el Mota
 \et taqataqa
 \eg lowering, threatening+
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et taq
 \nt
 \nq
@@ -51435,7 +51446,7 @@ aller chercher ‹qqn› à l'aéroport
 \xn I'm going to take care of the sick man.
 \rf
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ge
@@ -51478,7 +51489,7 @@ following your idea].
 \nq
 \dc 15/Oct/2003
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tatal
 \ph tatal
@@ -51504,10 +51515,10 @@ purpose, go somewhere')
 \de marcher sans but, se promener par pur plaisir, se balader
 \dn walk aimlessly, for sheer pleasure, wander around
 \rf
-\xv Nēk so van ave? # Ohoo, tateh, tatal ēwē!
+\xv Nēk so van ave? – Ohoo, tateh, tatal ēwē!
 \oe cour
-\xe Tu vas où? # Nulle part en particulier, je me promène simplement.
-\xn Where are you going? # Nowhere in particular, I'm just wandering about.
+\xe Tu vas où? – Nulle part en particulier, je me promène simplement.
+\xn Where are you going? – Nowhere in particular, I'm just wandering about.
 \rf
 \xv Tita, imam, nok van tatal bah yow ale kē.
 \xe Maman, papa, je vais me balader un peu du côté de la plage.
@@ -51708,9 +51719,9 @@ gen.} ‘|fe{There was no food whatsoever}’.
 \wn vl:tateh alone
 \dn there's none, there's nothing; fl:hence no
 \rf
-\xv Tita itōk? # Ohoo, tateh, kē no-gom.
-\xe Ta mère va bien? # Non, elle est malade.
-\xn Is your mother fine? # No, she's ill.
+\xv Tita itōk? – Ohoo, tateh, kē no-gom.
+\xe Ta mère va bien? – Non, elle est malade.
+\xn Is your mother fine? – No, she's ill.
 \cf óòó
 \ce non
 \cn no
@@ -51737,9 +51748,9 @@ gen.} ‘|fe{There was no food whatsoever}’.
 \de ne… pas encore
 \dn not yet
 \rf
-\xv Nēk may gengen? # Tateh qete.
-\xe Tu as déjà mangé? # Non, pas encore.
-\xn Have you already eaten? # No, not yet.
+\xv Nēk may gengen? – Tateh qete.
+\xe Tu as déjà mangé? – Non, pas encore.
+\xn Have you already eaten? – No, not yet.
 \rf
 \xv Lēlwomyen, ēplōn tateh qete.
 \xe À midi, son ami n'était pas encore arrivé.
@@ -51776,23 +51787,23 @@ gen.} ‘|fe{There was no food whatsoever}’.
 \dn sign of politeness, equivalent to “there's nothing to worry about, there's nothing to
 report”
 \rf
-\xv Kimi so akteg mi n-ep en? # Ohoo, tateh, kem so bēbē ēwē n-ep aē.
-\xe Qu'avez-vous l'intention de faire avec ce feu? # Non, rien (de spécial), nous voulons juste allumer un
+\xv Kimi so akteg mi n-ep en? – Ohoo, tateh, kem so bēbē ēwē n-ep aē.
+\xe Qu'avez-vous l'intention de faire avec ce feu? – Non, rien (de spécial), nous voulons juste allumer un
 feu.
-\xn What do you want to do with this fire? # No, nothing (in particular), we just want to light a fire.
+\xn What do you want to do with this fire? – No, nothing (in particular), we just want to light a fire.
 \rf
-\xv Nēk so van ave? # Tateh, tatal ēwē.
+\xv Nēk so van ave? – Tateh, tatal ēwē.
 \oe dialogue courant
-\xe Où vas-tu? # Nulle part (en particulier), je me promène simple^ment.
+\xe Où vas-tu? – Nulle part (en particulier), je me promène simple^ment.
 \on common greeting
-\xn Where are you going? # Nowhere (in particular), I'm just going for a walk.
+\xn Where are you going? – Nowhere (in particular), I'm just going for a walk.
 \rf
-\xv Qele ave? # Ohoo, tateh, itōk.
+\xv Qele ave? – Ohoo, tateh, itōk.
 \oe courant
-\xe Comment vas-tu? # Non, rien, tout va bien (ne t'inquiète pas).
+\xe Comment vas-tu? – Non, rien, tout va bien (ne t'inquiète pas).
 
 \on common greeting
-\xn How are you? # No, nothing, everything's fine (don't worry).
+\xn How are you? – No, nothing, everything's fine (don't worry).
 \nt
 \nq
 \dc 17/Jun/2002
@@ -51842,7 +51853,7 @@ au-delà (plutôt non-visible: cf. tekel wutwut "de l'autre côté de la montagn
 \dn overseas
 \rf
 \rm AP9-55
-\xm Kēy dēm so no n-et tegha den kēy, veg nok vanvan vaga a# taval-lam.
+\xm Kēy dēm so no n-et tegha den kēy, veg nok vanvan vaga a– taval-lam.
 \xf (Les insulaires) croient que je suis différent d'eux, parce que je viens toujours d'outre-mer.
 \rf
 \xv
@@ -51914,7 +51925,7 @@ meyen nan hag}.
 \lt opposé dans la maison
 \ur qqn
 \de qui appartient à l'autre moitié exogame (que qqn, fv:no~), |fl{d'où} que l'on peut épouser
-\dn belonging to the other exogamous half (than s.o, fv:no~), |fl{thus} that one can marry
+\dn belonging to the other exogamous half (than s.o, fv:no~), |fl{hence} that one can marry
 \rf
 \ue
 \lf
@@ -51949,7 +51960,7 @@ meyen nan hag}.
 \ee Forme abrégée de |fv{taval he~}.
 \se tavalgi
 \wr C
-\ps adv
+\ps loc
 \gr
 \de de l'autre côté (par rapport à un point de repère), en face
 \dn on the other side (versus a particular point), opposite
@@ -51961,9 +51972,10 @@ meyen nan hag}.
 \rm
 \xm tavalgi lok me hōw....??
 \xf
-\mr taval- + -gi
+\mr taval-
+\mr -gi
 \se tavalgi… tavalgi
-\ps adv
+\ps loc
 \de d'un côté… de l'autre
 \dn on one side... on the other
 \rf
@@ -51978,7 +51990,7 @@ meyen nan hag}.
 \nq
 \dc 04/Feb/2007
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[a]wal
 \ph tawal
@@ -52002,7 +52014,7 @@ meyen nan hag}.
 \lx tawhi~
 \la na-tawhi~
 \ph natawhi
-\ps nop
+\ps n.poss
 \3s na-tawhē-n
 \ge fleur
 \gn flower
@@ -52031,20 +52043,20 @@ la plante (fl:opp. fv:na-tweh ‘fleur en tant qu'objet’)
 \ee
 \el Mota
 \et tawagasiu
-\el North|{_}V
+\el North-V
 \et °tawa[ɣa]si
 \eg flower
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et teweh
 \nt
 \nq
 \dc 19/Jun/2002
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx Tawlil
 \ph tawlil
-\ps loc
+\ps top
 \ge
 \re
 \nt gros mot : van Tawlil ! = van Kohyok !
@@ -52061,7 +52073,7 @@ la plante (fl:opp. fv:na-tweh ‘fleur en tant qu'objet’)
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tay
 \hm 1
@@ -52159,9 +52171,9 @@ this rubbing
 \re angine
 \lt frotte^ment douloureux
 \de angine : maladie caractérisée par un resserre^ment de la gorge, et une difficulté (fl:cf.
-fv:gon|hm{2}) à avaler
+fv:gon2) à avaler
 \dn throat infection: illness characterized by a sore throat, and a difficulty (fl:cf.
-fv:gon|hm{2}) to swallow
+fv:gon2) to swallow
 \sd Méd
 \rf AP10-01
 \xv Na-tyah-gon so ni-qal nēk e tō nēk in ni-gli yan̄yan̄ e tō ni-bah.
@@ -52187,7 +52199,7 @@ fv:gon|hm{2}) to swallow
 vue de l'éduquer comme son propre enfant: |fl{d'où} kidnapper;
 adopter ‹un enfant›
 \dn take possession of someone else's child, whether legitime or not, in order to educate
-it as one's own child |fl{thus} kidnap; adopt ‹a child›
+it as one's own child |fl{hence} kidnap; adopt ‹a child›
 \rf
 \lf †
 \lv lep yak
@@ -52201,7 +52213,7 @@ it as one's own child |fl{thus} kidnap; adopt ‹a child›
 \nq
 \dc 25/Jul/2006
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx t[a]yaymōt
 \la na-tyaymōt
@@ -52219,14 +52231,14 @@ it as one's own child |fl{thus} kidnap; adopt ‹a child›
 \rf AG4-118, Bsl-160
 \ee
 \sd Bot
-\sy mōmōg |fl{(?)}
+\sy mōmōg
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx taybē~
 \la na-taybē~
 \ph natajᵐbɪ
-\ps nop
+\ps n.poss
 \gr bodi
 \ge corps
 \sy taqm̄ē~
@@ -52254,16 +52266,16 @@ it as one's own child |fl{thus} kidnap; adopt ‹a child›
 \xe coque de pirogue
 \xn hull of canoe
 \el Mota
-\et tarape|{_}i
+\et tarape-i
 \nt
 \nq
 \dc 01/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tE-
 \hm 3
 \ph tE
-\ps prép
+\ps prep
 \gn blong
 \ee (préfixe à copie vocalique)
 \sn 1
@@ -52340,7 +52352,7 @@ ce monde’.
 \xe Ils dansent à la française (des danses de France).
 \xn They dance the French way (dances from France).
 \rf
-\xv Nēk tog vavap |ub{te}-le-lam, nēk so vap |ub{to}-M̄otlap.
+\xv Nēk tog vavap |fr{te}-le-lam, nēk so vap |fr{to}-M̄otlap.
 \xe Ne parle pas pidgin, parle (en) Mwotlap.
 \xn Don't speak pidgin, speak (in) Mwotlap.
 \rf
@@ -52352,7 +52364,7 @@ ce monde’.
 \nq
 \dc 22/Dec/2003
 \dc 02/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tE-
 \hm 4
@@ -52434,15 +52446,14 @@ l'ensem^ble de la tournure permet d'attribuer à qqn ‘sa part’ de qqch.
 taken as food with fv:ga~, drink with fv:ma~, etc.), and the beneficiary (whether or
 not identical to the subject of the main verb). 
 \rf
-\xv Nēk so gen te gōm ? |{endash} Oo ! Nok so gen te kis !
-\xe Tu en veux? |{endash} Oui, j'en veux! [ax:litt. tu veux du tien-à-manger? |{endash} je veux du
-mien-à-manger] |{endash} 
+\xv Nēk so gen te gōm ? – Oo ! Nok so gen te kis !
+\xe Tu en veux? – Oui, j'en veux! [ax:litt. tu veux du tien-à-manger? – je veux du mien-à-manger]
 \xn Do you want some? Yes, I do! [ax:lit. do you want some yours-to-eat? |{endash} I want some
-mine-to-eat] |{endash} 
+mine-to-eat]
 \rf
-\xv Lep te mek me ! |{endash} Oo ! Lep ta man van !
-\xe Donnes-en moi (à boire) ! |{endash} Oui, donnes-en lui.
-\xn Give me some (to drink) ! |{endash} Yes, give him some.
+\xv Lep te mek me ! – Oo ! Lep ta man van !
+\xe Donnes-en moi (à boire) ! |– Oui, donnes-en lui.
+\xn Give me some (to drink) ! – Yes, give him some.
 \rf
 \xv Nēk tē-wēl te mino vēh me ?
 \xe Tu pourrais m'en acheter une (lampe-torche) pour moi ?
@@ -52456,7 +52467,7 @@ mine-to-eat] |{endash}
 \ue Synt
 \ee Le classificateur peut lui-même être spécifié par le nom N (sans article) de la matière fi:x
 prélevée ; si le bénéfi^ciaire fi:y est spécifié, fi:y précède fi:x. fl:Ex. |fv{Nok van so tēqtēq
-ub:ta gan ignik}|hm{y} fv:qon|hm{x} |fe{Je vais chasser des palombes|hm{x} pour
+ub:ta gan ignik}|hm{y} |fv{qon}|hm{x} |fe{Je vais chasser des palombes}|hm{x} |fe{pour
 (nourrir) ma femme}|hm{y}.
 \sn 3
 \we en contexte négatif
@@ -52464,11 +52475,11 @@ ub:ta gan ignik}|hm{y} fv:qon|hm{x} |fe{Je vais chasser des palombes|hm{x} pour
 ‘rien’
 \dn none, not the slightest N |fl{spéc.} fv:te_et 'nobody', fv:te_hap 'nothing'
 \rf
-\xv Nok et-et |ub{te} hap te.
+\xv Nok et-et |fr{te} hap te.
 \xe Je n'ai rien vu.
 \xn I didn't see anything.
 \rf
-\xv Nok et-et |ub{te} et te.
+\xv Nok et-et |fr{te} et te.
 \xe Je n'ai vu personne.
 \xn I didn't see anybody.
 \ue Synt
@@ -52476,7 +52487,7 @@ ub:ta gan ignik}|hm{y} fv:qon|hm{x} |fe{Je vais chasser des palombes|hm{x} pour
 prouve l'encadre^ment |fv{Nēk |ub{tē}-wêl  |fi{te kis vetel} |ub{vêh} me ?}, |fi{Tu peux
 m'acheter des bananes ?}. Ainsi, dans une phrase négative, il ne faudra pas confondre, en
 synchronie, le partitif fv:te avec la négation homonyme |{endash} et de même origine (fl:Cf.
-fv:te|hm{2})
+fv:te2)
 \ee Le syntagme partitif |fv{te} + N est toujours interne au syntagme prédicatif, et donc
 lui-même encadré par la négation fv:et-… fv:te.
 \sn 4
@@ -52499,7 +52510,7 @@ indéfini ‘un/des’
 \xn He tried to see if there were any women on the reef.
 \rm
 \xm Yon̄teg tog so yoge mitimtiy te, tateh.
-\xf Il essaya d'entendre si le couple dormait # mais non.
+\xf Il essaya d'entendre si le couple dormait – mais non.
 \rf
 \xv Kimi ne-myōs ne-gengen te en, ami lep.
 \xe Si vous désirez quelque chose à manger, servez-vous.
@@ -52512,7 +52523,7 @@ indéfini ‘un/des’
 \nq
 \dc 17/Sep/2002
 \dc 02/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx te
 \hm 2
@@ -52522,10 +52533,10 @@ indéfini ‘un/des’
 \ge Nég2
 \re pas (ne) ; Négation
 \de (ne)... pas: deuxième élément des négations à morphème
-discontinu fv:et-… fv:te ‘Négatif Realis’ (fl:cf. fv:et-|hm{3}) fl:et
-fv:tit-… fv:te ‘Négatif Futur’ (fl:cf. fv:tE-|hm{2})
+discontinu fv:et-… fv:te ‘Négatif Realis’ (fl:cf. fv:et-3) fl:et
+fv:tit-… fv:te ‘Négatif Futur’ (fl:cf. fv:tE-2)
 \dn not: second element of discontinued morpheme negations fv:et-… fv:te ‘Realis
-Negative’ (fl:cf. fv:et-|hm{3}) fl:et fv:tit-… fv:te ‘Futur Negative’ (fl:cf. fv:tE-|hm{2})
+Negative’ (fl:cf. fv:et-3) fl:et fv:tit-… fv:te ‘Futur Negative’ (fl:cf. fv:tE-2)
 \gn (no)
 \rn no ; nogat
 \rf
@@ -52550,7 +52561,7 @@ Negative’ (fl:cf. fv:et-|hm{3}) fl:et fv:tit-… fv:te ‘Futur Negative’ (f
 \de en prédicat équatif, lorsque le sujet n'est pas exprimé (anaphore
 zéro), fv:te peut marquer la négation à lui seul: |fl{d'où} c'est pas
 \dn as an equative predicate, where the subject is not expressed (zero anaphora),  fv:te
-may mark negation on its own |fl{thus} it's not
+may mark negation on its own |fl{hence} it's not
 \rf
 \xv Qele nen te!
 \xe (C'est) pas comme ça!
@@ -52568,7 +52579,7 @@ may mark negation on its own |fl{thus} it's not
 \nq
 \dc 21/Dec/2003
 \dc 02/Sep/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx t[e]bey
 \la na-tbey
@@ -52628,7 +52639,7 @@ tressées, mais dans des feuilles, fl:partic. feuilles de bananier (fv:no-yova).
 
 \lx tege
 \ph tɛɣɛ
-\ps adp
+\ps adv
 \rd
 \gr raon
 \ge environ
@@ -52653,7 +52664,7 @@ tressées, mais dans des feuilles, fl:partic. feuilles de bananier (fv:no-yova).
 \nt
 \nq
 \dc 03/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]gey
 \ph tɛɣɛj
@@ -52711,7 +52722,7 @@ fv:Iqet), sous son nom poétique de fv:wo-tgerger.
 \ph tɛɣha
 \wr A
 \ps adj
-\rd tetegha|fs{, }tegtegha
+\rd tetegha, tegtegha
 \gr defren
 \sn 1
 \ge différent
@@ -52723,9 +52734,9 @@ fv:Iqet), sous son nom poétique de fv:wo-tgerger.
 \xe Je veux partir dans un autre pays.
 \xn I want to go to another country.
 \rf
-\xv Mey gōh? # Ohoo, mey ne-tegha.
-\xe Celui-ci? # Non, l'autre. [celui qui est autre]
-\xn This one? # No, the other one. [the one that is different]
+\xv Mey gōh? – Ohoo, mey ne-tegha.
+\xe Celui-ci? – Non, l'autre. [celui qui est autre]
+\xn This one? – No, the other one. [the one that is different]
 \rf
 \xv vētmahē tegha
 \xe autre part
@@ -52773,7 +52784,7 @@ fv:Iqet), sous son nom poétique de fv:wo-tgerger.
 \xe Ils allaient danser dans divers villages.
 \xn They went dancing in various villages.
 \se
-\ps adp
+\ps adv
 \wr B
 \sn 1
 \we après V intransitif
@@ -52806,7 +52817,7 @@ fv:Iqet), sous son nom poétique de fv:wo-tgerger.
 \nq
 \dc 16/Dec/2003
 \dc 03/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx teh
 \ph tɛh
@@ -52865,7 +52876,7 @@ finishing stages
 \lx tekel
 \ph tɛkɛl
 \hm
-\ps prép
+\ps prep
 \3s tekel-gi
 \gr narasaed
 \sn 1
@@ -52907,7 +52918,7 @@ qôn̄ ??; na-tkel-gi "morceau"?
 \nt
 \nq
 \dc 03/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]le
 \la na-tle
@@ -53012,8 +53023,7 @@ autrefois des lames d'herminette (fv:na-taqēs).
 \ph natnɛpnʊ
 \wr A
 \ps n
-\pc tnepno.jpg
-\nt .G.c:\Alex\photoDico\tnepno.jpg;2.95";1.32";JPG
+\pc .G.c:\Alex\photoDico\tnepno.jpg;2.95";1.32";JPG
 \lg |fv{na-tnepnō Lahlap}, la place du village à Ngerenigmen
 \a tēlepnō
 \a tēnepnō
@@ -53040,7 +53050,7 @@ autrefois des lames d'herminette (fv:na-taqēs).
 \dc 03/Sep/2009
 \dt 28/Mar/2010
 
-\lx tEno~
+\lx t[e]no~
 \la na-tno~
 \ph natnɔ
 \a tno
@@ -53049,7 +53059,7 @@ autrefois des lames d'herminette (fv:na-taqēs).
 \u tEno~ -(m)
 \a tnē-k
 \u tEno~ -k
-\ps nop
+\ps n.poss
 \ge
 \re lieu ; endroit
 \gn ples
@@ -53212,7 +53222,7 @@ fv:tamge)
 \dn moment
 \rf
 \se le-tno etet vōvōyō
-\ps adv
+\ps loc
 \ge
 \re crépuscule
 \lt au moment de voir double
@@ -53238,12 +53248,12 @@ humains (fv:n-et) et revenants (fv:na-tmat), lesquels apparaissent la nuit.
 \nq
 \dc 23/Dec/2003
 \dc 03/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]n̄e~
 \la na-tn̄e~
 \ph natŋɛ
-\ps nop
+\ps n.poss
 \1s na-tn̄e-k
 \3s na-tn̄a-n
 \dr basket blong
@@ -53295,7 +53305,7 @@ taken them with you, in your memory).
 \nq
 \dc 05/Aug/2006
 \dc 03/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]n̄etn̄e duw
 \la na-tn̄etn̄e
@@ -53346,7 +53356,7 @@ fv:n-ēg_te-Ben̄yeteh
 \el Malo
 \et tabu
 \eg sacred, forbidden; grave
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *tabu
 \eg sacred, forbidden
 \nt
@@ -53375,7 +53385,7 @@ fv:n-ēg_te-Ben̄yeteh
 \lx t[e]qe~
 \la na-tqe~
 \ph natk​͡pʷɛ
-\ps nop
+\ps n.poss
 \gr bel
 \pdl 1s
 \pdv na-tqe-k
@@ -53432,17 +53442,17 @@ fv:n-ēg_te-Ben̄yeteh
 \xn hull of a canoe
 \rf
 \el Mota
-\et toqa|{_}i
+\et toqa-i
 \nt < POc *tobwa
 \nq
 \dc 15/Sep/2002
 \dc 04/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]qetqe~
 \la na-tqetqe~
 \ph natk​͡pʷɛtk​͡pʷɛ
-\ps nop
+\ps n.poss
 \ge
 \re
 \ur animal
@@ -53470,7 +53480,7 @@ fv:n-ēg_te-Ben̄yeteh
 \nq
 \dc 15/Sep/2002
 \dc 04/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[e]qey
 \ph tɛk​͡pʷɛj
@@ -53583,7 +53593,7 @@ one's private property and that of one's children: appropriate ‹the land›
 \he ‡
 \de échanger ‹qqch› contre de la monnaie de coquillages; |fl{d'où}
 acheter, vendre
-\dn exchange ‹s.th› for shell money; |fl{thus} buy, sell
+\dn exchange ‹s.th› for shell money; |fl{hence} buy, sell
 \rm Ode-Alx:104
 \rf
 \xv Ige to-M̄otlap so hō me be-tvetveg qet.
@@ -53603,7 +53613,7 @@ acheter, vendre
 \nq
 \dc 17/Sep/2002
 \dc 04/Sep/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx t[e]velgi
 \la na-tvelgi
@@ -53617,7 +53627,7 @@ acheter, vendre
 \cf
 \nt
 \el
-\et <°taválu|{_}
+\et <°taválu-
 \el PNCV
 \et *tavalu
 \eg side, moiety
@@ -53755,10 +53765,10 @@ acheter, vendre
 \xn Do you want to eat some rice?
 \el Mota
 \et tawagasiu
-\el North|{_}V
+\el North-V
 \et °tawa[ɣa]si
 \eg flower
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et tawhi~
 \nt
 \nq
@@ -53900,7 +53910,7 @@ acheter, vendre
 \la °na-tē~
 \hm 2
 \ph natɪ
-\ps nop
+\ps n.poss
 \gr sitsit
 \1s na-tēk
 \3s na-ten
@@ -53921,7 +53931,7 @@ acheter, vendre
 \nq
 \dc 23/Oct/2003
 \dc 04/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[ē]bē
 \la na-tbē
@@ -54174,7 +54184,7 @@ and the personal endings fv:-mam-tēl, fv:-mē-tēl, etc.
 
 \lx Tēlmitig
 \ph tɪlmitiɣ
-\ps loc
+\ps top
 \ge
 \re
 \lt Trois-Cocotiers
@@ -54189,7 +54199,7 @@ and the personal endings fv:-mam-tēl, fv:-mē-tēl, etc.
 \nt
 \nq
 \dc 06/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t{ē}na
 \la nē-tna
@@ -54244,7 +54254,7 @@ and the personal endings fv:-mam-tēl, fv:-mē-tēl, etc.
 \lx t{ē}ne~
 \la nē-tne~
 \ph nɪtnɛ
-\ps nop
+\ps n.poss
 \gr medel
 \sn
 \ge milieu
@@ -54273,14 +54283,14 @@ and the personal endings fv:-mam-tēl, fv:-mē-tēl, etc.
 \el Mota
 \et tinai
 \eg entrails; middle
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et tÊna
 \eg entrailles
 \nt
 \nq
 \dc 07/Mar/2006
 \dc 10/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tēnge
 \la nē-tēnge
@@ -54401,9 +54411,9 @@ sur les éléments
 \lf Cf.
 \lv tēytēy-bē
 \el Mota
-\et tan|{_}gae
+\et tan-gae
 \eg tree, wood, wooden
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kayu
 \eg tree, (piece of) wood
 \nt
@@ -54514,7 +54524,7 @@ maison même. Une famille, et même un individu, peut disposer de plusieurs fv:n
 qui lui permet de distribuer à sa guise les cultures en fonction des sols ou d'autres critères.
 \sy
 \lf ClPos
-\lv no~|hm{2}
+\lv no~2
 \le
 \sn 2
 \ge
@@ -54546,7 +54556,7 @@ précisera générale^ment fv:nē-tqē_mitig, 'jardin de cocotier'.
 \lv hēw
 \se tēqēl
 \wr B
-\ps adp
+\ps adv
 \gr daon
 \de en bas, vers le bas: évoque un mouvement descendant
 \rf
@@ -54582,12 +54592,12 @@ précisera générale^ment fv:nē-tqē_mitig, 'jardin de cocotier'.
 \nq
 \dc 22/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[ē]qēlhe~
 \la na-tqēlhe~
 \ph natk​͡pʷɪlhɛ
-\ps nop
+\ps n.poss
 \a tqēlhe
 \a tqēlha
 \dr
@@ -54601,11 +54611,11 @@ précisera générale^ment fv:nē-tqē_mitig, 'jardin de cocotier'.
 \rf
 \cf
 \el Mota
-\et taqalsa|{_}i
+\et taqalsa-i
 \nt
 \nq
 \dc 10/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[ē]qēy
 \ph tɪk​͡pʷɪj
@@ -54683,11 +54693,11 @@ désigne sans doute 11-4 [+ n-ilqôn̄ = noir !]
 
 \lx tēte~
 \ph tɪtɛ
-\ps nop
+\ps n.poss
 \1s tēte-k
 \3s tēta-n
 \pdl Pl.
-\pdv ya|fs{(}tē|fs{)}tēta-n
+\pdv ya(tē)tēta-n
 \gr sista
 \ge sœur
 \ge frère
@@ -54696,13 +54706,13 @@ désigne sans doute 11-4 [+ n-ilqôn̄ = noir !]
 \dn opposite sex: (ax:man) sister, (as:woman) brother
 \rf
 \lf
-\et <°tuátuá|{_}gu
+\et <°tuátuá-gu
 \el
 \nt
 \nq
 \dc 25/Oct/2003
 \dc 10/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tētē
 \la nē-tētē
@@ -54757,7 +54767,7 @@ désigne sans doute 11-4 [+ n-ilqôn̄ = noir !]
 \de (?) Goudronnier, plante venimeuse, bsl. fn:Naolasi
 \sc Semecarpus vitiensis
 \rf AG4-119, Bsl-190
-\cf leh|hm{1}
+\cf leh1
 \nq identif° pas sûre!!
 \url C:\Alex\Photos\Selections\2003-Tree-album\Plants-album (32).jpg
 \sn 3
@@ -54793,7 +54803,7 @@ désigne sans doute 11-4 [+ n-ilqôn̄ = noir !]
 \cf
 \el Mota
 \et tavelima
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *lima
 \eg five; hand
 \nt
@@ -54810,7 +54820,7 @@ désigne sans doute 11-4 [+ n-ilqôn̄ = noir !]
 \rf AP9-22
 \xv n-ok gamgam a na-sam tēvēlyō
 \xe voilier à double balan^cier
-\cf yō|hm{2}
+\cf yō2
 \ce deux
 \nt hag têvêlyô...
 \el
@@ -55112,7 +55122,7 @@ vl:galeg].
 \de péri^phrase désignant l'activité fl:ou le métier de qqn, en relation avec un objet
 \dn periphrase designating s.o's activity fl:or profession, in relation to an object
 \rf
-\xv ige |fs{(}bē-|fs{)} tēytēy^tele
+\xv ige (bē-) tēytēy^tele
 \xe les garagistes, les mécaniciens [ax:litt. ceux pour tenir le fer]
 \xn garage mechanics [ax:lit. those to hold iron]
 \rf
@@ -55182,7 +55192,7 @@ droite (ax:cf. vl:mōtō)].
 \xn (Singers) know the song by heart, and in full [ax:lit. they hold it in their right hand (ax:cf. vl:mōtō)].
 \nt
 \se
-\ps adp
+\ps adv
 \wr B
 \rd tētēy
 \gr wetem
@@ -55195,15 +55205,15 @@ forcément dans les mains. Se traduit souvent par la prép. “avec”
 \dn do V holding ‹s.th› in one's hand; fl:by_ext. having ‹s.th› on one's person or with one,
 not necessarily in one's hands. Often translated by the preposition "with" 
 \rf AD9-4
-\xv Imam nonon yan̄fala en |fs{[}ni-yow lō tēy|fs{]} me na-gasel.
+\xv Imam nonon yan̄fala en ni-yow lō tēy me na-gasel.
 \xe En un clin d'œil, le père du garçon sortit de sa cachette, un poignard à la main.
 \xn In a flash, the boy's father came out of hiding, holding a dagger.
 \rf
 \xv Kōyō vatah so “Vitwag, vōyō, vētēl” e kōyō yow ! A yow tēy a na-tamge liwo en !
 \oe natte comme tapis volant
-\xe Après avoir compté “Un, deux, trois !”, ils sautèrent dans le vide # sautèrent en tenant la grande natte
+\xe Après avoir compté “Un, deux, trois !”, ils sautèrent dans le vide – sautèrent en tenant la grande natte
 (dans leurs mains ?).
-\xn After counting "One, two, three!" they jumped into he unknown # jumped holding the big mat (in
+\xn After counting "One, two, three!" they jumped into he unknown – jumped holding the big mat (in
 their hands ?).
 \rf AD9-2
 \xv Kē ni-lep nē-qēt-al, tō kē ni-bal na-tmalte. Tō ni-suw tēy ēgēn. 
@@ -55231,7 +55241,7 @@ nō-kōl!
 \oe chanson
 \xe Danse fs:avec moi tout douce^ment.
 \xn Dance fs:with me slowly.
-\cf |fs{(}tiwag|fs{)} mi
+\cf (tiwag) mi
 \ce avec
 \cn
 \sn 3
@@ -55317,7 +55327,7 @@ ocean.
 \xe Que quelqu'un les emmène en pirogue ! [ax:litt. Qu'un homme pagaye en-tenant eux-deux]
 \xn Get someone to take them by canoe! [ax:lit. Get a man to paddle carrying both of them]
 \rf AD17-2
-\xv Kamyō John |fs{[}tō-m̄ōl tēy lok qiyig|fs{]} no me.
+\xv Kamyō John tō-m̄ōl tēy lok qiyig no me.
 \xe John me raccompa^gnera tout à l'heure. [ax:litt. moi-et-John nous m'accompa^gnerons]
 \xn John will bring me back later on. [ax:lit. me-and-Johyn we'll accompany me]
 \rm D18-1
@@ -55344,7 +55354,7 @@ ocean.
 \nq
 \dc 21/Jan/2001
 \dc 14/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tēy goy
 \ph tɪj ɣɔj
@@ -55474,14 +55484,14 @@ société traditionnelle
 \nt sont guérisseurs : John Sisil + Masirô, de Lahlap ; Masirô d'Avay.
 \tl   |{tab}|fb{Le guérisseur}  [|vl{tēytēybē}*]
 Contraire^ment au sorcier (vl:n-et_hewhew) qui jette des mauvais sorts, la fonction du guérisseur est de soigner les gens malades. Son art associe les plantes médicinales (vl:nē-tēnge) à un pouvoir magique (vl:na-man), transmissible de génération en génération.
-Le guérisseur se rend chez le malade pour “tenir son eau” (|vl{tēy nē-bē nonon}, d'où le nom vl:tēytēy-bē): après avoir versé de l'eau pure dans une coupe (|vl{ni-vinlah}), il la fait d'abord tourner trois fois autour de la tête du malade. Durant toute la séance, il tient dans l'autre main une plante qui lui est secrète, et qui lui transmet le pouvoir (fl:cf. vl:hyi~, vl:man|hm{1}) de guérir.
+Le guérisseur se rend chez le malade pour “tenir son eau” (|vl{tēy nē-bē nonon}, d'où le nom vl:tēytēy-bē): après avoir versé de l'eau pure dans une coupe (|vl{ni-vinlah}), il la fait d'abord tourner trois fois autour de la tête du malade. Durant toute la séance, il tient dans l'autre main une plante qui lui est secrète, et qui lui transmet le pouvoir (fl:cf. vl:hyi~, vl:man1) de guérir.
 Dans un deuxième temps, le guérisseur observe (fl:cf. vl:sēil) cette eau comme une boule de cristal (vl:qele_ni-vidio 'comme la télévision') : les ombres humai^nes (vl:ni-nini_et) qu'il voit évoluer lui appren^nent les causes de la maladie |{endash} générale^ment, des esprits à forme humaine (vl:na-tmat), qui ont assailli la victime dans les jours précédents.
-Dans un troisième temps, le guérisseur prend une gorgée de cette eau et la crachote (vl:bus) sur le front et le nombril du malade # lequel boit le reste de la potion. Pour finir, il murmure une incanta^tion qu'il a composée dans sa jeunesse, et qu'il est le seul à connaître: il ne dévoilera ses secrets, l'âge venu, qu'au digne successeur qu'il se sera choisi.
+Dans un troisième temps, le guérisseur prend une gorgée de cette eau et la crachote (vl:bus) sur le front et le nombril du malade – lequel boit le reste de la potion. Pour finir, il murmure une incanta^tion qu'il a composée dans sa jeunesse, et qu'il est le seul à connaître: il ne dévoilera ses secrets, l'âge venu, qu'au digne successeur qu'il se sera choisi.
 \sn 2
 \ge
 \he en gén
-\de docteur, médecin # au sens moderne du terme
-\dn doctor # in the modern sense of the word
+\de docteur, médecin – au sens moderne du terme
+\dn doctor – in the modern sense of the word
 \rf
 \xv
 \rf AP9-34
@@ -55578,15 +55588,16 @@ fv:tēytēyheg est opaque.
 \he spéc
 \de infliger à son adversaire ‹des points perdus au jeu, fv:no-qo›; |fl{d'où}
 gagner ‹des points›
-\dn inflict upon one's rival ‹points lost in gambling, fv:no-qo›; |fl{thus} win ‹points›
+\dn inflict upon one's rival ‹points lost in gambling, fv:no-qo›; |fl{hence} win ‹points›
 \rf
 \xv Kē ti-ti yosveg qiyig nagōm qo.
 \oe aux cartes
 \xe Tu vas voir, elle va t'infliger un grand nombre de points (c'est elle qui va gagner).
 \xn You'll see, she'll inflict a large number of points on you (she'll win)
 \lf Cf.
-\lv qo|fs{*}
-\le cochon; point
+\lv qo
+\le (2) point
+\ln (2) point
 \sn 3
 \va ti lō
 \de commander ‹une ode de prestige› en son propre honneur,
@@ -55600,7 +55611,7 @@ bo-towtow-eh}, fl:cf. fv:tow)
 sortira l'année prochaine.
 \xn I've ordered an ode in our honour from the poet Malkikyak; it will be finished next year.
 \lf Cf.
-\lv he~|hm{2}|fs{*}
+\lv he~3
 \el Mota
 \et tiu
 \eg apply, set+
@@ -55608,6 +55619,7 @@ sortira l'année prochaine.
 \nq
 \dc 19/Oct/2003
 \dc 16/Sep/2009
+\dt 02/Jul/2016
 
 \lx tig
 \hm 1
@@ -55720,10 +55732,10 @@ sortira l'année prochaine.
 \re
 \de se trouver à tel ou tel endroit, dans une position verticale. Comme pour les autres verbes de
 position (fl:Cf. fv:hag, fv:en), spécifie la position physique d'un objet que l'on veut situer
-dans l'espace # ici, la verticalité
+dans l'espace – ici, la verticalité
 \dn find oneself in a particular place, in a vertical position. As in other verbs expressing
 position (fl:Cf. fv:hag, fv:en), specifies the physical position of an object that one
-wants to situate in space # here, verticality
+wants to situate in space – here, verticality
 \rf
 \xv Oo! Na-laklak tig tō hay kē!
 \xe Oh ! Mais la danse bat son plein [est debout] là-bas !
@@ -55747,9 +55759,9 @@ standing]
 \xe La flèche fila dans l'eau, et se planta tout droit [debout] dans le poisson.
 \xn The arrow rushed through the water, and pierced [standing] the fish.
 \rm D16-6
-\xm N-age vitwag tig tō nen # qele so nō-bōlōk en, ba no-hon nonon vitwag woy:
+\xm N-age vitwag tig tō nen – qele so nō-bōlōk en, ba no-hon nonon vitwag woy:
 na-raino.
-\xf Il y avait là [debout] un animal # une sorte de bœuf à une seule corne... un rhinocéros.
+\xf Il y avait là [debout] un animal – une sorte de bœuf à une seule corne... un rhinocéros.
 \xa
 \sn 3
 \ge
@@ -55965,11 +55977,12 @@ me in my sleep]
 \xe Ils s'arrêtèrent brusque^ment dans leur marche, debout l'un à côté de l'autre.
 \xn They suddenly stopped walking, standing side by side.
 \ee Suivi du directionnel fv:hōw ‘vers le bas’
-\cf hiy|hm{1} |fs{(2)}
+\cf hiy1
+\ce (2)
 \nt
 \nq
 \dc 17/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tig lō
 \ph tiɣ lʊ
@@ -56080,14 +56093,14 @@ rendez-vous
 \dn messenger, courier; fl:esp. go-between: trustworthy person one chooses to pass
 secret messages on to a loved-one, such as the next rendez-vous
 \rf ?
-\cf tig|fs{ (p.tr.)}
+\cf tig1B
 \cf hal
 \ce route ; message
-\cn
+\cf tig na-mtehal
 \nt
 \nq
 \dc 17/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tigyeg
 \ph tiɣjɛɣ
@@ -56141,7 +56154,7 @@ how to use space directionals in language, as an individual or as a group
 \xv
 \sn 2
 \de direction prise par la voix au cours d'un chant, |fl{d'où} mélodie
-\dn direction taken by the voice while singing, |fl{thus} melody
+\dn direction taken by the voice while singing, |fl{hence} melody
 \sd Mus
 \rf Ode-Alx:077
 \xv Et tiy ēleg te gōh, n-ēleg gal ēwē. Ba ni-tiltil nan haytēyēh qele ni-tiy
@@ -56158,7 +56171,7 @@ real coda.
 \nq
 \dc 04/Aug/2006
 \dc 17/Sep/2009
-\dt 24/Sep/2014
+\dt 21/Jun/2016
 
 \lx til
 \hm 2
@@ -56264,7 +56277,7 @@ real coda.
 \ph nitli
 \a tli
 \a tlē
-\ps nop
+\ps n.poss
 \gr eg
 \dr
 \ge œuf
@@ -56276,7 +56289,7 @@ real coda.
 \rf
 \cf
 \el Mota
-\et toli|{_}u
+\et toli-u
 \el PNCV
 \et *ʔatolu
 \el POc
@@ -56284,7 +56297,7 @@ real coda.
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[i]lig
 \la na-tlig
@@ -56589,7 +56602,7 @@ see ‹s.o› off at the airport
 \ge
 \cf
 \ce
-\nt
+\nt 
 
 \nq
 \dc 21/Sep/2009
@@ -56706,7 +56719,7 @@ termes fv:vag ‘fois’, et fv:son̄wul ‘dizaine’.
 \ms tawal
 
 \se
-\ps adp
+\ps adv
 \wr B
 \gr wantaem
 \ge ensemble
@@ -56741,7 +56754,7 @@ preposition fv:mi ‘with’
 \xn You have the right to joke (together) with your sister-in-law
 \rm
 \se tiwag mi
-\ps prép
+\ps prep
 \ge
 \re
 \he cour
@@ -56754,7 +56767,7 @@ preposition fv:mi ‘with’
 \cf mi
 \ce avec (Instrument)
 \se tiwag mē
-\ps adv
+\ps loc
 \ge
 \re
 \de avec cela, avec : anaphore sur le régime inanimé (fl:cf. fv:mē)
@@ -56764,7 +56777,7 @@ preposition fv:mi ‘with’
 \nq
 \dc 17/Sep/2002
 \dc 21/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tiy
 \hm 1
@@ -57051,8 +57064,8 @@ might be?
 \rm
 \xm Kē hag tō hag me l-ēm̄ nonon en, yon̄teg tog so yoge mitimtiy te, tateh.
 \ue Rem
-\ee On trouve parfois un croisement entre la tournure en {|{~}V|{~}+ fv:tog|{~}} et l'équivalent
-bislama en {|{~}|fv{traem} +|{~}V|{~}} (<angl. fi:try), fl:ex. |fv{Nēk traem gen egal tog?}
+\ee On trouve parfois un croisement entre la tournure en { V + fv:tog } et l'équivalent
+bislama en { |fv{traem} + V } (<angl. fi:try), fl:ex. |fv{Nēk traem gen egal tog?}
 |fe{(Essaye) de goûter pour voir? / Tu peux goûter, s'il te plaît?}
 \lf Cf.
 \lv egal
@@ -57083,7 +57096,7 @@ tentative
 \xe Envoie donc quelqu'un, qu'il aille voir de l'autre côté de la montagne!
 \xn Send someone to go and see the other side of the mountain!
 \ue Sém
-\ee Le Conatif fv:tog constitue toujours un ordre poli # à la différence de V+fv:tō ‘fais V d'abord/un
+\ee Le Conatif fv:tog constitue toujours un ordre poli – à la différence de V+fv:tō ‘fais V d'abord/un
 instant’, qui demeure compatible autant avec la nuance de politesse (‘Viens un instant!’) qu'avec
 l'injonction pressante (‘Viens dès maintenant!’).
 \nt
@@ -57118,7 +57131,7 @@ l'injonction pressante (‘Viens dès maintenant!’).
 \eg a reed
 \el PNCV
 \et *tok(a,o)
-\eg arrow|{~}shaft
+\eg arrow shaft
 \dc 10/Feb/2006
 \dt 28/Mar/2010
 
@@ -57141,7 +57154,7 @@ to rest
 \xv Dōyō van tog qōn̄ a Qōyē.
 \xe Nous irons passer l'après-midi à Qôyê.
 \xn We'll go and spend the afternoon at Qôyê.
-\cf tog1
+\cf tog1A
 \se na-Tno Tog qōn̄
 \ps loc
 \ge
@@ -57160,7 +57173,7 @@ to rest
 \nt
 \nq
 \dc 21/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[o]gotgo
 \ph tɔɣɔtɣɔ
@@ -57177,7 +57190,7 @@ to rest
 \lf
 \se togotgo
 \wr B
-\ps adp
+\ps adv
 \va totgo
 \sn 1
 \ge
@@ -57199,14 +57212,14 @@ to rest
 \xn Tomorrow morning you must wake up early.
 \lf Syn.
 \lv ēgē
-\el ax:Cf.|{~}Mota
+\el ax:Cf. Mota
 \et tagogoi
 \eg quickly
 \nt
 \nq
 \dc 27/Jan/2007
 \dc 21/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx togtil
 \la no-togtil
@@ -57243,8 +57256,8 @@ to rest
 
 \lx togtō
 \ph tɔɣtʊ
-\ps adv
-\mr tog|fs{ + }tō
+\ps loc
+\mr tog + tō
 \sn 1
 \we entre deux proposi^tions P1-P2
 \de alors, dans cette hypo^thèse, ‘si c'était le cas’: intro^duit l'apodose des systèmes
@@ -57294,7 +57307,7 @@ toi.
 \nq
 \dc 19/Sep/2002
 \dc 25/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx togyon̄
 \la no-togyon̄
@@ -57305,7 +57318,7 @@ toi.
 \sn
 \ge silencieux
 \re
-\lt rester (vl:tog|hm{1}) calme (vl:yon̄|hm{1})
+\lt rester (vl:tog1) calme (vl:yon̄1)
 \de se taire, faire silence
 \dn be quiet, be silent
 \rf
@@ -57343,7 +57356,7 @@ crying
 \ge Carangue
 \de Carangue, poisson récifal
 \sd Pois
-\cf dlit
+\cf d[i]lit
 \sn 1
 \he spéc
 \re Caranx melampygus
@@ -57369,7 +57382,7 @@ crying
 \nt
 \nq
 \dc 10/Feb/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx t[o]kol
 \la na-tkol
@@ -57415,7 +57428,7 @@ et ces deux oiseaux sont très différents.
 
 \lx tokosm̄eg
 \ph tɔkɔsŋ​͡mʷɛɣ
-\ps adp
+\ps adv
 \gr tumas
 \sn
 \ge
@@ -57441,7 +57454,7 @@ et ces deux oiseaux sont très différents.
 \nq seulement pour liquides ???
 \dc 09/Sep/2002
 \dc 25/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tol
 \la no-tol
@@ -57535,7 +57548,7 @@ et ces deux oiseaux sont très différents.
 \re
 \de Intensificateur de fv:sis ‘‹marée+› monter, enfler’: |fl{d'où}
 jusqu'à ras bord
-\dn Intensifier of fv:sis '‹tide+› rising, swelling': |fl{thus} to the brim
+\dn Intensifier of fv:sis '‹tide+› rising, swelling': |fl{hence} to the brim
 \rf Ode-Alx
 \xv Ne-met yow gōh mō-yō ba kē mi-sis ton̄ton̄.
 \xe La marée montante a atteint son maximum.
@@ -57551,11 +57564,10 @@ jusqu'à ras bord
 \nq
 \dc 04/Aug/2006
 \dc 25/Sep/2009
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx tot
 \ph tɔt
-\wr A
 \ps vt
 \rd totot
 \gr katem
@@ -57635,18 +57647,6 @@ cocotier, afin que je tresse un panier.
 \lf Cf.
 \lv teh
 \le tailler
-\se no-totot
-\wr B
-\ps n
-\ge
-\re
-\de la taille, la sculpture: nom d'action de fv:tot
-\dn carving, sculpture: name of the action fv:tot
-\rf AP9-34
-\xv No-totot tamat nan me-qlen̄ tō, ba kēy may totot lok se ēgēn.
-\xe L'art de la sculpture [statues d'esprits, |vl{tamat}] s'était perdu, mais il a été ressuscité.
-\xn The art of sculpture [statues of spirits, |vl{tamat}] had been lost, but has been revived.
-\rf
 \el POc
 \et *toto(k)
 \eg hack off
@@ -57654,7 +57654,7 @@ cocotier, afin que je tresse un panier.
 \nq
 \dc 23/Dec/2003
 \dc 28/Sep/2009
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tot gal
 \ph tɔt ɣal
@@ -57862,7 +57862,7 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \xv Totogyeg mino ēagōh.
 \xe C'est aujourd'hui la première fois pour moi [c'est ma ‘première’].
 \se
-\ps adv
+\ps loc
 \wr B
 \de en premier, avant toute chose
 \rf
@@ -57873,7 +57873,27 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \nq
 \dc 20/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
+
+\lx totot
+\la no-totot
+\ps n
+\ge
+\re
+\de la taille, la sculpture: nom d'action de fv:tot
+\dn carving, sculpture: name of the action fv:tot
+\rf AP9-34
+\xv No-totot tamat nan me-qlen̄ tō, ba kēy may totot lok se ēgēn.
+\xe L'art de la sculpture [statues d'esprits, |vl{tamat}] s'était perdu, mais il a été ressuscité.
+\xn The art of sculpture [statues of spirits, |vl{tamat}] had been lost, but has been revived.
+\rf
+\lf Cf.
+\lv tot
+\el
+\nt
+\nq
+\dc 24/Dec/2013
+\dt 02/Jul/2016
 
 \lx t[o]wol
 \ph tɔwɔl
@@ -57945,7 +57965,7 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \lv tagasēp
 \se towoyig
 \wr B
-\ps adp
+\ps adv
 \de aisément, facilement, volontiers
 \rf AP9-48
 \xv nē-vētvētleg yobem towoyig
@@ -57969,7 +57989,7 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \nq
 \dc 14/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx towtow
 \la no-towtow
@@ -57997,7 +58017,7 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \de art de composer des chants, fl:partic. selon les canons de la tradition savante
 \sd Art
 \lf Cf.
-\lv he~|hm{2}|fs{*}
+\lv he~3
 \le chant composé pour qqn
 \tl |{tab}|fb{L'art du chant à Mwotlap} £|{tab}[|vl{no-towtow eh}*]
 La connaissance de l'art de composer des chansons est réservée à quelques individus à chaque génération. Elle implique la maîtrise de la langue littéraire, dite “langue d'Iqet” (fl:Cf. |vl{Iqet}*). En outre, le talent poétique relève d'un pouvoir surnaturel (vl:na-man), qui n'est pas donné à tout le monde. Avant de mourir, un vieux compositeur doit choisir un successeur pour lui transmettre ce pouvoir, et la connaissance qui l'accompagne.
@@ -58012,7 +58032,7 @@ La connaissance de l'art de composer des chansons est réservée à quelques ind
 \nq
 \dc Sept/2003
 \dc 25/Nov/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx toy
 \la no-toy
@@ -58188,7 +58208,7 @@ composites
 \se mal… tō
 \ps asp
 \de Accompli éloigné
-\nq
+\nq 
 
 \se (ni-)… tō
 \ps asp
@@ -58225,11 +58245,11 @@ plaît’
 \xm Lep tō me nō-bōk nōnōm nok et tō?
 \xf Tu peux me prêter ton livre, que je regarde deux secondes?
 \lf Cf.
-\lv tog|hm{3}
+\lv tog3
 \le Conatif
 \el Mota
 \et ti
-\nt PNCV,|{~}PEO  *tuaRi (?)  before, a long time ago
+\nt PNCV, PEO  *tuaRi (?)  before, a long time ago
 \nt
 \nq
 \dc 19/Sep/2002
@@ -58268,8 +58288,7 @@ plaît’
 \la °na-tō
 \hm 4
 \ph natʊ
-\pc to.jpg
-\nt .G.c:\Alex\photoDico\to.jpg;.81";.67";JPG
+\pc .G.c:\Alex\photoDico\to.jpg;.81";.67";JPG
 \ps n
 \rd
 \ge conque
@@ -58355,14 +58374,14 @@ ici ?
 \un
 \en
 \cf ak goy
-\et <°tabʷú|{_}a
+\et <°tabʷú-a
 \eg
 \el ax:Cf.
 \et vl:teq
 \el Mota
 \et tapua
 \eg a thing or place made taboo; a mark or sign set up
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *tabu
 \eg sacred, forbidden
 \nt
@@ -58435,7 +58454,7 @@ promener.
 \la nō-tōti~
 \ph nʊtʊti
 \wr A
-\ps nop
+\ps n.poss
 \3s tōtē-n
 \sn 1
 \ge tronc
@@ -58447,7 +58466,7 @@ promener.
 \ce tronc (de bois)
 \cn
 \se tōti qēthiyi~
-\ps nop
+\ps n.poss
 \ge
 \re
 \ur fleur
@@ -58503,11 +58522,11 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 \xv Ige bē-vēnan kēy me-pgapgal bō-tōti lōwlō.
 \xe Son gouverne^ment (Soudan) mène une guerre pour / au nom de la religion.
 \rf AG4-42
-\xv Nō-tōtēn iyē ? # Nō-tōtēn ige mayanag !
-\xe La faute à qui ? # La faute aux chefs ! [ax:litt. La cause de cela, c'est les chefs]
+\xv Nō-tōtēn iyē ? – Nō-tōtēn ige mayanag !
+\xe La faute à qui ? – La faute aux chefs ! [ax:litt. La cause de cela, c'est les chefs]
 \se tōtēn
 \wr B
-\ps adp
+\ps adv
 \ge
 \re
 \lt la cause-de-cela (c'est...)
@@ -58530,7 +58549,7 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 \nq
 \dc 19/Sep/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx tōtō
 \ph tʊtʊ
@@ -58573,8 +58592,7 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 
 \lx tōy
 \ph tʊj
-\pc balayant.jpg
-\nt .G.c:\Alex\photoDico\balayant.jpg;1.36";1.56";JPG
+\pc .G.c:\Alex\photoDico\balayant.jpg;1.36";1.56";JPG
 \ps vt
 \rd tōytōy
 \gr brumum
@@ -58583,7 +58601,7 @@ fv:wōisēwōvēvē|{tab}|{tab}  |vl{Wō isē wō vēvē}
 \re
 \de balayer ‹feuilles+›; nettoyer ‹endroit+› à l'aide d'un balai
 \rf
-\xv Kē ni-lep ni-hin^tōy, ni-tōytōy na-pyēyag, na-yo bak # ni-vēl sey van vētmahē
+\xv Kē ni-lep ni-hin^tōy, ni-tōytōy na-pyēyag, na-yo bak – ni-vēl sey van vētmahē
 vitwag.
 \xe Elle prend un balai, balaie les feuilles mortes, les feuilles de banian, et les rassemble en tas.
 \rf
@@ -58638,7 +58656,7 @@ tenter de retenir ‹qqch de petit et mobile: animal+›
 \xv Tō kē me-tkuk maymay ne-men en.
 \xe Alors il saisit forte^ment l'oiseau entre ses mains.
 \rm
-\xm Tō kē ni-tkuk maymay kē en, me-tkuk maymay ne-men nen e tō a# ne-men nen
+\xm Tō kē ni-tkuk maymay kē en, me-tkuk maymay ne-men nen e tō a– ne-men nen
 ni-wlēwlēs nen e, ne-men nen ni-gap.
 \so email Henry 98.10.22
 \lf Cf.
@@ -58674,7 +58692,7 @@ ni-wlēwlēs nen e, ne-men nen ni-gap.
 
 \lx tusu
 \ph tusu
-\ps adp
+\ps adv
 \ge
 \re
 \de un peu, pendant un instant. Restrictif des prédicats, à valeur
@@ -58688,14 +58706,15 @@ quanti^tative
 \rf
 \xv Tusu ēwē.
 \xe Un tout petit peu.
-\cf su|hm{1}
+\cf su1
 \ce petit
-\cf su|hm{2}
+\cf su2
 \ce Diminutif
 \nt
 \nq
 \dc 16/Sep/2002
 \dc 31/Mar/2007
+\dt 02/Jul/2016
 
 \lx tutu
 \la nu-tutu
@@ -58889,8 +58908,8 @@ l'importance
 \xv Nēk ukēg na-tgop en, kē ni-momyiy.
 \xe Tu laisses le plat quelque temps, pour qu'il refroidisse.
 \rf
-\xv Dō van ēnōk? # Ohoo, ukēg vege, mahē mal qōn̄!
-\xe On y va? # Oh non, laisse tomber, il fait déjà nuit!
+\xv Dō van ēnōk? – Ohoo, ukēg vege, mahē mal qōn̄!
+\xe On y va? – Oh non, laisse tomber, il fait déjà nuit!
 \rf
 \xv Ohoo, ba ukēg qōtō na-blekat, wo?
 \xe Allez! Laisse tomber ton jeu de cartes, deux secondes!
@@ -58901,7 +58920,7 @@ l'importance
 \lv tomtak
 \el Mota
 \et ukag
-\eg let go; let|{~}fly, release the|{~}arrow
+\eg let go; let fly, release the arrow
 \et ukeg
 \eg let loose, give, allow
 \nt
@@ -58948,7 +58967,7 @@ comme râpe naturelle pour râper (fv:yah) certains tubercules comme le manioc.
 \gn rasp
 \rn
 \dn a rasp, whether natural or manufactured
-\rf
+\rf 
 
 \se na-va tele
 \ps n
@@ -58961,7 +58980,7 @@ durs comme l'igname
 \dn modern iron rasp, used for stronger tubers such as yam
 \rf
 \el
-\et <|{~}°βae
+\et < °βae
 \el ax:Cf. Vurës
 \et βia
 \nq
@@ -59057,8 +59076,8 @@ durs comme l'igname
 \xv vag-m̄adeg
 \xe à de nombreuses reprises, souvent
 \rf alx
-\xv Nēk mal van me Vila vag-vēh vatag? # Vag-tēlnegi ēgēn.
-\xe Ça fait combien de fois que tu viens à Vila? # C'est la troisième fois.
+\xv Nēk mal van me Vila vag-vēh vatag? – Vag-tēlnegi ēgēn.
+\xe Ça fait combien de fois que tu viens à Vila? – C'est la troisième fois.
 \rf
 \xv No mal vap van hiy nēk vag-son̄wul.
 \xe Je te l'ai déjà dit dix fois.
@@ -59098,7 +59117,7 @@ tiwag êwê". vag têlnegi, la troisième fois ; vag Madeg [G3-99]
 \lx vaga
 \hm 1
 \ph βaɣa
-\ps adv
+\ps loc
 \gr oltaem
 \sn
 \ge toujours
@@ -59112,7 +59131,7 @@ tiwag êwê". vag têlnegi, la troisième fois ; vag Madeg [G3-99]
 \xv Vaga, kēy van, kēy muwumwu lē-tqē nonoy.
 \xe Ils avaient l'habitude d'aller travailler aux champs.
 \rm AP9-55
-\xm Kēy dēm so no n-et tegha den kēy, veg nok vanvan vaga a# tavalam.
+\xm Kēy dēm so no n-et tegha den kēy, veg nok vanvan vaga a– tavalam.
 \xf Ils croient que je suis différent d'eux...
 \lf Syn.
 \lv velqōn̄
@@ -59121,7 +59140,7 @@ tiwag êwê". vag têlnegi, la troisième fois ; vag Madeg [G3-99]
 \nq
 \dc 04/Feb/2007
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[a]gal
 \la na-pgal
@@ -59153,7 +59172,7 @@ mission^naires.
 \rf AP5-36
 \xv na-pnō vagal
 \xe le pays de la guerre: les États-Unis
-\nt SYN = wo|hm{3}
+\nt SYN = wo3
 \nt ou moderne (pour celle-ci, parfois fv:wo < angl. fi:war)
 \tb §TIT§ |fb{Les mots de la guerre} [|vl{na-pgal}*]
     |fv{na-pgal}|{tab}|{tab}la guerre
@@ -59195,7 +59214,7 @@ mission^naires.
 
 \lx vagvag-tiwag
 \ph βaɣβaɣtiwaɣ
-\ps adv
+\ps loc
 \ge
 \re rare^ment ; quelquefois ; temps (de ~ en ~)
 \lt une-une fois
@@ -59207,10 +59226,10 @@ mission^naires.
 \lf Cf.
 \lv yatkel mahē
 \le quelquefois
-\mr vag- |fs{+} tiwag
+\mr vag-2 + tiwag
 \dc 17/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vah
 \ph βah
@@ -59269,7 +59288,7 @@ gencive inférieure
 \ee Ce signe attribue au cochon (fl:cf. fv:no-qo) une immense valeur.
 \cf wey
 \se
-\ps adp
+\ps adv
 \wr C
 \gr
 \ge
@@ -59286,7 +59305,7 @@ gencive inférieure
 \nq
 \dc 17/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[a]hah
 \la na-phah
@@ -59464,7 +59483,7 @@ dans les travaux domestiques, etc.
 \lx vakse~
 \la na-vakse~
 \ph naβaksɛ
-\ps nop
+\ps n.poss
 \1s na-vakse-k
 \3s na-vaksa-n
 \gr strong
@@ -59478,13 +59497,13 @@ dans les travaux domestiques, etc.
 \lv hiyi~
 \le force physique
 \el Mota
-\et vakasa|{_}i
+\et vakasa-i
 \eg haste, hurry, self-assertion, strength
 \nt
 \nq
 \dc 25/Jul/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx val
 \la na-val
@@ -59495,7 +59514,7 @@ dans les travaux domestiques, etc.
 \re *
 \de pierres du four...
 \rf AG1-0 four
-\cf ne-vet wēdēwdē |fs{(}wdē|fs{)}
+\cf ne-vet wēdēwdē
 \el Mota
 \et vala
 \eg thin stones set on edge round the rim of the native oven
@@ -59504,7 +59523,7 @@ dans les travaux domestiques, etc.
 \eg structure
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[a]lag
 \ph βalaɣ
@@ -59573,9 +59592,9 @@ s'évanouir dans la nature.
 \el Mota
 \et valago
 \eg to run
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *lako
-\eg step,|{~}walk, go
+\eg step, walk, go
 \nt
 \nq
 \dc 14/Oct/2003
@@ -59661,7 +59680,7 @@ ton honneur encore plus majestueuse.
 \xe Les jeunes filles se disputent à cause du jeune homme.
 \rf
 \el Mota
-\et va|{_}leasag
+\et va-leasag
 \eg to dispute
 \nt
 \nq
@@ -59701,7 +59720,7 @@ ton honneur encore plus majestueuse.
 \rn Pterois
 \de poisson-scorpion, rascasse, proche du fv:na-yme et du fv:na-wawsē
 \sc Pterois|fs{ spp. (?)}
-\nt si c'est Pterois, alors c'est une rascasse / Poisson-Scorpion [GRC #90] 
+\nt si c'est Pterois, alors c'est une rascasse / Poisson-Scorpion [GRC –90] 
 \nt = Pterois volitans ?
 \dr wan fish, i gat posen mo i braon blak
 \so Milton, Moses ?
@@ -59736,7 +59755,7 @@ méchante: salaud, enfoiré
 \rf AG7-2
 \so Edgar + livre Poiss-NC-NH
 \nt nom latin = Scyllaridés ??
-\et <°na|{~}βaˈβaba
+\et <°na βaˈβaba
 \el Mota
 \et vavapa
 \eg a kind of crawfish
@@ -59809,7 +59828,7 @@ had been stolen] one after the other.
 longtemps. fl:Spéc. Structure dans les récits: ‹|fi{Action 1 + fv:van
 répété + Action 2}› = "L'action 1 commence, puis dure un certain
 temps, jusqu'à ce que finale^ment commence l'action 2".
-\dn continue an action V without interruption, |fl{thus} for a while, for a long time. 
+\dn continue an action V without interruption, |fl{hence} for a while, for a long time. 
 fl:Spec. Structure in storytelling: |fi{Action 1 + fv:van repeated + Action 2}› = "Action
 1 begins, lasts a while until action 2 finally begins".
 \nt  \sd Littér
@@ -59857,8 +59876,8 @@ jusqu'au jour où le père tomba malade à son tour.
 \cn
 \tl  |{tab}|fb{L'expression de la durée en récit} £|{tab}[|vl{van}]
  Le bon conteur sait jouer de la répétition de fv:van (Duratif ‹ fv:van ‘aller’), pour évoquer le temps qui passe ou l'effort prolongé du personnage.
- Dans une série de fv:van exprimant la durée, les deux derniers sont parfois réalisés |fv{va# van} (vl:a long) : fl:ex. |vl{Kē van, van van va# van, van dēn̄ le-naw.} |fe{Il marcha long^temps, très longtemps, jusqu'au bord de mer}. 
- D'autre part, une longue chaîne est parfois ren^forcée par la locution de durée |fv{van i van en} ‘tant et si bien’, fl:ex. |vl{Tō kē ni-skiyak hiy ēthēn, van van van van van van van van van i van en, van me nen, etsas kē.} |fe{Il|{~}partit aussitôt en courant pour chercher son frère, et courut, courut, courut, courut, courut tant et si bien [|vl{van i van en}] qu'il finit par arriver et par le trouver.}
+ Dans une série de fv:van exprimant la durée, les deux derniers sont parfois réalisés |fv{va– van} (vl:a long) : fl:ex. |vl{Kē van, van van va– van, van dēn̄ le-naw.} |fe{Il marcha long^temps, très longtemps, jusqu'au bord de mer}. 
+ D'autre part, une longue chaîne est parfois ren^forcée par la locution de durée |fv{van i van en} ‘tant et si bien’, fl:ex. |vl{Tō kē ni-skiyak hiy ēthēn, van van van van van van van van van i van en, van me nen, etsas kē.} |fe{Il partit aussitôt en courant pour chercher son frère, et courut, courut, courut, courut, courut tant et si bien [|vl{van i van en}] qu'il finit par arriver et par le trouver.}
 \se van me
 \ps vi
 \ge
@@ -59915,14 +59934,14 @@ the speaker (e.g. "towards, to me, to us")
 \xe Sa guirlande (de poissons pêchés) était longue, comme d'ici [vl:gōh] jusque là-bas [vl:van_gēn].
 \xn His garland (catch of fish) was long, from here [vl:gōh] to here [vl:van_gēn].
 \rf
-\xv Milton mi-gityak lō me gōh? # Oo, kē mi-gityak lō fr:van anen!
-\xe Est-ce que Milton est passé en courant par ici [où je suis, vl:me_gōh] ? # Oui, il est passé par là [où
+\xv Milton mi-gityak lō me gōh? – Oo, kē mi-gityak lō fr:van anen!
+\xe Est-ce que Milton est passé en courant par ici [où je suis, vl:me_gōh] ? – Oui, il est passé par là [où
 tu dis, vl:van_anen].
-\xn Did Milton come here [where I am, vl:me_gōh] ? # Yes, he was here [where you say,  vl:van_anen].
+\xn Did Milton come here [where I am, vl:me_gōh] ? – Yes, he was here [where you say,  vl:van_anen].
 \rf AD16-6
-\xv Ukēg no nok van|hm{1} heylō fr:van|hm{2}.
-\xe Laisse-moi passer ! [ax:litt. Laisse-moi aller|hm{1} à-travers en-face|hm{2}]
-\xn Get out of my way ! [ax:lit. Let me go|hm{1} across opposite|hm{2}]
+\xv Ukēg no nok van1 heylō fr:van2.
+\xe Laisse-moi passer ! [ax:litt. Laisse-moi aller1 à-travers en-face2]
+\xn Get out of my way ! [ax:lit. Let me go1 across opposite2]
 \ee Typiquement associé aux déictiques de 2ème et 3ème degrés (ex. |fv{van (a)nen} ‘en face près de toi’, 
 fv:van_nōk / fv:gēn ‘en face là-bas’) ; au 1er degré, même si l'on peut dire
 |fv{van (a)gōh} ‘en face [de toi] près de moi’, on aura plutôt le Dir. centripète (|fv{me
@@ -59952,18 +59971,18 @@ cacher.
 \xe D'un bond, le poisson regagna soudain l'océan. [sauta de nouveau vers la mer]
 \xn In one leap, the fish suddenly swam back to the ocean. [jumped again towards the sea]
 \rf Mika
-\xv N-et tit-van|hm{1} yeghuquy vēh te fr:van|hm{2} lē-vētan en.
-\xe Personne n'a le droit de pénétrer|hm{1} fs:sur|hm{2} cette terre sans une bonne raison.
-\xn No one is allowed to enter hm{1} fs:into|hm{2} this land without a good reason.
+\xv N-et tit-van1 yeghuquy vēh te fr:van2 lē-vētan en.
+\xe Personne n'a le droit de pénétrer1 fs:sur2 cette terre sans une bonne raison.
+\xn No one is allowed to enter hm{1} fs:into2 this land without a good reason.
 \rm D5
 \xm Nēk dam fr:van aē, ba tō nēk hēw tēqēl me. 
 \xf Accroches-|fs{y}-toi (à la corde), et descends jusqu'à moi.
 \xa
 \rf AD5-9
-\xv Nēk lam̄lam̄heg en : ni-til ni-van|hm{1} me tō ni-wot fr:van|hm{2} aē.
-\xe Tu lances (l'hameçon à l'eau) ; l'Orphie viendra|hm{1} bientôt fs:y|hm{2} mordre.
-\xn You throw (the hook into the water); the garfish will soon come|hm{1} and take the bait (from it).
-\br sais pas bien faire pour fs:y|hm{2}
+\xv Nēk lam̄lam̄heg en : ni-til ni-van1 me tō ni-wot fr:van2 aē.
+\xe Tu lances (l'hameçon à l'eau) ; l'Orphie viendra1 bientôt fs:y2 mordre.
+\xn You throw (the hook into the water); the garfish will soon come1 and take the bait (from it).
+\br sais pas bien faire pour fs:y2
 \rf AD10-4
 \xv Kōyō yow tēy na-tamge tō, ba ne-len̄ en ni-yip fr:van aē.
 \oe conte: natte comme tapis volant
@@ -60074,7 +60093,7 @@ enemy), but in vain.
 comme Locatif), sans mouve^ment spatial ; |fl{d'où} envers, par rapport à
 (qqch)
 \dn indicates that the action is orientated in an abstract manner towards an element X
-(marked as a Locative), without a spatial movement: |fl{thus} towards, to, in terms of
+(marked as a Locative), without a spatial movement: |fl{hence} towards, to, in terms of
 (s.th)
 \rf AD17-2
 \xv Ba so tēy se vitwag so ak na-hap se fr:van aē ?
@@ -60156,7 +60175,9 @@ element (fl:opp. ax:V_without vl:van, passive perception?)
 \ee fl:Cf. fv:et ‘voir’ ~ fv:et_van ‘regarder, observer’; fv:yon̄teg ‘sentir, entendre’ ~
 fv:yon̄teg_van ‘ressentir, se rendre compte’; fv:dēm ‘penser’ ~ fv:dēm_van ‘réfléchir,
 espérer’; fv:ēglal ‘savoir’ ~ fv:ēglal_van ‘comprendre, découvrir’
-\cf hiy|hm{1}|ax{ [3]}
+\cf hiy1
+\ce (3)
+\cn (3)
 \sn 7
 \re
 \we temps
@@ -60204,9 +60225,9 @@ fv:van_hiy_kēy “à eux”), jamais une 1ère (*|vl{van hiy no}
 \dn towards, to (s.o.). Normally accompanies the Dative with a 2nd or 3rd p. (fl:e.g.|fv{van
 hiy nēk} “to you”, 
 \rf AD14-1
-\xv Nēk ne-myōs wo tatal, nēk ta-van|hm{1} vēh fr:van|hm{2} hiy moyu.
-\xe Si tu as envie de te promener, tu n'as qu'à te rendre|hm{1} fs:auprès|hm{2} de ton oncle.
-\xn If you feel like going for a walk, then go over|hm{1} fs:to|hm{2} your uncle.
+\xv Nēk ne-myōs wo tatal, nēk ta-van1 vēh fr:van2 hiy moyu.
+\xe Si tu as envie de te promener, tu n'as qu'à te rendre1 fs:auprès2 de ton oncle.
+\xn If you feel like going for a walk, then go over1 fs:to2 your uncle.
 \rf AD5-17
 \xv Teteh bah, tō Iqet e m̄ōkheg fr:van hiy kē ēgēn.
 \xe Lorsqu'il l'eût sculptée (statue de femme), Iqet lui insuffla la vie [souffla fs:en elle].
@@ -60220,9 +60241,9 @@ hiy nēk} “to you”,
 \xe Donne-le fs:à Gostat.
 \xn Give it fs:to Gostat.
 \rf AD17-2
-\xv Nok van|hm{1} vasem fr:van|hm{2} hiy kōyō, tō kōyō ēglal aē.
+\xv Nok van|hm{1} vasem fr:van2 hiy kōyō, tō kōyō ēglal aē.
 \xe Je vais|hm{1} leur expliquer [|fs{à}|hm{2} eux-deux], afin qu'ils soient au courant.
-\xn I'll explain |hm{1} to them [|fs{to}|hm{2} both of them], so that they'll know.
+\xn I'll go|hm{1} explain to them [|fs{to}|hm{2} both of them], so that they'll know.
 \ue Synt
 \ee S'il est exprimé, l'Objet peut s'intercaler entre fv:van et fv:hiy (fl:ex. |vl{Nok lep van X hiy
 nēk} |fe{Je te donne X}) ; mais le plus souvent, l'Objet est exprimé soit avant fv:van
@@ -60283,7 +60304,7 @@ no fr:van_me !} |fe{Vous m'avez emprunté ma pirogue sans me l'avoir demandé!}
 \en
 \rf AG1-158
 \tb §TIT§ |fb{Hiérarchie dans les directionnels}
-   L'orientation vers une personne (|vl{van}, |vl{me}) est prioritaire sur l'orientation dans l'espace (ex. |vl{hōw}, |vl{hag}|hm{1}). 
+   L'orientation vers une personne (|vl{van}, |vl{me}) est prioritaire sur l'orientation dans l'espace (ex. |vl{hōw}, vl:hag1). 
    fl:Ex. |fv{Nok sey nē-bē vl:hōw li-vinlah vitwag.}  |fe{Je verse de l'eau [en bas] dans une tasse (posée sur la table)}, 
    mais |fv{Nok sey nē-bē vl:van |fs{(??}vl:hōw|fs{)} li-vinlah nōnōm.}  |fe{Je ui:te verse de l'eau dans ta tasse (que tu tiens en main)}.
 \sn 10
@@ -60357,7 +60378,7 @@ vl:van est en passe de devenir une marque neutre de transitivité.
 \ge
 \re
 \he partic
-\we fréquent avec Prohibitif vl:tog|hm{2} + V transitif
+\we fréquent avec Prohibitif vl:tog2 + V transitif
 \de dans l'expression de la défense, fv:van souligne la relation sémantique d'agentivité entre
 Sujet et Objet (?)
 \dn in phrases expressing interdiction, fv:van underlines the semantic relation between
@@ -60469,24 +60490,23 @@ temps [que je restais assis] j'ai soudain entendu un bruit là-bas...
 \xn While you were away in the fields, I stayed here [ax:lit. sitting]; and after a while [that I remained sitting]
 I suddenly heard a noise over there...
 \rf AD16-6
-\xv Tō kōyō fr:vēy-valeh_van_i_vēy-valeh_e, na-raino ni-boel kē nen e ni-yow van hiy
-kē.
+\xv Tō kōyō |fr{vēy-valeh van i vēy-valeh e}, na-raino ni-boel kē nen e ni-yow van hiy kē.
 \xe Ils continuèrent ainsi à se quereller, jusqu'au moment où le rhinocéros, fou de rage, lui sauta dessus.
 \xn They continued to quarrel this way, until the rhinoceros, mad with rage, jumped on him.
 \ee La présence de fv:van après le premier verbe renforce la locution ordinaire ‹V fv:i V
 fv:en›, de même sens (fl:cf. fv:i). fl:Cf. fl:aussi fv:van_i_van_en 'tant et si bien', avec le
-verbe fv:van|hm{1}.
+verbe fv:van1.
 \un
 \en
-\cf van|hm{1} |fs{(4?)}
-\ce Duratif
+\cf van1
+\ce (4) Duratif
 \el POc
 \et *pano
 \nt
 \nq
 \dc 23/Dec/2003
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx van hiy
 \ph βan hij
@@ -60500,13 +60520,15 @@ verbe fv:van|hm{1}.
 \xv Kē ma-van hiy me.
 \xe Il est venu directement.
 \lf Cf.
-\lv hiy|hm{1} |fs{[A3]}
+\lv hiy1A
+\le (3)
+\ln (3)
 \el
 \nt
 \nq
 \dc 27/Jan/2007
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vanvan
 \ph βanβan
@@ -60525,7 +60547,7 @@ verbe fv:van|hm{1}.
 \xv Kē mal vanvan ēgēn !
 \oe bébé
 \xe Ça y est, il sait marcher !
-\ee Rédupl. de fv:van|hm{1}. 
+\ee Rédupl. de fv:van1. 
 \sy tatal
 \cf
 \nt
@@ -60596,7 +60618,7 @@ verbe fv:van|hm{1}.
 \xv Tō kē ni-vap van hiy tita nonon so “…”
 \xe Alors il dit à sa mère: “…”
 \xn And so he said to his mother: "..."
-\cf wo|hm{1}
+\cf wo1
 \ce dire que
 \sn 3
 \de réciter textuelle^ment ‹récit, conte, chant›
@@ -60717,7 +60739,7 @@ En cela, le conte (|fv{na-vap t-am̄ag}) s'oppose aux simples ‘causeries’ su
 \lx vasawyeg
 \ph βasawjɛɣ
 \hm
-\ps adp
+\ps adv
 \rd vasapsawyeg
 \ge négligemment
 \re négligemment ; désinvolture
@@ -60741,7 +60763,7 @@ interlocuteur
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vasem
 \ph βasɛm
@@ -60819,7 +60841,7 @@ interlocuteur
 
 \lx vasgēt
 \ph βasɣɪt
-\ps adp
+\ps adv
 \sn 1
 \dr
 \ge abriter
@@ -60832,7 +60854,7 @@ interlocuteur
 \xv Ni-hiy mino, nēk so tivig vasgēt.
 \xe Les os de mon corps, tu les enterreras pour les mettre à l'abri.
 \ue Synt
-\ee Porte sur le sujet si V|hm{1} est intransitif, sur l'objet si V|hm{1} est transitif.
+\ee Porte sur le sujet si V1 est intransitif, sur l'objet si V1 est transitif.
 \sn 2
 \de (faire V) pour accueillir ‹qqn›, lui souhaiter la bienvenue
 \rf
@@ -60865,7 +60887,7 @@ interlocuteur
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vasuwyon̄
 \ph βasuwjɔŋ
@@ -60916,8 +60938,8 @@ interlocuteur
 \we + directionnel (+ déictique)
 \de être en route dans telle ou telle direction
 \rf
-\xv Ave Wia en? # Vatag yow.
-\xe Où est Wia? # Elle est en route vers la plage.
+\xv Ave Wia en? – Vatag yow.
+\xe Où est Wia? – Elle est en route vers la plage.
 \rf
 \xv Etgoy, imam nōnōm vatag me anen.
 \xe Attention, ton père arrive [est en train de venir vers toi]!
@@ -60936,7 +60958,7 @@ interlocuteur
 \xv Wolwotu, ino vatag.
 \xe À la Deuxième Guerre Mondiale, j'étais déjà né.
 \se
-\ps adp
+\ps adv
 \wr B
 \ge déjà
 \we sens temporel
@@ -60962,8 +60984,8 @@ dirigeant dans telle direction
 \xv Kē lak vatag yow en.
 \xe Il descend vers la plage en dansant.
 \rf
-\xv Ave imam? # Hah vatag me na-mayok.
-\xe Où est papa? # Il est en train d'apporter du manioc (en chemin vers ici, vl:me).
+\xv Ave imam? – Hah vatag me na-mayok.
+\xe Où est papa? – Il est en train d'apporter du manioc (en chemin vers ici, vl:me).
 \sn 2
 \we sens temporel
 \de être déjà en train de (faire V); avoir (fait V) jusqu'à présent
@@ -60981,7 +61003,7 @@ dirigeant dans telle direction
 \nq
 \dc 16/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[a]tah
 \ph βatah
@@ -61029,7 +61051,7 @@ dirigeant dans telle direction
 \rf AP9-36
 \xv No ta-vatgo nonoy vēh.
 \xe Je pourrais bien devenir leur professeur.
-\lf
+\lf 
 
 \se
 \ps vt
@@ -61101,9 +61123,9 @@ composing it.
 \xm Nēk vatne bah nē-gēlqaqa en, tō nēk qoyo ēglal galgalsi na-gatgat.
 \cf ēglal
 \lf Syn.
-\lv lep |fs{(10)}
-\le mémoriser
-\ln memorise
+\lv lepA
+\le (10) mémoriser
+\ln (10) memorise
 \sn 2
 \gr tijim
 \ge enseigner
@@ -61144,14 +61166,14 @@ composing it.
 \xe un chien apprivoisé
 \xn a tame dog
 \lf Syn.
-\lv m̄ey|hm{2}
+\lv m̄ey2
 \el
 \et < °βa-tanau
 \nt
 \nq
 \dc 19/Oct/2003
 \dc 04/Apr/2007
-\dt 22/Dec/2013
+\dt 02/Jul/2016
 
 \lx vatqep
 \ph βatk​͡pʷɛp
@@ -61184,7 +61206,7 @@ puis les a rouverts.
 \lf Syn.
 \lv mitiy
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \we après V de position
@@ -61206,13 +61228,13 @@ fl:ex. corps humain, assiette, tasse.
 \el PNCV
 \et *tabʷa
 \eg lie flat (on)
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et taq
 \nt
 \nq
 \dc 11/Mar/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vava
 \la na-vava
@@ -61400,7 +61422,7 @@ pourquoi donc n'y avez-vous pas touché?
 \lx veg
 \ph βɛɣ
 \wr A
-\ps prép
+\ps prep
 \gr from
 \nt Marque diverses relations obliques…
 \rf
@@ -61439,7 +61461,7 @@ pourquoi donc n'y avez-vous pas touché?
 \xv Ige lōqōvēn kēy tēymat veg welan.
 \xe Les femmes font les prépara^tifs pour le chef.
 \se
-\ps adv
+\ps loc
 \wr B
 \gr
 \ge
@@ -61489,7 +61511,7 @@ homme.
 \nq
 \dc 19/Sep/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vege
 \ph βɛɣɛ
@@ -61507,7 +61529,7 @@ moralement ou physiquement; |fl{d'où} quand même, malgré tout
 Kē wo “Dō van vege, nok et vege kē.”
 \oe conte
 \xe “Attention, mon père, c'est un tueur!” 
-# “Allons-y quand même”, répondit-il, 
+– “Allons-y quand même”, répondit-il, 
 “je veux quand même le voir.”
 \rf
 \xv Na-sam ne siok nonon ma-qal goy lē-n̄ēlmet; ba kē so ni-van vege hōw.
@@ -61665,7 +61687,7 @@ des syntagmes locatifs
 \ph naplɛ
 \a ple
 \a pla
-\ps nop
+\ps n.poss
 \ge bouche
 \re
 \de
@@ -61696,12 +61718,12 @@ d'accueillir les poutres horizontales (ex. fv:na-salwolwol)
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx velqōn̄
 \ph βɛlk​͡pʷʊŋ
 \wr A
-\ps adv
+\ps loc
 \gr oltaem
 \ge toujours
 \re
@@ -61719,9 +61741,9 @@ régulièrement
 \lf Syn.
 \lv tasga
 \lv vaga
-\mr vel-|{ + }qōn̄
+\mr vel- + qōn̄
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \ge
@@ -61732,7 +61754,7 @@ régulièrement
 \nq
 \dc 05/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[e]ne
 \la na-pne
@@ -61775,7 +61797,7 @@ fv:vag ‘fois’, fv:bul ‘groupe de N personnes’, et fv:son̄wul ‘dizaine
 \el PNCV
 \et *vati
 \el POc
-\et *pat|{_}i
+\et *pat-i
 \nt
 \nq
 \dc 14/Feb/2006
@@ -61891,11 +61913,11 @@ fv:vag ‘fois’, fv:bul ‘groupe de N personnes’, et fv:son̄wul ‘dizaine
 \rf AP9-5
 \xv No me-pteg tō ignik Alkon.
 \xe J'ai ramené mon épouse à Gaua.
-\nq
+\nq 
 
 \se veteg
 \wr B
-\ps adp
+\ps adv
 \rd vetveteg
 \nt leveteg ; van veteg ; itôk VETEG = plus que
 \sn 1
@@ -61967,7 +61989,7 @@ quitter X en courant}.
 \nq
 \dc 17/Dec/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[e]tel
 \la na-ptel
@@ -62310,7 +62332,7 @@ premiers nombres :
 \lx vēglal
 \ph βɪɣlal
 \wr A
-\ps adp
+\ps adv
 \ge
 \de forme que prend le verbe fv:ēglal ‘savoir’ en position d'adjoint
 \sn 1
@@ -62351,7 +62373,7 @@ avec une croix].
 \xm vasem vēglal
 \xm ak vēglal
 \xm vap vēglal
-\lf
+\lf 
 
 \se nē-vēglal
 \wr B
@@ -62374,12 +62396,12 @@ avec une croix].
 \nt signal; signe; enseigne; marque (morsure); symbole; adresse...
 \nt ak vêglal= punir; ? expliquer
 \sn
-\mr va-|hm{2} |fs{+} ēglal
+\mr va-2 + ēglal
 \nt
 \nq
 \dc 2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēh
 \ph βɪh
@@ -62418,7 +62440,7 @@ avec une croix].
 \lx vēh
 \hm 2
 \ph βɪh
-\ps int
+\ps interr
 \rd
 \gr hamas
 \ge combien
@@ -62437,7 +62459,7 @@ avec une croix].
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēhbeg
 \ph βɪhᵐbɛɣ
@@ -62480,8 +62502,8 @@ poser une question à ‹qqn›
 \xv Tog vēvēhge meh!
 \xe Arrête de poser trop de questions!
 \rf
-\xv Nok so vēhge nēk ! # Wō na-hap?
-\xe [ax:litt. je veux t'interroger] J'ai une question à te poser. # Oui, quoi?
+\xv Nok so vēhge nēk ! – Wō na-hap?
+\xe [ax:litt. je veux t'interroger] J'ai une question à te poser. – Oui, quoi?
 \rf
 \xv Tog vēhge be-mwumwu nonon / veg imam nonon.
 \xe Ne lui pose pas de questions sur son travail / sur son père.
@@ -62700,7 +62722,7 @@ la cueillette
 \xe Je me suis cueilli quelques pommes.
 \ue
 \ee Terme générique pour les diverses actions de cueillette.
-\cf he|hm{1}
+\cf he1
 \ce cueillir
 \sn 3
 \we +Directionnel (+Datif)
@@ -62759,7 +62781,7 @@ empiler
 \xv Nok a sese en, nok tiltil na-mnēk van a la-haphap a nēk vēl sey hōw a qe so ne-qet,
 ni-hnag, nē-sēm.
 \xe Tout en chantant, je tends la main vers tous les objets que tu (le destinataire du chant) a réunis
-# taros, ignames, monnaie, etc.
+– taros, ignames, monnaie, etc.
 \rf
 \xv Iqet ni-vēl ni-gintatay ne gēvēg en, vēl i vēl, vēl sey van lō-tōti gēvēg en; mōk n-ep
 n̄a aē.
@@ -62790,8 +62812,8 @@ n̄a aē.
 \lt réunir ensemble
 \de regrouper, rassembler ‹plusieurs choses›
 \rf
-\xv “Ami vēl me nu-tutu!” # kēy vēl tiwag me nu-tutu.
-\xe “Apportez-moi des poulets!” # et aussitôt on lui apporta [ax:litt. on réunit ensemble vers-ici] des
+\xv “Ami vēl me nu-tutu!” – kēy vēl tiwag me nu-tutu.
+\xe “Apportez-moi des poulets!” – et aussitôt on lui apporta [ax:litt. on réunit ensemble vers-ici] des
 poulets.
 \lf Syn.
 \lv vēl sey
@@ -62871,7 +62893,7 @@ comme une copie du second, d'où |fv{v}[|fv{ē}]|fv{lēgē}.
 \hm 1
 \ph βɪlɪs
 \wr A
-\ps adp
+\ps adv
 \gr nomo
 \ge seulement
 \re
@@ -62966,10 +62988,10 @@ d'importance, peu importe, c'est égal
 \xe Elle, ça peut encore aller; mais sa sœur, elle est vraiment trop
 orgueilleuse.
 \rf
-\xv Nok so wos mi nu-busmayaw, si so lēg mi na-gayga? # Itōk
+\xv Nok so wos mi nu-busmayaw, si so lēg mi na-gayga? – Itōk
 vēlēs.
 \oe planches
-\xe Je dois les fixer avec des clous, ou bien les attacher avec une corde? #
+\xe Je dois les fixer avec des clous, ou bien les attacher avec une corde? –
 Peu importe / C'est aussi bien.
 \rf
 \xv Dō so van ave? Ino itōk vēlēs.
@@ -63032,7 +63054,7 @@ problème / tout va bien.
 \nq
 \dc 06/Feb/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[ē]lēs
 \hm 2
@@ -63060,7 +63082,7 @@ soit pour le retenir, soit pour l'éliminer
 
 \lx vēli
 \ph βɪli
-\ps adp
+\ps adv
 \va vili
 \gr no_stret
 \ge penché
@@ -63078,7 +63100,7 @@ soit pour le retenir, soit pour l'éliminer
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēlvēl
 \la nē-vēlvēl
@@ -63109,7 +63131,7 @@ soit pour le retenir, soit pour l'éliminer
 \re
 \de séparer ‹plusieurs personnes ou objets›, diviser
 \rf
-\mr vēl|fs{ + }woy
+\mr vēl + woy
 \se
 \ps vi
 \wr B
@@ -63132,12 +63154,12 @@ soit pour le retenir, soit pour l'éliminer
 \nq
 \dc 2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēne~
 \la nē-vēne~
 \ph nɪβɪnɛ
-\ps nop
+\ps n.poss
 \1s nē-vēne-k
 \3s nē-vēna-n
 \he ‡
@@ -63184,13 +63206,13 @@ pays (à nous tous)’
 \el POc
 \et *panua
 \eg inhabited land
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et vōnō
 \nt
 \nq
 \dc 2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēn̄
 \hm 1
@@ -63411,7 +63433,7 @@ surtout à l'exploitation dans le cadre de l'économie horticole.
 \lf ClPos
 \lv ga~
 \le ClPos Comestible
-\ln
+\ln 
 
 \se mayanag bē-vētan
 \ps n
@@ -63439,7 +63461,7 @@ surtout à l'exploitation dans le cadre de l'économie horticole.
 \xv ige vētgi nōk
 \xe ce groupe de gens-là
 \se
-\ps adp
+\ps adv
 \wr B
 \gr
 \de (se déplacer) en foule fl:ou en troupeau
@@ -63450,7 +63472,7 @@ surtout à l'exploitation dans le cadre de l'économie horticole.
 \nq
 \dc 12/Mar/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vētleg
 \ph βɪtlɛɣ
@@ -63529,7 +63551,7 @@ de venir ; |fl{d'où} faire venir, faire aller qqpart
 \la nē-vētne~
 \ph nɪβɪtnɛ
 \wr A
-\ps nop
+\ps n.poss
 \va nē-tne ~
 \gr medel
 \3s nē-vētnan
@@ -63589,19 +63611,18 @@ de venir ; |fl{d'où} faire venir, faire aller qqpart
 \el Mota
 \et vatitnai
 \eg middle, center
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et tÊne~
 \nt
 \nq
 \dc 23/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vētōy
 \la nē-vētōy
 \ph nɪβɪtʊj
-\pc vetoy.jpg
-\nt .G.c:\Alex\photoDico\vetoy.jpg;1.25";.75";JPG
+\pc .G.c:\Alex\photoDico\vetoy.jpg;1.25";.75";JPG
 \ps n
 \gr
 \sn
@@ -63626,7 +63647,7 @@ fv:na-wha
 
 \lx vētqap
 \ph βɪtk​͡pʷap
-\ps adp
+\ps adv
 \gr narasaed
 \sn
 \ge
@@ -63643,7 +63664,7 @@ fv:na-wha
 \nq
 \dc 14/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēvēg
 \ph βɪβɪɣ
@@ -63682,7 +63703,7 @@ fv:na-wha
 \lx vēvēh
 \ph βɪβɪh
 \a
-\ps int
+\ps interr
 \rd
 \gr hamas
 \ge combien
@@ -63703,7 +63724,7 @@ fv:na-wha
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēwē
 \ph βɪwɪ
@@ -63804,7 +63825,7 @@ fv:na-wha
 \xe s'entre-lécher, s'em^brasser avec la langue
 \ue
 \ee Se rencontre aussi dans quelques verbes auj. inanaly^sables: fv:vēy^sas |fe{se rencontrer}
-(fl:cf. vl:sas|hm{1}); fv:vēyhe |fe{(se) joindre}
+(fl:cf. vl:sas1); fv:vēyhe |fe{(se) joindre}
 \sn 2
 \ge
 \re
@@ -63820,7 +63841,7 @@ fv:na-wha
 \xe Les mangues ici sont toutes plus mûres les unes que les autres.
 \rm G2
 \el
-\et <°vári|{_}
+\et <°vári-
 \el POc
 \et *paʀi
 \nt
@@ -63915,7 +63936,7 @@ et brûlées, soit enterrées à quelque distance de la zone habitée.
 \xv vēyhe na-gaqiy
 \xe fixer les rotins (sur le toit)
 \rf
-\xv No mal vēyvēyhe qēt no, ba# na-glēk tateh.
+\xv No mal vēyvēyhe qēt no, ba– na-glēk tateh.
 \oe conte du requin
 \xe J'ai réussi à me reconstituer entière^ment, mais il me manque ma queue.
 \cf bhe
@@ -63953,7 +63974,7 @@ du bras
 \rf AP9-25
 \xv Kamyō Ana mē-vēyleh ba-vakvak tēy tarak.
 \xe Ana et moi nous avons échangé la conduite de la voiture (|ax{i.e.} j'ai pris sa place)
-\mr vēy-|hm{2}|fs{ + }leh|hm{3}
+\mr vēy-2 + leh3
 \sn 2
 \ge
 \re
@@ -63967,13 +63988,13 @@ du bras
 \rf AP9-25
 \xv Isqet n-ēte ni-vēyleh.
 \xe L'année va bientôt changer (c'est bientôt le nouvel an).
-\sy vēy|hm{1}
+\sy vēy1
 \el
 \nt
 \nq
 \dc 18/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēyn̄ih
 \la nē-vēyn̄ih
@@ -64059,7 +64080,7 @@ du bras
 \we sujet non-singulier
 \de se bagarrer, se battre, fl:spéc. à mains nues; |fl{en gén.} se battre
 \rf
-\mr vēy- |fs{+} tit
+\mr vēy- + tit
 \se nē-vēytitit
 \wr B
 \ps n
@@ -64079,19 +64100,19 @@ du bras
 \nq
 \dc 26/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vēyvēy
 \ph βɪjβɪj
 \hm
-\ps adp
+\ps adv
 \gr
 \ge
 \de en faisant un détour, de façon à éviter ‹qqn›
 \rf AG3-151
 \xv Nēk et, kē mō-m̄ōl vēyvēy den gēn.
 \xe Tu as vu? Elle a fait un détour pour nous éviter.
-\ee Rédup. de fv:vēy|hm{1}.
+\ee Rédup. de fv:vēy1.
 \lf
 \se ōl vēyvēy
 \ps vt
@@ -64121,7 +64142,7 @@ parents par alliance s'appelle ‘gâteau’, ou porte un nom qui y ressemble ph
 \nq
 \dc 18/Sep/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[i]din
 \ph βiⁿdin
@@ -64181,7 +64202,7 @@ transporter
 \sy vēyvēy
 \se vilig
 \wr B
-\ps adp
+\ps adv
 \ge
 \re
 \de (boire, manger qqch) en évitant tel ou tel aliment
@@ -64197,7 +64218,7 @@ transporter
 \ps n
 \dr
 \ge
-\re
+\re 
 
 \lt évite^ment
 \de tabou sur les noms
@@ -64206,7 +64227,7 @@ transporter
 \cf qēlēg
 \nt
 \tl |{tab}|fb{Le tabou sur les noms} £|{tab}[|vl{na-plig}*]
-Le tabou sur les noms (vl:na-plig ‘évite^ment’) concerne les relations de parenté par alliance (fl:cf. |vl{qēlēg}), pour lesquelles le plus grand respect (vl:dēmap) est de mise: beaux-parents (vl:qēlge~), gendre et bru (vl:tawayig), beaux-frères (vl:wulus) ou belles-sœurs (vl:wuluk) # à l'exception de vl:namas (HB ~ WZ).
+Le tabou sur les noms (vl:na-plig ‘évite^ment’) concerne les relations de parenté par alliance (fl:cf. |vl{qēlēg}), pour lesquelles le plus grand respect (vl:dēmap) est de mise: beaux-parents (vl:qēlge~), gendre et bru (vl:tawayig), beaux-frères (vl:wulus) ou belles-sœurs (vl:wuluk) – à l'exception de vl:namas (HB ~ WZ).
 Que la personne soit présente ou non, il m'est interdit de prononcer son nom en public. L'interdit est même phonétique: ainsi, je dois également éviter de prononcer ce nom à propos d'une personne homonyme, voire tout mot qui y ressemble. Ainsi, si mon beau-frère s'appelle fn:Womayok ‘manioc’, je dois rayer le mot ‘manioc’ de mon vocabu^laire, et désor^mais y substituer un syno^nyme, ou un mot de mon invention (fl:ex. fn:wo-yayah ‘râpage’): ce terme sera pour moi un “terme d'évite^ment” (vl:no-hohole_vēyvēy, fl:cf. vl:vēyvēy). 
 Si j'enfreins cette règle du tabou sur les noms, je suis passible d'une amende sur la parenté (vl:yēqyēq). De nos jours, la règle donne souvent lieu à des plaisan^teries entre amis. Ainsi, on cherchera à me faire prononcer les noms qui me sont interdits, et si je commets la faute de les prononcer, on s'exclamera |vl{Kuy na-mtig!} “Va croquer du coco!” (fl:Cf. vl:kuy*).
 \el
@@ -64214,7 +64235,7 @@ Si j'enfreins cette règle du tabou sur les noms, je suis passible d'une amende 
 \nq
 \dc 18/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[i]lih
 \la na-plih
@@ -64262,7 +64283,7 @@ le domaine animal ou végétal
 \xe écorce de la noix de coco (que l'on a écorcée, vl:goh)
 \rf AG2-20
 \xv ni-vin geyegyeh
-\xe coquille vide de noix de coco (que l'on a râpée, |vl{geyeh}) # ax:Cf. vl:vinlah
+\xe coquille vide de noix de coco (que l'on a râpée, |vl{geyeh}) – ax:Cf. vl:vinlah
 \rf
 \xv ni-vin taytay
 \xe copeaux de bois (que l'on a taillé, vl:taytay)
@@ -64300,9 +64321,9 @@ fruit
 \rf
 \cf
 \el Mota
-\et vin|{_}gar
+\et vin-gar
 \eg cockle-shell
-\el PNCV,|{~}PEO
+\el PNCV, PEO
 \et *kaʀi
 \eg bivalve sp., scraper
 \nt
@@ -64324,7 +64345,7 @@ fruit
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -64338,7 +64359,7 @@ fruit
 \lx v[i]ni~
 \la ni-pni~
 \ph nipni
-\ps nop
+\ps n.poss
 \gr skin
 \sn 1
 \ge peau
@@ -64372,7 +64393,7 @@ fruit
 \nq
 \dc 09/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vinlah
 \la ni-vinlah
@@ -64404,7 +64425,7 @@ d'une telle coupe
 \xe Tu as bu combien de coupes (de kava)?
 \ue Rem
 \ee Pour les récipients modernes, on préfère les termes fv:na-bankēn
-‘tasse (avec anse)’ et fv:ni-ḡilas (<|{~}fn:glass) ‘verre’.
+‘tasse (avec anse)’ et fv:ni-ḡilas (< fn:glass) ‘verre’.
 \sn 3
 \ge rotule
 \re
@@ -64421,7 +64442,7 @@ d'une telle coupe
 \cn knee
 \el ax:Cf.
 \et vin
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *lasa
 \eg drinking cup made of coconut half-shell
 \nt
@@ -64456,7 +64477,7 @@ d'une telle coupe
 \la ni-psi~
 \ph nipsi
 \hm
-\ps nop
+\ps n.poss
 \gr kan
 \ge vulve
 \he vulg
@@ -64473,7 +64494,7 @@ d'une telle coupe
 \nq
 \dc 23/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[i]sipteg
 \ph βisiptɛɣ
@@ -64572,7 +64593,7 @@ d'une telle coupe
 \rm
 \xm
 \ee Nom à valeur de collectif ; la désignation d'une étoile isolée, par ex. en dessin, se fera avec
-la périphrase fv:na-mte_vit (fl:Cf. fv:mte~|hm{2}).
+la périphrase fv:na-mte_vit (fl:Cf. fv:mte~2).
 \sd
 \et <°vítu
 \el POc
@@ -64593,7 +64614,7 @@ la périphrase fv:na-mte_vit (fl:Cf. fv:mte~|hm{2}).
 \gn wan
 \nt sens général "un" > quasi article "Kê na-lqôvên t-Avay vitwag" ; kôyô togtog le-pnô vitwag =
 dans le même village
-\mr vE- |fs{+} tiwag
+\mr vE- + tiwag
 \cf tIwag
 \ce un, ensemble
 \sn 1
@@ -64725,7 +64746,7 @@ non-spécifique’)
 \rf
 \xv Vitwag se: talōw no ta-van vēste me.
 \xe Encore une chose (un dernier point): demain, je ne pourrai pas venir.
-\lf
+\lf 
 
 \se mey vitwag
 \ps expr.adj
@@ -64749,7 +64770,7 @@ non-spécifique’)
 \nq
 \dc 14/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[o]do
 \la na-pdo
@@ -64772,7 +64793,7 @@ non-spécifique’)
 
 \lx vohog
 \ph βɔhɔɣ
-\ps adv
+\ps loc
 \gr
 \sn
 \ge seulement
@@ -64792,7 +64813,7 @@ non-spécifique’)
 \nq
 \dc 04/Jul/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[o]nog
 \ph βɔnɔɣ
@@ -64807,7 +64828,7 @@ non-spécifique’)
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[o]n̄on
 \ph βɔŋɔn
@@ -64882,7 +64903,7 @@ kēy lēs te-muy bo-votvot ēgēn.
 \rf AG4-95
 \cf
 \el Mota
-\et va|{_}togo
+\et va-togo
 \eg to fit the head of an arrow into the reed
 \el PNCV
 \et *tok(a,o)
@@ -64945,7 +64966,7 @@ kēy lēs te-muy bo-votvot ēgēn.
 \xe scier en diagonale
 \lf Empr.
 \lv so
-\se n-age voyopyot |fs{(}qētēnge|fs{)}
+\se n-age voyopyot (qētēnge)
 \ps n
 \ge tronçonneuse
 \re
@@ -64958,7 +64979,7 @@ kēy lēs te-muy bo-votvot ēgēn.
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx v[o]yoy
 \ph βɔjɔj
@@ -65189,12 +65210,12 @@ des gestes (fl:opp. fv:damti ‘faire partir qqn en le pourchassant’)
 \lv am̄e
 \lv totogyeg
 \le premier
-\mr vōyō|fs{ + }-negi
+\mr vōyō + -negi
 \nt
 \nq
 \dc 10/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx vu
 \la nu-vu
@@ -65220,7 +65241,7 @@ Le terme vl:nu-vu, lui, désigne une puissance surnaturelle invisible, dépourvu
 Si les esprits vl:nu-vu (tel le créateur mythique vl:Iqet*) existent depuis l'origine des temps, les démons vl:na-tmat ne sont apparus qu'avec les hommes mortels. Dans la religion chrétienne, le terme vl:nu-vu désigne le Saint-Esprit, vl:na-tmat le Diable.
 \sn 2
 \he
-\we +|{~}nom d'action
+\we + nom d'action
 \de puissance surnatu^relle susceptible d'investir une personne pendant un
 certain temps, et associée à tel ou tel compor^tement; |fl{d'où}
 humeur à faire qqch, inclinaison personnelle vers tel ou tel
@@ -65336,7 +65357,7 @@ maladie, le délire, la rage, etc.
 
 \lx Vuyes
 \ph βujɛs
-\ps loc
+\ps top
 \gr Vureas
 \sn
 \ge
@@ -65358,7 +65379,7 @@ de ses formes indigènes: vl:Vureas (forme du mota), vl:Vurës (forme du vurës)
 \nq
 \dc 08/Mar/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wak
 \ph wak
@@ -65476,7 +65497,7 @@ de ses formes indigènes: vl:Vureas (forme du mota), vl:Vurës (forme du vurës)
 \xe retirer l'écorce d'un arbre
 \se walak
 \wr B
-\ps adp
+\ps adv
 \gr
 \de (faire V) dans une posture ouverte
 \rf AP5-26
@@ -65494,7 +65515,7 @@ de ses formes indigènes: vl:Vureas (forme du mota), vl:Vurës (forme du vurës)
 \nq
 \dc 22/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx w[a]lawlē
 \la na-wlawlē
@@ -65783,20 +65804,20 @@ partis tous ensemble.
 en contradiction directe avec une croyance exprimée dans le contexte.
 |fl{D'où} ‘mais en fait’, ‘mais en réalité’
 \rf
-\xv Kē wo “Tateh, imam, no et-vanvan te hag!” # ba wele wo kē ni-galgal ēwē veg kē
+\xv Kē wo “Tateh, imam, no et-vanvan te hag!” – ba wele wo kē ni-galgal ēwē veg kē
 mal van hag en.
-\xe “Non, mon père, s'écria-t-il, je ne suis jamais allé dans ce village!” # en réalité, c'était un
+\xe “Non, mon père, s'écria-t-il, je ne suis jamais allé dans ce village!” – en réalité, c'était un
 mensonge, car il s'y était déjà rendu.
 \rf alx
 \xv Nēk ma-gal no so nēk mahgē, ba wele wo kōmyō qulqul nōnōm!
 \xe Tu m'as menti en prétendant que tu étais tout seul: en réalité, tu étais avec ta petite amie!
 \rm
-\xm Kēy dēm so ni-tilto ne tutu # ba wele wo kēy mē-vēl en, ni-tli m̄e.
-\xf Ils croyaient qu'il s'agissait d'œufs de poule # mais en réalité, ce qu'ils avaient ramassé là, c'étaient des
+\xm Kēy dēm so ni-tilto ne tutu – ba wele wo kēy mē-vēl en, ni-tli m̄e.
+\xf Ils croyaient qu'il s'agissait d'œufs de poule – mais en réalité, ce qu'ils avaient ramassé là, c'étaient des
 œufs de serpent de mer.
 \rf
-\xv Kēy dēm so na-day # ba wele wo, et-day te : ne-geg ēwē.
-\xe Ils crurent que c'était une flaque de sang # mais en réalité, ce n'était pas du sang, ce
+\xv Kēy dēm so na-day – ba wele wo, et-day te : ne-geg ēwē.
+\xe Ils crurent que c'était une flaque de sang – mais en réalité, ce n'était pas du sang, ce
 n'étaient que des pétales d'amarante.
 \nt
 \nq
@@ -66059,7 +66080,7 @@ Le jour du mariage, la famille de l'homme offre à celle de la femme des cocos g
 \sy leg
 \cf lgē
 \ce
-\cn
+\cn 
 
 \se wēl na-tmat
 \ps voi
@@ -66260,7 +66281,7 @@ et les chevilles d'attache.
 \lx w{ē}ti~
 \la nē-wti~
 \ph nɪwti
-\ps nop
+\ps n.poss
 \va ni-wti
 \pl nē-wtēwti
 \gr
@@ -66282,7 +66303,7 @@ et les chevilles d'attache.
 \nq
 \dc 02/Mar/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wēy
 \la °na-wēy
@@ -66298,7 +66319,7 @@ et les chevilles d'attache.
 \so Edgar
 \lf
 \el
-\et <°ná|{~}wowóru
+\et <°ná wowóru
 \el Mota
 \et wowor
 \eg a round fish-trap
@@ -66350,7 +66371,7 @@ et les chevilles d'attache.
 \cf tataqnet
 \el Mota
 \et wirita
-\el PNCV,|{~}POc
+\el PNCV, POc
 \et *kuʀita
 \nt
 \nq
@@ -66430,7 +66451,7 @@ textes traditionnels, on compte souvent les jours par cinq ou dix.
 \lx w[i]n̄i~
 \la ni-wn̄i~
 \ph niwŋi
-\ps nop
+\ps n.poss
 \1s ni-wn̄i-k
 \3s nē-wn̄ē-n
 \gr jin
@@ -66442,7 +66463,7 @@ textes traditionnels, on compte souvent les jours par cinq ou dix.
 \rf AP9-38
 \rf AP11-86
 \el Mota
-\et wun̄i|{_}u
+\et wun̄i-u
 \eg beard, chin
 \el PNCV
 \et *kumʷi
@@ -66452,7 +66473,7 @@ textes traditionnels, on compte souvent les jours par cinq ou dix.
 \nq
 \dc 12/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wis
 \la ni-wis
@@ -66748,7 +66769,7 @@ assentiment
 
 \lx wolat
 \ph wɔlat
-\ps adp
+\ps adv
 \rd
 \gr krosem
 \ge traversant
@@ -66765,7 +66786,7 @@ chemin à autrui
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wolkokon̄ay
 \la no-wolkokon̄ay
@@ -66781,7 +66802,7 @@ chemin à autrui
 \sc Caesalpi^nia major
 \bb Vienne (1982: 582)
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge kombtri
@@ -66945,8 +66966,8 @@ specific leaf (fv:no-yogeh^myaw), and coral lime (fv:na-laem)
 \ee Analogie de forme avec le fruit du tamanou, |fv{na-mwōy} (fl:Cf. |vl{bōwōy}).
 \lf
 \el Mota
-\et pawura|{_}
-\el ax:Cf.|{~}Mtp
+\et pawura-
+\el ax:Cf. Mtp
 \et b[ō]wōy
 \nt
 \nq préf. wô ou wo ??
@@ -67039,7 +67060,7 @@ tō welan e ni-tig ketket hag tō ni-toytoy ēgēn.
 \el Mota
 \et wona
 \eg a stone platform+; a fish fence
-\tl |{tab}|fb{Les tribunes de pierre}  [|vl{won}|hm{1}]
+\tl |{tab}|fb{Les tribunes de pierre}  [vl:won1]
 Les mythes et légendes représentent souvent les grands chefs d'autrefois dressés sur une estrade de pierre, pour haranguer (vl:toytoy) la foule de leurs sujets lors des cérémonies importantes (fl:cf. vl:kolkol).
 Si ces tribunes de pierre n'existent plus de nos jours, on peut cependant en voir les vestiges archéologiques dans certains sites d'anciens villages (|fv{no-wonwon}), aujourd'hui recouverts par la végétation (fl:ex. fi:Tavalwowoh, près d'Aplow).
 \nt
@@ -67070,7 +67091,7 @@ rembourrer ‹qqch›
 nouveau les morceaux
 \rf
 \xv Na-myaw me-lep ni-gintatay, tō kē ni-won na-taqm̄ē qētēnge nen en. Kē
-mo-won, mo-won, mo-won, won won won won qēt wah # kē ni-vētgiy
+mo-won, mo-won, mo-won, won won won won qēt wah – kē ni-vētgiy
 tenenen lok hag!
 \oe Iqet a évidé un arbre pour s'y tailler sa pirogue
 \xe L'Araignée ramasse les copeaux, et se met à reconstituer le tronc d'arbre. Une fois
@@ -67096,7 +67117,7 @@ complètement, grâce à ce palmier.
 \le ressusciter
 \lv vaēh
 \le guérir
-\tl |{tab}|fb{Une patiente résurrection}   [vl:won|hm{2}]
+\tl |{tab}|fb{Une patiente résurrection}   [vl:won2]
 Dans plusieurs contes, un héros meurt, avant d'être patiemment ressuscité par une sorcière (vl:magtō) bienveillante. Loin d'être immédiat, le retour à la vie n'est possible qu'après un lent processus magique de reconstitution du corps (vl:won ‘rétablir l'intégrité de qqch’).
 La sorcière applique des feuilles magiques (|vl{nē-tēnge}) sur chacune des parties du corps, les unes après les autres, de manière à les ranimer successivement. Après cinq jours, le défunt finit par retrouver la vie (|vl{ēh lok}).
 |vl{Kē mo-won nēk bō-qōn̄ tēvēlēm. Lō-qōn̄ tēvēlēm-negi e tō nēk ēh lok.} ‘|fe{Pendant cinq jours, elle t'a reconstitué. Et puis, le cinquième jour, tu as retrouvé la vie.}’
@@ -67222,7 +67243,7 @@ métaphoriquement une obstruction (du corps ou de l'esprit)
 \gr
 \sn 1
 \re
-\de synonyme de fv:no-won|hm{1} ‘podium, tribune de pierre’
+\de synonyme de fv:no-won1 ‘podium, tribune de pierre’
 \sd Hist
 \rf
 \xv Kē ni-hag hōw lo-wonwon nonon welan, tō kē ni-toytoy goy.
@@ -67253,7 +67274,7 @@ de pierres (tribune, murets, fours à pierre)
 \gr fulap
 \ge complet
 \ue
-\ee Forme rédupliquée de fv:won|hm{2} ‘rendre qqch complet’
+\ee Forme rédupliquée de fv:won2 ‘rendre qqch complet’
 \sn 1
 \de plein, complet, qui a retrouvé son intégrité après l'avoir perdue
 \rf
@@ -67298,7 +67319,7 @@ et-mahay hōn te.
 \nt ___________________________
 \nt
 \se
-\ps adp
+\ps adv
 \wr B
 \we après un chiffre rond
 \de tout rond, exactement
@@ -67310,7 +67331,7 @@ et-mahay hōn te.
 \nq
 \dc 23/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wonyeg
 \ph wɔnjɛɣ
@@ -67403,7 +67424,7 @@ losange
 
 \lx Wopnō
 \ph wɔpnʊ
-\ps loc
+\ps top
 \rd
 \gr
 \sn
@@ -67421,13 +67442,12 @@ losange
 \nq nom de Santo??
 \dc 17/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wopyak
 \la no-wopyak
 \ph nɔwɔpjak
-\pc wopyak.jpg
-\nt .G.c:\Alex\photoDico\wopyak.jpg;1.1";1.37";JPG
+\pc .G.c:\Alex\photoDico\wopyak.jpg;1.1";1.37";JPG
 \ps n
 \sn 1
 \gr nalake
@@ -67607,13 +67627,15 @@ large.
 \oe chant
 \xe Womtelo, tu m'es né pour la première fois (tu es mon premier enfant).
 \lf Cf.
-\lv lō |ax{[A5]}
+\lv lō1
+\le (5)
+\ln (5)
 \nt
 \nt
 \nq
 \dc 25/Jul/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wot
 \hm 4
@@ -67862,7 +67884,7 @@ même façon pendant un certain temps
 \lx woy
 \hm 1
 \ph wɔj
-\ps adp
+\ps adv
 \gr nomo
 \sn 1
 \ge seulement
@@ -67886,12 +67908,12 @@ même façon pendant un certain temps
 \lf
 \el Mota
 \et wora
-\eg only, merely, in|{~}vain
+\eg only, merely, in vain
 \nt
 \nq
 \dc 19/Mar/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx woy
 \hm 2
@@ -67923,7 +67945,7 @@ même façon pendant un certain temps
 \lx woy
 \hm 3
 \ph wɔj
-\ps adp
+\ps adv
 \rd woywoy
 \gr
 \sn
@@ -67937,7 +67959,7 @@ même façon pendant un certain temps
 \nq
 \dc 19/Mar/2006
 \dc 19/Mar/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx woyoy
 \la no-woyoy
@@ -68095,7 +68117,7 @@ même façon pendant un certain temps
 \xe Avec le vl:nō-wōit, on empoisonne le poisson pour le tuer
 \xn
 \sd Bot
-\et <°wúa|{_}wútu
+\et <°wúa-wútu
 \el Mota
 \et (wo)vutu
 \eg
@@ -68282,8 +68304,8 @@ lune
 \xe ce mois-ci
 \xn
 \rf AG1-62 ; AG4-62 ; AG3-151
-\xv Nēk mal tog vatag me gōh nō-wōl vēvēh? |{endash} Nō-wōl vitwag woy ēwē.
-\xe Depuis combien de mois es-tu ici ? |{endash} Juste un mois.
+\xv Nēk mal tog vatag me gōh nō-wōl vēvēh? – Nō-wōl vitwag woy ēwē.
+\xe Depuis combien de mois es-tu ici ? – Juste un mois.
 \xn
 \rf
 \xv Kōyō so leg l-ulsi wōl gōh, si so lō-wōl itan.
@@ -68317,9 +68339,9 @@ fv:wōl: ex. |fv{lō-wōl Februare} |fe{en février}, etc.
 \sd Tps
 \cf ēte
 \ce année
-\cf ba|hm{2}
+\cf ba2
 \ce date
-\cn
+\cn 
 
 \se
 \ps vi
@@ -68327,7 +68349,7 @@ fv:wōl: ex. |fv{lō-wōl Februare} |fe{en février}, etc.
 \ur mois
 \de passer, s'écouler
 \rf
-\xv Nō-wōl vōyō ni-wōl goy ewo |{endash}
+\xv Nō-wōl vōyō ni-wōl goy ewo –
 \xe Quand deux mois auront passé (on en reparlera)...
 \xn
 \rm
@@ -68337,7 +68359,7 @@ fv:wōl: ex. |fv{lō-wōl Februare} |fe{en février}, etc.
 \nq
 \dc 2001
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wōlan̄
 \la nō-wōlan̄
@@ -68508,7 +68530,7 @@ hommes, et le volley-ball pour tous.
 \lf Cf.
 \lv qētbuhu~
 \le doigt
-\el ax:Cf.|{~}Mtp
+\el ax:Cf. Mtp
 \et nuy
 \nt
 \nq
@@ -68594,11 +68616,11 @@ doit être dirigée vers les autres joueurs.
 \nq quel coquillage??
 \cf sēm
 \so G3-145
-\mr wō-|hm{3} |fs{+} sēm
+\mr wō-3 + sēm
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx wōswōs
 \ph wʊswʊs
@@ -68775,7 +68797,7 @@ John ni-wōw te mu-n, van veteg...
 \cf ep
 \et <°wúawúa
 \el Mota
-\et wuwu|{_}a
+\et wuwu-a
 \el PNCV
 \et *avu
 \el POc
@@ -68877,7 +68899,7 @@ de syntagme nominal; prédicat numéral; etc.
 \et wura
 \eg
 \el PNCV
-\et *kura|{_}ti
+\et *kura-ti
 \eg
 \el POc
 \et *kurat
@@ -69048,8 +69070,7 @@ tête de narave. ››› CORRECTION : plutôt Womtelo tatoue Anna ??
 \lx w{u}met
 \la nu-wmet
 \ph nuwmɛt
-\pc wUmet.jpg
-\nt .G.c:\Alex\photoDico\wUmet.jpg;1.5";.7";JPG
+\pc .G.c:\Alex\photoDico\wUmet.jpg;1.5";.7";JPG
 \ps n
 \sn 1
 \ge
@@ -69078,7 +69099,7 @@ na-tbē, kēy ha nē-bē na-ma-y…
 
 \lx wun
 \ph wun
-\ps adv
+\ps loc
 \gr ating
 \sn
 \ge
@@ -69103,6 +69124,7 @@ na-tbē, kēy ha nē-bē na-ma-y…
 \nq
 \dc 16/Dec/2003
 \dc 04/Apr/2007
+\dt 02/Jul/2016
 
 \lx wut
 \la °na-wut
@@ -69229,7 +69251,7 @@ soit aux classificateurs possessifs (ex. fv:ga~)
 \rn
 \dn their
 \rf
-\xv Kēy van muwumwu nono-|ub{y}.
+\xv Kēy van muwumwu nono-|fr{y}.
 \xe Ils se rendent à leur travail.
 \xn
 \rm
@@ -69250,7 +69272,7 @@ soit aux classificateurs possessifs (ex. fv:ga~)
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx ya-
 \ph ja
@@ -69320,7 +69342,7 @@ soit aux classificateurs possessifs (ex. fv:ga~)
 \xv Nēk ma-yak na-bankēn ba-hap?
 \xe Pourquoi as-tu pris la tasse ?
 \se
-\ps adp
+\ps adv
 \wr C
 \rd yakyak
 \gr tekemaot
@@ -69446,7 +69468,7 @@ tō me !} |fe{Cela fait longtemps que je suis (tombé) malade !}
 \nq
 \dc 17/Sep/2002
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yan̄
 \la
@@ -69583,24 +69605,10 @@ for harvest…
 \rm
 \xm yap nē-lētes
 \nt tirer, écrire, dessiner; yapyap tamat; yap goy= retenir la maison / recopier...
-\se na-yapyap
-\ps n
-\de nom dérivé de fv:yap
-\sn 1
-\de pêche à la ligne; technique de pêche
-\rf
-\xv Nok so hole gatay se na-yapyap mōmō vitwag hōw M̄otlap en.
-\xe Je vais parler au sujet d'une technique de pêche au poisson typique de Mwotlap.
-\sn 2
-\de écriture; orthographe
-\rf
-\xv Kēy et-ēglal te na-yapyap to-M̄otlap.
-\xe Il ne connaissent pas bien l'orthographe du mwotlap.
-\nt
 \nq
 \dc 24/Oct/2003
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 21/Jun/2016
 
 \lx yap
 \la na-yap
@@ -69651,7 +69659,7 @@ for harvest…
 \dn
 \rf
 \cf
-\et <°ráve|{_}ŋísa
+\et <°ráve-ŋísa
 \el Mota
 \et n̄in̄isa
 \el PNCV
@@ -69661,6 +69669,27 @@ for harvest…
 \nq
 \dc 04/Apr/2007
 \dt 28/Mar/2010
+
+\lx yapyap
+\la na-yapyap
+\ps n
+\de nom verbal de fv:yap1
+\sn 1
+\de pêche à la ligne; technique de pêche
+\rf
+\xv Nok so hole gatay se na-yapyap mōmō vitwag hōw M̄otlap en.
+\xe Je vais parler au sujet d'une technique de pêche au poisson typique de Mwotlap.
+\sn 2
+\de écriture; orthographe
+\rf
+\xv Kēy et-ēglal te na-yapyap to-M̄otlap.
+\xe Il ne connaissent pas bien l'orthographe du mwotlap.
+\nt
+\el
+\nt
+\nq
+\dc 21/Jun/2016
+\dt 21/Jun/2016
 
 \lx yatkel
 \ph jatkɛl
@@ -69711,12 +69740,12 @@ for harvest…
 \rf
 \rm alx = inanimé
 \xm Yatkelgi no n-ēglal, yatkelgi tateh.
-\mr ya- |fs{+} t[e]kel |fs{+} |{_}gi
+\mr ya- + t[e]kel + -gi
 \nt
 \nq
 \dc 12/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yaveg
 \ph jaβɛɣ
@@ -69761,7 +69790,7 @@ ouverture étroite
 \sd Bot
 \el POc
 \et *rara
-\ec < PMP *d|hm{2}apd|hm{2}ap
+\ec < PMP *d2apd2ap
 \nt
 \nq
 \dc 09/Jul/2002
@@ -69873,7 +69902,7 @@ c'est en effet avec ces fibres que les hommes allument le feu.
 
 \lx yeghuquy
 \ph jɛɣhuk​͡pʷuj
-\ps adp
+\ps adv
 \dr from nating
 \sn 1
 \he
@@ -69915,7 +69944,7 @@ croissaient inutilement! Ses taros grandissaient inutilement!
 \nq
 \dc 25/Jul/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yeh
 \hm 1
@@ -69951,7 +69980,7 @@ croissaient inutilement! Ses taros grandissaient inutilement!
 \lf Intsf.
 \lv tewiwi
 \se
-\ps adp
+\ps adv
 \wr B
 \we après adjectif
 \de Comparatif de supériorité: davantage, plus (que, fv:den)
@@ -69968,7 +69997,7 @@ qu'elle.
 \sy veteg
 \nt
 \se tiy… yeh
-\ps adp
+\ps adv
 \gr
 \ge
 \re
@@ -69986,7 +70015,7 @@ qu'elle.
 \xm Ni-tiy wē yeh, so…
 \xm Nēk et mey a so ni-tiy qagqag yeh den kēy en?
 \xm mey ni-tiy lawlaw a na-lawlaw a na-lawlaw yeh
-\nt <|{~}°(a)rásu
+\nt < °(a)rásu
 \el Mota
 \et (a)rasu
 \eg far
@@ -69994,7 +70023,7 @@ qu'elle.
 \nq
 \dc 08/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yeh
 \hm 2
@@ -70007,7 +70036,7 @@ qu'elle.
 \rf AG4-60 !!
 \xv
 \rm
-\xm Kēy me-yeh nē-bē nen ma-van van van van, nē-bē nen ma-mah #
+\xm Kēy me-yeh nē-bē nen ma-van van van van, nē-bē nen ma-mah –
 \cf
 \el PNCV
 \et *rasu
@@ -70305,7 +70334,7 @@ fruits›
 \u i- yē[int]
 \a hē
 \va hē
-\ps int
+\ps interr
 \rd
 \gr huia
 \ge Int:qui
@@ -70324,7 +70353,7 @@ fruits›
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yēdēp
 \la nē-yēdēp
@@ -70447,7 +70476,7 @@ fruits›
 \lx yēpyep
 \ph jɪpjɛp
 \a yēpyep
-\ps adp
+\ps adv
 \rd
 \ge
 \re
@@ -70464,7 +70493,7 @@ fruits›
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yētyēt
 \la nē-yētyēt
@@ -70611,8 +70640,8 @@ envoler fl:ou disparaître qqch)
 \lv weyeh
 \le souffler
 \el PNCV
-\et *iri|{_}vi
-\eg fan|{~}(n,|{~}v)
+\et *iri-vi
+\eg fan (n, v)
 \el POc
 \et *irip
 \nt
@@ -70647,7 +70676,7 @@ forte chaleur, soit pour raviver le feu.
 \hm 1
 \ph najɔ
 \a yo
-\ps nop
+\ps n.poss
 \ge feuille
 \re
 \ur végétal
@@ -70664,7 +70693,7 @@ forte chaleur, soit pour raviver le feu.
 \ee Plusieurs verbes correspondent à l'action d'arracher une feuille, selon la manière exacte
 de la cueillir: fv:dey ‘cueillir en cassant à la base du limbe (chou fv:na-tyōp)’; fv:hap
 ‘cueillir en cassant au milieu du pétiole (chou fv:na-tyōp, Cycas fv:ne-m̄el)’;
-fv:wōl|hm{1} ‘cueillir en cassant à la base du pétiole (chou fv:na-tyōp)’.
+fv:wōl1 ‘cueillir en cassant à la base du pétiole (chou fv:na-tyōp)’.
 \rf AG3-121
 \en
 \sd Bot
@@ -70673,7 +70702,7 @@ fv:wōl|hm{1} ‘cueillir en cassant à la base du pétiole (chou fv:na-tyōp)�
 \nt
 \nq
 \dc 03/Apr/2006
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yo-
 \hm 2
@@ -70704,7 +70733,7 @@ lorsque cette feuille reçoit des usages particuliers
 \ms no-
 \rd
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge
@@ -70727,7 +70756,7 @@ fv:yōōy (?)
 \ee
 \rf
 \ee
-\mn
+\mn 
 
 \sn
 \rf
@@ -70812,7 +70841,7 @@ cahier, livre (|fl{Cf. empr.} fv:bōk)
 \sc Cleroden^dron inerme
 \rf
 \bb Vienne (1982: 586)
-\cf m̄e|hm{2}
+\cf m̄e2
 \nt
 \nq
 \dc 31/Mar/2007
@@ -70854,7 +70883,7 @@ cahier, livre (|fl{Cf. empr.} fv:bōk)
 \de Collectif humain au Duel
 \lf Cf.
 \lv ige
-\mr yō|fs{ + }-ge
+\mr yō + -ge
 \sn 1
 \we +N sans article
 \ur hum
@@ -70891,7 +70920,7 @@ cahier, livre (|fl{Cf. empr.} fv:bōk)
 \nq
 \dc 21/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yogehmyaw
 \la no-yogehmyaw
@@ -71127,7 +71156,7 @@ l'inflorescence
 \ps sb
 \va no-m̄oyas
 \gr misis
-\mr yo-|fs{ + }m̄oyas
+\mr yo- + m̄oyas
 \sn 1
 \ge
 \he arch
@@ -71159,7 +71188,7 @@ l'inflorescence
 \nq
 \dc 22/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yom̄taqgaga
 \la no-yom̄taqgaga
@@ -71212,7 +71241,7 @@ dans une corbeille réservée à cet effet, en signe de gratitude
 envers le poète et ses chanteurs
 \sd Mus
 \rf
-\xv Mey a# kem ōl na-hami tō suwyeg le-tbey en, mey nen kēy ōl so
+\xv Mey a– kem ōl na-hami tō suwyeg le-tbey en, mey nen kēy ōl so
 “yon̄-eh” : nēk yon̄ na-he.
 \xe Le moment où vous nous entendez prononcer vos noms, et où vous venez poser
 (de l'argent) dans la corbeille, c'est ce qu'on appelle “ouïr le chant”: c'est là que tu
@@ -71228,7 +71257,7 @@ tenir tête, s'obstiner
 \xe Je t'avais interdit d'aller là-bas, et tu m'as désobéi! [ax:litt. tu as désobéi à mes
 instructions]
 \rf
-\xv Kē et-bus te imam kōyō tita # kē ni-yon̄ vavaleh en, kē ne-myōs dam
+\xv Kē et-bus te imam kōyō tita – kē ni-yon̄ vavaleh en, kē ne-myōs dam
 vēlēs van ēgnōn.
 \xe Il n'en a rien à faire de ses parents, il leur tient tête; il ne veut obéir qu'à sa femme.
 \lf Syn.
@@ -71388,7 +71417,7 @@ vēlēs van ēgnōn.
 \la na-yn̄o~
 \hm 2
 \ph najŋɔ
-\ps nop
+\ps n.poss
 \pdl 1s
 \pdv na-yn̄ē-k
 \pdl 3s
@@ -71435,12 +71464,12 @@ poisson.
 \xe une roue de voiture
 \rf
 \el Mota
-\et ran̄o|{_}i
+\et ran̄o-i
 \nt
 \nq
 \dc 06/Feb/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yon̄teg
 \ph jɔŋtɛɣ
@@ -71664,7 +71693,7 @@ pierres avec des feuilles
 \lf Syn.
 \lv m̄adeg
 \se
-\ps adp
+\ps adv
 \wr B
 \he cour
 \we porte sur le sujet ou sur l'objet
@@ -71681,14 +71710,13 @@ pierres avec des feuilles
 \nq
 \dc 16/Dec/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yot
 \la no-yot
 \ph nɔjɔt
 \a
-\pc toitChaumeNB.jpg
-\nt .G.c:\Alex\photoDico\toitChaumeNB.jpg;1.4";2.1";JPG
+\pc .G.c:\Alex\photoDico\toitChaumeNB.jpg;1.4";2.1";JPG
 \lg |fv{Tigitgiy no-yot}, installer le toit de chaume
 \ps n
 \gr natangora
@@ -71704,9 +71732,9 @@ pierres avec des feuilles
 \sd Bot
 \sy
 \bb Vienne (1982: 584)
-\et <°rau|{_}ota
+\et <°rau-ota
 \el Mota
-\et (no|{_})ota
+\et (no-)ota
 \el PNCV
 \et *ato
 \el POc
@@ -71856,7 +71884,7 @@ de la côte)
 \lf Ant.
 \lv hay
 \le vers l'intérieur des terres
-\nt (kal) bat hay alon # (kal) lô yow aslil ; yow le-lo [P5-76] ; vers la mer, l'extérieur des terres (#
+\nt (kal) bat hay alon – (kal) lô yow aslil ; yow le-lo [P5-76] ; vers la mer, l'extérieur des terres (–
 hay) ; yow Ayô ?? ; yow lenaw
 \nt
 \nq
@@ -71965,7 +71993,7 @@ piège à ‹qqch›, encercler
 \xe On prend un filet, et on le tend pour (attraper) le poisson.
 \rf
 \xv Yatkel mahē, ige yoyoweg goy nō-mōmō mi na-hay lililwo, a so gey hay en.
-\xe Parfois, il arrive qu'on encercle le poisson à l'aide d'une immense liane (vl:na-hay) # c'est la
+\xe Parfois, il arrive qu'on encercle le poisson à l'aide d'une immense liane (vl:na-hay) – c'est la
 pêche collective (|vl{gey-hay}).
 \lf
 \el Mota
@@ -72087,7 +72115,7 @@ pêche collective (|vl{gey-hay}).
 \lx yoyo~
 \la °na-yoyo~
 \ph najɔjɔ
-\ps nop
+\ps n.poss
 \gr nius
 \he ‡
 \1s na-yēyē-k
@@ -72107,18 +72135,18 @@ tes nouvelles].
 \xv Na-yoyo vōnō gōh kē kē ni-van tō ni-ga vel-vōnō ēgēn.
 \xe La renommée de notre île gagne déjà le monde entier.
 \ue Mrph
-\ee Forme possédée de fv:yoy|hm{2} ‘nouvelles’.
+\ee Forme possédée de fv:yoy2 ‘nouvelles’.
 \lf Cf.
-\lv ga|hm{2}
+\lv ga2
 \le (rumeur) se diffuser
 \el Mota
-\et roro|{_}i
+\et roro-i
 \eg sound travelling, report
 \nt
 \nq
 \dc 04/Aug/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yoyon̄
 \ph jɔjɔŋ
@@ -72133,11 +72161,11 @@ tes nouvelles].
 \xv Vētmahē no-yoyon̄. Tateh len̄e hohole.
 \xe L'endroit est silencieux: il n'y a aucun bruit.
 \ue Étym
-\ee Rédupli^cation de fv:yon̄|hm{1}.
+\ee Rédupli^cation de fv:yon̄1.
 \cf togyon̄
 \ce se taire
 \se
-\ps adp
+\ps adv
 \wr B
 \de en silence
 \rf
@@ -72159,7 +72187,7 @@ aussi fv:van ‘marcher’.
 \nq
 \dc 15/Sep/2002
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yoywē
 \la no-yoywē
@@ -72261,7 +72289,7 @@ fv:-mō-yō, etc.
 suffixe de ce type, fv:-yō s'attache soit aux lexèmes directe^ment possessibles (ex.
 fv:na-mtevu~), soit aux classificateurs possessifs (ex. fv:ga~)
 \rf
-\xv Kōyō ēthē-|ub{yō}.
+\xv Kōyō ēthē-|fr{yō}.
 \xe Ils sont frères.
 \xn
 \rm
@@ -72280,7 +72308,7 @@ fv:na-mtevu~), soit aux classificateurs possessifs (ex. fv:ga~)
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yōel
 \la nō-yōel
@@ -72357,7 +72385,7 @@ en aa, tō a yōs geh tō. Yōs geh tō nen, a qe so mal meyen̄.
 \lv hag
 \lv taq
 \se yōs tō
-\ps adv
+\ps loc
 \we + déictique
 \de en ce moment précis, dans cette situation; en l'occurrence
 \rf alx
@@ -72372,13 +72400,13 @@ en, so galeg na-tamn̄a.
 \xf Les nattes fines, on les fabrique en pandanus. Mais en l'occurrence, ce sont des feuilles de cocotier qu'elles ont
 choisies, pour tresser une grosse natte.
 \lf Cf.
-\lv tō|hm{2}
+\lv tō2
 \el
 \nt
 \nq
 \dc 19/Feb/2006
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yōs yoyon̄
 \ph jʊs jɔjɔŋ
@@ -72391,8 +72419,8 @@ choisies, pour tresser une grosse natte.
 \ur ax:spéc. groupe
 \de rester calme et silencieux, se taire; faire silence
 \rf
-\xv “Kimi yōs yoyon̄, nok so hohole mi kimi.” # tō kēy mō-yōs yoyon̄ qēt.
-\xe “Faites silence, je voudrais faire une déclaration.” # aussitôt tout le monde se tut.
+\xv “Kimi yōs yoyon̄, nok so hohole mi kimi.” – tō kēy mō-yōs yoyon̄ qēt.
+\xe “Faites silence, je voudrais faire une déclaration.” – aussitôt tout le monde se tut.
 \lf †
 \lv togyon̄
 \el
@@ -72427,13 +72455,13 @@ politique, congrès scientifique
 \rf AP9-44
 \xv Iyē geh ni-haghag hiy bō-yōstiwag nan?
 \xe Qui est-ce qui siège dans ce conseil (assemblée provinciale)?
-\mr yōs |fs{+} tiwag
+\mr yōs + tiwag
 \el
 \nt
 \nq
 \dc 19/Feb/2006
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yōtyōt
 \la nō-yōtyōt
@@ -72510,7 +72538,7 @@ jamais ouverte.
 \el
 \tl |{tab}|fb{Un symbole de paix} £|{tab}[|vl{nō-yōwismat}*]
 La feuille de bananier s'appelle vl:no-yova lorsqu'elle est grande, mais vl:nō-yōwismat lorsqu'elle vient à peine de pousser, et n'a pas encore éclos. Elle reçoit alors une valeur symbolique, celle de la Paix et de l'Harmonie sociale (|vl{na-tamtam}). Tel le rameau d'olivier des Grecs, le |vl{nō-yōwismat} était parfois brandi en signe de réconciliation ou de gage d'amitié, dans des contextes solennels. 
-Cette jeune feuille fait notamment partie des présents qu'un mécène doit offrir au poète (|vl{towtow eh}) lorsqu'il souhaite lui commander (|vl{ti}) un chant (fl:cf. |vl{he~}|hm{2}*). Plus tard, au moment d'inaugurer ce chant (fl:cf. |vl{se lō}*), le poète-chanteur rendra à son mécène une jeune feuille |vl{nō-yōwismat}, signe que l'échange rituel s'achève comme il a commencé, dans l'harmonie et la paix.
+Cette jeune feuille fait notamment partie des présents qu'un mécène doit offrir au poète (|vl{towtow eh}) lorsqu'il souhaite lui commander (|vl{ti}) un chant (fl:cf. vl:he~2). Plus tard, au moment d'inaugurer ce chant (fl:cf. |vl{se lō}*), le poète-chanteur rendra à son mécène une jeune feuille |vl{nō-yōwismat}, signe que l'échange rituel s'achève comme il a commencé, dans l'harmonie et la paix.
 |vl{Nō-yōwismat, nē-dēmdēm nan so : nok lep n-eh mino van hiy nēk en, mi na-tamtam, a no-wonwon, et-mahay hōn te.} ‘|fe{Le vl:yōwismat a une valeur symbolique: il signifie que je te confie mon chant dans un esprit de paix, une paix entière et intacte.}’
 \nt
 \nq
@@ -72558,7 +72586,7 @@ fv:na-mtevu~), soit aux classificateurs possessifs (ex. fv:ga~)
 \rn
 \dn blong trigeta
 \rf
-\xv Kēytēl ēthē|ub{ytēl}.
+\xv Kēytēl ēthē|fr{-ytēl}.
 \xe Ils sont frères.
 \xn
 \rm
@@ -72583,7 +72611,7 @@ fv:na-mtevu~), soit aux classificateurs possessifs (ex. fv:ga~)
 \nt
 \nq
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 02/Jul/2016
 
 \lx yum
 \la °na-yum

@@ -21,14 +21,14 @@
                 <feat att="languageCode" val="ISO-639-3"/>
                 <feat att="author" val="Alexandre FRANÇOIS, francois@vjf.cnrs.fr"/>
                 <feat att="version" val="0.1"/>
-                <feat att="lastUpdate" val="2016-04-05"/>
+                <feat att="lastUpdate" val="2016-07-02"/>
                 <feat att="license" val="GPL"/>
                 <feat att="characterEncoding" val="UTF-8"/>
                 <feat att="bibliographicCitation"
-                    val="Mwotlap online dictionary, Alexandre FRANÇOIS, francois@vjf.cnrs.fr, 2016-04-05"/>
+                    val="Alex François (2016). Mwotlap—English—French online dictionary. Paris: LACITO-CNRS. http://bit.ly/AF-Mtp-F-E."/>
                 <feat att="dateCoding" val="ISO-8601"/>
                 <feat att="creationDate" val="2011-04-01"/>
-                <feat att="projectName" val="LACITO-CNRS, France"/>
+                <feat att="projectName" val="LACITO-CNRS"/>
                 <feat att="description" val="Travail en cours — Work in progress"/>
             </GlobalInformation>
             <Lexicon id="mwotlap">
