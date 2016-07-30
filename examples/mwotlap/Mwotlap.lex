@@ -46722,7 +46722,7 @@ fl:or the village square fl:or the beach
 \el Mota
 \et sigo
 \eg kingfisher
-\nt <Br 12-4> n'existe pas dans le Nord.
+\nt ‹Br 12-4› n'existe pas dans le Nord.
 \nq
 \dc 31/Mar/2007
 \dt 28/Mar/2010
