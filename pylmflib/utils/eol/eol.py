@@ -8,6 +8,7 @@ from optparse import OptionParser
 parser = OptionParser()
 parser.add_option("-i", "--input", dest="input", action="store", help="input MDF file")
 parser.add_option("-o", "--output", dest="output", action="store", help="output MDF file")
+parser.add_option("-e", "--eol", dest="eol", action="store", help="end-of-line character")
 options = parser.parse_args()[0]
 
 # Open input and output files
@@ -27,13 +28,17 @@ else:
     # Windows-style end of line
     EOL = '\r\n'
 
+eol = EOL
+if options.eol == "windows":
+    eol = '\r\n'
+
 # Merge lines by deleting unwanted EOL
 lines = []
 for line in in_file.readlines():
     # Do not parse empty lines
-    if line != EOL and not line.startswith('\\'):
+    if line != eol and not line.startswith('\\'):
         previous_line = lines.pop()
-        line = previous_line.replace(EOL, " ") + line
+        line = previous_line.replace(eol, " ") + line
     lines.append(line)
 for line in lines:
     out_file.write(line)

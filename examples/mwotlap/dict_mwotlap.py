@@ -19,7 +19,7 @@ from setting import items
 lexical_resource = pylmflib.read_config(user_path + "config.xml")
 
 # Read MDF file and set lexicon identifier
-os.system("python " + user_path + "../../pylmflib/utils/eol/eol.py -i " + user_path + "Mwotlap.lex -o " + user_path + "result/Mwotlap-eol.lex")
+os.system("python " + user_path + "../../pylmflib/utils/eol/eol.py -i " + user_path + "Mwotlap.lex -o " + user_path + "result/Mwotlap-eol.lex -e windows")
 os.system("python " + user_path + "../../examples/mwotlap/se.py -i " + user_path + "result/Mwotlap-eol.lex -o " + user_path + "result/Mwotlap-eol-se.lex")
 lexical_resource = pylmflib.read_mdf(id="mwotlap")
 
