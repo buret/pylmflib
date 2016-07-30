@@ -2837,7 +2837,7 @@ come.
 \lt requin dormant / yeux-fermés
 \de Requin baleine
 \nt sorte de requin, de couleur rougeâtre
-\sc Rhini^odon typus |fs{(?)}
+\sc Rhini^odon typus
 \dn type of shark, of reddish colour
 \dr wan kaen sak, we i red
 
@@ -2935,7 +2935,7 @@ come.
 \nt
 \nq
 \dc 04/Apr/2007
-\dt 28/Mar/2010
+\dt 13/Jul/2016
 
 \lx bah
 \ph ᵐbah
@@ -31215,6 +31215,7 @@ fv:na-waw).
 \lx mayap
 \la na-mayap
 \ph namajap
+\pf mayap2.PCX
 \nt .G.c:\Alex\photoDico\mayap2.PCX;.88";.64";PCX
 \lg
 \a mayap
@@ -46721,7 +46722,7 @@ fl:or the village square fl:or the beach
 \el Mota
 \et sigo
 \eg kingfisher
-\nt ‹Br 12-4› n'existe pas dans le Nord.
+\nt <Br 12-4> n'existe pas dans le Nord.
 \nq
 \dc 31/Mar/2007
 \dt 28/Mar/2010
@@ -50267,18 +50268,19 @@ disperse, scatter
 \ge basculer
 \re
 \de basculer ‹récipient+› pour en déverser ou le remplir d'un liquide
-\dn tip up ‹recipient+› to pour out or fill with a liquid
+\dn tip up ‹container+› to pour out or fill with a liquid
 \rf AG5-120
 \sn 2
 \de donner ‹le sein, fv:ni-sis› à un enfant, allaiter
-\dn ‹breast fv:ni-sis› feed a child
+\dn feed ‹breast milk, fv:ni-sis› to a child
 \rf AP5-51
 \xv Tita ni-tamtam ni-sis van hiy tētē.
 \xe La mère donne le sein au bébé.
-\xn The mother breastfed her baby.
+\xn The mother is breastfeeding her baby.
 \lf Cf.
 \lv sis
 \le lait, sein; téter
+\ln milk, breast
 \nt
 \se tam luwyeg
 \ps vt
@@ -50286,12 +50288,13 @@ disperse, scatter
 \re
 \de renverser ‹liquide, sable› en faisant basculer son récipient (seau,
 brouette, tasse)
-\dn spill ‹liquid, sand› by tipping up its recipient (bucket, barrow, cup)
+\dn spill ‹liquid, sand› by tipping up its container (bucket, barrow, cup)
 \rf AG5-120
 \xv
 \nt
 \nq
 \dc 28/Aug/2009
+\dt 02/Jul/2016
 
 \lx tam
 \hm 2
@@ -50333,7 +50336,8 @@ fv:mōyōs)
 \he parf
 \de gratifier ‹qqn› d'un présent en gage d'affection, offrir qqch à
 ‹qqn›
-\dn gratify ‹s.o› with a present as a token of affection, offer s.th to ‹s.o›
+\hn rare
+\dn provide ‹s.o› with a present as a token of affection, present ‹s.o› (with s.th., fv:mi)
 \rf alx
 \xv Nēk ta-tam vēh qēlge mi na-tamge, itōk.
 \xe Ton beau-père, tu peux lui offrir une natte, si tu veux.
@@ -50346,6 +50350,7 @@ fv:mōyōs)
 \nq
 \dc 17/Sep/2002
 \dc 28/Aug/2009
+\dt 02/Jul/2016
 
 \lx t[a]malte
 \la na-tmalte
@@ -50423,7 +50428,7 @@ fl:gen. semi-humans
 \dn
 \rf
 \xv na-tmat non mayanag
-\xe le fantôme du chef.
+\xe le fantôme du chef
 \xn the chief's ghost
 \br ça c'est du bislama, sinon : the chief's ghost
 \ee Même s'il n'est pas toujours identifié comme tel, le fv:na-tmat est un revenant, i.e. le
@@ -50449,8 +50454,8 @@ for any supernatural being, doted with supra-human and fl:gen. evil powers
 \xn The tree |vl{n. w.} is dangerous: it is haunted by spirits.
 \rf AG3-119
 \xv Kē ni-qaqay soloteg, ni-qoyqoy veg na-tmat.
-\xe Il fait des cauchemars terribles, il rêve des démons. [fs:Cf. fv:nay]
-\xn He has terrible nightmares, he dreams of devils. [fs:Cf. fv:nay]
+\xe Il fait des cauchemars terribles, il rêve des démons.
+\xn He has terrible nightmares, he dreams of devils.
 \rf
 \rm
 \xm Nēk na-tmat ! |{endash} Tog galgal, ino n-et.
@@ -50476,9 +50481,8 @@ eux-mêmes s'en servent comme d'une insulte entre eux.
 \xn Satan wanted to kill God in order to become master of the world.
 \sn 5
 \he
-\de chacun des grades hiérarchiques dans la société secrète
-(fv:halgoy), grade désigné métonymiquement par le nom de
-l'Esprit auquel il est associé
+\de chacun des grades hiérarchiques dans la société secrète (fv:halgoy), grade désigné métonymiquement
+par le nom de l'Esprit auquel il est associé
 \dn each of the grades of the secret society's hierarchy (fv:halgoy), grade named
 metonymically after the name of the Spirit to which it is associated
 \sd Ethn
@@ -50486,7 +50490,7 @@ metonymically after the name of the Spirit to which it is associated
 \xv Nēk mu-wuh no-qo van le-tmat nonon imam nōnōm, a le-hye vēp en.
 \xe Tu as sacrifié un porcin ‘devant l'Esprit’ (|ax{i.e.} pour accéder au grade) de ton
 père, dans le domaine de vl:n-Ēvēp.
-\xn You sacrified a piglet 'before the Spirit' (|ax{i.e.} to reach the grade) of your father, ...
+\xn You sacrificed a piglet 'before the Spirit' (|ax{i.e.} to reach the grade) of your father, ...
 \br comprends pas : dans le domaine de vl:n-Ēvēp.
 \ue
 \ee Ces grades ont pour noms: fv:n-Ēvēp, fv:no-Togtil, fv:ni-Wis, fv:Bemtow,
@@ -50541,7 +50545,7 @@ dancing  (fv:no-kolkol)
 \nq
 \dc 1999
 \dc 26/Jul/2007
-\dt 11/Sep/2011
+\dt 02/Jul/2016
 
 \lx t[a]mat-tēq
 \la na-tmat-tēq
