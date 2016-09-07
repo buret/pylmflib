@@ -20,16 +20,24 @@ class TestXmlLmfFunctions(unittest.TestCase):
         self.assertEqual(compute_name("LexicalEntry"), "lexical_entry")
 
     def test_factory(self):
+        # Save path to restore it at the end of the function
+        path = sys.path[0]
+        # Set path for the test
         sys.path[0] = sys.path[0] + "/../examples/test"
         entry = factory('LexicalEntry', {'partOfSpeech': 'n'})
         self.assertEqual(entry.__class__.__name__, 'LexicalEntry')
         self.assertEqual(entry.partOfSpeech, 'n')
+        # Restore path
+        sys.path[0] = path
 
     def test_xml_lmf_read(self):
         import sys, os
+        # Save path to restore it at the end of the function
+        path = sys.path[0]
+        # Set path for the test
+        sys.path[0] = sys.path[0] + "/../examples/test"
         # Create an input XML LMF file
-        utest_path = sys.path[0] + '/'
-        xml_lmf_filename = utest_path + "lmf_input.xml"
+        xml_lmf_filename = sys.path[0] + "/lmf_input.xml"
         xml_lmf_file = open(xml_lmf_filename, "w+")
         xml_lmf_file.write("""<LexicalEntry><Lemma><feat att="lexeme" val="hello"/></Lemma><feat att="partOfSpeech" val="toto"/><feat att="status" val="draft"/></LexicalEntry>""")
         xml_lmf_file.close()
@@ -41,8 +49,14 @@ class TestXmlLmfFunctions(unittest.TestCase):
         del entry
         # Remove XML LMF file
         os.remove(xml_lmf_filename)
+        # Restore path
+        sys.path[0] = path
 
     def test_get_sub_elements(self):
+        # Save path to restore it at the end of the function
+        path = sys.path[0]
+        # Set path for the test
+        sys.path[0] = sys.path[0] + "/../examples/test"
         # Declare instance and prepare XML element with its sub-elements
         instance = LexicalEntry()
         element = Element("LexicalEntry")
@@ -56,6 +70,8 @@ class TestXmlLmfFunctions(unittest.TestCase):
         self.assertEqual(instance.get_partOfSpeech(), "toto")
         self.assertEqual(instance.get_status(), "draft")
         del instance, element, lemma
+        # Restore path
+        sys.path[0] = path
 
 suite = unittest.TestLoader().loadTestsFromTestCase(TestXmlLmfFunctions)
 
