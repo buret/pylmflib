@@ -353,7 +353,7 @@ class TestTexFunctions(unittest.TestCase):
         entry.set_morphology("morph")
         entry.create_and_add_related_form("see", mdf_semanticRelation["cf"])
         expected = "\\textit{Syn:} \\textbf{\ipa{syn}}. \\textit{Ant:} \\textbf{\ipa{ant}}. \\textit{Morph:} \\textbf{\ipa{morph}}. \\textit{See:} \\textbf{\ipa{see}} "
-        self.assertEqual(format_related_forms(entry, font), expected)
+        self.assertEqual(format_related_forms(entry, font, language="eng"), expected)
         del entry
 
     def test_format_variant_forms(self):
