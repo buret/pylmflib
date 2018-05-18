@@ -269,7 +269,8 @@ order = [
     [
         ("grammaire_quantificateur", "10.1. Quantificateurs"),
         ("grammaire_quantificateur_degré", "10.2. Marques de degré"),
-        ("grammaire_distributif", "10.3. Distributifs")
+        ("grammaire_distributif", "10.3. Distributifs"),
+        ("grammaire_dispersif", "10.4. Dispersifs")
     ],
     ("TITLE 1", "11. Eléments grammaticaux"),
     [
@@ -312,6 +313,9 @@ order = [
         ("grammaire_pronom", "11.27. Pronoms"),
         ("grammaire_pronom_négatif", "11.28. Pronom négatif"),
         ("grammaire_réciproque", "11.29. Réciproque"),
+        [
+         ("grammaire_réciproque_collectif", "11.29.1. Réciproque collectif")
+        ],
         ("TITLE 2", "11.30. Réfléchi, intensificateur"),
         [
             ("grammaire_réfléchi", "11.30.1. Réfléchi"),
