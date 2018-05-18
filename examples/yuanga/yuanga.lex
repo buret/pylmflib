@@ -21501,7 +21501,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \dt 25/Jan/2018
 
 \lx kônõ-da
-\is positio
+\is position
 \et *qenop 
 \eg
 \el POc
@@ -36022,7 +36022,7 @@ naissance de l'enfant
 \dt 26/Jan/2018
 
 \lx pe-kueli
-\is sentiment
+\is sentiments
 \is grammaire_réciproque 
 \dialx GOs
 \ps v
@@ -43273,7 +43273,7 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem >
 \dt 27/Jan/2018
 
 \lx phwè-
-\is classificateur_sémantique
+\is classificateur sémantique
 \dialx GOs
 \ps n 
 \ge trou de (en composition)
