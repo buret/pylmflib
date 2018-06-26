@@ -35208,8 +35208,8 @@ naissance de l'enfant
 \xn combien y en a-t-il en tout?
 \xv pe-ponimadu [PA, GO]
 \xn il y en a 7 en tout (Dubois)
-\se pepe
-\sge tous ensemble (Dubois)
+\xv pepe
+\xn tous ensemble (Dubois)
 \sn 3
 \is grammaire_dispersif
 \ge dispersif ; sans but ; comme ça (ou activité non bornée)
